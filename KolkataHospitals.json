@@ -1,0 +1,12 @@
+{
+"app":"Kolkata Hospitals",
+"hospitals":[{
+	"name":"Nightingale Hospital",
+	"code":"Nightangle",
+	"sortAddress":"Shakespeare Sarani"
+	},{
+	"name":"Sri Aurobindo Seva Kendra (EDF)",
+	"code":"EDF",
+	"sortAddress":"Jodhpur Park"
+	}]
+}
