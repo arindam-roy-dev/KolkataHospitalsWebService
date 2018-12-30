@@ -3,10 +3,10 @@
 "hospitals":[{
 	"name":"Nightingale Hospital",
 	"code":"Nightangle",
-	"shortAddress":"Shakespeare Sarani"
+	"address":"11 Shakespeare Sarani, Kolkata-700 071"
 	},{
 	"name":"Sri Aurobindo Seva Kendra (EDF)",
 	"code":"EDF",
-	"shortAddress":"Jodhpur Park"
+	"address":"1H, Gariahat Road (S), Jodhpur Park, Kolkata - 700068"
 	}]
 }
