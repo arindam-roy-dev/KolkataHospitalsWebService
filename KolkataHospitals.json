@@ -3,10 +3,10 @@
 "hospitals":[{
 	"name":"Nightingale Hospital",
 	"code":"Nightangle",
-	"sortAddress":"Shakespeare Sarani"
+	"shortAddress":"Shakespeare Sarani"
 	},{
 	"name":"Sri Aurobindo Seva Kendra (EDF)",
 	"code":"EDF",
-	"sortAddress":"Jodhpur Park"
+	"shortAddress":"Jodhpur Park"
 	}]
 }
