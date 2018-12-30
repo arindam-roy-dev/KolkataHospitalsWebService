@@ -3,10 +3,46 @@
 "hospitals":[{
 	"name":"Nightingale Hospital",
 	"code":"Nightangle",
-	"address":"11 Shakespeare Sarani, Kolkata-700 071"
+	"address":"11 Shakespeare Sarani, Kolkata 700071"
 	},{
 	"name":"Sri Aurobindo Seva Kendra (EDF)",
-	"code":"EDF",
-	"address":"1H, Gariahat Road (S), Jodhpur Park, Kolkata - 700068"
+	"code":"SriAurobindo",
+	"address":"1H, Gariahat Road (S), Jodhpur Park, Kolkata 700068"
+	},{
+	"name":"Ruby General Hospital",
+	"code":"RubyGeneral",
+	"address":"Kasba Golpark, E. M. Bypass Kolkata, Kolkata 700107"
+	},{
+	"name":"Peerless Hospital",
+	"code":"Peerless",
+	"address":"360 Panchasayar, Kolkata 700094, West Bengal, India"
+	},{
+	"name":"Rabindranath Tagore International Institute of Cardiac Sciences",
+	"code":"RabindranathTagoreCardiacSciences",
+	"address":"124, Eastern Metropolitan Bypass, Premises No: 1489, Mukundapur, Kolkata, West Bengal 700099"
+	},{
+	"name":"Medica Superspecialty Hospital",
+	"code":"Medica",
+	"address":"127 Mukundapur, E.M. Bypass, Kolkata 700099"
+	},{
+	"name":"AMRI Hospitals - Mukundapur",
+	"code":"AMRIMukundapur",
+	"address":"230 Barakhola Lane, Purba Jadavpur, Kolkata 700099"
+	},{
+	"name":"AMRI Hospitals - Dhakuria",
+	"code":"AMRIDhakuria",
+	"address":"P-4&5, Gariahat Road Block-A, Scheme-L11, Dhakuria, Kolkata 700029"
+	},{
+	"name":"AMRI Hospitals - Saltlake",
+	"code":"AMRISaltlake",
+	"address":"JC - 16 & 17, Salt Lake City, Block-A, Scheme-L11, Salt Lake City"
+	},{
+	"name":"DESUN Hospital And Heart Institute",
+	"code":"Desun",
+	"address":"Desun More, Kasba Golpark, EM Bypass, Kolkata 700107"
+	},{
+	"name":"Fortis Hospital",
+	"code":"FortisAnandapur",
+	"address":"730, EM Bypass, Anandapur, East Kolkata Township, Kolkata, West Bengal 700107"
 	}]
 }
