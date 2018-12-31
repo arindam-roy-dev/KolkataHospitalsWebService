@@ -1,0 +1,42 @@
+{
+"name":"Ruby General Hospital",
+"code":"RubyGeneral",
+"address":"Kasba Golpark, E. M. Bypass Kolkata, Kolkata 700107",
+"emails":"ruby@rubyhospital.com",
+"websites":"www.rubyhospital.com",
+"contactTypes":[{
+	"name":"OPD (8am - 8pm)",
+	"phoneNumbers":"9163964444",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"9830172543,9748932100"
+	},{
+	"name":"Emergency Admission",
+	"phoneNumbers":"9831179175"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"9748932100,9831179175"
+	},{
+	"name":"Bed Booking",
+	"phoneNumbers":"9831179175"
+	},{
+	"name":"Insurance Help Desk",
+	"phoneNumbers":"9830172543"
+	},{
+	"name":"Corporate Help Desk",
+	"phoneNumbers":"03339871800"
+	},{
+	"name":"Health Check Up",
+	"phoneNumbers":"8335804444"
+	},{
+	"name":"Heart Bypass Surgery(CABG)",
+	"phoneNumbers":"9830457444"
+	},{
+	"name":"Get a quote for operation",
+	"phoneNumbers":"9831189280"
+	},{
+	"name":"Nursing School",
+	"phoneNumbers":"9831043334,03323452757"
+	}]
+}
