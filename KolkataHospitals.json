@@ -2,36 +2,36 @@
 "app":"Kolkata Hospitals",
 "hospitals":[{
 	"name":"Nightingale Hospital",
-	"code":"Nightangle",
+	"code":"Nightangle"
 	},{
 	"name":"Sri Aurobindo Seva Kendra (EDF)",
-	"code":"SriAurobindo",
+	"code":"SriAurobindo"
 	},{
 	"name":"Ruby General Hospital",
-	"code":"RubyGeneral",
+	"code":"RubyGeneral"
 	},{
 	"name":"Peerless Hospital",
-	"code":"Peerless",
+	"code":"Peerless"
 	},{
 	"name":"Rabindranath Tagore International Institute of Cardiac Sciences",
-	"code":"RabindranathTagoreCardiacSciences",
+	"code":"RabindranathTagoreCardiacSciences"
 	},{
 	"name":"Medica Superspecialty Hospital",
-	"code":"Medica",
+	"code":"Medica"
 	},{
 	"name":"AMRI Hospitals - Mukundapur",
-	"code":"AMRIMukundapur",
+	"code":"AMRIMukundapur"
 	},{
 	"name":"AMRI Hospitals - Dhakuria",
-	"code":"AMRIDhakuria",
+	"code":"AMRIDhakuria"
 	},{
 	"name":"AMRI Hospitals - Saltlake",
-	"code":"AMRISaltlake",
+	"code":"AMRISaltlake"
 	},{
 	"name":"DESUN Hospital And Heart Institute",
-	"code":"Desun",
+	"code":"Desun"
 	},{
 	"name":"Fortis Hospital",
-	"code":"FortisAnandapur",
+	"code":"FortisAnandapur"
 	}]
 }
