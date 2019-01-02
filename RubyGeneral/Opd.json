@@ -1,0 +1,16 @@
+{
+"name":"Ruby General Hospital",
+"code":"RubyGeneral",
+"specialties":[{
+	"name":"Cardio Vascular and Thoracic Surgery",
+	"schedules":[{
+		"doctor":"Siddhartha Sarangi",
+		"degree":"MS(Gen. Surg), MCH(CTVS)",
+		"mon":"2 to 3 pm", "wed":"2 to 3 pm", "thu":"2 to 3 pm"
+		},{
+		"doctor":"Sankhadip Pramanik",
+		"degree":"MBBS(Cal), MS(Cal), MCH(CTVS)",
+		"mon":"3 to 5 pm Spl. Clinic", "tue":"3 to 5 pm Spl. Clinic", "wed":"3 to 5 pm Spl. Clinic", "thu":"3 to 5 pm Spl. Clinic", "fri":"3 to 5 pm Spl. Clinic", "sat":"3 to 5 pm Spl. Clinic"
+		}]
+	}]
+}
