@@ -4,7 +4,7 @@
 "address":"Kasba Golpark, E. M. Bypass Kolkata, Kolkata 700107",
 "emails":"ruby@rubyhospital.com",
 "websites":"www.rubyhospital.com",
-"hasOpd":true
+"hasOpd":true,
 "contactTypes":[{
 	"name":"OPD (8am - 8pm)",
 	"phoneNumbers":"9163964444",
