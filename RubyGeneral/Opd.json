@@ -6,38 +6,38 @@
 	"schedules":[{
 		"doctor":"Siddhartha Sarangi",
 		"degree":"MS(Gen. Surg), MCH(CTVS)",
-		"mon":"2 to 3 pm", "wed":"2 to 3 pm", "thu":"2 to 3 pm"
+		"schedule":"Mon, Wed, Thu: 2pm-3pm"
 		},{
 		"doctor":"Sankhadip Pramanik",
 		"degree":"MBBS(Cal), MS(Cal), MCH(CTVS)",
-		"mon":"3 to 5 pm Spl. Clinic", "tue":"3 to 5 pm Spl. Clinic", "wed":"3 to 5 pm Spl. Clinic", "thu":"3 to 5 pm Spl. Clinic", "fri":"3 to 5 pm Spl. Clinic", "sat":"3 to 5 pm Spl. Clinic"
+		"schedule":"Mon-Sat: 3pm-5pm, Special Clinic"
 		}]
 	},{
 	"name":"Chest Medicine",
 	"schedules":[{
 		"doctor":"Buddhadeb Dasgupta",
 		"degree":"MD(Chest),MBBS(Cal)",
-		"mon":"Spl. Clinic 11am to 1pm"
+		"schedule":"Mon: 11am-1pm, Special Clinic"
 		},{
 		"doctor":"Anirban Deb",
 		"degree":"MD, FCCP, EDRM, European Diplomat of Resp. Medicine Consultant & Interventional Pulomonologist & Sleep Physician",
-		"mon":"12.30am to 4.30pm", "tue":"12.30am to 4.30pm", "wed":"12.30am to 4.30pm", "thu":"12.30am to 4.30pm", "fri":"12.30am to 4.30pm", "sat":"12.30am to 4.30pm"
+		"schedule":"Mon-Sat: 12.30am-4.30pm"
 		},{
 		"doctor":"Arnab Saha",
 		"degree":"MD, MNCCP",
-		"tue":"By Appt.", "thu":"By Appt."
+		"schedule":"Tue, Thu: By Appointment"
 		},{
 		"doctor":"Nandini Banerjee",
 		"degree":"MBBS, MD, MRCP, FRCP",
-		"tue":"Spl Clinic 2 to 4pm", "thu":"Spl Clinic 2 to 4pm"
+		"schedule":"Tue, Thu: 2pm-4pm, Special Clinic"
 		},{
 		"doctor":"Ranjit Halder",
 		"degree":"DCA, MD (Resp. Med)",
-		"thu":"5 to 7 pm", "sun":"3 to 4 pm"
+		"schedule":"Thu: 5pm-7pm<nl>Sun: 3pm-4pm"
 		},{
 		"doctor":"Arindam Mukherjee",
 		"degree":"MBBS, MD, DNB (Gen Med), DM (Pulmonary & Critical Care Medicine)",
-		"mon":"Spl. Clinic 2 pm to 4 pm", "tue":"Spl. Clinic 2 pm to 4 pm", "wed":"Spl. Clinic 2 pm to 4 pm", "thu":"Spl. Clinic 2 pm to 4 pm", "fri":"Spl. Clinic 2 pm to 4 pm", "sat":"Spl. Clinic 2 pm to 4 pm"
+		"schedule":"Mon-Sat: 2pm-4pm, Special Clinic"
 		}]
 	}]
 }
