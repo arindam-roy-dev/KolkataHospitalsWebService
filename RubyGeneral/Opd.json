@@ -2,6 +2,81 @@
 "name":"Ruby General Hospital",
 "code":"RubyGeneral",
 "specialties":[{
+	"name":"Cardiology",
+	"schedules":[{
+		"doctor":"R. Srivastav",
+		"degree":"MD, Dip(Card)",
+		"schedule":"Mon, Wed, Thu, Sat: 7pm-8pm, Special Clinic"
+		},{
+		"doctor":"P. K. Jha",
+		"degree":"MD(Med), MRCP",
+		"schedule":"Tue-Sat: By Appointment"
+		},{
+		"doctor":"Saroj Soni",
+		"degree":"MBBS, DCM(Cal), MD (Gen Med)",
+		"schedule":"Thu: 10am-11am"
+		},{
+		"doctor":"Ranjan Kr. Sharma",
+		"degree":"MD, (PGI), DNB(Gen.Med), DM(Cardiology)(Cal)",
+		"schedule":"Mon: By Appointment"
+		},{
+		"doctor":"K. N. Siddiqui",
+		"degree":"MD(Cardiology), FACC (USA)",
+		"schedule":"Mon, Wed, Fri: 8.30am-10am"
+		},{
+		"doctor":"K.K. Mitra",
+		"degree":"MBBS, DIP(Card), MD(Medicine), DM(Cardio)",
+		"schedule":"Fri: 4pm-5pm"
+		},{
+		"doctor":"S. B. Bhattacharya",
+		"degree":"MD(Med),DM(Cardio), Consultant Interventional Cardiologist",
+		"schedule":"Mon, Wed, Sat: 10am-11am, Special Clinic"
+		},{
+		"doctor":"Arup Dasbiswas",
+		"degree":"MBBS(CU), MD(Gen Med), DM(Card)",
+		"schedule":"Wed: By Appointment"
+		},{
+		"doctor":"Raja Ray",
+		"degree":"DIP(Card), MD, MRCP(UK), FRCP(Edin)",
+		"schedule":"Wed: By Appointment"
+		},{
+		"doctor":"Sauvik Kanjilal",
+		"degree":"MD(Medicine), DM(Cardiology)",
+		"schedule":"Thu: By Appointment"
+		},{
+		"doctor":"Sumit Acharyya",
+		"degree":"MD, MRCP(Ire), MRCP(UK), MRCP(Glasgow)",
+		"schedule":"Tue, Fri: By Appointment"
+		},{
+		"doctor":"Tanmoy Majee",
+		"degree":"MBBS, MD, DM (Cardiology)",
+		"schedule":"Mon-Sat: 11am-1pm"
+		},{
+		"doctor":"Indrajit Mondal",
+		"degree":"MBBS, DCH, MD(Paed), DM (Card)",
+		"schedule":"Wed: 4pm-5pm, By Appointment"
+		},{
+		"doctor":"Anjan Dasgupta",
+		"degree":"MBBS(Cal), Dip. Card",
+		"schedule":"Wed: 3pm-4pm"
+		},{
+		"doctor":"B. R. Nath",
+		"degree":"MD, MACC (USA)",
+		"schedule":"Mon-Sat: 3pm-5pm"
+		},{
+		"doctor":"Kalyan Das",
+		"degree":"MBBS, PGDCC",
+		"schedule":"Mon, Tue, Wed, Fri, Sat: 1pm-3pm"
+		},{
+		"doctor":"Sunip Banerjee",
+		"degree":"MBBS, MD (MED), DM (Cardio), FSCAI (USA)",
+		"schedule":"Mon-Sat: By Appointment"
+		},{
+		"doctor":"Saujatya Chakraborty",
+		"degree":"MBBS, ND(Medicine), (PGI Chandigarh), DM (Cardiology) (PGI Chandigarh)",
+		"schedule":"Mon, Tue, Wed, Thu, Sat: 10am-1pm, Special Clinic"
+		}]
+	},{
 	"name":"Cardio Vascular and Thoracic Surgery",
 	"schedules":[{
 		"doctor":"Siddhartha Sarangi",
