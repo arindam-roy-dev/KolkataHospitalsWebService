@@ -8,5 +8,20 @@
 		"degree":"MBBS, P.G. Certificate in Acupuncture (China)",
 		"schedule":"Mon, Wed, Fri: 1pm"
 		}]
+	},{
+	"name":"Audiometry and Tympanometry",
+	"schedules":[{
+		"doctor":"Anupam Biswas",
+		"degree":"MS",
+		"schedule":"Thu: 10.30am<nl>Sat:10am"
+		},{
+		"doctor":"Rajanikant Pradhan",
+		"degree":"BSC(HLS),(HEARING,LANGUAGE&SPEECH)",
+		"schedule":"Thu, Fri: 5pm"
+		},{
+		"doctor":"Sovon Dhara",
+		"degree":"BASLP,MASLP",
+		"schedule":"Mon, Tue, Wed, Sat: 5pm"
+		}]
 	}]
 }
