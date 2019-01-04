@@ -1,118 +1,150 @@
 {
 "name":"Ruby General Hospital",
-"code":"RubyGeneral",
-"specialties":[{
-	"name":"Cardiology",
-	"schedules":[{
-		"doctor":"R. Srivastav",
-		"degree":"MD, Dip(Card)",
-		"schedule":"Mon, Wed, Thu, Sat: 7pm-8pm, Special Clinic"
-		},{
-		"doctor":"P. K. Jha",
-		"degree":"MD(Med), MRCP",
-		"schedule":"Tue-Sat: By Appointment"
-		},{
-		"doctor":"Saroj Soni",
-		"degree":"MBBS, DCM(Cal), MD (Gen Med)",
-		"schedule":"Thu: 10am-11am"
-		},{
-		"doctor":"Ranjan Kr. Sharma",
-		"degree":"MD, (PGI), DNB(Gen.Med), DM(Cardiology)(Cal)",
-		"schedule":"Mon: By Appointment"
-		},{
-		"doctor":"K. N. Siddiqui",
-		"degree":"MD(Cardiology), FACC (USA)",
-		"schedule":"Mon, Wed, Fri: 8.30am-10am"
-		},{
-		"doctor":"K.K. Mitra",
-		"degree":"MBBS, DIP(Card), MD(Medicine), DM(Cardio)",
-		"schedule":"Fri: 4pm-5pm"
-		},{
-		"doctor":"S. B. Bhattacharya",
-		"degree":"MD(Med),DM(Cardio), Consultant Interventional Cardiologist",
-		"schedule":"Mon, Wed, Sat: 10am-11am, Special Clinic"
-		},{
-		"doctor":"Arup Dasbiswas",
-		"degree":"MBBS(CU), MD(Gen Med), DM(Card)",
-		"schedule":"Wed: By Appointment"
-		},{
-		"doctor":"Raja Ray",
-		"degree":"DIP(Card), MD, MRCP(UK), FRCP(Edin)",
-		"schedule":"Wed: By Appointment"
-		},{
-		"doctor":"Sauvik Kanjilal",
-		"degree":"MD(Medicine), DM(Cardiology)",
-		"schedule":"Thu: By Appointment"
-		},{
-		"doctor":"Sumit Acharyya",
-		"degree":"MD, MRCP(Ire), MRCP(UK), MRCP(Glasgow)",
-		"schedule":"Tue, Fri: By Appointment"
-		},{
-		"doctor":"Tanmoy Majee",
-		"degree":"MBBS, MD, DM (Cardiology)",
-		"schedule":"Mon-Sat: 11am-1pm"
-		},{
-		"doctor":"Indrajit Mondal",
-		"degree":"MBBS, DCH, MD(Paed), DM (Card)",
-		"schedule":"Wed: 4pm-5pm, By Appointment"
-		},{
-		"doctor":"Anjan Dasgupta",
-		"degree":"MBBS(Cal), Dip. Card",
-		"schedule":"Wed: 3pm-4pm"
-		},{
-		"doctor":"B. R. Nath",
-		"degree":"MD, MACC (USA)",
-		"schedule":"Mon-Sat: 3pm-5pm"
-		},{
-		"doctor":"Kalyan Das",
-		"degree":"MBBS, PGDCC",
-		"schedule":"Mon, Tue, Wed, Fri, Sat: 1pm-3pm"
-		},{
-		"doctor":"Sunip Banerjee",
-		"degree":"MBBS, MD (MED), DM (Cardio), FSCAI (USA)",
-		"schedule":"Mon-Sat: By Appointment"
-		},{
-		"doctor":"Saujatya Chakraborty",
-		"degree":"MBBS, ND(Medicine), (PGI Chandigarh), DM (Cardiology) (PGI Chandigarh)",
-		"schedule":"Mon, Tue, Wed, Thu, Sat: 10am-1pm, Special Clinic"
-		}]
-	},{
-	"name":"Cardio Vascular and Thoracic Surgery",
-	"schedules":[{
+"specialties":[
+	{
+	"name":"Cardio Vascular",
+	"schedules":[
+		{
 		"doctor":"Siddhartha Sarangi",
-		"degree":"MS(Gen. Surg), MCH(CTVS)",
-		"schedule":"Mon, Wed, Thu: 2pm-3pm"
-		},{
+		"degree":"MS(Gen. Surg), MCH (CTVS)",
+		"schedule":"Mon, Wed, Thu: 2 to 3 pm"
+		},
+		{
 		"doctor":"Sankhadip Pramanik",
 		"degree":"MBBS(Cal), MS(Cal), MCH(CTVS)",
-		"schedule":"Mon-Sat: 3pm-5pm, Special Clinic"
-		}]
-	},{
+		"schedule":"Mon to Sat: 3 to 5 pm Spl. Clinic"
+		}
+		]
+	},
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"R. Srivastav",
+		"degree":"MD, Dip(Card)",
+		"schedule":"Mon, Wed: Spl. Clinic 7 to 8 pm\nThu: 12- 2pm\nSat: Spl. Clinic 12 to 2 pm"
+		},
+		{
+		"doctor":"P. K. Jha",
+		"degree":"MD(Med), MRCP",
+		"schedule":"Tue to Sat: By Appt"
+		},
+		{
+		"doctor":"Saroj Soni",
+		"degree":"MBBS, DCM(Cal), MD (Gen Med)",
+		"schedule":"Thu: 10am to 11am "
+		},
+		{
+		"doctor":"Ranjan Kr. Sharma",
+		"degree":"MD, (PGI), DNB(Gen.Med), DM(Cardiology)(Cal)",
+		"schedule":"Mon: By Appt"
+		},
+		{
+		"doctor":"K. N. Siddiqui",
+		"degree":"MD(Cardiology), FACC (USA)",
+		"schedule":"Mon, Wed, Fri: 8.30am to 10am"
+		},
+		{
+		"doctor":"K.K. Mitra",
+		"degree":"MBBS, DIP(Card), MD(Medicine), DM(Cardio) ",
+		"schedule":"Fri: 4pm to 5pm"
+		},
+		{
+		"doctor":"S. B. Bhattacharya ",
+		"degree":"MD(Med),DM(Cardio), Consultant Interventional Cardiologist",
+		"schedule":"Mon, Wed, Sat: Spl. Clinic 10 to 11am"
+		},
+		{
+		"doctor":"Arup Dasbiswas",
+		"degree":"MBBS(CU), MD(Gen Med), DM(Card)",
+		"schedule":"Wed: By Appt."
+		},
+		{
+		"doctor":"Raja Ray",
+		"degree":"DIP(Card), MD, MRCP(UK), FRCP(Edin)",
+		"schedule":"Wed: By Appt."
+		},
+		{
+		"doctor":"Sauvik Kanjilal",
+		"degree":"MD(Medicine), DM(Cardiology)",
+		"schedule":"Thu: By Appt."
+		},
+		{
+		"doctor":"Sumit Acharyya",
+		"degree":"MD, MRCP(Ire), MRCP(UK), MRCP(Glasgow)",
+		"schedule":"Tue, Fri: By Appt."
+		},
+		{
+		"doctor":"Tanmoy Majee",
+		"degree":"MBBS, MD, DM (Cardiology)",
+		"schedule":"Mon to Sat: 11am to 1pm"
+		},
+		{
+		"doctor":"Indrajit Mondal",
+		"degree":"MBBS, DCH, MD(Paed), DM (Card)",
+		"schedule":"Wed: By Appt. 4pm to 5pm"
+		},
+		{
+		"doctor":"Anjan Dasgupta",
+		"degree":"MBBS(Cal), Dip. Card",
+		"schedule":"Wed, Sat: 3pm to 4pm"
+		},
+		{
+		"doctor":"B. R. Nath",
+		"degree":"MD, MACC (USA)",
+		"schedule":"Mon to Sat: 3 to 5pm"
+		},
+		{
+		"doctor":"Kalyan Das",
+		"degree":"MBBS, PGDCC",
+		"schedule":"Mon, Tue, Wed, Fri, Sat: 1 to 3pm"
+		},
+		{
+		"doctor":"Sunip Banerjee",
+		"degree":"MBBS, MD (MED), DM (Cardio), FSCAI (USA)",
+		"schedule":"Mon to Sat: By Appt"
+		},
+		{
+		"doctor":"Saujatya Chakraborty",
+		"degree":"MBBS, ND(Medicine), (PGI Chandigarh), DM (Cardiology) (PGI Chandigarh)",
+		"schedule":"Mon, Tue, Wed, Thu, Sat: 10am to 1pm Spl. Clinic"
+		}
+		]
+	},
+	{
 	"name":"Chest Medicine",
-	"schedules":[{
+	"schedules":[
+		{
 		"doctor":"Buddhadeb Dasgupta",
 		"degree":"MD(Chest),MBBS(Cal)",
-		"schedule":"Mon: 11am-1pm, Special Clinic"
-		},{
+		"schedule":"Mon: Spl. Clinic 11am to 1pm"
+		},
+		{
 		"doctor":"Anirban Deb",
 		"degree":"MD, FCCP, EDRM, European Diplomat of Resp. Medicine Consultant & Interventional Pulomonologist & Sleep Physician",
-		"schedule":"Mon-Sat: 12.30am-4.30pm"
-		},{
+		"schedule":"Mon to Sat: 12.30am to 4.30pm"
+		},
+		{
 		"doctor":"Arnab Saha",
 		"degree":"MD, MNCCP",
-		"schedule":"Tue, Thu: By Appointment"
-		},{
+		"schedule":"Tue, Thu: By Appt."
+		},
+		{
 		"doctor":"Nandini Banerjee",
 		"degree":"MBBS, MD, MRCP, FRCP",
-		"schedule":"Tue, Thu: 2pm-4pm, Special Clinic"
-		},{
+		"schedule":"Tue, Thu: Spl Clinic 2 to 4pm"
+		},
+		{
 		"doctor":"Ranjit Halder",
 		"degree":"DCA, MD (Resp. Med)",
-		"schedule":"Thu: 5pm-7pm<nl>Sun: 3pm-4pm"
-		},{
+		"schedule":"Thu: 5 to 7 pm\nSun: 3 to 4 pm"
+		},
+		{
 		"doctor":"Arindam Mukherjee",
 		"degree":"MBBS, MD, DNB (Gen Med), DM (Pulmonary & Critical Care Medicine)",
-		"schedule":"Mon-Sat: 2pm-4pm, Special Clinic"
-		}]
-	}]
+		"schedule":"Mon to Sat: Spl. Clinic 2 pm to 4 pm"
+		}
+		]
+	}
+	]
 }
