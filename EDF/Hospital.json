@@ -1,0 +1,28 @@
+{
+"name":"Sri Aurobindo Seva Kendra (EDF)",
+"code":"EDF",
+"address":"1H, Gariahat Road (S), Jodhpur Park, Kolkata 700068",
+"emails":"saskinformation@in.dclgroup.com",
+"websites":"www.eedf.in",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"OPD Information",
+	"phoneNumbers":"03340171526,03340171520",
+	"isOpd":true
+	},{
+	"name":"OPD Help Desk",
+	"phoneNumbers":"03340171522"
+	},{
+	"name":"IPD Information",
+	"phoneNumbers":"03340171501"
+	},{
+	"name":"TPA & Corporate Enquiry",
+	"phoneNumbers":"03340171502"
+	},{
+	"name":"Pharmacy",
+	"phoneNumbers":"03340171538,03340171539,03340171540"
+	},{
+	"name":"Office",
+	"phoneNumbers":"03340171717,03324733601"
+	}]
+}

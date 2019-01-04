@@ -1,0 +1,12 @@
+{
+"name":"Sri Aurobindo Seva Kendra (EDF)",
+"code":"EDF",
+"specialties":[{
+	"name":"Acupuncture",
+	"schedules":[{
+		"doctor":"Mrigendra Nath Gantait",
+		"degree":"MBBS, P.G. Certificate in Acupuncture (China)",
+		"schedule":"Mon, Wed, Fri: 1pm"
+		}]
+	}]
+}
