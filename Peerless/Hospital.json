@@ -1,0 +1,25 @@
+{
+"name":"Peerless Hospital",
+"code":"Peerless",
+"address":"360 Panchasayar, Kolkata 700094, West Bengal, India",
+"emails":"ph.enquiry@peerlesshospital.com,corporate@peerlesshospital.com",
+"websites":"www.peerlesshospital.com",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Peerless Hospital",
+	"phoneNumbers":"03340111222,03324320075,03324324989,03324622394",
+	"isOpd":true
+	},{
+	"name":"Emergency Helpline",
+	"phoneNumbers":"8981080008"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"9038224000"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"9038225000"
+	},{
+	"name":"Appointment Cell",
+	"phoneNumbers":"03340333333"
+	}]
+}
