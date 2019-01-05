@@ -1,0 +1,16 @@
+{
+"name":"Nightingale Hospital",
+"code":"Nightingale",
+"address":"11, Shakespeare Sarani, Kolkata 7000071",
+"emails":"feedback@nightingalehospital.com,admin@nightingalehospital.com",
+"websites":"www.nightingalehospital.com",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"OPD Helpdesk (10:00AM to 6:00PM)",
+	"phoneNumbers":"03322827465,03322827462,03322827972",
+	"isOpd":true
+	},{
+	"name":"Admin",
+	"phoneNumbers":"03322827969,03322827970,03322827971"
+	}]
+}
