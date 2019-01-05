@@ -7,47 +7,47 @@
 		{
 		"doctor":"J. C. Ghosh",
 		"degree":"MBBS, MD, FRCP",
-		"schedule":"Mon, Wed, Fri: Present"
+		"schedule":"Mon, Wed, Fri"
 		},
 		{
 		"doctor":"T. D. Bhattacharya",
 		"degree":"MD, DIP, CARD, FICP",
-		"schedule":"Tue, Wed, Fri, Sat: Present"
+		"schedule":"Tue, Wed, Fri, Sat"
 		},
 		{
 		"doctor":"Monotosh Panja ",
 		"degree":"MBBS, DIP FICC (INDIA), FACC(USA)",
-		"schedule":"Wed, Thu: Present"
+		"schedule":"Wed, Thu"
 		},
 		{
 		"doctor":"Kishore Nandi",
 		"degree":"MBBS, DIP, (Cardio)",
-		"schedule":"Mon to Sat: Present"
+		"schedule":"Mon to Sat"
 		},
 		{
 		"doctor":"S. Guha",
 		"degree":"MD, DM",
-		"schedule":"Mon to Sat: Present"
+		"schedule":"Mon to Sat"
 		},
 		{
 		"doctor":"Achyut Sarkar",
 		"degree":"MD(Medicine), Dip. Card, DM(Card)",
-		"schedule":"Wed, Fri: Present"
+		"schedule":"Wed, Fri"
 		},
 		{
 		"doctor":"Dipankar Mukherjee",
 		"degree":"MD (General Medicine), DM(Cardio)",
-		"schedule":"Mon, Tue, Sat: Present"
+		"schedule":"Mon, Tue, Sat"
 		},
 		{
 		"doctor":"Goutam Datta",
 		"degree":"MD, DNB, DM, MRCP (UK), Interventional Cardiologist",
-		"schedule":"Mon, Sat: Present"
+		"schedule":"Mon, Sat"
 		},
 		{
 		"doctor":"B. Sarkar",
 		"degree":"MD(Medicine), DM(Cardio)",
-		"schedule":"Mon, Thu: Present"
+		"schedule":"Mon, Thu"
 		}
 		]
 	},
@@ -57,27 +57,27 @@
 		{
 		"doctor":"U. N. Sarkar",
 		"degree":"MS, MCh(CTVS), FIACS",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		},
 		{
 		"doctor":"Himangshu Das Mahapatra",
 		"degree":"MBBS, FRCS, MNAMS, FIACS",
-		"schedule":"Mon to Sat: Present"
+		"schedule":"Mon to Sat"
 		},
 		{
 		"doctor":"Siddhartha Chakraborty",
 		"degree":"MS, MCH, FIACS",
-		"schedule":"Wed, Sat: Present"
+		"schedule":"Wed, Sat"
 		},
 		{
 		"doctor":"Shantanu Dutta",
 		"degree":"MS, MCH",
-		"schedule":"Mon, Sat: Present"
+		"schedule":"Mon, Sat"
 		},
 		{
 		"doctor":"Anirban Chatterjee",
 		"degree":"(Vascular Surgeon and Interventionist) MRCS, CCST(UK), DNB Gen Surgery",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		}
 		]
 	},
@@ -87,12 +87,12 @@
 		{
 		"doctor":"A. G. Ghosal",
 		"degree":"MD, DNB, FCCP",
-		"schedule":"Mon, Fri: Present"
+		"schedule":"Mon, Fri"
 		},
 		{
 		"doctor":"Ashutosh Ghosh",
 		"degree":"MD(Med), DM(Pulmonary and Crital care), (MED), (PGI), FCCP, DTPH, Dip. CARD",
-		"schedule":"Tue, Wed, Thu, Sat: Present"
+		"schedule":"Tue, Wed, Thu, Sat"
 		}
 		]
 	},
@@ -102,27 +102,27 @@
 		{
 		"doctor":"D. L. Koley",
 		"degree":"BDS, CONSULTANT DENTAL SURGEON",
-		"schedule":"Mon to Sat: Present"
+		"schedule":"Mon to Sat"
 		},
 		{
 		"doctor":"Amitava De",
 		"degree":"BDS, General DENTAL SURGEON",
-		"schedule":"Mon, Wed, Sat: Present"
+		"schedule":"Mon, Wed, Sat"
 		},
 		{
 		"doctor":"P. K. Banerjee",
 		"degree":"BDS (Cal)",
-		"schedule":"Mon to Fri: Present"
+		"schedule":"Mon to Fri"
 		},
 		{
 		"doctor":"Sandeep Pachasia",
 		"degree":"BDS (Cal), MDS(Bom), Oral and Maxillofacial Surgeon and Implantologist",
-		"schedule":"Fri: Present"
+		"schedule":"Fri"
 		},
 		{
 		"doctor":"Sujay Mukherjee",
 		"degree":"BDS, MFDS, RCS(Edin)",
-		"schedule":"Wed, Sat: Present"
+		"schedule":"Wed, Sat"
 		}
 		]
 	},
@@ -132,22 +132,22 @@
 		{
 		"doctor":"Salil Panja",
 		"degree":"FRCP, FIAMS, FAAD",
-		"schedule":"Mon, Fri: Present"
+		"schedule":"Mon, Fri"
 		},
 		{
 		"doctor":"A. K. Ghosal",
 		"degree":"MBBS, MD, DVD (Venerol & Cosmetology)",
-		"schedule":"Mon to Sat: Present"
+		"schedule":"Mon to Sat"
 		},
 		{
 		"doctor":"Sunandita Sarangi",
 		"degree":"MBBS (DMC)",
-		"schedule":"Mon, Tue, Fri: Present"
+		"schedule":"Mon, Tue, Fri"
 		},
 		{
 		"doctor":"Kishalay Ghosh",
 		"degree":"MD",
-		"schedule":"Wed, Sat: Present"
+		"schedule":"Wed, Sat"
 		}
 		]
 	},
@@ -157,7 +157,7 @@
 		{
 		"doctor":"Samit Ghosal",
 		"degree":"MD(Chennai), P.G.Dip, Diab (Cardiff,U.K.)",
-		"schedule":"Mon to Sat: Present"
+		"schedule":"Mon to Sat"
 		}
 		]
 	},
@@ -167,7 +167,7 @@
 		{
 		"doctor":"Subhankar Chowdhury",
 		"degree":"MD, DM, DIM & H, MRCP",
-		"schedule":"Mon, Tue: Present"
+		"schedule":"Mon, Tue"
 		}
 		]
 	},
@@ -177,32 +177,32 @@
 		{
 		"doctor":"D. K. Basu",
 		"degree":"DLO, MS",
-		"schedule":"Mon, Wed, Fri: Present"
+		"schedule":"Mon, Wed, Fri"
 		},
 		{
 		"doctor":"D. Mukherjee",
 		"degree":"MBBS, DLO, MS (ENT)",
-		"schedule":"Mon to Fri: Present"
+		"schedule":"Mon to Fri"
 		},
 		{
 		"doctor":"D. Sanyal",
 		"degree":"MBBS, MS",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		},
 		{
 		"doctor":"Manojendra Narayan Bhattacharya",
 		"degree":"DLO, DOHNS (England), MRCS (Edinburgh), MRCS (ENT Head & Neck Surgeon)",
-		"schedule":"Mon, Thu: Present"
+		"schedule":"Mon, Thu"
 		},
 		{
 		"doctor":"Samrat Sandip Bose",
 		"degree":"MS",
-		"schedule":"Tue, Wed, Fri, Sat: Present"
+		"schedule":"Tue, Wed, Fri, Sat"
 		},
 		{
 		"doctor":"Deepjoy Basu",
 		"degree":"MBBS, MS (ENT)",
-		"schedule":"Tue, Wed: Present"
+		"schedule":"Tue, Wed"
 		}
 		]
 	},
@@ -212,27 +212,27 @@
 		{
 		"doctor":"Abhijit Chowdhury",
 		"degree":"MD, DM",
-		"schedule":"Mon, Wed, Fri: Present"
+		"schedule":"Mon, Wed, Fri"
 		},
 		{
 		"doctor":"S. P. De Sarkar",
 		"degree":"MS, FIAGES",
-		"schedule":"Mon, Wed, Fri: Present"
+		"schedule":"Mon, Wed, Fri"
 		},
 		{
 		"doctor":"Somnath Mukherjee",
 		"degree":"MD, MRCP, DNB, CCT",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		},
 		{
 		"doctor":"Kausik Das",
 		"degree":"MD, DM (Gastroenterology)",
-		"schedule":"Tue, Thu: Present"
+		"schedule":"Tue, Thu"
 		},
 		{
 		"doctor":"Partha Sarathi Patra",
 		"degree":"MD(Medicine), DM(Gastro)",
-		"schedule":"Mon, Wed, Thu, Sat: Present"
+		"schedule":"Mon, Wed, Thu, Sat"
 		}
 		]
 	},
@@ -242,42 +242,42 @@
 		{
 		"doctor":"Sukumar Mukherjee",
 		"degree":"MD(Cal.), FRCP (Lond.) FRCP (Edin.)",
-		"schedule":"Mon, Tue, Wed, Thu, Sat: Present"
+		"schedule":"Mon, Tue, Wed, Thu, Sat"
 		},
 		{
 		"doctor":"Bibhuti Saha",
 		"degree":"MBBS, DEMH, MD(Tropical Medicine)",
-		"schedule":"Mon, Fri: Present"
+		"schedule":"Mon, Fri"
 		},
 		{
 		"doctor":"Soumitra Ghosh",
 		"degree":"MD, DTCD, FCP, FICP",
-		"schedule":"Tue, Thu: Present"
+		"schedule":"Tue, Thu"
 		},
 		{
 		"doctor":"Rajat Dutta",
 		"degree":"MD, DIP CARD",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		},
 		{
 		"doctor":"Sabyasachi Sen",
 		"degree":"Critical Care",
-		"schedule":"Mon to Fri: Present"
+		"schedule":"Mon to Fri"
 		},
 		{
 		"doctor":"Arpan Chaudhuri",
 		"degree":"MBBS, DNB(Family Medicine)",
-		"schedule":"Mon to Sat: Present"
+		"schedule":"Mon to Sat"
 		},
 		{
 		"doctor":"R Bhattacharya",
 		"degree":"MBBS, MD(Medicine)",
-		"schedule":"Wed, Sat: Present"
+		"schedule":"Wed, Sat"
 		},
 		{
 		"doctor":"Ambarish Bhattacharyya",
 		"degree":"MBBS, MD, MRCP (Ireland), MRCPS (Glasgow)",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		}
 		]
 	},
@@ -287,32 +287,32 @@
 		{
 		"doctor":"Mritunjoy Mukherjee",
 		"degree":"MBBS (HONS.), MS (Cal.)",
-		"schedule":"Sat: Present"
+		"schedule":"Sat"
 		},
 		{
 		"doctor":"Pinaki Banerjee",
 		"degree":"MS, FRCS, FRCS (ENG)",
-		"schedule":"Tue, Thu: Present"
+		"schedule":"Tue, Thu"
 		},
 		{
 		"doctor":"Sumit Chowdhury",
 		"degree":"MBBS (CAL.), HONS/ABN SWARD, MSCAL (GOLD MEDALIST) DELHI, FRCS (EDIN), FRCS (GLAS)",
-		"schedule":"Mon, Wed, Fri, Sat: Present"
+		"schedule":"Mon, Wed, Fri, Sat"
 		},
 		{
 		"doctor":"Diptendra K Sarkar",
 		"degree":"MBBS, MS, DNB FRCS, Consultant Breast Surgeon, Surgical Oncologist",
-		"schedule":"Tue, Fri: Present"
+		"schedule":"Tue, Fri"
 		},
 		{
 		"doctor":"Sukanta Roy",
 		"degree":"MS, MCH (AIIMS), Liver Transplantation, Fellow (Seoul)",
-		"schedule":"Mon, Wed, Fri, Sat: Present"
+		"schedule":"Mon, Wed, Fri, Sat"
 		},
 		{
 		"doctor":"Abhijit Sharma",
 		"degree":"MBBS, MRCS (Eng, Edin, Ireland)",
-		"schedule":"Tue, Sat: Present"
+		"schedule":"Tue, Sat"
 		}
 		]
 	},
@@ -322,22 +322,22 @@
 		{
 		"doctor":"Gita Chowdhury",
 		"degree":"DGO, MS, DIP B, MSC(Cal)",
-		"schedule":"Mon, Tue, Wed, Fri, Sat: Present"
+		"schedule":"Mon, Tue, Wed, Fri, Sat"
 		},
 		{
 		"doctor":"Samir Roy",
 		"degree":"MD, FICS, MNAS",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		},
 		{
 		"doctor":"P. Sah",
 		"degree":"DGO, MIP",
-		"schedule":"Wed, Sat: Present"
+		"schedule":"Wed, Sat"
 		},
 		{
 		"doctor":"Shamita Singhal (Ghosal)",
 		"degree":"MBBS, DGO, DNB",
-		"schedule":"Mon to Sat: Present"
+		"schedule":"Mon to Sat"
 		}
 		]
 	},
@@ -347,7 +347,7 @@
 		{
 		"doctor":"Prantar Chakrabarti",
 		"degree":"MD (Med.), DNB (Med.), DM Clinical Haematology",
-		"schedule":"Tue, Wed, Sat: Present"
+		"schedule":"Tue, Wed, Sat"
 		}
 		]
 	},
@@ -357,12 +357,12 @@
 		{
 		"doctor":"Goutam Majumdar",
 		"degree":"MD, MNAMS",
-		"schedule":"Mon, Wed, Fri: Present"
+		"schedule":"Mon, Wed, Fri"
 		},
 		{
 		"doctor":"P. S. Mukherjee",
 		"degree":"MBBS, DNB, MRCP (UK), CST (Nephro)",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		}
 		]
 	},
@@ -372,33 +372,33 @@
 		{
 		"doctor":"N. N. Sarangi",
 		"degree":"MD, Phd",
-		"schedule":"Tue, Fri: Present"
+		"schedule":"Tue, Fri"
 		},
 		{
 		"doctor":"T. K. Das",
 		"degree":"DCH, MD, FRCP, DBMS",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		},
 		{
 		"initial":"Prof.",
 		"doctor":"S. C. Mukherjee",
 		"degree":"MBBS, MD (Med), DM (Neuro) FIACM, FRSTM",
-		"schedule":"Tue, Wed, Sat: Present"
+		"schedule":"Tue, Wed, Sat"
 		},
 		{
 		"doctor":"D. Basu",
 		"degree":"MD, DM",
-		"schedule":"Tue, Thu, Fri: Present"
+		"schedule":"Tue, Thu, Fri"
 		},
 		{
 		"doctor":"Angshuman Mukherjee",
 		"degree":"MD, DM (Neuro)",
-		"schedule":"Mon, Thu, Sat: Present"
+		"schedule":"Mon, Thu, Sat"
 		},
 		{
 		"doctor":"Deep Das",
 		"degree":"MD(Medicine), DM(Neurology)",
-		"schedule":"Mon, Wed: Present"
+		"schedule":"Mon, Wed"
 		}
 		]
 	},
@@ -408,17 +408,17 @@
 		{
 		"doctor":"Indrajit Roy",
 		"degree":"MS, MCh(Neuro)",
-		"schedule":"Mon, Wed, Sat: Present"
+		"schedule":"Mon, Wed, Sat"
 		},
 		{
 		"doctor":"Buddha Dev Saha",
 		"degree":"M. Ch(Cal)",
-		"schedule":"Mon, Thu: Present"
+		"schedule":"Mon, Thu"
 		},
 		{
 		"doctor":"Sudipta Chatterjee",
 		"degree":"MBBS (Cal.), MCH (Cal.), Neuro surgery",
-		"schedule":"Tue, Sat: Present"
+		"schedule":"Tue, Sat"
 		}
 		]
 	},
@@ -428,12 +428,12 @@
 		{
 		"doctor":"Anup Majumdar",
 		"degree":"MD",
-		"schedule":"Mon, Tue, Thu, Sat: Present"
+		"schedule":"Mon, Tue, Thu, Sat"
 		},
 		{
 		"doctor":"Suparna Ghosh Roy",
 		"degree":"MD (AIIMS), DNB",
-		"schedule":"Wed: Present"
+		"schedule":"Wed"
 		}
 		]
 	},
@@ -443,52 +443,52 @@
 		{
 		"doctor":"P. K. Chatterjee",
 		"degree":"MBBS, DOMS, MS",
-		"schedule":"Mon, Thu: Present"
+		"schedule":"Mon, Thu"
 		},
 		{
 		"doctor":"Samir Sengupta",
 		"degree":"B. Sc, MBBS, DOMS, DO (LOND), FAMS",
-		"schedule":"Wed, Fri, Sat: Present"
+		"schedule":"Wed, Fri, Sat"
 		},
 		{
 		"doctor":"Abhijit Ghosh",
 		"degree":"MBBS, DO, MS",
-		"schedule":"Mon, Wed: Present"
+		"schedule":"Mon, Wed"
 		},
 		{
 		"doctor":"M. K. Ghosh",
 		"degree":"MBBS,DO,MD,MS(Cal) and Micro Surgeon",
-		"schedule":"Wed: Present"
+		"schedule":"Wed"
 		},
 		{
 		"doctor":"Subhasis Nag",
 		"degree":"MS",
-		"schedule":"Sat: Present"
+		"schedule":"Sat"
 		},
 		{
 		"doctor":"Indranil Bhattacharya",
 		"degree":"MBBS, DOMS",
-		"schedule":"Thu, Fri: Present"
+		"schedule":"Thu, Fri"
 		},
 		{
 		"doctor":"Krishnendu Sarkar",
 		"degree":"MS (Opthal) [PGIMER Chandigarh], Fellow Vitreo Retinal Surgery Germany",
-		"schedule":"Tue: Present"
+		"schedule":"Tue"
 		},
 		{
 		"doctor":"Sauvik Banerjee",
 		"degree":"MBBS (Cal.), MS, DO (Alig), Phd (Med)",
-		"schedule":"Tue: Present"
+		"schedule":"Tue"
 		},
 		{
 		"doctor":"Jayanti Raman",
 		"degree":"MBBS, DNB, FRCS(Opth)",
-		"schedule":"Tue to Sat: Present"
+		"schedule":"Tue to Sat"
 		},
 		{
 		"doctor":"Siddhartha Ghosh",
 		"degree":"MBBS, DOMS, MS",
-		"schedule":"Tue, Fri: Present"
+		"schedule":"Tue, Fri"
 		}
 		]
 	},
@@ -498,27 +498,27 @@
 		{
 		"doctor":"M. S. Ghosh",
 		"degree":"FRCS, MCH (Ortho)",
-		"schedule":"Wed, Thu: Present"
+		"schedule":"Wed, Thu"
 		},
 		{
 		"doctor":"Subir Kr. Bose",
 		"degree":"MS, MNAMS, FACS, FICS, FIAS",
-		"schedule":"Mon, Wed, Thu, Fri: Present"
+		"schedule":"Mon, Wed, Thu, Fri"
 		},
 		{
 		"doctor":"Indrajit Sardar",
 		"degree":"MBBS, MS (Ortho), DNB (Ortho)",
-		"schedule":"Tue, Thu, Fri, Sat: Present"
+		"schedule":"Tue, Thu, Fri, Sat"
 		},
 		{
 		"doctor":"Amit Guha",
 		"degree":"MS (Ortho) Cal",
-		"schedule":"Tue: Present"
+		"schedule":"Tue"
 		},
 		{
 		"doctor":"A. K. Pathak",
 		"degree":"MS (Ortho)",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		}
 		]
 	},
@@ -528,7 +528,7 @@
 		{
 		"doctor":"Udayan Bakshi",
 		"degree":"MD, Interventional Pain Therapist",
-		"schedule":"Tue: Present"
+		"schedule":"Tue"
 		}
 		]
 	},
@@ -538,7 +538,7 @@
 		{
 		"doctor":"Sandipan Gupta",
 		"degree":"MS, MCH",
-		"schedule":"Mon, Wed: Present"
+		"schedule":"Mon, Wed"
 		}
 		]
 	},
@@ -548,12 +548,12 @@
 		{
 		"doctor":"R. Ghosh Roy",
 		"degree":"MBBS, DPM (CAL), FIPS, FLASP",
-		"schedule":"Sat: Present"
+		"schedule":"Sat"
 		},
 		{
 		"doctor":"Bhargavi Chatterjee",
 		"degree":"MBBS, MRC, PSY (London)",
-		"schedule":"Wed, Fri: Present"
+		"schedule":"Wed, Fri"
 		}
 		]
 	},
@@ -563,12 +563,12 @@
 		{
 		"doctor":"Himadri Biswas",
 		"degree":"MD (CAL)",
-		"schedule":"Mon, Thu, Sat: Present"
+		"schedule":"Mon, Thu, Sat"
 		},
 		{
 		"doctor":"S. R. Pal",
 		"degree":"MD (CAL)",
-		"schedule":"Wed, Sat: Present"
+		"schedule":"Wed, Sat"
 		}
 		]
 	},
@@ -578,7 +578,7 @@
 		{
 		"doctor":"Debasish Chatterjee",
 		"degree":"DNB, MS, FRCS, D-Ortho",
-		"schedule":"Tue, Thu, Sat: Present"
+		"schedule":"Tue, Thu, Sat"
 		}
 		]
 	},
@@ -588,22 +588,22 @@
 		{
 		"doctor":"Sudip C. Chakraborty",
 		"degree":"MS (Cal.), MNAMS, MCH (Urology AIIMS)",
-		"schedule":"Mon, Wed, Thu, Sat: Present"
+		"schedule":"Mon, Wed, Thu, Sat"
 		},
 		{
 		"doctor":"Anup Kundu",
 		"degree":"MS, Mch (Uro)",
-		"schedule":"Wed, Fri: Present"
+		"schedule":"Wed, Fri"
 		},
 		{
 		"doctor":"Bibhas Kundu",
 		"degree":"MS, FRCS (Eng.), DIP Urol (London), FAIS",
-		"schedule":"Mon, Wed, Fri: Present"
+		"schedule":"Mon, Wed, Fri"
 		},
 		{
 		"doctor":"Amitabha De",
 		"degree":"MS (Cal.), MCh, Consultant Urology and Renal Surgeon",
-		"schedule":"Mon, Wed: Present"
+		"schedule":"Mon, Wed"
 		}
 		]
 	}
