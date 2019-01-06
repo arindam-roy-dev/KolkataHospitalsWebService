@@ -1,0 +1,1100 @@
+{
+"name":"Medica Superspecialty Hospital",
+"specialties":[
+	{
+	"name":"Critical Care",
+	"schedules":[
+		{
+		"doctor":"Tanmoy Banerjee (Director)",
+		"degree":"MD (Internal Medicine), MRCP, SCE in Acute Medicine, EDIC, CCST (Acute Medicine & Intensive Care)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Amitabha Saha (Co-Director)",
+		"degree":"MBBS, MD (Anaesthesiology), MRCP (UK), EDIC",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Aviral Roy (Consultant- Intensivist)",
+		"degree":"American Board Certified in Internal Medicine and Critical Care",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Emergency Consultants",
+	"schedules":[
+		{
+		"doctor":"Sudeshna Barua (Consultant & Incharge)",
+		"degree":"MBBS, PGFEM, FDP, Masters in Emergency Medicine",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sudipta Barua (Associate Consultant)",
+		"degree":"MBBS, DHM, Masters in Emergency Medicine",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Soumya Dingal (Associate Consultant)",
+		"degree":"MD Physician, Masters in Emergency Medicine",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Palas Manna (Associate Consultant)",
+		"degree":"MD Physician, Masters in Emergency Medicine",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Tushau Prasad (Consultant)",
+		"degree":"MD (Physician), Russia, MEM, GWU USA",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Cardiac Surgery",
+	"schedules":[
+		{
+		"doctor":"Kunal Sarkar (Senior Vice Chairman, Sr. Consultant Cardiac Surgeon, Head MICS)",
+		"degree":"FRCS (ED), FRCS (Glasg), MNMS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sandip Sardar (Consultant)",
+		"degree":"MBBS, MS (General Surgery), MCh (CTVS)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Asutosh Samal (Jr. Consultant)",
+		"degree":"MS, MCh (CTVS)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"initial":"Prof.",
+		"doctor":"Dr. Bhabatosh Biswas (Consultant)",
+		"degree":"MBBS, MS(General Surgery), DNB(General Surgery), M.CH(Cardio Thoracic Surgery), FRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Subhankar Bhattacharya (Senior Consultant)",
+		"degree":"MBBS, MS (General Surgery), M Ch (Cardio Thoracic Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Mrinal Bandhu Das (Senior Consultant)",
+		"degree":"MBBS, MS (General Surgery), M Ch (Cardio Vascular & Thoracic Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"initial":"Prof.",
+		"doctor":"Dr. Rabin Chakraborty (Senior Vice Chairman)",
+		"degree":"MD (Internal Medicine), DNB (General Medicine), DM (Cardiology). FRCP (Glasgow), FRCP (London), FICC (Cardiology) & FACC",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Dilip Kumar (Consultant, Chief Academic Coordinator)",
+		"degree":"MD, DM, CCDS, IBHRE, FSCAI, FESC",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sanjeev Garg (Head – Non Invasive Cardiology)",
+		"degree":"MD (Gen. Med.)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Soumik Basu (Consultant)",
+		"degree":"MD, DM (Cardiology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Jayanarayan Naik (Sr. Consultant)",
+		"degree":"MD (Gen. Med.), DM (Cardiology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Rana Rathore Roy (Consultant)",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arvind Kumar (Consultant)",
+		"degree":"MD (Med.), DNB (Cardiology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arindam Pande (Consultant)",
+		"degree":"MD (Medicine), DNB (Internal Medicine), DM (Cardiology), FESC, FACC (USA)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sumanto Mukhopadhyay (Associate Consultant)",
+		"degree":"MD (Medicine), DM (Cardiology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Soumya Patra (Consultant)",
+		"degree":"MD (Paediatrics), DM(Cardiology), FACC, FESC",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sanjeev S Mukherjee (Consultant)",
+		"degree":"MBBS, MD (General Medicine), DM (Cardiology) , Fellowship in Electrophysiology",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Somnath Dey (Consultant)",
+		"degree":"MBBS, MD (Anaesthesiology), DM (Cardiac Anaesthesiology)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Cardiology",
+	"schedules":[
+		{
+		"doctor":"Anil Kumar Singhi (Senior Consultant)",
+		"degree":"MD, FNB, FCHW (Sydney)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Dipanjan Chatterjee (Sr. Consultant)",
+		"degree":"MD, PDCC (Cardiothoracic & Vascular Anaesthesiology), FNB (Cardiac Anaesthesia)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arpan Chakraborty (Sr. Consultant)",
+		"degree":"MD, FNB (Cardiac Anaesthesia)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Neuro Surgery",
+	"schedules":[
+		{
+		"doctor":"Laxmi Narayan Tripathy (Director)",
+		"degree":"MS, M.Ch (PGI), FRCS (Neurosurgery), CCST (UK)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Harsh Jain (Consultant Neurosurgeon & Spine Surgeon)",
+		"degree":"MBBS, MS, FRCS, FRCS Neurosurgery (UK), Cerebrovascular Surgery Fellow (Canada)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sunandan Basu (Consultant)",
+		"degree":"MBBS, FRCS, EANS, European Certificate of Neurosurgery",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Neuro Medicine (Neurology)",
+	"schedules":[
+		{
+		"doctor":"Kaushik Sen (HOD & Senior Consultant)",
+		"degree":"MBBS, MD(Medicine), DM(Neurology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"initial":"Prof.",
+		"doctor":"Dr. Kalyan B. Bhattacharyya (Sr. Consultant Neurologist)",
+		"degree":"MD, DTM & H, DM, MAMS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ashis Das (Consultant)",
+		"degree":"MD (Gen. Med.), DM (Neuro)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Anish Kumar Ghosh (Consultant)",
+		"degree":"MBBS, MD (Gen. Med.), DM (Neurology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sushanta Bhattacharya (Consultant)",
+		"degree":"MBBS, MD (General Medicine) & DM (Neurology)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Dilip Kumar Pahar (Director & Sr. Consultant Nephrologist)",
+		"degree":"MD (Gen. Med.), DM, DNB (Nephrology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Pranab Kumar Nandy (Senior Registrar Nephrology)",
+		"degree":"MBBS, MD (Nephrology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Nikhiles Raychaudhury (Consultant Nephrologist)",
+		"degree":"MD (Medicine), DM (Nephrology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Manoranjan Sahoo (Consultant Nephrologist)",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Rohit Rungta (Consultant)",
+		"degree":"MBBS, DTMH, DNB, MRCP SCE (UK)from Royal College of Physician",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Urology & Transplant Surgery",
+	"schedules":[
+		{
+		"doctor":"Partha Pratim Dutta (Consultant)",
+		"degree":"MS, DNB (Urosurgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sujit Kumar Sinha (Consultant)",
+		"degree":"Qualification: MBBS, MS (Gen. Surg.), M.Ch.",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Saswata Chakraborty (Consultant)",
+		"degree":"Qualification: MBBS, MS (General Surgery), MRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Prasanna Kumar Mishra (Consultant)",
+		"degree":"Qualification: MBBS, MS(General Surgery), M.Ch (Urology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Mrinal Kanti Roy (Junior Consultant)",
+		"degree":"Qualification: MBBS, DGO",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Pankaj Kumar Gupta (Associate Consultant)",
+		"degree":"Qualification: MBBS, MS (General Surgery), MCh( Urology)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedic",
+	"schedules":[
+		{
+		"doctor":"Vikash Kapoor (Group Director, Vice Chairman)",
+		"degree":"Qualification: MBBS, MS(Ortho), Fellow Sports Medicine (Singapore)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Anirban Chatterjee (Sr. Consultant)",
+		"degree":"D. Ortho., MS (Ortho), DNB (Ortho) MNAMS, Fellow Hand Surgery (UK), Fellow Paediatric Orthopaedics (Singapore)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sutanu Hazra (Consultant)",
+		"degree":"MS (Ortho), Fellow-Adult Reconstruction (Singapore)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Samar Kumar Gupta (Sr. Consultant)",
+		"degree":"Qualification: D.Ortho, MS (Ortho)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Kiran Kumar Mukhopadhyay (Consultant)",
+		"degree":"Qualification: MS (Ortho.)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Saumitra Sircar (Consultant)",
+		"degree":"Qualification: MBBS, MS(Gen. Surg.), DNB (Orthopaedics)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Shumayou Dutta (Associate Visiting Consultant)",
+		"degree":"Qualification: MBBS, MS (Orthopaedics), F. ASSI",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Debashis Adhikary (Consultant)",
+		"degree":"MBBS, MS (Orthopaedics)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Kaustav Debnath (Associate Consultant)",
+		"degree":"Qualification: MBBS, D.Ortho, DNB(Orthopedic)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Sports Medicine",
+	"schedules":[
+		{
+		"doctor":"Manabendra Bhattacharya (Sr. Consultant)",
+		"degree":"MBBS, Diploma is Sports Medicine, Certificate in Sports Medicine (FIFA), Certificate in Football Medicine (FIFA & AFC)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology",
+	"schedules":[
+		{
+		"doctor":"Pradeepta Kumar Sethy (Director)",
+		"degree":"Qualification: MBBS, MD (Med.), DM (Gastroenterology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Jayanta Samanta (Associate Consultant)",
+		"degree":"Qualification: MBBS, MD (Internal Medicine), DM (Gastroenterology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Apurva Siva (Consultant)",
+		"degree":"Qualification: MD, DM (Gastroenterology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Prateik Poddar (Associate Consultant)",
+		"degree":"MBBS,MD – Medicine (Gold Medalist) from IPGMER & SSKM, DM – Gastroenterology (Gold Medalist) from LTMMC & Sion Hospital",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"doctor":"Sanjoy Mandal (Director & Sr. Consultant)",
+		"degree":"Qualification: MS (AIIMS), DNB, MRCS (ed), M.Ch (GI Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Purnendu Bhowmik (Consultant)",
+		"degree":"Qualification: MS (General Surgery), FIAGES",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Nikhil S (Consultant)",
+		"degree":"Qualification: MBBS, MS (General Surgery), DNB (Surgical Gastroenterology) and Fellowship in HPB & Liver Transplant",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Robin Devanath (Consultant)",
+		"degree":"FRCS (Ireland)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Prantik Chowdhury (Consultant)",
+		"degree":"MS (General Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Asit Baran Mandal (Consultant)",
+		"degree":"MBBS, MS (General Surgery), FMAS, FIAGES",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Udipta Ray (Senior Consultant)",
+		"degree":"MBBS, MS (General Surgery), MRCS, FIAGES, FMAS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"N. V. K. Mohan (Consultant)",
+		"degree":"Qualification: MS (ENT), MRCS (Edin), DOHNS (London)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arjun Dasgupta (Consultant)",
+		"degree":"Qualification: DOHNS (London), MRCS (Edin)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Chirajit Dutta (Consultant)",
+		"degree":"Qualification: FRCS-ENT (Edin)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Devjani Ghosh Shrestha (Consultant)",
+		"degree":"Qualification: MS (Oto-Rhino-Laryngology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Shouvanik Satpathy (Consultant)",
+		"degree":"Qualification: MBBS, MS (Oto-Rhino-laryngology)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Breast Diseases",
+	"schedules":[
+		{
+		"doctor":"Tapti Sen (Sr. Specialist & Surgeon)",
+		"degree":"Qualification: MBBS, MS (Gen. Surg.)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Chanchal Goswami (Consultant Oncologist)",
+		"degree":"Qualification: MBBS, Diploma in Medical Radiation Therapy, MD (Radiotherapy)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Pain Medicine",
+	"schedules":[
+		{
+		"doctor":"Gautam Das (Consultant)",
+		"degree":"Qualification: MBBS, MD (Anaesthesiology), Fellow of Interventional Pain Practice",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Amiya Kumar Mishra (Sr. Consultant)",
+		"degree":"Qualification: MD (Anaesthesiology), FIPM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Jaya Choudhary (Consultant)",
+		"degree":"Qualification: MD (Anaesthesiology)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Dental",
+	"schedules":[
+		{
+		"doctor":"Udey Vir Gandhi (Chief & Consultant)",
+		"degree":"Qualification: BDS, MDS (Cal), PGDHHM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Manas De (Oral & Maxillofacial Surgeon)",
+		"degree":"Qualification: MDS, FDSRCS (Eng.)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sayantan Mukherjee (Consultant Endodontist)",
+		"degree":"BDS, MDS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Kumarjyoti Chatterjee (Dental Surgeon)",
+		"degree":"BDS, PGCE",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Anant Pal Singh (Dental Surgeon)",
+		"degree":"BDS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Amrita Das (Dental Surgeon)",
+		"degree":"BDS (WBUHS), MPH (UK), FAGE",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arnob Biswas (Consultant Prosthodontist)",
+		"degree":"BDS, MDS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ananya Ray (Dental Surgeon)",
+		"degree":"BDS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sankarsan Choudhury (Oral & Maxillofacial Surgeon)",
+		"degree":"BDS, MDS (MaxFac)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Anju Mohan (Dental Surgeon)",
+		"degree":"BDS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Gayatri Priyadarshini (Dental Surgeon)",
+		"degree":"BDS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Dolly Gupta (Consultant)",
+		"degree":"MD (Dermatology), FIDS (Cosmetic Surgery, Hair Transplant & Laser), Certified in Trichology",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Aritra Sarkar (Consultant)",
+		"degree":"MBBS, MD (Dermatology, Venereology & Leprosy)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Barnali Chowdhury (Consultant)",
+		"degree":"MD (Dermatology, Venereology & Leprosy)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Anjali Pal (Consultant)",
+		"degree":"MBBS, MD (Dermatology, Venereology and Leprosy)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Diabetes & Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Abhijit Chanda (HOD)",
+		"degree":"MD (Gen. Med.), DM (Endocrinology), DNB (Endocrinology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sumit Mukherjee (Consultant)",
+		"degree":"MRCP, FTTA (Med, Diabetes & Endocrinology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Kaushik Biswas (Consultant)",
+		"degree":"MBBS, MD (General Medicine), DM (Endocrinology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sk Hammadur Rahaman (Associate Consultant)",
+		"degree":"MBBS, MD (General Medicine), DM (Endocrinology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Hridish Narayan Chakravarti (Consultant)",
+		"degree":"MBBS, MD (Medicine), DM (Endocrinology)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Internal Medicine",
+	"schedules":[
+		{
+		"doctor":"Tanmoy Banerjee (Director)",
+		"degree":"MD (Internal Medicine), MRCP, SCE in Acute Medicine, EDIC, CCST (Acute Medicine & Intensive Care)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Amitabha Saha (Co-Director)",
+		"degree":"MBBS, MD (Anaesthesiology), MRCP (UK), EDIC",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Chinmoy Kumar Maity (Sr. Consultant)",
+		"degree":"MBBS, DTM&H, MD (Gen. Med.), MRCP (UK), FRCP (Glasgow)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"initial":"Prof.",
+		"doctor":"Dr. Shyamala Das (Sr. Consultant)",
+		"degree":"MD (Internal Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"initial":"Prof.",
+		"doctor":"Dr. Binay Krishna De (Sr. Consultant & Head (Academics))",
+		"degree":"MBBS, MD (Gen. Med.)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Jajati Sinha (Consultant)",
+		"degree":"MD (Gen. Med.)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Tapas Kumar Guha (Consultant)",
+		"degree":"DTCD, MD (Internal Medicine), MRCP, Fellow of Royal Society of Medicine (London)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Tapas Bandyopadhyay (Consultant)",
+		"degree":"MBBS, MD (Internal Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Swapan Sarkar (Consultant)",
+		"degree":"MBBS, MD (General Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Subhas Chandra Hazra (Consultant)",
+		"degree":"",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arup Kumar Kundu (Consultant)",
+		"degree":"MBBS, MD (General Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Aviral Roy (Consultant- Intensivist)",
+		"degree":"MBBS, American Board Certified in Internal Medicine and Critical Care",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Harsha Vardhan Agrawal (Consultant)",
+		"degree":"MBBS, MD (Internal Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arpan Choudhuri (Consultant)",
+		"degree":"MBBS, DNB (Family Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Abhijit Bhatta (Consultant)",
+		"degree":"MBBS, MD (General Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sourabh Dutta (Associate Consultant)",
+		"degree":"MBBS, MD (Medicine), ​IDCCM, EDIC, MRCP",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Tanoy Bose (Consultant)",
+		"degree":"MBBS, MD (General Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Nutrition & Dietetics",
+	"schedules":[
+		{
+		"doctor":"Ms. Sanghamitra Chakraborty (HOD)",
+		"degree":"B.Sc, Dip Diet",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Obstetrics & Gynaecology",
+	"schedules":[
+		{
+		"doctor":"Chandrima Dasgupta (Consultant)",
+		"degree":"FRCOG (London), CCT, DFFP",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Kumkum Pahari (Consultant)",
+		"degree":"MD (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Susmita Chattopadhyay (Consultant)",
+		"degree":"MD (Obs & Gynae), DNB(Obs & Gynae), MRCOG, CCT",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Amitabha Banerjee (Consultant)",
+		"degree":"DGO, MD, MRCOG (UK), DFFP",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Keya Chakraborty (Consultant)",
+		"degree":"DGO, F.Mas & D.Mas (Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Shilpita Banerjee (Consultant)",
+		"degree":"MBBS, MS (Obs & Gynae), Fellowship in Obstetric Ultrasound (Mediscan), FNB (High-risk Pregnancy & Perinatology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ranjana Tibrewal (Consultant)",
+		"degree":"MS (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Rabindra Nath Mukherjee (Consultant)",
+		"degree":"MS (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Kakoli Guha Sen (Consultant)",
+		"degree":"MD (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Suparna Chowdhury (Consultant)",
+		"degree":"MD (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Rakhee Borah (Consultant)",
+		"degree":"DNB (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"initial":"Prof.",
+		"doctor":"Dr. Sujit Kumar Ghosh (Consultant)",
+		"degree":"MD (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sabuj Sengupta (Consultant)",
+		"degree":"DGO, MD (Obs & Gynae), Diploma in Gynaecology Endoscopic Surgery",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Jayasish Chakraborti (Consultant)",
+		"degree":"MD (Obs & Gynae), DGO, MRCOG",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Monita Dutta (Consultant)",
+		"degree":"MD (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Indrani Lodh (Consultant)",
+		"degree":"MBBS, MS (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Queen Aditya (Consultant)",
+		"degree":"MBBS, MD (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Swagatika Panda (Consultant)",
+		"degree":"MBBS, MD (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Nibedita Brahma (Consultant)",
+		"degree":"MBBS, MD (Obs & Gynae)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Soma Ray (Consultant)",
+		"degree":"MBBS, DGO",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Anup Khosla (Consultant)",
+		"degree":"MBBS, MD (Obstetrics & Gynaecology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Trina Sengupta (Consultant)",
+		"degree":"MBBS, DGO, DNB (Obstetrics and Gynaecology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Somnath Laha (Consultant)",
+		"degree":"MBBS, MD (O&G)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Hoorbano Khan (Consultant)",
+		"degree":"MBBS, DGO, DNB in Gynecology & Obstetrics, MNAMS, FMAS, CBET in USG",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Paediatrics",
+	"schedules":[
+		{
+		"doctor":"Ashok Mittal (Head)",
+		"degree":"MBBS, MD (Paediatrics), Fellowship in Neonatology (UK), Integrated Fellowship in Neonatal-Perinatal Medicine (University of Toronto, Canada)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Samuel Vaddeswaram (Consultant)",
+		"degree":"MBBS, DCH, AACME (Neonatology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Pankaj Kumar (Jr. Consultant)",
+		"degree":"MBBS, DCh, DNB Training (Paediatrics)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Surgeon",
+	"schedules":[
+		{
+		"doctor":"Anindya Chattopadhyay (Paediatric Surgeon)",
+		"degree":"MS, MCH (Paediatric Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Shibsankar Barman (Consultant)",
+		"degree":"MS (General Surgery), M.Ch (Paediatric Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Physical Therapy & Rehabilitation",
+	"schedules":[
+		{
+		"doctor":"Ms. Kavita Roy (Director)",
+		"degree":"B.PT, Neuro Developmental Therapist, SIT, SIDP",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ms. Preethy Alexander (Sr. Consultant)",
+		"degree":"B.Sc (OT)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"initial":"Mr.",
+		"doctor":"Ranvijay Kumar Yadav (Sr. Consultant)",
+		"degree":"B.Sc, BPT, MPT (MSS), MIAP",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"initial":"Mr.",
+		"doctor":"Pushpaketu Koner (Sr. Consultant & Chartered Physiotherapist (Musculoskeletal) & Manual Therapy Specialist, Sports Injury Management Specialist)",
+		"degree":"MSPT (UK), MCSP (UK), MHPC (UK), MIAP, BPT",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"initial":"Mr.",
+		"doctor":"Abhilash Parmau Kaipuzhayil (Ayurvedic Massage Therapist)",
+		"degree":"Diploma in Ayurveda Nursing, Panchakarma and Yoga",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"doctor":"Arun Ganguli (Consultant)",
+		"degree":"MBBS, MS (General Surgery), M.Ch (Plastic Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Akhilesh Agarwal (Consultant)",
+		"degree":"MS (General Surgery), M.Ch (Plastic Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sarabarni Biswas (Consultant)",
+		"degree":"MBBS, MS (General Surgery), M.Ch( Plastic Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Aditya Kanoi (Consultant)",
+		"degree":"MBBS, MS (General Surgery), M.Ch ( Plastic Surgery)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Psychiatry",
+	"schedules":[
+		{
+		"doctor":"Abir Mukherjee (Sr. Consultant)",
+		"degree":"MD (Psychiatry), DNB, MRC (Psych)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sujata Ghosh (Consultant)",
+		"degree":"DMRD, PLAB, Diploma in Clinical Psychiatry",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ayanangshu Nayak (Consultant)",
+		"degree":"MRC Psychology, CCT in General Adult Psychiatry with Endorsement in Liaison Psychiatry",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Saurav Das (Consultant)",
+		"degree":"MD, Certification Courses in Addiction Medicine, Certification Courses in Cultural Psychiatry",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arijit Dutta Chowdhury (Neuro Psychiatrist)",
+		"degree":"M.D. (Psychiatry), DPM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ranjan Ghosh (Sr. Consultant)",
+		"degree":"MBBS, MD (Psychiatry) American Board Certified in Adult & Paediatric Psychiatry",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Psychology",
+	"schedules":[
+		{
+		"doctor":"Anupam Das (Clinical Psychologist, Neuropscycometry)",
+		"degree":"B.Sc, M.Sc, M.Phil, Phd",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Anuttama Banerjee (Consultant)",
+		"degree":"B.A. (Psychology), M.A. (Applied Psychology), Ph.D. (Applied Psychology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sujata Das (Consultant)",
+		"degree":"B.A. (Psychology), M.A (Psychology), Ph.D in Psychology",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ms. Jaita De Mullick (Consultant)",
+		"degree":"BA, MS, SENCO",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ms. Sarla Totla (Counselor,  Stress Management Clinic)",
+		"degree":"BA, Diploma in Stress Management",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ms. Nikita Jalan (Consultant)",
+		"degree":"Psychology",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ms. Anusheela Brahmachari (Consultant, Sports Psychologist & Councellor)",
+		"degree":"MA (Psy), MS (Sports Psy, Sweden), MSc (Sport Intervention, Germany)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ms. Piya Banerjee (Clinical Psychologist)",
+		"degree":"Certified RECBT Practitioner,AEI, New York, MA (Clin. Psy)
+P.G.D.P.C.B.A. Psychology (Hons)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ms. Jhuma Basak (Consultant)",
+		"degree":"BA Honours( Comparative Literature), MA in Comparative Literature, Ph.D in Psychology, Psychoanalyst, Member of the International Psychoanalytical Association, London, Training Analyst, Indian Psychoanalytical Society, Calcutta",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Respiratory Medicine",
+	"schedules":[
+		{
+		"doctor":"Nandini Biswas (Senior Consultant)",
+		"degree":"MBBS, MRCP, CSST (Respiratory & Gen. Med.), FRCP",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sanjoy Gupta (Consultant)",
+		"degree":"DMRT, DNB",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Dhrubajyoti Roy (Pulmonologist)",
+		"degree":"MD (Chest), DTCD, DNB (Gen. Med.)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Moumita Chatterjee (Associate Consultant)",
+		"degree":"MBBS, MD (Pulmonary Medicine), DNB (Tuberculosis & Respiratory Medicine/ Pulmonary Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Rheumatology",
+	"schedules":[
+		{
+		"doctor":"R.N. Sarkar (Consultant)",
+		"degree":"MD (Gen Med), FICP",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arup Kumar Kundu (Consultant)",
+		"degree":"MBBS, MD (Internal Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Dipak Kumar Ray (Consultant)",
+		"degree":"MBBS, MD (General Medicine), M.sc ( Clinical Rheumatology), FRCP",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Bariatric & Metabolic Surgery",
+	"schedules":[
+		{
+		"doctor":"B. Ramana (Bariatric & Hernia Surgeon)",
+		"degree":"MS, DNB, FRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Hematology",
+	"schedules":[
+		{
+		"doctor":"Sandeep Saha (Consultant)",
+		"degree":"MBBS, MD, DM (Clinical Hematology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Anju Jain (Consultant)",
+		"degree":"MRCP (Haem.), FRCP (Haem.)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"General Oncology",
+	"schedules":[
+		{
+		"doctor":"Chanchal Goswami (Consultant)",
+		"degree":"MBBS, Diploma in Medical Radiation Therapy, M.D. (Radiotherapy)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Madhuchanda Kar (Consultant)",
+		"degree":"MBBS, MD (Internal Med), PhD (Cancer Research)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Suvadip Chakrabarti (Consultant, Surgical Oncology)",
+		"degree":"MBBS, MS (General Surgery), M.Ch ( Surgical Oncology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Indranil Khan (Associate Consultant)",
+		"degree":"MBBS, MD (Radiotherapy)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	}
+	]
+}

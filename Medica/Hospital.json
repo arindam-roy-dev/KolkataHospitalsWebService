@@ -1,0 +1,19 @@
+{
+"name":"Medica Superspecialty Hospital",
+"code":"Medica",
+"address":"127 Mukundapur, E.M. Bypass. Kolkata: 700099",
+"emails":"contactus@medicahospitals.in",
+"websites":"www.medicahospitals.in",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"03366520000",
+	"isOpd":true
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"03365000600"
+	},{
+	"name":"Health Check-up",
+	"phoneNumbers":"9230089704,7044045677"
+	}]
+}
