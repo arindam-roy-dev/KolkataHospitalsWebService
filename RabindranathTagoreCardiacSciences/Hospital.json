@@ -1,0 +1,16 @@
+{
+"name":"Rabindranath Tagore International Institute of Cardiac Sciences",
+"code":"RabindranathTagoreCardiacSciences",
+"address":"124, Eastern Metropolitan Bypass, Premises No: 1489, Mukundapur, Kolkata, West Bengal 700099",
+"emails":"email.rtiics@narayanahealth.org",
+"websites":"www.narayanahealth.org/hospitals/kolkata/rabindranath-tagore-international-institute-cardiac-sciences",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208",
+	"isOpd":true
+	},{
+	"name":"Emergency Number",
+	"phoneNumbers":"9903335544"
+	}]
+}

@@ -1,0 +1,145 @@
+{
+"name":"Rabindranath Tagore International Institute of Cardiac Sciences",
+"specialties":[
+	{
+	"name":"Anaesthesia & Critical Care",
+	"schedules":[
+		{
+		"doctor":"Amit Kundu (Consultant)",
+		"degree":"MD, DA",
+		"schedule":""
+		},
+		{
+		"doctor":"Animesh Gupta (Senior Consultant)",
+		"degree":"MD, MRCP (UK)",
+		"schedule":""
+		},
+		{
+		"doctor":"Apratim Mukherjee (Senior Consultant)",
+		"degree":"MD, Post Doctoral Fellowship (Neuroanaesthesiology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Arupratan Maity (Consultant)",
+		"degree":"MD, FNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Chandan Kumar Mandal (Consultant)",
+		"degree":"DNB, FNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Dipanjan Roy (Associate Consultant)",
+		"degree":"DNB, FNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Emmanuel Rupert (Chief of Medical Services NH Group & Sr. Consultant & Head)",
+		"degree":"MD, PDCC",
+		"schedule":""
+		},
+		{
+		"doctor":"Jyotishka Pal (Consultant)",
+		"degree":"MD, IDCCM, FNB-CCM, EDIC, DCH",
+		"schedule":""
+		},
+		{
+		"doctor":"Manali Das Choudhury (Associate Consultant)",
+		"degree":"DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Meghana Marulasiddappa (Junior Consultant)",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Priyanka Ghosh (Junior Consultant)",
+		"degree":"DNB, Fellowship in Onco Anaesthesia & Critical Care",
+		"schedule":""
+		},
+		{
+		"doctor":"Rahul Guha Biswas (Consultant)",
+		"degree":"MD, PDCC, Clinical Fellow (Cardiac Anesthesia and Intensive Care)",
+		"schedule":""
+		},
+		{
+		"doctor":"Rajlakshmi Das (Consultant)",
+		"degree":"MD, FNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Rakesh Rajkumar Chand (Associate Consultant)",
+		"degree":"DA, DNB, FNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Rakesh Sharma (Consultant)",
+		"degree":"MD, FNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Saibal Roy Chowdhury (Senior Consultant)",
+		"degree":"MD, FNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Sauren Panja Senior (Consultant)",
+		"degree":"MD, FNBE, EDIC",
+		"schedule":""
+		},
+		{
+		"doctor":"Shakya Majumder (Consultant)",
+		"degree":"MD, IDCCM, EDIC, FNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Sohel Ahmed (Associate Consultant)",
+		"degree":"DA, DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Somnath Ganguli (Senior Consultant)",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Sudakshina Mullick (Consultant)",
+		"degree":"MD, FNB, IDCC, EDIC",
+		"schedule":""
+		},
+		{
+		"doctor":"Sudipta Das (Consultant)",
+		"degree":"DA, DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Susmita Guha Ray (Associate Consultant)",
+		"degree":"Fellowship in Critical Care Medicine",
+		"schedule":""
+		},
+		{
+		"doctor":"Sweta Dutta (Associate Consultant)",
+		"degree":"DA, DNB, Fellowship (Liver and Solid Organ Transplant)",
+		"schedule":""
+		},
+		{
+		"doctor":"Taniya Datta (Associate Consultant)",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Titisa Sarkar Mitra (Senior Consultant)",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Vikash Toshniwal (Consultant)",
+		"degree":"MD",
+		"schedule":""
+		}
+		]
+	}
+	]
+}
