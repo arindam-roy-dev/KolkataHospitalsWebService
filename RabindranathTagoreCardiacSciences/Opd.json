@@ -976,6 +976,187 @@
 		"schedule":"Mon to Sat: By Appointment"
 		}
 		]
+	},
+	{
+	"name":"Paediatric Surgery",
+	"schedules":[
+		{
+		"doctor":"Anindya Chattopadhyay (Visiting Consultant)",
+		"degree":"MS, MCh",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Ashoke Kumar Ray (Visiting Consultant)",
+		"degree":"MS, MCh, MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Dipankar Roy (Visiting Consultant)",
+		"degree":"DCh, MS, MCh",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Psychiatry & Clinical Psychology",
+	"schedules":[
+		{
+		"doctor":"Amlan Kusum Jaja (Visiting Consultant)",
+		"degree":"MD, DPM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arijit Bose (Visiting Consultant)",
+		"degree":"MRC (Psychology), MSc, CCT",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Atasi Gupta (Visiting Consultant)",
+		"degree":"MSc in Psychology",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Debjani Das (Visiting Consultant)",
+		"degree":"MRCP",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Indranil Saha (Visiting Consultant)",
+		"degree":"MD, DPM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Partha Sarathi Nandi (Visiting Consultant)",
+		"degree":"Diploma in Psychological Medicine, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Suchandra Brahma (Visiting Consultant)",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sujata Das (Consultant)",
+		"degree":"Ph.D Neuropsychology",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Pulmonology",
+	"schedules":[
+		{
+		"doctor":"Aratrika Das (Consultant)",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Nandini Banerjee (Visiting Consultant)",
+		"degree":"MD, FRCP CCT, PGCE FHEA",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Saurabh Maji (Consultant)",
+		"degree":"MD, DM, DTCD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sujan Bardhan (Consultant)",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Rheumatology",
+	"schedules":[
+		{
+		"doctor":"Santosh Kumar Mandal (Consultant)",
+		"degree":"MD, PDF (Clinical Immunology and Rheumatology)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Surgical Oncology",
+	"schedules":[
+		{
+		"doctor":"Saradindu Ghosh (Visiting Consultant)",
+		"degree":"MS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sumantra Ray (Visiting Consultant)",
+		"degree":"DNB, DNB Surgical Oncology",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Thoracic Surgery",
+	"schedules":[
+		{
+		"doctor":"Subhankar Bhattacharya (Visiting Consultant)",
+		"degree":"MS, MCh",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"initial":"Prof.",
+		"doctor":"Dr. Amitabha Chakrabarti (Consultant)",
+		"degree":"DNB, MCh, MNAMS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Abhay Kumar (Consultant)",
+		"degree":"MS, DNB",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Anup Kumar Kundu (Visiting Consultant)",
+		"degree":"MS, MCh",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arunava Choudhury (Consultant)",
+		"degree":"FACS, FRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Debashish Kumar Das (Visiting Consultant)",
+		"degree":"MS, DNB",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Forqan Babu Shaikh (Associate Consultant)",
+		"degree":"DNB",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Suresh Kumar Bajoria (Senior Consultant)",
+		"degree":"FRCS, DU",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Tarshid Ali Jahangir (Consultant)",
+		"degree":"DNB, MRCS, FLAGES",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Vascular Surgery",
+	"schedules":[
+		{
+		"doctor":"Adhish Basu (Consultant)",
+		"degree":"MS, MRC, MCh",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
 	}
 	]
 }
