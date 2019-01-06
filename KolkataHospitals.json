@@ -4,6 +4,9 @@
 	"name":"Nightingale Hospital",
 	"code":"Nightingale"
 	},{
+	"name":"Belle Vue Clinic",
+	"code":"BelleVue"
+	},{
 	"name":"Sri Aurobindo Seva Kendra (EDF)",
 	"code":"EDF"
 	},{
@@ -16,25 +19,10 @@
 	"name":"Rabindranath Tagore International Institute of Cardiac Sciences",
 	"code":"RabindranathTagoreCardiacSciences"
 	},{
-	"name":"DESUN Hospital",
+	"name":"DESUN Hospital And Heart Institute",
 	"code":"DESUN"
 	},{
 	"name":"Medica Superspecialty Hospital",
 	"code":"Medica"
-	},{
-	"name":"AMRI Hospitals - Mukundapur",
-	"code":"AMRIMukundapur"
-	},{
-	"name":"AMRI Hospitals - Dhakuria",
-	"code":"AMRIDhakuria"
-	},{
-	"name":"AMRI Hospitals - Saltlake",
-	"code":"AMRISaltlake"
-	},{
-	"name":"DESUN Hospital And Heart Institute",
-	"code":"Desun"
-	},{
-	"name":"Fortis Hospital",
-	"code":"FortisAnandapur"
 	}]
 }

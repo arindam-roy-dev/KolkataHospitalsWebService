@@ -1,0 +1,55 @@
+{
+"name":"Belle Vue Clinic",
+"code":"BelleVue",
+"address":"9, Dr. U. N. Brahmachari Street (Formerly Loudon Street), Kolkata 700017, WB, India",
+"emails":"info@bellevueclinic.com",
+"websites":"www.bellevueclinic.com",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Matron, Admissions, Information",
+	"phoneNumbers":"9331841265,9831821850,03322801200",
+	"isOpd":true
+	},{
+	"name":"Emergency Helpline",
+	"phoneNumbers":"9163058000"
+	},{
+	"name":"Belle Vue Clinic",
+	"phoneNumbers":"03322872321,03322876925,03322877473"
+	},{
+	"name":"Medical Help",
+	"phoneNumbers":"9903982232,9836193420"
+	},{
+	"name":"Insurance Help",
+	"phoneNumbers":"9331841266,9331841268"
+	},{
+	"name":"Home Collections of Blood Sample",
+	"phoneNumbers":"9748499944,9748499955,9748499966"
+	},{
+	"name":"NICU Doctors",
+	"phoneNumbers":"9903178450"
+	},{
+	"name":"Floor RMO",
+	"phoneNumbers":"9903982231"
+	},{
+	"name":"Cardiac Surgery",
+	"phoneNumbers":"9836193420,9903982232,9903016384"
+	},{
+	"name":"Health Checkup",
+	"phoneNumbers":"9748499977"
+	},{
+	"name":"Dialysis",
+	"phoneNumbers":"9903057631"
+	},{
+	"name":"RMO (Endoscopy)",
+	"phoneNumbers":"9903982231"
+	},{
+	"name":"Cardiac Interventional",
+	"phoneNumbers":"9836193420,9903982232"
+	},{
+	"name":"Blood Bank",
+	"phoneNumbers":"9903103088"
+	},{
+	"name":"Administration",
+	"phoneNumbers":"9903206250"
+	}]
+}
