@@ -7,137 +7,182 @@
 		{
 		"doctor":"Amit Kundu (Consultant)",
 		"degree":"MD, DA",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Animesh Gupta (Senior Consultant)",
 		"degree":"MD, MRCP (UK)",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Apratim Mukherjee (Senior Consultant)",
 		"degree":"MD, Post Doctoral Fellowship (Neuroanaesthesiology)",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Arupratan Maity (Consultant)",
 		"degree":"MD, FNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Chandan Kumar Mandal (Consultant)",
 		"degree":"DNB, FNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Dipanjan Roy (Associate Consultant)",
 		"degree":"DNB, FNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Emmanuel Rupert (Chief of Medical Services NH Group & Sr. Consultant & Head)",
 		"degree":"MD, PDCC",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Jyotishka Pal (Consultant)",
 		"degree":"MD, IDCCM, FNB-CCM, EDIC, DCH",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Manali Das Choudhury (Associate Consultant)",
 		"degree":"DNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Meghana Marulasiddappa (Junior Consultant)",
 		"degree":"MD",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Priyanka Ghosh (Junior Consultant)",
 		"degree":"DNB, Fellowship in Onco Anaesthesia & Critical Care",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Rahul Guha Biswas (Consultant)",
 		"degree":"MD, PDCC, Clinical Fellow (Cardiac Anesthesia and Intensive Care)",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Rajlakshmi Das (Consultant)",
 		"degree":"MD, FNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Rakesh Rajkumar Chand (Associate Consultant)",
 		"degree":"DA, DNB, FNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Rakesh Sharma (Consultant)",
 		"degree":"MD, FNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Saibal Roy Chowdhury (Senior Consultant)",
 		"degree":"MD, FNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Sauren Panja Senior (Consultant)",
 		"degree":"MD, FNBE, EDIC",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Shakya Majumder (Consultant)",
 		"degree":"MD, IDCCM, EDIC, FNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Sohel Ahmed (Associate Consultant)",
 		"degree":"DA, DNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Somnath Ganguli (Senior Consultant)",
 		"degree":"MD",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Sudakshina Mullick (Consultant)",
 		"degree":"MD, FNB, IDCC, EDIC",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Sudipta Das (Consultant)",
 		"degree":"DA, DNB",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Susmita Guha Ray (Associate Consultant)",
 		"degree":"Fellowship in Critical Care Medicine",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Sweta Dutta (Associate Consultant)",
 		"degree":"DA, DNB, Fellowship (Liver and Solid Organ Transplant)",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Taniya Datta (Associate Consultant)",
 		"degree":"MD",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Titisa Sarkar Mitra (Senior Consultant)",
 		"degree":"MD",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
 		},
 		{
 		"doctor":"Vikash Toshniwal (Consultant)",
 		"degree":"MD",
-		"schedule":""
+		"schedule":"All Days: Call and Schedule an appointment"
+		}
+		]
+	},
+	{
+	"name":"Cardiac Surgery",
+	"schedules":[
+		{
+		"doctor":"Arup Kumar Ghosh (Senior Consultant)",
+		"degree":"MS, MD, FRCS, FRCS (CTh) Fellowships (Heart Lung Transplant)",
+		"schedule":"All Days: Call and Schedule an appointment"
+		},
+		{
+		"doctor":"Atanu Saha (Senior Consultant)",
+		"degree":"M.S, DNB, FRCS, RCS, Fellowship",
+		"schedule":"All Days: Call and Schedule an appointment"
+		},
+		{
+		"doctor":"Debasis Das (Consultant)",
+		"degree":"MS, DNB, MRCS(Edin), MCh, DNB(CTVS), MNAMS",
+		"schedule":"All Days: Call and Schedule an appointment"
+		},
+		{
+		"doctor":"Lalit Kapoor (Senior Consultant)",
+		"degree":"MS, FRCS (I), DNB, FICS, MCh",
+		"schedule":"All Days: Call and Schedule an appointment"
+		},
+		{
+		"doctor":"Milan Kundu (Consultant)",
+		"degree":"MS, MCh",
+		"schedule":"All Days: Call and Schedule an appointment"
+		},
+		{
+		"doctor":"Mrinalendu Das (Senior Consultant)",
+		"degree":"MS, MCh",
+		"schedule":"All Days: Call and Schedule an appointment"
+		},
+		{
+		"doctor":"Nilanjan Dutta (Consultant)",
+		"degree":"MS, MCH",
+		"schedule":"All Days: Call and Schedule an appointment"
+		},
+		{
+		"doctor":"Pradeep Narayan (Senior Consultant)",
+		"degree":"FRCS (Edin), FRCS (Glasgow), FRCS (Cardio-Thoracic Surgery), MD (University of Bristol)",
+		"schedule":"All Days: Call and Schedule an appointment"
 		}
 		]
 	}
