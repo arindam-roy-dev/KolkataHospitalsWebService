@@ -1,0 +1,25 @@
+{
+"name":"DESUN Hospital",
+"code":"DESUN",
+"address":"Desun More, Kasba Golpark, EM Bypass, Kolkata 700107, India",
+"emails":"info@desunhospital.com",
+"websites":"www.desunhospital.com",
+"hasOpd":false,
+"contactTypes":[{
+	"name":"Doctor’s Appointment",
+	"phoneNumbers":"9903922444,9163322074",
+	"isOpd":true
+	},{
+	"name":"24 hr. Emergency Admission",
+	"phoneNumbers":"9051715171"
+	},{
+	"name":"Ambulance Service",
+	"phoneNumbers":"9674083683,8334031345"
+	},{
+	"name":"Surgery Package Queries",
+	"phoneNumbers":"9674083683,8334031345"
+	},{
+	"name":"Health Check Up And Other Queries",
+	"phoneNumbers":"3371222000"
+	}]
+}
