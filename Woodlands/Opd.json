@@ -1,0 +1,1126 @@
+{
+"name":"Woodlands Hospital",
+"specialties":[
+	{
+	"name":"Anaesthesia and Pain Management",
+	"schedules":[
+		{
+		"doctor":"Udayan Bakshi",
+		"designation":"Director - Department of Anaesthesia",
+		"degree":"MD - Anaesthesia",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"Imran Ahmed",
+		"designation":"Senior Consultant",
+		"degree":"MD, DM - Cardiology",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"K K Sinha",
+		"degree":"Dip Card, MD-Tropical Medicine",
+		"schedule":"Tue, Thu, Sat: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Saumitra Ray",
+		"degree":"MD, FRCP, FCSI,FESC",
+		"schedule":"Mon, Thu, Sat: 8:00 a.m - 10:00 a.m"
+		},
+		{
+		"doctor":"Hema Malathi Rath",
+		"designation":"Consultant",
+		"degree":"MD, DM - Cardiology",
+		"schedule":"Mon, Tue, Fri: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Sunil Baran Roy",
+		"designation":"Senior Consultant - Cardiology",
+		"degree":"MD, DM - Cardiology",
+		"schedule":"Mon, Thu, Fri: 6:00 p.m - 8:00 p.m\nSat: 12:00 pm - 2:00 p.m"
+		},
+		{
+		"doctor":"A K Bardhan",
+		"designation":"Senior Consultant - Cardiology",
+		"degree":"MD, Dip Card, FCCP",
+		"schedule":"Mon to Sat: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Suresh Choraria",
+		"designation":"Director - Cardiology",
+		"degree":"MRCP",
+		"schedule":"Mon to Sat: 8:30 a.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Arup Das Biswas",
+		"designation":"Senior Consultant",
+		"degree":"MD, DM - Cardiology",
+		"schedule":"Fri: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Pralayesh Chatterjee",
+		"degree":"",
+		"schedule":"Tue, Thu: 12:00 pm - 2:00 p.m"
+		},
+		{
+		"doctor":"Saroj Mandal",
+		"designation":"Senior Consultant - Interventional Cardiology",
+		"degree":"MD, DM",
+		"schedule":"Mon, Fri: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Achyut Sarkar",
+		"designation":"Senior Consultant - Interventional Cardiology",
+		"degree":"MD, DM",
+		"schedule":"Mon, Wed, Fri: 3:00 p.m - 5:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Critical Care and Internal Medicine",
+	"schedules":[
+		{
+		"doctor":"Pushpita Mondal",
+		"designation":"Consultant",
+		"degree":"MD, FCCCM",
+		"schedule":"Mon, Wed, Fri: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Nirmalya Roychowdhury",
+		"designation":"Consultant",
+		"degree":"MD, M.Phil",
+		"schedule":"Tue to Thu: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Soutik Panda",
+		"designation":"Consultant - Critical care",
+		"degree":"DNB - Anaesthesiology, IDCCM, IFCCM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Madhurima Vidyarthi",
+		"designation":"Consultant - Internal Medicine & Critical Care",
+		"degree":"MRCP, FRCP",
+		"schedule":"Mon to Sat: 12:00 p.m - 2:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Critical Care and Non-Invasive Cardiology",
+	"schedules":[
+		{
+		"doctor":"Prasun Kumar Mitra",
+		"designation":"Consultant",
+		"degree":"PGDCC",
+		"schedule":"Mon to Sat: 12:00 p.m - 2:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"CTVS",
+	"schedules":[
+		{
+		"doctor":"Bhabatosh Biswas",
+		"designation":"Director",
+		"degree":"M.Ch - Cardiothoracic & Vascular Surgery, FRCS",
+		"schedule":"Tue, Thu: 8:00 a.m - 10:00 a.m"
+		}
+		]
+	},
+	{
+	"name":"Dental",
+	"schedules":[
+		{
+		"doctor":"Debadeep Chakrabarty",
+		"degree":"BDS (Cal), FDS, RCS (Eng)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Amir Shakil Khan",
+		"designation":"Consultant Dentistry",
+		"degree":"BDS",
+		"schedule":"Mon to Sat: 9:00 a.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Argha Rudra",
+		"designation":"Consultant Periodontics Dentistry",
+		"degree":"BDS, MDS",
+		"schedule":"Mon to Wed: 3:00 p.m - 5:00 p.m"
+		},
+		{
+		"doctor":"Debolina Chowdhury",
+		"designation":"Consultant Conservative Dentistry & Endodontics",
+		"degree":"BDS, MDS",
+		"schedule":"Sat: 9:00 a.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Fatema Lukmani",
+		"designation":"Consultant Oral Medicine & Radiology",
+		"degree":"BDS, MDS",
+		"schedule":"Mon, Wed, Fri: 4:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Pravin Kumar",
+		"designation":"Dental",
+		"degree":"BDS, MDS, PGDHA, MBA (HCA)",
+		"schedule":"Mon to Sat: Any two days in a month"
+		},
+		{
+		"doctor":"Deepshika Singh",
+		"designation":"Consultant - Pedodontics & Preventive Dentistry",
+		"degree":"BDS, MDS",
+		"schedule":"Wed, Thu: 4.00 pm - 8.00 pm\nSat: 9.00 am - 2.00 pm"
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Jayoti Nandy",
+		"designation":"Consultant - Dermatology",
+		"degree":"MD",
+		"schedule":"Thu: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Sekhar Satyanarayan Halder",
+		"designation":"Consultant - Dermatology",
+		"degree":"MD",
+		"schedule":"Wed: 4:00 p.m- 6:00 p.m\nSat: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Swapan Kumar Saha",
+		"designation":"Senior Consultant - Dermatology",
+		"degree":"MD, DVD",
+		"schedule":"Tue, Thu: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Arun Achar",
+		"designation":"Consultant - Dermatology",
+		"degree":"MD - Dermatology (AIIMS), DNB - Dermatology",
+		"schedule":"Mon, Wed: 6:00 p.m - 8:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Semanti Chakraborty",
+		"degree":"DM - Endocrinology",
+		"schedule":"Mon: 2:00 p.m - 4:00 p.m\nTue to Sat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Jayanta Chakraborty",
+		"designation":"Senior Consultant - Endocrinology",
+		"degree":"MD, FRCP (London)",
+		"schedule":"Mon to Sat: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Ravi Kant Saraogi",
+		"designation":"Consultant - Endocrinology",
+		"degree":"MD, DM",
+		"schedule":"Mon to Wed: 10:00 a.m - 12:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Santanu Bannerjee",
+		"degree":"MBBS, DLO, MS (Ent & Surgery)",
+		"schedule":"Tue, Thu, Sat: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Sayan Ganguly",
+		"designation":"Senior Consultant",
+		"degree":"MS , DNB - ENT",
+		"schedule":"Mon, Wed, Fri: 6:00 p.m - 8:00 p.m\nSat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Dhiraj Ranjan Sarkar",
+		"designation":"Consultant",
+		"degree":"MS - ENT",
+		"schedule":"Mon, Wed, Fri: 12:00 p.m - 2:00 p.m\nSat: 8:00 a.m - 10:00 a.m"
+		},
+		{
+		"doctor":"Jnanabrata Roychowdhury",
+		"designation":"Senior Consultant - ENT",
+		"degree":"DLO, RCS, FRCS",
+		"schedule":"Mon, Wed, Fri: 4:00 p.m -6:00 p.m"
+		},
+		{
+		"doctor":"Debasish Sanyal",
+		"designation":"Senior Consultant - ENT",
+		"degree":"MS - ENT",
+		"schedule":"Thu, Sat: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Anjali Ghosh",
+		"designation":"Senior Consultant - ENT",
+		"degree":"MS - ENT",
+		"schedule":"Mon, Tue: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Rupam Sil",
+		"designation":"Consultant - ENT",
+		"degree":"DLO",
+		"schedule":"Tue, Thu: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Rahul Jaiswal",
+		"designation":"Consultant - ENT",
+		"degree":"MS - ENT",
+		"schedule":"Sun: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Manojendra Narayan Bhattacharya",
+		"designation":"Senior Consultant - ENT",
+		"degree":"DLO, DOHNS, MRCS",
+		"schedule":"Mon, Wed: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Mansoor Alam",
+		"designation":"Consultant ENT - Head & Neck Surgery",
+		"degree":"MBBS, MS, DNB, MRCS (ENT)",
+		"schedule":"Mon, Wed: 4:00 p.m - 6:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology",
+	"schedules":[
+		{
+		"doctor":"Sanjay Bandyopadhyay",
+		"designation":"Senior Consultant",
+		"degree":"MD, DNB, DM",
+		"schedule":"Mon to Sat: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Anirban Chatterjee",
+		"degree":"MBBS, PLAB, GMC, MRCS, CCST, DNB",
+		"schedule":"Wed: 4:00 p.m - 6:00 p.m\nSat: 8:00 a.m - 10:00 a.m"
+		},
+		{
+		"doctor":"Kalyan Bose",
+		"designation":"Director - Gastroenterology",
+		"degree":"MD, MRCP (UK)",
+		"schedule":"Mon, Wed: 10:00 a.m - 12:00 p.m\nFri: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Indrani Sen",
+		"designation":"Senior Consultant - Gastroenterology",
+		"degree":"FRCP",
+		"schedule":"Tue, Thu: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Karmabir Chakravartty",
+		"designation":"Consultant - Gastroenterology",
+		"degree":"MD, MRCP, FACG",
+		"schedule":"Tue, Thu, Sat: 10:00 a.m - 12:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"General and Laparoscopic Surgery",
+	"schedules":[
+		{
+		"doctor":"Darius R Anklesaria",
+		"designation":"Director",
+		"degree":"FRCS (Edin)",
+		"schedule":"Mon, Wed, Fri, Sat: 8.00 a.m - 10.00 a.m\nTue, Thu: 4.00 p.m - 6.00 p.m"
+		},
+		{
+		"doctor":"Pinaki Banerjee",
+		"designation":"Chief",
+		"degree":"MS, FRCS, FRCSE",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Debasish Banerjee",
+		"designation":"Senior Consultant",
+		"degree":"MS, FRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Soumitra Chandra",
+		"designation":"Senior Consultant",
+		"degree":"MS - General Surgery",
+		"schedule":"Mon, Wed, Fri: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Sumit Choudhuri",
+		"degree":"DNB, FRCS",
+		"schedule":"Tue: 4:00 p.m - 6:00 p.m\nSat: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Santanu Chaudhuri",
+		"designation":"Senior Consultant",
+		"degree":"MS, FRCS",
+		"schedule":"Tue, Thu, Sat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Sanjoy Kumar Seal",
+		"designation":"Senior Consultant",
+		"degree":"DNB, FRCS, FAIS",
+		"schedule":"Wed: 6:00 p.m - 8:00 p.m\nSat: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Naba Kumar Saha",
+		"designation":"Senior Consultant",
+		"degree":"MS - General Surgery",
+		"schedule":"Tue: 8:00 a.m - 10:00 a.m\nFri: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Amitava Ghosh",
+		"designation":"Consultant",
+		"degree":"MS, FRCS (Glas & Edin)",
+		"schedule":"Mon, Wed: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Suniti Kumar Hazra",
+		"designation":"Senior Consultant",
+		"degree":"DGO, MS - Surgery",
+		"schedule":"Sun: 10.00 a.m - 2.00 p.m"
+		},
+		{
+		"doctor":"Sumantra Ray",
+		"designation":"Consultant - GI, HPB, Laparoscopic Surgery & Surgical Oncology",
+		"degree":"MS, MRCS (Edin), FIAGES",
+		"schedule":"Mon, Wed, Fri: 10:00 a.m - 12:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"General Medicine",
+	"schedules":[
+		{
+		"doctor":"Biswajit Ghosh Dastidar",
+		"designation":"Senior Consultant",
+		"degree":"MD, MRCP",
+		"schedule":"Tue, Sat: 10:00 a.m - 2:00 p.m\nThu: 10:00 a.m - 2:00 p.m & 4:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"S K Sen",
+		"degree":"MRCP",
+		"schedule":"Mon, Wed, Fri: 6:00 p. m - 8:00 p.m"
+		},
+		{
+		"doctor":"Soumyabrata Roy Chaudhuri",
+		"degree":"MBBS, MRCP, PG Diploma In Geriatric Medicine Master of Health Science- Diabetology",
+		"schedule":"Thu: 2:00 p.m - 4:00 p.m\nSun: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Sujoy Roychowdhury",
+		"degree":"MD - Medicine, DNB",
+		"schedule":"Sat: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Monimoy Ghosh",
+		"designation":"Senior Consultant",
+		"degree":"MD, MRCP (UK)",
+		"schedule":"Mon, Tue, Fri: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Goutam Buddha Ghosh",
+		"degree":"MBBS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arup Kumar Halder",
+		"designation":"Consultant - Respiratory Medicine & Critical Care",
+		"degree":"DCH, MD",
+		"schedule":"Mon to Fri: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Hindol Dasgupta",
+		"designation":"Senior Consultant - Internal & Respiratory Medicine",
+		"degree":"DTM & H, MRCP",
+		"schedule":"Tue, Thu: 2:00 p.m - 4:00 p.m\nFri, Sat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Bhibhore Sengupta",
+		"designation":"Senior Consultant - Pulmonary Medicine",
+		"degree":"MD - Respiratory Medicine",
+		"schedule":"Mon: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"N S Narayan",
+		"designation":"Senior Consultant - General Medicine",
+		"degree":"MD, MRCP",
+		"schedule":"Mon, Wed, Fri: 8:00 a.m - 10:00 a.m"
+		},
+		{
+		"doctor":"Sanjeev Kasera",
+		"designation":"Senior Consultant - General Medicine",
+		"degree":"MD - Medicine",
+		"schedule":"Mon to Sat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Sujoy Mukherjee",
+		"designation":"Consultant - General Medicine",
+		"degree":"MBBS",
+		"schedule":"Tue, Thu, Sat: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Partha Sarathi Mukherjee",
+		"designation":"Senior Consultant - Internal Medicine & Critical Care",
+		"degree":"MRCP (UK), CCT (UK), FRCP (London)",
+		"schedule":"Mon, Wed: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Rajarshi Sengupta",
+		"designation":"Senior Consultant - Internal Medicine",
+		"degree":"MD - General Medicine",
+		"schedule":"Mon, Wed, Fri: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Niladri Sarkar",
+		"designation":"Consultant - General Medicine",
+		"degree":"MD - General Medicine",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"General Medicine and Pulmonology",
+	"schedules":[
+		{
+		"doctor":"Monimoy Ghosh",
+		"designation":"Senior Consultant",
+		"degree":"MD, MRCP (UK)",
+		"schedule":"Mon, Tue, Fri: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Arup Kumar Halder",
+		"designation":"Consultant - Respiratory Medicine & Critical Care",
+		"degree":"DCH, MD",
+		"schedule":"Mon to Fri: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Hindol Dasgupta",
+		"designation":"Senior Consultant - Internal & Respiratory Medicine",
+		"degree":"DTM & H, MRCP",
+		"schedule":"Tue, Thu: 2:00 p.m - 4:00 p.m\nFri, Sat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Bhibhore Sengupta",
+		"designation":"Senior Consultant - Pulmonary Medicine",
+		"degree":"MD - Respiratory Medicine",
+		"schedule":"Mon: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Ankan Bandopadhyay",
+		"designation":"Consultant - Pulmonary Medicine & Critical Care",
+		"degree":"MD, DM",
+		"schedule":"Tue, Thu: 4 p.m - 6 p.m"
+		}
+		]
+	},
+	{
+	"name":"Geriatric",
+	"schedules":[
+		{
+		"doctor":"P K Pooviah",
+		"designation":"Senior Consultant - Internal & Geriatric Medicine",
+		"degree":"MRCP (UK), CCST",
+		"schedule":"Fri: 4:00 p.m - 6:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Internal Medicine",
+	"schedules":[
+		{
+		"doctor":"Harsh Agarwal",
+		"designation":"Senior Consultant - Internal Medicine",
+		"degree":"MD - Medicine",
+		"schedule":"Mon, Fri: 12:00 p.m - 2:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Lalit Kumar Agarwal",
+		"degree":"MD, DM, DNB",
+		"schedule":"Mon to Sat: 12:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Jayanta Basu",
+		"designation":"Director - Nephrology",
+		"degree":"MD, MNAMS",
+		"schedule":"Mon, Wed: 4:00 p.m - 8:00 p.m\nThu: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Sandip Bhattacharya",
+		"designation":"Senior Consultant - Nephrology",
+		"degree":"DM - Nephrology",
+		"schedule":"Mon, Wed, Fri: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Rajiv Mondal",
+		"designation":"Associate Consultant - Nephrology",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Tue, Thu, Fri: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Dipankar Sircar",
+		"designation":"Senior Consultant - Nephrology",
+		"degree":"MBBS, MD,DM - Nephrology",
+		"schedule":"Tue, Thu: 3:00 p.m - 4:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Neuro Medicine",
+	"schedules":[
+		{
+		"doctor":"Sitansu Sekhar Nandi",
+		"designation":"Director",
+		"degree":"DM - Neurology",
+		"schedule":"Tue: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Deep Das",
+		"designation":"Senior Consultant",
+		"degree":"MD, DM - Neurology",
+		"schedule":"Mon, Wed: 4:00 p.m - 6:00 p.m\nSat: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Angshuman Mukherjee",
+		"designation":"Senior Consultant - Neurology",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Sat: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Manoj Kumar Mahata",
+		"designation":"Consultant - Neuro Medicine",
+		"degree":"MD, DM - Neurology",
+		"schedule":"Mon: 10:00 a.m - 12:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Neuro Surgery",
+	"schedules":[
+		{
+		"doctor":"Gouri Kumar Prusty",
+		"designation":"Senior Consultant",
+		"degree":"MCh",
+		"schedule":"Tue, Thu: 4:00 p.m - 6:00 p.m\nWed, Sat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Dibyendu K Roy",
+		"designation":"Senior Consultant - Neuro Surgery",
+		"degree":"MS, MCh - Neuro Surgery",
+		"schedule":"Wed: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Nripendra Nath Bhowmick",
+		"designation":"Senior Consultant - Neuro Surgery",
+		"degree":"MS, MCh - Neuro Surgery",
+		"schedule":"Tue: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Rudrajit Kanjilal",
+		"designation":"Senior Consultant - Neuro Surgery",
+		"degree":"MS, FRCS, DNB",
+		"schedule":"Mon: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Samarendra Nath Ghosh",
+		"designation":"Senior Consultant - Neuro Surgery",
+		"degree":"DNB, MS, MCh",
+		"schedule":"Mon: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Nilay Biswas",
+		"designation":"Consultant - Neuro Surgery",
+		"degree":"MS, MCh - Neuro Surgery, MRCS (Eng)",
+		"schedule":"Tue, Thu: 6:00 p.m - 8:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Obstetrics and Gynaecology",
+	"schedules":[
+		{
+		"doctor":"Kusagradhi Ghosh",
+		"designation":"Director",
+		"degree":"MD, DNB, MRCOG",
+		"schedule":"Mon, Wed, Fri: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Subrata Chatterjee",
+		"designation":"Senior Consultant - Obstetrics & Gynecology",
+		"degree":"MBBS, MD, MRCOG, FRCOG (London)",
+		"schedule":"Mon: 12:00 p.m- 2:00 p.m"
+		},
+		{
+		"doctor":"Sanjoy Sen",
+		"degree":"MD, MRCOG, FRCOG",
+		"schedule":"Tue, Thu, Sat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Ayesha Chaudhuri",
+		"degree":"MD, DGO, MRCOG-PART I - Distance",
+		"schedule":"Tue, Fri: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Pushan Kundu",
+		"designation":"Consultant",
+		"degree":"DNB, MD, MRCOG",
+		"schedule":"Mon: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Soma Dutta",
+		"designation":"Associate Consultant",
+		"degree":"MS - Obstetrics & Gynaecology",
+		"schedule":"Mon to Thu: 2:00 p.m - 4:00 p.m\nFri, Sat: 12:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Shashi Jindel",
+		"designation":"Senior Consultant",
+		"degree":"MS",
+		"schedule":"Tue: 12:00 p.m - 2:00 p.m\nThu: 10:00 a.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Pervinder Kaur",
+		"designation":"Consultant - Obstetrics & Gyanecology",
+		"degree":"MS",
+		"schedule":"Fri: 6:00 pm- 8:00 pm\nSat: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Aindrila Basu",
+		"designation":"Consultant",
+		"degree":"MD - Obstetrics & Gynaecology",
+		"schedule":"Tue: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Pallab Gangopadhyay",
+		"designation":"Senior Consultant - Obstetrics & Gyanecology",
+		"degree":"DGO,MRCOG",
+		"schedule":"Mon, Wed: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Rahul Sen",
+		"designation":"Senior Consultant - Obstetrics & Gyanecology",
+		"degree":"DGO, MRCP, MRCOG",
+		"schedule":"Thu: 8:00 a.m - 10:00 a.m"
+		},
+		{
+		"doctor":"Shakuntala Mitra",
+		"designation":"Senior Consultant - Obstetrics & Gyanecology",
+		"degree":"MRCOG",
+		"schedule":"Mon: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Sushma Agarwal",
+		"designation":"Consultant - Obstetrics & Gyanecology",
+		"degree":"MD",
+		"schedule":"Tue, Sat: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Suparna Chowdhury",
+		"designation":"Consultant - Obstetrics & Gyanecology",
+		"degree":"MD - Obstetrics & Gynaecology",
+		"schedule":"Thu, Sat, Sun: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Dhruba Ray",
+		"designation":"Consultant - Obstetrics & Gynaecology",
+		"degree":"DGO, MD - Obstetrics & Gynaecology",
+		"schedule":"Tue: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Jhuma Hazra",
+		"designation":"Senior Consultant - Obstetrics & Gyanecology",
+		"degree":"DGO",
+		"schedule":"Thu: 4:00 p.m - 6:00 p.m\nSat: 9:00 a.m - 11:00 a.m, 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Anjula Binaykia Nahata",
+		"designation":"Senior Consultant - Obstetrics & Gynaecology",
+		"degree":"MD, DNB - Obstetrics & Gynaecology MRCOG (London)",
+		"schedule":"Mon, Wed: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"S Abubakar",
+		"designation":"Senior Consultant - Obstetrics & Gyanecology",
+		"degree":"DGO, DMRT",
+		"schedule":"Sun: 2:00 p.m"
+		},
+		{
+		"doctor":"Prosenjit Sarkar",
+		"designation":"Consultant - Obstetrics & Gyanecology",
+		"degree":"DGO, MS",
+		"schedule":"Sun: 10.00 a.m - 12.00 noon"
+		}
+		]
+	},
+	{
+	"name":"Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Purban Ganguly",
+		"designation":"Attending Consultant - Ophthalmology",
+		"degree":"MS - Ophthalmology",
+		"schedule":"Tue, Thu, Sat: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Jitendra Saha",
+		"designation":"Consultant - Ophthalmology",
+		"degree":"DO, FRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedics",
+	"schedules":[
+		{
+		"doctor":"Kalyan Kumar Guha",
+		"designation":"Orthopaedics and Joint Replacement",
+		"degree":"MS - Orthopaedics",
+		"schedule":"Wed, Sat: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Goutam Saha",
+		"degree":"MS",
+		"schedule":"Mon, Wed, Fri: 10:00 a.m. - 12:00 p.m\nTue, Thu, Sat: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Shaikh Hassan Iqbal",
+		"degree":"MSc (Orthopaedics)",
+		"schedule":"Tue: 4:00 p.m - 6:00 p.m\nThu: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Sujoy Kundu",
+		"degree":"D.ORTHO (Cal), MS (ORTHO) (USAIM), MCH (ORTHO) (USAIM)",
+		"schedule":"Wed, Sat: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Abhijit Bandopadhyay",
+		"degree":"MS",
+		"schedule":"Tue, Fri: 6:00 p.m - 8:00 p.m\nWed, Sat: 8:00 a.m - 10:00 a.m"
+		},
+		{
+		"doctor":"Tapas Chakraburtty",
+		"designation":"Orthopaedics and Spine Surgery",
+		"degree":"D.Orth, MS",
+		"schedule":"Tue, Fri: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Chandrasekhar Dhar",
+		"designation":"Senior Consultant - Orthopaedics & Joint Replacement",
+		"degree":"FRCS (Edin)",
+		"schedule":"Tue, Thu: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Abhirup Mallick",
+		"designation":"Consultant - Orthopaedics",
+		"degree":"D. ORTHO",
+		"schedule":"Mon, Wed, Sat: 9:00 a.m - 11:00 a.m"
+		},
+		{
+		"doctor":"Amitava Sen",
+		"designation":"Senior Consultant - Orthopaedics & Joint Replacement",
+		"degree":"FRCS",
+		"schedule":"Mon, Fri: 4:00 p.m - 6:00 p.m\nWed: 12:00 p.m - 2:00 p.m\nSun: 11:00 a.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Sanjoy Bagchi",
+		"designation":"Senior Consultant - Orthopaedics & Joint Replacement",
+		"degree":"MS",
+		"schedule":"Mon, Wed: 8:00 a.m - 10:00 a.m\nThu: 4:00 p.m - 6:00 p.m\nSat: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Subhasish Deb",
+		"degree":"",
+		"schedule":"Thu, Sat: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Tapendra Nath Sarkar",
+		"designation":"Senior Consultant - Orthopaedics & Joint Replacement",
+		"degree":"MS, FRCS",
+		"schedule":"Wed, Sat: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Susmit Naskar",
+		"designation":"Consultant - Trauma & Spine Surgery",
+		"degree":"MS - Orthopaedics",
+		"schedule":"Mon, Thu: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Subhadip Mondal",
+		"designation":"Consultant - Spine Surgery",
+		"degree":"MS - Orthopaedics, DNB - Orthopaedics, MNAMS",
+		"schedule":"Tue: 4:00 p.m- 6:00 p.m\nFri: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Varun Chandra",
+		"designation":"Senior Consultant - Orthopaedics & Joint Replacement",
+		"degree":"MS",
+		"schedule":"Wed, Sat: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Suhasish Roy",
+		"designation":"Consultant - Orthopaedics & Spine Surgery",
+		"degree":"D (Ortho)",
+		"schedule":"Mon, Thu: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Suday Mukhopadhyay",
+		"designation":"Consultant - Orthopaedics",
+		"degree":"MBBS, DTM & H, MS",
+		"schedule":"Mon: 2:00 p.m - 4:00 p.m\nFri: 6:00 p.m - 8:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Onco Surgery",
+	"schedules":[
+		{
+		"doctor":"Sumantra Ray",
+		"designation":"Consultant - General Surgery & Surgical Oncology",
+		"degree":"DNB - Surgery, DNB - Surgical Oncology",
+		"schedule":"Mon, Fri: 12 noon - 2.00 pm"
+		},
+		{
+		"doctor":"Prasenjit Chatterjee",
+		"designation":"Senior Consultant - Onco Medicine",
+		"degree":"DNB, MD, DMRT",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Physical Medicine",
+	"schedules":[
+		{
+		"doctor":"Subrata Mitra",
+		"designation":"Senior Consultant - Rehabilitation Medicine",
+		"degree":"",
+		"schedule":"Tue, Thu: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"initial":"Ms.",
+		"doctor":"Neha Agarwal",
+		"designation":"Physiotherapist",
+		"degree":"BPT",
+		"schedule":"Tue, Thu, Sat: 10.00 a.m - 12.00 noon"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Surgery",
+	"schedules":[
+		{
+		"doctor":"Ruchirendra Sarkar",
+		"designation":"Senior Consultant - Paediatric Surgery",
+		"degree":"MS, MCh - Paediatric Surgery",
+		"schedule":"Thu, Sat: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Aneek Roychowdhury",
+		"designation":"Consultant - Paediatric Surgery",
+		"degree":"DNB, MCh - Paediatric Surgery",
+		"schedule":"Mon, Tue, Wed, Fri: 4:00 p.m - 6:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Paediatrics and Neonatology",
+	"schedules":[
+		{
+		"doctor":"Sabyasachi Das",
+		"designation":"Consultant",
+		"degree":"MD",
+		"schedule":"Mon, Wed, Sat: 12:00 p.m - 2:00 p.m\nTue, Thu: 12:00 p.m - 2:00 p.m & 6:00 p.m - 8:00 p.m\nFri: 10:00 a.m - 2:00 p.m\nSun: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Santanu Ray",
+		"designation":"Senior Consultant",
+		"degree":"MD",
+		"schedule":"Mon, Wed: 10:00 a.m - 12:00 p.m\nSat: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Krushna Chandra Das",
+		"designation":"Senior Consultant - Pediatrics & Neonatology",
+		"degree":"MBBS, MD, DCH (UK), MRCPCH",
+		"schedule":"Tue, Thu, Sat: 8:00 a.m - 10:00 a.m\nWed, Fri: 4:00 p.m -6:00 p.m"
+		},
+		{
+		"doctor":"Saumen De",
+		"designation":"Consultant - Paediatrics & Neonatology",
+		"degree":"MD - Paediatrics & Neonatology",
+		"schedule":"Thu: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Asim Maity",
+		"designation":"Senior Consultant - Paediatric & Neonatology",
+		"degree":"DCH, MD, MRCP (UK)",
+		"schedule":"Wed, Sat: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Pulak Kole",
+		"designation":"Senior Consultant - Paediatrics & Neonatalogy",
+		"degree":"MD, DCH (UK), MRCPCH",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Moumita Sinha Saha",
+		"designation":"Consultant - Paediatrics & Neonatology",
+		"degree":"DCH, MRCP, MRCPCH",
+		"schedule":"Tue, Thu: 2:00 p.m - 4:00 p.m\nSat: 8:00 a.m - 10:00 a.m"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Neurology",
+	"schedules":[
+		{
+		"doctor":"Jigyasa Sinha",
+		"designation":"Consultant - Paediatric Neurology",
+		"degree":"MD - Paediatrics, FICOG, FIMSA",
+		"schedule":"Thu: 12:00 p.m - 2:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"doctor":"Anupam Golash",
+		"degree":"MS, DNB, FRCS",
+		"schedule":"Mon, Wed, Fri, Sat: 8:00 a.m - 10:00 a.m\nTue, Thu: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"K S Chhajer",
+		"designation":"Senior Consultant - Plastic & Cosmetic Surgery",
+		"degree":"MS, MCh - Plastic Surgery",
+		"schedule":"Mon to Sat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"S A Faizal",
+		"designation":"Senior Consultant - Plastic & Cosmetic Surgery",
+		"degree":"MS, MCh - Plastic Surgery",
+		"schedule":"Mon, Wed, Fri: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Saptarshi Bhattacharya",
+		"designation":"Consultant - Plastic & Reconstructive Surgery",
+		"degree":"MS, MCh - Plastic Surgery",
+		"schedule":"Mon, Thu: 6:00 p.m - 8:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Psychology",
+	"schedules":[
+		{
+		"doctor":"Sabyasachi Mitra",
+		"designation":"Senior Consultant - Behavioral Medicine",
+		"degree":"MSC, MRCPsych, DTM, DCP, MBBS",
+		"schedule":"Fri: 12:00 p.m - 2:00 p.m"
+		},
+		{
+		"doctor":"Bidita Bhattacharya",
+		"designation":"Consultant - Clinical Psychology & Neuropsychology",
+		"degree":"Mphil, MSc.",
+		"schedule":"Wed, Fri: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"doctor":"Amlan K Jana",
+		"designation":"Consultant - Psychiatry",
+		"degree":"DPM, MD - Psychiatry",
+		"schedule":"Mon: 12:00 p.m - 2:00 p.m\nWed: 4:00 p.m - 6:00 p.m\nSat: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Amar Nath Mallick",
+		"designation":"Consultant - Psychiatry",
+		"degree":"DGO, DPM, FCCP",
+		"schedule":"Sat: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Rima Mukherjee",
+		"designation":"Senior Consultant - Psychiatry",
+		"degree":"MBBS, Diploma in Psychological Medicine",
+		"schedule":"Tue, Thu: 10:00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Subhabrata Bhakta",
+		"designation":"Consultant - Psychiatry",
+		"degree":"MD - Psychiatry",
+		"schedule":"Sun: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Preeti Parakh",
+		"designation":"Consultant - Psychiatry",
+		"degree":"MD - Psychiatry",
+		"schedule":"Mon, Thu, Sat: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Jhuma Basak",
+		"designation":"Consultant - Clinical Psychology",
+		"degree":"MA, Ph.D",
+		"schedule":"Tue: 6:00 p.m - 8:00 p.m"
+		},
+		{
+		"doctor":"Devasish Konar",
+		"designation":"Senior Consultant - Psychiatry",
+		"degree":"MD - Psychiatry",
+		"schedule":"Sun: 10:00 a.m - 12:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Rheumatology",
+	"schedules":[
+		{
+		"doctor":"Abhrajit Ray",
+		"designation":"Senior Consultant",
+		"degree":"MD, MRCP (UK)",
+		"schedule":"Tue: 10:00a.m- 12:00 p.m"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Kalyan Kumar Sarkar",
+		"designation":"Director",
+		"degree":"MS , FRCS (Edin)",
+		"schedule":"Mon, Wed, Fri: 4:00 p.m - 6:00 p.m"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Anjan Das",
+		"designation":"Senior Consultant - Urology & Andrology",
+		"degree":"MS (PGI), DNB, MCh - Urology",
+		"schedule":"Tue, Thu: 6:00 p.m - 8:00 p.m\nSat: 10: 00 a.m - 12:00 p.m"
+		},
+		{
+		"doctor":"Prithwiraj Ghoshal",
+		"designation":"Senior Consultant - Urology",
+		"degree":"MS, MCh",
+		"schedule":"Tue, Fri: 9:00 a.m - 11:00 a.m\nWed: 2:00 p.m - 4:00 p.m"
+		},
+		{
+		"doctor":"Sujit Kumar Sinha",
+		"designation":"Senior Consultant - Urology",
+		"degree":"MS, MCh - Uro Surgery",
+		"schedule":"Thu: 10.00 am - 12.00 noon\nSat: 2.00 pm - 4.00 pm"
+		}
+		]
+	}
+	]
+}

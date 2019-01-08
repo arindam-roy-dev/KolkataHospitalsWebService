@@ -1,0 +1,19 @@
+{
+"name":"Woodlands Hospital",
+"code":"Woodlands",
+"address":"8/5, Alipore Road, Kolkata 700027",
+"emails":"enquiry@woodlandshospital.in",
+"websites":"www.woodlandshospital.in",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Outdoor Patient",
+	"phoneNumbers":"03340337033",
+	"isOpd":true
+	},{
+	"name":"Helpline No (8am to 10pm)",
+	"phoneNumbers":"760407555155"
+	},{
+	"name":"Administration",
+	"phoneNumbers":"0332456707589"
+	}]
+}
