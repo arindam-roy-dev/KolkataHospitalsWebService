@@ -1,0 +1,33 @@
+{
+"name":"Kothari Medical Centre",
+"code":"Kothari",
+"address":"8/3 Alipore Road (Opposite to Alipore Zoo), Kolkata 700027, West Bengal, India",
+"emails":"kmc@kotharimedical.com,marketing@kotharimedical.com",
+"websites":"www.kotharimedical.com",
+"faxNumbers":"03324567171,03324567044",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointments",
+	"phoneNumbers":"8697708133",
+	"isOpd":true
+	},{
+	"name":"Landlines",
+	"phoneNumbers":"03324567050,03324567051,03324567052,03324567053,03324567054,03324567055,03324567056,03324567057,03324567058,03324567059,03340127000"
+	},{
+	"name":"Appointments",
+	"phoneNumbers":"8697708133"
+	"isOpd":true
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"8697708134"
+	},{
+	"name":"Emergency And Trauma Care",
+	"phoneNumbers":"8697708132"
+	},{
+	"name":"Others",
+	"phoneNumbers":"8697708113,8697742254"
+	},{
+	"name":"Speciality Clinic",
+	"phoneNumbers":"8697729605,8697708133"
+	}]
+}
