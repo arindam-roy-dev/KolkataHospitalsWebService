@@ -1,0 +1,16 @@
+{
+"name":"Fortis Hospital, Anandapur",
+"code":"FortisAnandapur",
+"address":"730, Anandapur, E.M. Bypass Road, Kolkata, West Bengal 700107",
+"emails":"enquiry.kolkata@fortishealthcare.com",
+"websites":"www.fortishealthcare.com/india/fortis-hospital-in-anandapur-kolkata-west-bengal",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"OPD Schedule",
+	"phoneNumbers":"03366284444"
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"105711"
+	}]
+}
