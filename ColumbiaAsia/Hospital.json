@@ -1,0 +1,16 @@
+{
+"name":"Columbia Asia Hospital",
+"code":"ColumbiaAsia",
+"address":"IB-193, Sector-III, Salt Lake, Kolkata-700091",
+"emails":"feedback@columbiaasia.com",
+"websites":"www.columbiaasia.com/india/hospitals/salt-lake/overview",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"General Line",
+	"phoneNumbers":"03339898969,03366003300",
+	"isOpd":true
+	},{
+	"name":"Facsimile",
+	"phoneNumbers":"03323357078"
+	}]
+}

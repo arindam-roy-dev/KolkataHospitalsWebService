@@ -1,0 +1,672 @@
+{
+"name":"Columbia Asia Hospital",
+"specialties":[
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"initial":"Prof.",
+		"doctor":"P.S. Banerjee",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Jayanta Saha",
+		"degree":"MD, DM",
+		"schedule":"Thu: 05:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Ranjan Kumar Sharma",
+		"degree":"MD, DM",
+		"schedule":"Tue: 05:00 PM - 07:00 PM"
+		},
+		{
+		"doctor":"Madhumita Kuila",
+		"degree":"MD, DM",
+		"schedule":"Wed, Sat: 04:00 PM - 05:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Cardio Thoracic Surgery",
+	"schedules":[
+		{
+		"initial":"Prof.",
+		"doctor":"Uday Narayan Sarkar",
+		"degree":"MS (General Surgery), MCH CTS",
+		"schedule":"Tue: 10:00 AM - 11:00 AM"
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Alok Kumar Roy",
+		"degree":"MD, DV&D",
+		"schedule":"Tue: 04:00 PM - 05:00 PM\nThu: 05.30 PM - 07:30 PM"
+		},
+		{
+		"doctor":"Pankaj Kanti Jha",
+		"degree":"MD , DV& D, CCL , CCHA",
+		"schedule":"Tue: 01:00 PM - 03:00 PM\nWed: 09:30 AM - 03:00 PM"
+		},
+		{
+		"doctor":"Piyali Chatterjee",
+		"degree":"DTM&H",
+		"schedule":"Sat: 02:00 PM - 04:00 PM"
+		},
+		{
+		"initial":"Prof.",
+		"doctor":"Rathindra Nath Dutta",
+		"degree":"MD",
+		"schedule":"Wed, Fri: 06:30 PM - 08:30 PM"
+		}
+		]
+	},
+	{
+	"name":"Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Aniruddha Bhattacharya",
+		"degree":"MD , DM",
+		"schedule":"Mon: 09.30AM -10.30 PM"
+		},
+		{
+		"doctor":"Jishnu Banerjee",
+		"degree":"MD, DM",
+		"schedule":"Wed: 09:00 AM - 06:00 PM"
+		},
+		{
+		"doctor":"Soumik Goswami",
+		"degree":"MD, DM",
+		"schedule":"Mon: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Sagarika Mukherjee",
+		"degree":"MRCP, CCST",
+		"schedule":"Mon, Fri: 11:00 AM - 01:00 PM"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Indranil Pal",
+		"degree":"MS",
+		"schedule":"Tue, Fri: 06:00 PM - 07:00 PM"
+		},
+		{
+		"doctor":"Chandan Chakraborty",
+		"degree":"DLO,MS",
+		"schedule":"Tue, Fri: 04:00 PM - 06:00 PM\nSat: 09:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Saumik Das",
+		"degree":"MS (ENT), DLO, DNB",
+		"schedule":"Sat: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Suchir Maitra",
+		"degree":"DLO, DOHNS, MRCS",
+		"schedule":"Mon: 10:00 AM - 11:30 AM, 01:00 PM - 05:30 PM\nTue to Fri: 10:00 AM - 04:30 PM\nSat: 10:00 AM - 04:00 PM"
+		},
+		{
+		"doctor":"Sukrit Bose",
+		"degree":"MS",
+		"schedule":"Mon, Thu: 06:00 PM - 08:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology",
+	"schedules":[
+		{
+		"doctor":"Sujoy Maitra",
+		"degree":"MRCP, MD",
+		"schedule":"Mon to Sat: 10:30 AM - 03:00 PM"
+		}
+		]
+	},
+	{
+	"name":"General & Laparoscopic Surgery",
+	"schedules":[
+		{
+		"doctor":"Amitava Chakraborty",
+		"degree":"MS",
+		"schedule":"Tue, Sat: 06:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Aniruddha Dasgupta",
+		"degree":"MS,FRCS",
+		"schedule":"Wed: 06:00 PM - 08:00 PM\nFri: 08:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Asis K Sinha",
+		"degree":"MS , FRCS",
+		"schedule":"Wed: 07:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Debabrata Bose",
+		"degree":"MS, FRCS",
+		"schedule":"Mon, Thu: 06:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Deb Kumar Roy",
+		"degree":"MS, FRCS",
+		"schedule":"Wed, Sat: 09:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Gautam Bhaumik",
+		"degree":"MS (CAL),DNB,FRCS,FIAGEF",
+		"schedule":"Tue, Sat: 02:00 PM - 03:00 PM\nThu: 10:30 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Santanu Chaudhuri",
+		"degree":"MS,FRCS",
+		"schedule":"Mon, Fri: 10:00 PM - 12:00 PM\nWed: 11:00 AM - 01:00 PM\nThu: 02:00 PM - 06:00 PM\nSat: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Sandip Chakraborty",
+		"degree":"MS, FRCS",
+		"schedule":"Tue: 06:00 PM - 07:00 PM\nThu: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Sudip Roy",
+		"degree":"MS,FRCS",
+		"schedule":"Thu: 05.30 PM - 06.30 PM"
+		},
+		{
+		"doctor":"Tapan Mukherjee",
+		"degree":"MS,DNB",
+		"schedule":"Wed: 02:00 PM - 03:00 PM\nSat: 08:00 AM - 09:00 AM"
+		},
+		{
+		"doctor":"Umasankar Mukherjee",
+		"degree":"MS, FRCS, FRCS ED.",
+		"schedule":"Mon, Tue, Thu, Fri, Sat: 09:00 AM - 11:00 AM\nWed: 9:00 AM - 11:00 AM"
+		}
+		]
+	},
+	{
+	"name":"Geriatric Medicine",
+	"schedules":[
+		{
+		"doctor":"Kausik Mazumdar",
+		"degree":"DTM&H, MRCP",
+		"schedule":"Sun: 12:00 PM -  02:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Internal Medicine",
+	"schedules":[
+		{
+		"doctor":"Dipankar Sarkar",
+		"degree":"MD, DA",
+		"schedule":"Mon: 11:30 AM - 01:30 PM, 06:00  PM - 08:00 PM\nTue, Wed, Fri: 11:30 AM - 01:30 PM, 06:00 PM - 08:00 PM\nThu: 11.30 AM - 02:00 PM"
+		},
+		{
+		"doctor":"Jyoti Deb",
+		"degree":"DTM&H, MRCP",
+		"schedule":"Thu: 09:30 AM - 11:00 AM"
+		},
+		{
+		"doctor":"Ranbir Chowdhary",
+		"degree":"MD, MRCP",
+		"schedule":"Mon, Wed, Thu: 12:00 PM - 05:00 PM\nTue, Fri: 12:00 PM - 04:00 PM\nSat: 10.30 AM - 2.30 PM"
+		},
+		{
+		"doctor":"Santosh Kumar Maheswari",
+		"degree":"MD",
+		"schedule":"Mon to Sat: 08.30 AM - 9.30 AM"
+		},
+		{
+		"doctor":"Sujit Kumar Saha",
+		"degree":"MD (Med.), DCH",
+		"schedule":"Mon, Wed: 12.30PM - 02:00 PM\nTue, Thu: 9:00 AM - 11:00 AM\nFri: 12.30 PM - 02:00 PM\nSat: 10:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Medical Oncology",
+	"schedules":[
+		{
+		"doctor":"Bidisha Ghosh Naskar",
+		"degree":"DCH, MD (RT)",
+		"schedule":"Wed: 03:30 PM - 04:30 PM"
+		},
+		{
+		"doctor":"Subrata Saha",
+		"degree":"MD, Dip Card, MAUF, UICC Fellow",
+		"schedule":"Mon to Fri: 09.30 AM - 10.30 AM (By Appointment)"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Jayanta Datta",
+		"degree":"MD, DM",
+		"schedule":"Mon, Thu: 11:00 AM - 12:00 PM\nWed: 04:00 PM - 05:00 PM\nFri: 09:00 AM - 11:00 AM\nSat: 02:00 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Neurology",
+	"schedules":[
+		{
+		"doctor":"Ansu Sen",
+		"degree":"MD, DM",
+		"schedule":"Mon, Tue, Thu: 11:00 AM - 03:00 PM\nWed: 03:00 PM - 05:00 PM\nFri: 04:00 PM - 07:00 PM\nSat: 12:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Sudhir Kumar",
+		"degree":"MD, DM",
+		"schedule":"Mon, Wed, Sat: 05:00 PM - 07:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Neuro Surgery",
+	"schedules":[
+		{
+		"doctor":"Atul Vajpeyi",
+		"degree":"MS (Ortho), MCH (Neuro Surgery)",
+		"schedule":"Tue: 04:00 PM - 06:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Obstetrics and Gynaecology",
+	"schedules":[
+		{
+		"doctor":"Abhinibesh Chatterjee",
+		"degree":"MD, DNB, MRCOG",
+		"schedule":"Tue: 01:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Alok Basu",
+		"degree":"FRCOG (LONDON)",
+		"schedule":"Wed: 06:00 PM - 08:00 PM\nSat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Barun Chakraborty",
+		"degree":"MD (OBG)",
+		"schedule":"Mon: 11:00 AM - 12:00 PM\nFri: 01:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Basab Mukherjee",
+		"degree":"MD , MRCOG",
+		"schedule":"Wed, Sat: 06:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Bimla Goenka",
+		"degree":"DA, DNB, MNAMS",
+		"schedule":"Mon: 10:00 AM - 12:00 PM\nTue, Thu, Sat: 03:00 PM - 05:00 PM"
+		},
+		{
+		"doctor":"Bratati Bhattacharyya",
+		"degree":"MD , DGO",
+		"schedule":"Tue: 10:00 PM - 12:00 PM  "
+		},
+		{
+		"doctor":"Jayita Chakrabarti",
+		"degree":"MD,DNB, MICOG, MRCOG(I)",
+		"schedule":"Mon, Fri: 02:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Joydip Basu",
+		"degree":"MD",
+		"schedule":"Mon, Fri: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Joyeeta Roy",
+		"degree":"",
+		"schedule":"Tue, Fri: 04:00 PM - 06:00 PM"
+		},
+		{
+		"initial":"Prof.",
+		"doctor":"Kartik Ch. De",
+		"degree":"DGO, MO",
+		"schedule":"Wed: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Asish Kumar Ghosh",
+		"degree":" D.G.O. (Cal) M.S. (Cal)",
+		"schedule":"Tue, Sat: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Laxmi Agarwal",
+		"degree":"DGO, MD, DNB",
+		"schedule":"Mon, Thu: 12:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Madhu Bahl Deb",
+		"degree":"MD, DNB, MRCOG",
+		"schedule":"Mon, Sat: 09:00 AM - 11:00 AM\nWed: 11:00 AM - 01:00 PM"
+		},
+		{
+		"doctor":"Madhusudhan Saha",
+		"degree":"MD, DNB",
+		"schedule":"Wed: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"MMS. Zoha",
+		"degree":"MD, DGO, FRCOG (LONDON)",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Nilabha Bhaduri",
+		"degree":"MD",
+		"schedule":"Tue, Sat: 06:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Kavita Mondal",
+		"degree":"MD",
+		"schedule":"Fri: 12:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Polly Chatterjee",
+		"degree":"MD, DNB, MRCOG",
+		"schedule":"Thu: 02:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Pushan Kundu",
+		"degree":"MD, DNB, FRCOG",
+		"schedule":"Wed: 05:00 PM - 07:00 PM"
+		},
+		{
+		"doctor":"Ratnabali Chakravarty",
+		"degree":"DGO, MD, FICMCH",
+		"schedule":"Wed: 04:00 PM - 06:00 PM (IST WD DAY OF EVERY MONTH)"
+		},
+		{
+		"doctor":"Sankar Das Mahapatra",
+		"degree":"MS",
+		"schedule":"Tue, Sat: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Sudeshna Mukherjee",
+		"degree":"MD, MRCOG",
+		"schedule":"Fri: 11:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Subhra Ghosh Pal",
+		"degree":"MD",
+		"schedule":"Tue: 09:00 AM - 11:00 AM\nSat: 03:00 PM - 05:00 PM"
+		},
+		{
+		"doctor":"Suchandra Mukhopadhyay",
+		"degree":"DNB ObG",
+		"schedule":"Tue, Fri: 09:00 AM - 11:00 AM"
+		},
+		{
+		"doctor":"Deepti Gupta",
+		"degree":"MS, MRCOG",
+		"schedule":""
+		},
+		{
+		"doctor":"Swapan Bhattacharyya",
+		"degree":"MD, DGO, DRCP, DRCOG",
+		"schedule":"Sat: 03:00 PM - 05:00 PM\nSun: 11:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Opthalmology",
+	"schedules":[
+		{
+		"doctor":"Subhasish Das",
+		"degree":"MS",
+		"schedule":"Mon, Wed, Thu, Sat: 10.30 PM - 12.30 PM\nTue, Fri: 11.30 AM - 01:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Oral & Maxillofacial Surgery",
+	"schedules":[
+		{
+		"doctor":"Sushant Kumar Karkun",
+		"degree":"BDS, MDS, MOMS, RCPS",
+		"schedule":"Wed, Fri: 11.30 AM - 01:00 PM"
+		},
+		{
+		"doctor":"Siddhartho Chakraborty",
+		"degree":"BDS, MDS",
+		"schedule":"Mon: 05.30 PM - 07:00 PM"
+		},
+		{
+		"doctor":"Arindam Ganguly",
+		"degree":"FRCS",
+		"schedule":"Tue, Fri: 02.30 PM - 5.30 PM\nWed: 11:00 AM - 01:30 PM\nSat: 11:30 AM - 01:30 PM"
+		},
+		{
+		"doctor":"Rajiv Chatterjee",
+		"degree":"D.Orth, MS, DNB, FRCS",
+		"schedule":"Mon, Thu: 01:00 PM - 05:00 PM\nTue: 10:30 AM - 01:30 PM"
+		},
+		{
+		"doctor":"Saumitra Misra",
+		"degree":"MS, FRCS",
+		"schedule":"Mon: 08:00 AM -12:00 PM\nWed, Sat: 03:00 PM - 07:00 PM\nThu: 09:00 AM - 01:00 PM"
+		},
+		{
+		"doctor":"MALAY MONDAL",
+		"degree":"",
+		"schedule":"Sun: 05:00 PM - 06:00 PM By Appointment"
+		},
+		{
+		"doctor":"Avishek Das",
+		"degree":"DNB (ORTH), MNAMS, MRCS (UK)",
+		"schedule":"Mon to Sat: 02:00 PM - 05:00 PM"
+		},
+		{
+		"doctor":"Kunal Sengupta",
+		"degree":"FRCS, DORTH, M.S(ORTH), DNB(ORTH)",
+		"schedule":"Mon, Wed, Fri: 04:00 PM - 05:00 PM"
+		},
+		{
+		"doctor":"Moupia Chakraborty",
+		"degree":"DCH",
+		"schedule":"Mon to Sat: 11:00 AM - 01:00 PM"
+		},
+		{
+		"doctor":"Pallab Chatterjee",
+		"degree":"DNB, MD, DCH",
+		"schedule":"Tue: 12:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Pavitra Chakravarty",
+		"degree":"MRCPCH, DCH, MRCGP, DFFP",
+		"schedule":"Tue, Wed: 02:00 PM - 03:00 PM\nSat: 04:00 PM - 05:00 PM\nSun: 10:00 AM - 11:00 AM"
+		},
+		{
+		"initial":"Prof.",
+		"doctor":"Prabhabati Banerjee",
+		"degree":"MD (Paediatrics), DCH, MRCPCH",
+		"schedule":"Mon, Wed, Fri: 10:00 AM -12:00 PM"
+		},
+		{
+		"doctor":"Rajesh Goel",
+		"degree":"DCH, MRCPCH",
+		"schedule":"Mon to Fri: 09:00 AM - 11:00 AM\nSat: 09:00 AM - 11:00 AM, 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Shamik Ghosh",
+		"degree":"DCH, MD, DNB, MNAMS, MRCP, MRCPCH",
+		"schedule":"Tue to Fri: 01:00 PM - 03:00 PM\nSat: 01:00 PM - 05:00 PM"
+		},
+		{
+		"doctor":"Subroto Chakrabartty",
+		"degree":"MD, DCH",
+		"schedule":"Thu: 04:00 PM - 05:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Pediatric Surgery",
+	"schedules":[
+		{
+		"doctor":"Anindya Chattopadhyay",
+		"degree":"MS (Gen. Surg.), MCH (Ped. Surg.)",
+		"schedule":"Tue: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Rishavdeb Patra",
+		"degree":"MS, M.Ch",
+		"schedule":"Tue: 05:00 PM - 06:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"doctor":"Manish Mukul Ghosh",
+		"degree":"MD, MS, FRCS, FRCS (Plastic Surgery)",
+		"schedule":"Tue, Thu: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Suparna Ghosh",
+		"degree":"DNB, MCH",
+		"schedule":"Sat: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Syed Faizal",
+		"degree":"MS, MCH (Plastic Surgery)",
+		"schedule":"Mon, Thu: 02:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"V S Rathore",
+		"degree":"MRCS,MCH",
+		"schedule":"Tue, Sat: 04:00 PM - 06:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Psychiatry",
+	"schedules":[
+		{
+		"doctor":"Parthasarathy Biswas",
+		"degree":"MD",
+		"schedule":"Wed: 06:00 PM - 08:00 PM\nSat: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Sarmishtha Chakrabarti",
+		"degree":"DPM MRC (Psychiatry)",
+		"schedule":"Thu: 04:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Santanu Goswami",
+		"degree":"MD, DNB, MRCPsych, CCST",
+		"schedule":"Mon: 05:00 PM - 07:00 PM\nThu: 04:00 PM - 06:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Psychology",
+	"schedules":[
+		{
+		"initial":"Ms.",
+		"doctor":"Barnali Ghosh",
+		"degree":"M.Sc (Psychology)",
+		"schedule":"Wed, Thu: 05:00 PM - 08:00 PM"
+		},
+		{
+		"initial":"Ms.",
+		"doctor":"Smaranika Tripathy",
+		"degree":"M.Sc (Psychology)",
+		"schedule":"Mon, Thu: 05:00 PM - 07:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Pulmonology",
+	"schedules":[
+		{
+		"doctor":"Arup Kumar Halder",
+		"degree":"MD (CHEST), DCH",
+		"schedule":"Wed, Thu: 06:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Dhrubajyoti Roy",
+		"degree":"DTCD, MD, DNB",
+		"schedule":"Mon, Wed: 11:00 AM - 12:00 PM\nTue, Fri: 06:00 PM - 08:00 PM\nSun: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Saibal Ghosh",
+		"degree":"MD",
+		"schedule":"Thu: 08.30 AM - 10.30 AM\nSun: 10:00 PM - 12:00 PM"
+		},
+		{
+		"doctor":"Tanvir Reza",
+		"degree":"DTMH, MRCP",
+		"schedule":"Mon to Fri: 01:00 PM - 02:00 PM\nSat: 12:30 PM - 01:30 PM"
+		}
+		]
+	},
+	{
+	"name":"Rheumatology",
+	"schedules":[
+		{
+		"doctor":"Dipak Kumar Ray",
+		"degree":"MD MRCP CCSP FRCP",
+		"schedule":"Mon: 12:00 PM - 02:00 PM\nThu: 06:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Satyabrata Chaudhuri",
+		"degree":"MD MS (ORTH) DNB",
+		"schedule":"Tue, Fri: 09:00 AM - 10:00 AM"
+		}
+		]
+	},
+	{
+	"name":"Spine Surgery",
+	"schedules":[
+		{
+		"doctor":"Saikat Sarkar",
+		"degree":"MS (ORTHO), DNB, MRCS (Glasgow), Spine Fellow DHMC - USA",
+		"schedule":"Tue: 10:00 PM - 12:00 PM\nFri: 03:00 PM - 05:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Haemotology",
+	"schedules":[
+		{
+		"doctor":"Shilpa Bhartiya",
+		"degree":"MRCP, FRC PATH",
+		"schedule":"Mon: 05:00 PM - 06:00 PM\nWed, Fri: 09:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Soumya Mukherjee",
+		"degree":"MD(PATH), DM",
+		"schedule":"Mon, Fri: 06.30 PM - 07:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Arnab Krishna Deb",
+		"degree":"MS, FRCS",
+		"schedule":"Mon: 04:00 PM - 06:00 PM\nFri: 06:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Dibakar Ghosh",
+		"degree":"MS, FRCS",
+		"schedule":"Mon to Sat: 09:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Kaushik Chandra Mallik",
+		"degree":"MS, FRCS",
+		"schedule":"Wed, Sat: 01:30 PM - 04:00 PM"
+		}
+		]
+	}
+	]
+}
