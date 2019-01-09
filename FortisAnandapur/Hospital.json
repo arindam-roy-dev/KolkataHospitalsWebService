@@ -7,7 +7,7 @@
 "hasOpd":true,
 "contactTypes":[{
 	"name":"OPD Schedule",
-	"phoneNumbers":"03366284444"
+	"phoneNumbers":"03366284444",
 	"isOpd":true
 	},{
 	"name":"Emergency",
