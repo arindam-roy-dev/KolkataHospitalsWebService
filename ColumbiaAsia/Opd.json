@@ -44,7 +44,7 @@
 		{
 		"doctor":"Alok Kumar Roy",
 		"degree":"MD, DV&D",
-		"schedule":"Tue: 04:00 PM - 05:00 PM\nThu: 05.30 PM - 07:30 PM"
+		"schedule":"Tue: 04:00 PM - 05:00 PM\nThu: 05:30 PM - 07:30 PM"
 		},
 		{
 		"doctor":"Pankaj Kanti Jha",
@@ -70,7 +70,7 @@
 		{
 		"doctor":"Aniruddha Bhattacharya",
 		"degree":"MD , DM",
-		"schedule":"Mon: 09.30AM -10.30 PM"
+		"schedule":"Mon: 09:30AM - 10:30 PM"
 		},
 		{
 		"doctor":"Jishnu Banerjee",
@@ -175,7 +175,7 @@
 		{
 		"doctor":"Sudip Roy",
 		"degree":"MS,FRCS",
-		"schedule":"Thu: 05.30 PM - 06.30 PM"
+		"schedule":"Thu: 05:30 PM - 06:30 PM"
 		},
 		{
 		"doctor":"Tapan Mukherjee",
@@ -205,7 +205,7 @@
 		{
 		"doctor":"Dipankar Sarkar",
 		"degree":"MD, DA",
-		"schedule":"Mon: 11:30 AM - 01:30 PM, 06:00  PM - 08:00 PM\nTue, Wed, Fri: 11:30 AM - 01:30 PM, 06:00 PM - 08:00 PM\nThu: 11.30 AM - 02:00 PM"
+		"schedule":"Mon: 11:30 AM - 01:30 PM, 06:00  PM - 08:00 PM\nTue, Wed, Fri: 11:30 AM - 01:30 PM, 06:00 PM - 08:00 PM\nThu: 11:30 AM - 02:00 PM"
 		},
 		{
 		"doctor":"Jyoti Deb",
@@ -215,17 +215,17 @@
 		{
 		"doctor":"Ranbir Chowdhary",
 		"degree":"MD, MRCP",
-		"schedule":"Mon, Wed, Thu: 12:00 PM - 05:00 PM\nTue, Fri: 12:00 PM - 04:00 PM\nSat: 10.30 AM - 2.30 PM"
+		"schedule":"Mon, Wed, Thu: 12:00 PM - 05:00 PM\nTue, Fri: 12:00 PM - 04:00 PM\nSat: 10:30 AM - 2:30 PM"
 		},
 		{
 		"doctor":"Santosh Kumar Maheswari",
 		"degree":"MD",
-		"schedule":"Mon to Sat: 08.30 AM - 9.30 AM"
+		"schedule":"Mon to Sat: 08:30 AM - 9:30 AM"
 		},
 		{
 		"doctor":"Sujit Kumar Saha",
 		"degree":"MD (Med.), DCH",
-		"schedule":"Mon, Wed: 12.30PM - 02:00 PM\nTue, Thu: 9:00 AM - 11:00 AM\nFri: 12.30 PM - 02:00 PM\nSat: 10:00 AM - 12:00 PM"
+		"schedule":"Mon, Wed: 12:30PM - 02:00 PM\nTue, Thu: 9:00 AM - 11:00 AM\nFri: 12:30 PM - 02:00 PM\nSat: 10:00 AM - 12:00 PM"
 		}
 		]
 	},
@@ -240,7 +240,7 @@
 		{
 		"doctor":"Subrata Saha",
 		"degree":"MD, Dip Card, MAUF, UICC Fellow",
-		"schedule":"Mon to Fri: 09.30 AM - 10.30 AM (By Appointment)"
+		"schedule":"Mon to Fri: 09:30 AM - 10:30 AM (By Appointment)"
 		}
 		]
 	},
@@ -421,7 +421,7 @@
 		{
 		"doctor":"Subhasish Das",
 		"degree":"MS",
-		"schedule":"Mon, Wed, Thu, Sat: 10.30 PM - 12.30 PM\nTue, Fri: 11.30 AM - 01:00 PM"
+		"schedule":"Mon, Wed, Thu, Sat: 10:30 PM - 12:30 PM\nTue, Fri: 11:30 AM - 01:00 PM"
 		}
 		]
 	},
@@ -431,17 +431,17 @@
 		{
 		"doctor":"Sushant Kumar Karkun",
 		"degree":"BDS, MDS, MOMS, RCPS",
-		"schedule":"Wed, Fri: 11.30 AM - 01:00 PM"
+		"schedule":"Wed, Fri: 11:30 AM - 01:00 PM"
 		},
 		{
 		"doctor":"Siddhartho Chakraborty",
 		"degree":"BDS, MDS",
-		"schedule":"Mon: 05.30 PM - 07:00 PM"
+		"schedule":"Mon: 05:30 PM - 07:00 PM"
 		},
 		{
 		"doctor":"Arindam Ganguly",
 		"degree":"FRCS",
-		"schedule":"Tue, Fri: 02.30 PM - 5.30 PM\nWed: 11:00 AM - 01:30 PM\nSat: 11:30 AM - 01:30 PM"
+		"schedule":"Tue, Fri: 02:30 PM - 5:30 PM\nWed: 11:00 AM - 01:30 PM\nSat: 11:30 AM - 01:30 PM"
 		},
 		{
 		"doctor":"Rajiv Chatterjee",
@@ -599,7 +599,7 @@
 		{
 		"doctor":"Saibal Ghosh",
 		"degree":"MD",
-		"schedule":"Thu: 08.30 AM - 10.30 AM\nSun: 10:00 PM - 12:00 PM"
+		"schedule":"Thu: 08:30 AM - 10:30 AM\nSun: 10:00 PM - 12:00 PM"
 		},
 		{
 		"doctor":"Tanvir Reza",
@@ -644,7 +644,7 @@
 		{
 		"doctor":"Soumya Mukherjee",
 		"degree":"MD(PATH), DM",
-		"schedule":"Mon, Fri: 06.30 PM - 07:00 PM"
+		"schedule":"Mon, Fri: 06:30 PM - 07:00 PM"
 		}
 		]
 	},
