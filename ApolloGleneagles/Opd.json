@@ -1,1 +1,615 @@
-﻿
+﻿{
+"name":"Apollo Gleneagles Hospital",
+"specialties":[
+	{
+	"name":"Allergy & Immunology",
+	"schedules":[
+		{
+		"doctor":"Sujoy Khan",
+		"degree":"MBBS, MRCP, DRCPATH, FRCPATH, FRCP",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"A K Bardhan",
+		"degree":"MBBS, MD, Dip. Card., FCCP",
+		"schedule":"Mon, Tue, Wed, Thu, Sat: 11:00 AM - 12:00 PM\nFri: 11:00 AM - 12:00 PM, 12:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Bikash Majumder",
+		"degree":"MBBS, MD, MRCP, MD (Research London), CCT (Cardiology UK)",
+		"schedule":"Mon to Sat: 02:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Debashis Ghosh",
+		"degree":"MBBS, DIP Card, MD, MCP (London), FRCP (Edin) & FRCP",
+		"schedule":"Mon to Sat: 01:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Nabarun Roy",
+		"degree":"MBBS (HONS) Calcutta Medical College, MD (Medicine) - VIMS, Kolkata, DM(Cardiology) - IPGMEERR, SSKM Hospital, MRCP – Royal College UK",
+		"schedule":"Mon to Sat: 12:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"P C Mondal",
+		"degree":"MBBS, MD , DNB (Card), MRCP (UK), MRCP (Ire), MRCPS (Glasgow), DM(Card), DMRD, FACC (USA)",
+		"schedule":"Mon to Fri: 08:00 AM - 11:00 AM"
+		},
+		{
+		"doctor":"Raja Nag",
+		"degree":"MBBS, MD (Ge. Med.), DNB (Card.)",
+		"schedule":"Mon to Sat: 10:00 AM - 01:00 PM"
+		},
+		{
+		"doctor":"Sankha Subhra Das",
+		"degree":"MBBS, DTCD, MD, MRCP, DNB",
+		"schedule":"Mon, Tue, Thu, Fri: 12:00 PM - 02:00 PM\nWed: 12:00 PM - 01:00 PM"
+		},
+		{
+		"doctor":"Suvro Banerjee",
+		"degree":"MBBS, MD, MRCP (UK), FRCP (Edin), FRCP (London), FICC, FCSI, FESC, FACC, FSCAI",
+		"schedule":"Mon to Thu: 09:00 AM - 11:00 AM\nFri: 09:00 AM - 11:00 AM, 06:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Swapan Kumar De",
+		"degree":"MBBS, MD & DM",
+		"schedule":"Mon to Sat: 11:00 AM - 01:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Cardiac Electrophysiology",
+	"schedules":[
+		{
+		"doctor":"Suchit Majumdar",
+		"degree":"MBBS, MD (Medicine), DM (Cardiology), Postdoctoral fellowship in Cardiac Electrophysiology( SCTIMST), Certified Cardiac Electrophysiology specialist (IBHRE, USA)",
+		"schedule":"Mon, Tue, Fri: 10:00 AM - 01:45 PM, 01:45 PM - 03:00 PM\nWed, Thu: 10:00 AM - 01:45 PM, 01:45 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Cardio Thoracic Surgery",
+	"schedules":[
+		{
+		"doctor":"Amar Nath Ghosh",
+		"degree":"MBBS, M.S. (Gen. Surg.), M.Ch (CTVS), DNB (CTVS), FIACS",
+		"schedule":"Mon to Fri: 12:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Suraj Kr. Pradhan",
+		"degree":"MBBS, M.S (General Surgery), MCh(CTVS)",
+		"schedule":"Wed: 09:00 AM - 12:00"
+		},
+		{
+		"doctor":"Sushan Mukhopadhyay",
+		"degree":"MBBS, MS, MCh(CTVS), FIACTS",
+		"schedule":"Mon to Fri: 12:00 PM - 02:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Critical Care",
+	"schedules":[
+		{
+		"doctor":"Chandrashish Chakravarty",
+		"degree":"MBBS, MD, Fellow in Critical Care (USA)",
+		"schedule":"Mon to Sat: 02:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Suresh Ramasubban",
+		"degree":"MBBS, FCCP, American Board Certified in Critical Care, Pulmonology, Internal Medicine",
+		"schedule":"Mon, Tue, Thu, Fri: 02:00 PM - 04:00 PM\nWed: 02:00 PM - 03:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Dentistry &  Faciomaxillary Surgery",
+	"schedules":[
+		{
+		"doctor":"Kaustubh Das",
+		"degree":"BDS, MFDSRCPS, FFD RCS (Ireland)",
+		"schedule":"Mon to Fri: 12:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Subhrajyoti Mukherjee",
+		"degree":"BDS, MFDS, FFDRCS",
+		"schedule":"Mon to Sat: 12:00 PM - 03:30 PM"
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Atul Taneja",
+		"degree":"MD (AIIMS, NEW DELHI), Skin Oncology (Boston), Laser Surgery, Photomedicine (Massachusetts General Hospital), MGH, Harvard Medical School (USA)",
+		"schedule":"Wed: 02:00 PM - 05:00 PM\nThu to Sat: 10:00 AM - 12:00 PM, 12:00 PM - 05:00 PM"
+		},
+		{
+		"doctor":"Sachin Varma",
+		"degree":"MBBS, MD (Dermat), FAAD (USA)",
+		"schedule":"Mon to Sat: 01:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Srabani Ghosh Zoha",
+		"degree":"MBBS, MD, MRCP, FRCP (GLASGOW)",
+		"schedule":"Tue, Wed, Thu, Sat: 10:00 AM - 12:00 PM, 12:00 PM - 03:00 PM\nFri: 10:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Abhik Ghosh",
+		"degree":"MBBS, MS, FACS",
+		"schedule":"Mon to Sat: 12:00 PM - 01:00 PM"
+		},
+		{
+		"doctor":"Ajay Kr Arya",
+		"degree":"MBBS, FRCS, FRCS (Otolaryngology - Glasgow, Edinburgh)",
+		"schedule":"Mon, Wed, Fri, Sat: 12:00 PM - 01:00 PM\nTue, Thu: 12:00 PM - 01:00 PM, 06:00 PM - 07:00 PM"
+		},
+		{
+		"doctor":"Archana Ranade",
+		"degree":"MS (ENT)",
+		"schedule":"Mon to Sat: 12:00 PM - 01:45 PM, 01:45 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Shantanu Panja",
+		"degree":"MBBS, MS (Otolaryngology and Head & Neck Surgery)",
+		"schedule":"Mon to Sat: 03:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Subhankar Dey",
+		"degree":"MBBS, DLO, DNB",
+		"schedule":"Mon, Tue, Wed, Sat: 01:00 PM - 02:00 PM\nFri: 01:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Sukrit Bose",
+		"degree":"MBBS, MS (Oto-Rhino-Laryngology)",
+		"schedule":"Mon, Fri: 02:00 PM - 05:00 PM\nTue, Wed, Thu, Sat: 02:00 PM - 03:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology",
+	"schedules":[
+		{
+		"doctor":"Mahesh Goenka",
+		"degree":"MBBS, MD, DM (Gastro), MNAMS, FACG, FASGE (USA)",
+		"schedule":"Mon to Sat: 08:00 AM - 09:30 AM"
+		}
+		]
+	},
+	{
+	"name":"General Medicine",
+	"schedules":[
+		{
+		"doctor":"Arup Sahu",
+		"degree":"MD (Med)",
+		"schedule":"Tue to Fri: 12:00 PM - 01:00 PM"
+		},
+		{
+		"doctor":"Dhiman Sen",
+		"degree":"MBBS, MD (Med), MRCP (UK), DTM&H",
+		"schedule":"Mon to Sat: 01:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Hirak Majumdar",
+		"degree":"MD, MRCP, FRCP",
+		"schedule":"Mon to Fri: 12:00 PM - 01:00 PM, 01:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Milan Chetri",
+		"degree":"MBBS, MD (Med), MRCP, Dip.Card",
+		"schedule":"Mon to Fri: 10:00 AM - 01:00 PM, 03:00 PM - 04:00 PM\nSat: 10:00 AM - 12:30 PM"
+		},
+		{
+		"doctor":"Shankar Loharuka",
+		"degree":"MBBS, MRCP (UK), CCST (UK), Accredited as RCP Educator (London), FRCP (London)",
+		"schedule":"Mon to Sat: 01:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Sovan Sinha",
+		"degree":"MBBS, MD, MRCP",
+		"schedule":"Mon to Sat: 09:00 AM - 12:00 PM, 12:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Suddhasatwya Chatterjee",
+		"degree":"MBBS, DNB",
+		"schedule":"Mon, Tue, Wed, Fri: 12:00 PM - 03:00 PM\nThu, Sat: 11:00 AM - 12:00 PM, 12:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Syamasis Bandyopadhyay",
+		"degree":"MD (Med.), MRCP (UK), CCST (UK)",
+		"schedule":"Fri: 05:00 PM - 06:00"
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"doctor":"Debashis Roy",
+		"degree":"MS (Gen.Surg.), FRCS (Edin.), CCST (UK)",
+		"schedule":"Tue to Sat: 12:00 PM - 01:00 PM"
+		},
+		{
+		"doctor":"Jaydip Bhadra Ray",
+		"degree":"MBBS, MS(Gen.Surg.), FRCS (Edin)",
+		"schedule":"Mon to Sat: 11:00 AM - 01:00 PM"
+		},
+		{
+		"doctor":"Nipanjan Ghosh",
+		"degree":"DNB, MRCS (Eng), MNAMS",
+		"schedule":"Mon to Sat: 11:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Somnath Bhattacharya",
+		"degree":"MBBS, DNB (Gen. Surg.)",
+		"schedule":"Mon: 12:00 PM - 12:00 PM\nTue: 09:00 AM - 12:00 PM\nWed to Sat: 12:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Sudip Roy",
+		"degree":"MS (Gen.Surg.), DA, FRCS (Glasg.)",
+		"schedule":"Mon to Sat: 10:00 AM - 01:00 PM, 01:00 PM - 04:30 PM"
+		}
+		]
+	},
+	{
+	"name":"General & Laproscopic Surgery",
+	"schedules":[
+		{
+		"doctor":"Syamal Kumar Sarkar",
+		"degree":"MS (Gen.Surg.)",
+		"schedule":"Mon to Sat: 11:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Abhijit Taraphder",
+		"degree":"MBBS, MD (Med.), DM (Nephrology)",
+		"schedule":"Mon: 06:00 PM - 06:15 PM"
+		},
+		{
+		"doctor":"Manish Kumar Jain",
+		"degree":"MBBS, MD (Med.), DM",
+		"schedule":"Mon to Sat: 11:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Sandip Kumar Bhattacharya",
+		"degree":"MBBS, MD (Nephrology), DM (Nephrology)",
+		"schedule":"Tue to Sat: 11:00 AM - 01:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Neurology",
+	"schedules":[
+		{
+		"doctor":"Amitabha Ghosh",
+		"degree":"MBBS, MD (Med), MRCP (UK), CCST (Neurology, UK, FRCP (London), FRCP (Edin)",
+		"schedule":"Mon to Fri: 01:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Nabin Sarkar",
+		"degree":"MBBS (Cal), MD, DM(Neurology)",
+		"schedule":"Tue to Sat: 12:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Sudir Kumar",
+		"degree":"MBBS, MD, DM (Neurology)",
+		"schedule":"Mon, Tue, Fri: 02:00 PM - 05:00 PM\nWed, Sat: 02:00 PM - 03:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Neurosurgery",
+	"schedules":[
+		{
+		"doctor":"B K Singhania",
+		"degree":"MBBS, MS (Gen.Surg.), M.Ch (Neurosurg), Fellowship Spine Surgery (Aus)",
+		"schedule":"Mon to Sat: 12:00 PM - 01:00 PM, 01:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"S N Singh",
+		"degree":"MS, M.Ch (Neuro, SGPGI, Lucknow)",
+		"schedule":"Mon to Fri: 12:00 PM - 01:00 PM, 01:00 PM - 03:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Obstetrics & Gynaecology",
+	"schedules":[
+		{
+		"doctor":"Arnab Basak",
+		"degree":"MBBS, MD, DNB, MRCOG (Lond.), MNAMS",
+		"schedule":"Wed: 12:00 PM - 01:00"
+		},
+		{
+		"doctor":"Bhaskar Pal",
+		"degree":"MBBS, MD, DNB, MRCOG, DGO",
+		"schedule":"Mon to Sat: 01:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Jayanta Kumar Gupta",
+		"degree":"DGO, MD (Cal), MRCOG FRCOG",
+		"schedule":"Mon to Sat: 01:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"M Padmaja Bhattacharya",
+		"degree":"M.D, MRCOG (Lond)",
+		"schedule":"Mon, Wed: 12:00 PM - 01:00 PM, 01:00 PM - 02:00 PM\nTue, Fri, Sat: 12:00 PM - 01:00 PM\nThu: 11:00 AM - 01:00 PM"
+		},
+		{
+		"doctor":"Mallinath Mukherjee",
+		"degree":"MBBS (Cal), DGO (Dublin), DFFP, DRCOG, MRCOG, FRCOG (London), FRCS (Edin), MRCP (Dublin), CCST (UK). DM (Nottingham), M.Phil (WBUHS)",
+		"schedule":"Mon to Sat: 03:00 PM - 05:00 PM"
+		},
+		{
+		"doctor":"Ramna Banerjee",
+		"degree":"MBBS, DGO, MD, MRCOG (UK), CCST (UK), ACCREDITED COLPOSCOPIST (UK)",
+		"schedule":"Mon to Sat: 12:00 AM - 01:45 PM, 01:45 PM - 11:45 PM"
+		},
+		{
+		"doctor":"Seeta Ramamurthy Pal",
+		"degree":"DGO, MD, MRCOG, FICOG, RCOG/RCR, Dip.in Obst.USG",
+		"schedule":"Mon to Sat: 12:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Sharmishtha Patra",
+		"degree":"MS, MRCOG (Lond)",
+		"schedule":"Mon to Sat: 12:00 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Asim Kumar Kandar",
+		"degree":"MBBS, MD (Ophthalmology), DNB (Ophthalmology), FRCS (Opthalmology), &ICO",
+		"schedule":"Tue, Thu: 11:00 AM - 12:00 PM, 12:00 PM - 02:00 PM\nWed: 06:00 PM - 08:00 PM"
+		},
+		{
+		"doctor":"Bikas Bhattacharya",
+		"degree":"MBBS, DO, MS, AIOS Research Fellow-L V PRASAD EYE INSTITUTE (HYDERABAD)",
+		"schedule":"Tue: 12:00 PM - 01:00 PM, 01:00 PM - 04:00"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedics",
+	"schedules":[
+		{
+		"doctor":"Abheek Kar",
+		"degree":"MS (Ortho), MRCS (Edin)",
+		"schedule":"Tue to Sat: 12:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Buddhadeb Chatterjee",
+		"degree":"MS (Ortho), FRCS (Ortho, UK)",
+		"schedule":"Sat: 05:00 PM - 06:00"
+		},
+		{
+		"doctor":"Indranil Pal",
+		"degree":"MBBS, MS (Ortho), Dip. SICOT Ortho, DNB (Ortho)",
+		"schedule":"Wed: 10:00 AM - 12:00"
+		},
+		{
+		"doctor":"Ranadip Rudra",
+		"degree":"MS (Ortho)",
+		"schedule":"Wed: 11:00 AM - 12:00"
+		},
+		{
+		"doctor":"Ranjan Kamilya",
+		"degree":"MS (Ortho), FRCS(Glasg), M.Sc (Trauma Surg., UK)",
+		"schedule":"Mon: 04:30 PM - 05:00"
+		},
+		{
+		"doctor":"Ravi Ganesh Bharadwaj",
+		"degree":"MBBS, MS (Ortho), MRCS (Edin), Dip SICOT, FRCS (Trauma & Ortho)",
+		"schedule":"Mon to Sat: 01:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Tathagatha Das",
+		"degree":"MS (Ortho), MCh (Ortho, UK)",
+		"schedule":"Wed, Fri: 02:00 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Subrata Dey",
+		"degree":"MD (Paed), DNB, MRCP (UK), DCH, USA Board Certified Paediatric & Encodocrinology",
+		"schedule":"Wed: 11:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Neonatology",
+	"schedules":[
+		{
+		"doctor":"Sudip Sengupta",
+		"degree":"MBBS, DCH, MD (Tropical Medicine), MRCPCH, Degree in Childhood Asyhama (UK)",
+		"schedule":"Mon to Thu: 10:00 AM - 12:00 PM\nFri: 10:00 AM - 12:00 PM, 02:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Tamal Laha",
+		"degree":"MBBS, DCH, MD",
+		"schedule":"Mon, Tue, Wed, Fri, Sat: 12:00 PM - 03:00 PM\nThu: 01:00 PM - 02:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Paediatrics Surgery",
+	"schedules":[
+		{
+		"doctor":"Biswanath Mukhopadhyay",
+		"degree":"MBBS, MS, MCh (PGI), FRCS (Edin, Glasgow), FAMS",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Debasish Mitra",
+		"degree":"MS (Gen.Surg.), M.Ch (Paed.Surg), MRCS (Edin), MRCS (Eng)",
+		"schedule":"Mon: 10:00 AM - 10:10 AM, 02:00 PM - 03:00 PM\nTue to Fri: 10:00 AM - 12:00 PM\nSat: 10:00 AM - 11:15 AM"
+		},
+		{
+		"doctor":"Sanghamitra Bhattacharya",
+		"degree":"MS (Gen.Surg), M.Ch (Paed.Surg)",
+		"schedule":"Mon: 02:00 PM - 03:00 PM\nTue to Sat: 12:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Vaishali Ray Srivastava",
+		"degree":"MS (Gen.Surg), M.Ch (Paed.Surg), MRCS (UK)",
+		"schedule":"Mon: 12:00 PM - 01:00 PM\nTue to Sat: 12:00 PM - 02:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"doctor":"Kaushik Nandy",
+		"degree":"MS (Gen.Surg), M.Ch (Plast.Surg), FRCS (Edin.)",
+		"schedule":"Mon, Thu: 10:00 AM - 11:00 AM"
+		},
+		{
+		"doctor":"Srinjoy Saha",
+		"degree":"MBBS, MS (Gen. Sur.), MRCS Ed., M.Ch (Plastic Surgery)",
+		"schedule":"Mon to Sat: 11:00 AM - 12:00 PM, 12:00 PM - 02:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Psychiatry",
+	"schedules":[
+		{
+		"doctor":"Anirban Dutt",
+		"degree":"MBBS, MRCPsych, MD",
+		"schedule":"Mon to Sat: 02:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Arindam Mondal",
+		"degree":"MD (Psychiatry)",
+		"schedule":"Mon to Fri: 02:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Jay Ranjan Ram",
+		"degree":"MBBS, MD (Psych, NIMHANS), MRCPsych (UK), CCST",
+		"schedule":"Thu: 12:00 PM - 02:00"
+		}
+		]
+	},
+	{
+	"name":"Pulmonology",
+	"schedules":[
+		{
+		"doctor":"Asok Sengupta",
+		"degree":"DTM&H, MD, MRCP (UK), FRCP (Edin), FCCP (USA)",
+		"schedule":"Mon to Fri: 12:00 PM - 01:00 PM, 01:00 PM - 02:00 PM\nSat: 11:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Sivaresmi Unnithan",
+		"degree":"MBBS, MD (Res.Med)",
+		"schedule":"Mon to Sat: 01:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Subhasish Ghosh",
+		"degree":"MBBS, PLAB, MD (Gen.Med), MRCP",
+		"schedule":"Mon to Fri: 12:00 PM - 01:00 PM"
+		},
+		{
+		"doctor":"Sushmita Roy Chowdhury",
+		"degree":"MBBS, MD (Respiratory Medicine), MRCP, European Diploma in Adult Respiratoty Medicine",
+		"schedule":"Mon to Sat: 02:00 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Rheumatology",
+	"schedules":[
+		{
+		"doctor":"Parthajit Das",
+		"degree":"MBBS, MD (Medicine), MRCP (UK), MRCP (Rheumatology), FRCP (London), FRCP (Edinburgh), MSC ( Sports medicine), CCST (UK)",
+		"schedule":"Wed, Thu: 09:30 AM - 12:00 PM, 12:00 PM - 02:00 PM\nSat: 08:00 AM - 12:00 PM, 12:00 PM - 02:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Spine Surgery",
+	"schedules":[
+		{
+		"doctor":"Abrar Ahmed",
+		"degree":"MS (Ortho AIIMS) Fellow Spine Surgery",
+		"schedule":"Mon, Tue, Wed, Thu, Sat: 09:00 AM - 12:00 PM\nFri: 09:00 AM - 12:00 PM, 03:00 PM - 05:00 PM"
+		},
+		{
+		"doctor":"Prashant Baid",
+		"degree":"MBBS, MS (Ortho), Spine Fellowship (India, Singapore, Brazil), MIS (Spine) Singapore",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM, 12:00 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Surgical Oncology",
+	"schedules":[
+		{
+		"doctor":"Shaikat Gupta",
+		"degree":"MS, FRCS Ed",
+		"schedule":"Tue, Thu: 12:00 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Transplant Surgery",
+	"schedules":[
+		{
+		"doctor":"Pradip Chakrabarti",
+		"degree":"FRCSEd (UK), FACS (USA), FICS (USA)",
+		"schedule":"Mon to Sat: 01:00 PM - 01:45 PM, 01:45 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Debasish Banerjee",
+		"degree":"MBBS, MS (PGI Chandigarh), FRCS (UK)",
+		"schedule":"Mon to Sat: 02:00 PM - 03:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Amit Ghose",
+		"degree":"MS (Cal), FRCS (Edin), Dip in Uro (UK)",
+		"schedule":"Sat: 01:00 PM - 01:30 PM"
+		},
+		{
+		"doctor":"Avinash Dutt Sharma",
+		"degree":"MBBS, MS (Gen.Surgery), MCh. (Urology)",
+		"schedule":"Mon to Sat: 12:00 PM - 01:00 PM, 01:00 PM - 02:00 PM"
+		},
+		{
+		"doctor":"Tridibes Mandal",
+		"degree":"MBBs, MS (Gen. Surg.), DNB (Uro)",
+		"schedule":"Mon to Thu: 02:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Vinay Mahendra",
+		"degree":"MBBS ,MS (Gen. Sur.), M.Ch(Uro), DNB (Uro), FRCS (Uro), FRCS (Glasgow)",
+		"schedule":"Mon: 11:00 AM - 12:00 PM"
+		}
+		]
+	}
+	]
+}
