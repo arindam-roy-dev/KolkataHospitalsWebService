@@ -1,0 +1,14 @@
+{
+"name":"Bhagirathi Neotia Woman & Child Care Centre",
+"code":"BhagirathiNeotia",
+"address":"2, Rawdon Street, Kolkata 700017, West Bengal",
+"emails":"info.bnwccc@neotiahealthcare.com",
+"websites":"www.neotiahospital.com/rawdon-street",
+"fax":"03340405007"
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"03340405000,03340405001,03340405002",
+	"isOpd":true
+	}]
+}
