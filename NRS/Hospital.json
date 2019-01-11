@@ -1,0 +1,15 @@
+{
+"name":"Nil Ratan Sircar Medical College & Hospital",
+"code":"NRS",
+"address":"138, AJC Bose Road, Sealdah, Raja Bazar, Kolkata, West Bengal 700014",
+"emails":"support@nrsmc.edu.in",
+"websites":"www.nrsmc.edu.in",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Administrative Head - Principal",
+	"phoneNumbers":"03322860033"
+	},{
+	"name":"Administrative Head - Medical Super cum Vice Principal",
+	"phoneNumbers":"03322658610"
+	}]
+}
