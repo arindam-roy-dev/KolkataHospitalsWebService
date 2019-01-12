@@ -1,17 +1,38 @@
 {
 "app":"Kolkata Hospitals",
 "hospitals":[{
-	"name":"Nightingale Hospital",
-	"code":"Nightingale"
+	"name":"AMRI Hospitals, Mukundapur",
+	"code":"AMRIMukundapur"
+	},{
+	"name":"Apollo Gleneagles Hospital",
+	"code":"ApolloGleneagles"
 	},{
 	"name":"Belle Vue Clinic",
 	"code":"BelleVue"
 	},{
-	"name":"Sri Aurobindo Seva Kendra (EDF)",
-	"code":"EDF"
+	"name":"Bhagirathi Neotia Woman & Child Care Centre",
+	"code":"BhagirathiNeotia"
 	},{
-	"name":"Ruby General Hospital",
-	"code":"RubyGeneral"
+	"name":"Columbia Asia Hospital",
+	"code":"ColumbiaAsia"
+	},{
+	"name":"DESUN Hospital And Heart Institute",
+	"code":"DESUN"
+	},{
+	"name":"Fortis Hospital, Anandapur",
+	"code":"FortisAnandapur"
+	},{
+	"name":"Kothari Medical Centre",
+	"code":"Kothari"
+	},{
+	"name":"Medica Superspecialty Hospital",
+	"code":"Medica"
+	},{
+	"name":"Nightingale Hospital",
+	"code":"Nightingale"
+	},{
+	"name":"Nil Ratan Sircar Medical College & Hospital (NRS)",
+	"code":"NRS"
 	},{
 	"name":"Peerless Hospital",
 	"code":"Peerless"
@@ -19,34 +40,13 @@
 	"name":"Rabindranath Tagore International Institute of Cardiac Sciences",
 	"code":"RabindranathTagoreCardiacSciences"
 	},{
-	"name":"DESUN Hospital And Heart Institute",
-	"code":"DESUN"
+	"name":"Ruby General Hospital",
+	"code":"RubyGeneral"
 	},{
-	"name":"Medica Superspecialty Hospital",
-	"code":"Medica"
+	"name":"Sri Aurobindo Seva Kendra (EDF)",
+	"code":"EDF"
 	},{
 	"name":"Woodlands Hospital",
 	"code":"Woodlands"
-	},{
-	"name":"Kothari Medical Centre",
-	"code":"Kothari"
-	},{
-	"name":"Fortis Hospital, Anandapur",
-	"code":"FortisAnandapur"
-	},{
-	"name":"Columbia Asia Hospital",
-	"code":"ColumbiaAsia"
-	},{
-	"name":"Apollo Gleneagles Hospital",
-	"code":"ApolloGleneagles"
-	},{
-	"name":"Nil Ratan Sircar Medical College & Hospital (NRS)",
-	"code":"NRS"
-	},{
-	"name":"Bhagirathi Neotia Woman & Child Care Centre",
-	"code":"BhagirathiNeotia"
-	},{
-	"name":"AMRI Hospitals, Mukundapur",
-	"code":"AMRIMukundapur"
 	}]
 }
