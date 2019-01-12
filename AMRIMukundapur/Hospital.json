@@ -1,0 +1,14 @@
+{
+"name":"AMRI Hospitals, Mukundapur",
+"code":"AMRIMukundapur",
+"address":"230 Barakhola Lane, Purba Jadavpur, Kolkata 700099",
+"emails":"",
+"websites":"www.amrihospitals.in/mukundapur",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"03366061000",
+	"isOpd":true
+	}]
+}
