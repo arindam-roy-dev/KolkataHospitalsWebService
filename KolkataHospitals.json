@@ -1,6 +1,9 @@
 {
 "app":"Kolkata Hospitals",
 "hospitals":[{
+	"name":"AMRI Hospitals, Dhakuria",
+	"code":"AMRIDhakuria"
+	},{
 	"name":"AMRI Hospitals, Mukundapur",
 	"code":"AMRIMukundapur"
 	},{

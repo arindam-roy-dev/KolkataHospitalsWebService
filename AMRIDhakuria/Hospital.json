@@ -1,0 +1,14 @@
+{
+"name":"AMRI Hospitals, Dhakuria",
+"code":"AMRIMukundapur",
+"address":"P 4&5, Gariahat Road Block-A, Scheme-L11, Dhakuria, Kolkata 700029",
+"emails":"",
+"websites":"www.amrihospitals.in/dhakuria",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"03366260000",
+	"isOpd":true
+	}]
+}
