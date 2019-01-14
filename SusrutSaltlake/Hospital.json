@@ -1,0 +1,35 @@
+{
+"name":"Susrut Eye Foundation & Research Centre",
+"code":"SusrutSaltlake",
+"address":"HB-36/A/1, Sector - III, Salt Lake City, Kolkata 700106",
+"emails":"susrut36@gmail.com",
+"websites":"www.susrut.org",
+"faxNumbers":"03323340651",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment for Eye Examination (Mon to Sat - 7:00 AM to 7:00 PM)",
+	"phoneNumbers":"03340506500,03323580201,03323341628,03323341632,03323341648",
+	"isOpd":true
+	},{
+	"name":"Emergency Services",
+	"phoneNumbers":"9836899741,9433060112"
+	},{
+	"name":"G.M. (Operations) (Mon to Sat – 10:00 AM to 5:00 PM)",
+	"phoneNumbers":"9433060112"
+	},{
+	"name":"Social Projects (Head) (Mon to Sat – 10:00 AM to 5:00 PM)",
+	"phoneNumbers":"9830083696"
+	},{
+	"name":"Corporate Manager (Mon to Sat – 10:00 AM to 5:00 PM)",
+	"phoneNumbers":"03340506511"
+	},{
+	"name":"Quality Manager (Mon to Sat – 10:00 AM to 5:00 PM)",
+	"phoneNumbers":"03340506500"
+	},{
+	"name":"Training & Education - Documentation Officer (Mon to Sat – 10:00 AM to 5:00 PM)",
+	"phoneNumbers":"03340506500"
+	},{
+	"name":"Eye Bank",
+	"phoneNumbers":"9433060113"
+	}]
+}

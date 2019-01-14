@@ -1,0 +1,511 @@
+﻿{
+"name":"Susrut Eye Foundation & Research Centre",
+"specialties":[
+	{
+	"name":"Cataract specialists",
+	"schedules":[
+		{
+		"doctor":"Ratish Chandra Paul",
+		"designation":"Secretary, Specialization: Cataract & Anterior Segment",
+		"degree":"MBBS, DOMS, MS (IPGMER)",
+		"schedule":""
+		},
+		{
+		"doctor":"Anirban Kundu",
+		"designation":"Specialization: Cataract & Anterior Segment",
+		"degree":"MBBS (Cal), MS (RIMS), Ranchi University",
+		"schedule":""
+		},
+		{
+		"doctor":"Arindam Deb",
+		"designation":"Specialization: Cataract & Anterior Segment",
+		"degree":"MBBS, DO, FRCS (Glasgow)",
+		"schedule":""
+		},
+		{
+		"doctor":"Doel Biswas",
+		"designation":"Specialization: Cataract& Anterior Segment, Refractive Surgery",
+		"degree":"MBBS, MS, Fellowship in Comprehensive Opthalmology (SCEH, Delhi)",
+		"schedule":""
+		},
+		{
+		"doctor":"Hari Shanker Nag",
+		"designation":"Specialization: Cataract & Anterior Segment, Glaucoma",
+		"degree":"MBBS, MS, FAEH (Madurai)",
+		"schedule":""
+		},
+		{
+		"doctor":"Kumkum Ghosh",
+		"designation":"Specialization: Cataract & Anterior Segment, Cornea",
+		"degree":"MBBS, DO, DNB, FRCS (Glassgow)",
+		"schedule":""
+		},
+		{
+		"doctor":"Navajyoti Goswami",
+		"designation":"Specialization: Cataract, Refractive Surgery, Glaucoma",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Nilay Kumar Majumdar",
+		"designation":"Specialization: Glaucoma, Cataract",
+		"degree":"MBBS, DO",
+		"schedule":""
+		},
+		{
+		"doctor":"Sayan Das",
+		"designation":"Specialization: Cataract & Anterior Segment, Cornea",
+		"degree":"MBBS (Cal), MS (PGIMER, Chandigarh), FRCS (Glasgow)",
+		"schedule":""
+		},
+		{
+		"doctor":"Anuradha Chandra",
+		"designation":"Specialization: Cataract, Squint, Glaucoma, Paediatric",
+		"degree":"MBBS, MS, FAICO",
+		"schedule":""
+		},
+		{
+		"doctor":"Alok Agrawal",
+		"designation":"Specialization: Cataract, Medical Retina & Uvea",
+		"degree":"MBBS , MS, Ph.D (Eye), FMRF, FSNEC",
+		"schedule":""
+		},
+		{
+		"doctor":"Debasish Sarkar",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Arunava Bandyopadhyay",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Rajarshi Chowdhury",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Abu Obaid Bani Sadat",
+		"designation":"Specialization: Paediatric ophthalmology, Cataract",
+		"degree":"MBBS, MS., FICO, Fellow of Paediatric (Ophth) & Strabismus",
+		"schedule":""
+		},
+		{
+		"doctor":"Vineet Agarwal",
+		"designation":"Specialization: Cataract & Anterior Segment",
+		"degree":"MBBS, DNB (Ophthalmology), MS (Fellow)",
+		"schedule":""
+		},
+		{
+		"doctor":"Diptesh Das",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS, DO",
+		"schedule":""
+		},
+		{
+		"doctor":"Amina Usmani",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS, MS, Cataract Fellowship",
+		"schedule":""
+		},
+		{
+		"doctor":"Nalinakshi Karan",
+		"designation":"Specialization: Cataract, Cornea",
+		"degree":"MBBS, DO, DNB (Ophthalmology) and Fellowship in Cornea & Cataract",
+		"schedule":""
+		},
+		{
+		"doctor":"Madhusudan Mandal",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS, MS, Fellowship (Cataract)",
+		"schedule":""
+		},
+		{
+		"doctor":"Rekha Saxena",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Dhananjay Giri",
+		"designation":"Specialization: Cataract, Glaucoma",
+		"degree":"MBBS, MS, Fellowship (Glaucoma, Cataract)",
+		"schedule":""
+		},
+		{
+		"doctor":"Raka Chatterjee",
+		"designation":"Specialization: Cataract, Oculoplasty",
+		"degree":"MBBS, MS, FMRF",
+		"schedule":""
+		},
+		{
+		"doctor":"Amit Budrukkar",
+		"designation":"Specialization: Glaucoma and Cataract Services",
+		"degree":"MBBS, DNB (New Delhi), FICO",
+		"schedule":""
+		},
+		{
+		"doctor":"John Sarkar",
+		"designation":"Specialization: Cataract, Cornea & Refractive Surgery",
+		"degree":"MBBS (CAL), MS (Ophthal), FMRF (Cornea)",
+		"schedule":""
+		},
+		{
+		"doctor":"Kousik Sarkar",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS, MS, Specialization in Cataract Microsurgery & Phacoemulsification",
+		"schedule":""
+		},
+		{
+		"doctor":"Shobhana Phukan",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS (Assam), MS (Assam)",
+		"schedule":""
+		},
+		{
+		"doctor":"Arghya Das",
+		"designation":"Specialization: Cataract",
+		"degree":"MBBS, MS, Fellowship (Cataract)",
+		"schedule":""
+		},
+		{
+		"doctor":"Md Afroz Alam",
+		"designation":"Specialization: Cataract and Anterior Segment",
+		"degree":"MBBS, DO, MS, Fellowship in Cataract Microsurgery and Phacoemulsification",
+		"schedule":""
+		},
+		{
+		"doctor":"Abhisek Mondal",
+		"designation":"Specialization: Cataract, Glaucoma",
+		"degree":"MBBS, MS (Ophthalmology)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Glaucoma specialists",
+	"schedules":[
+		{
+		"doctor":"Nilay Kumar Majumdar",
+		"designation":"Specialization: Glaucoma, Cataract",
+		"degree":"MBBS, DO",
+		"schedule":""
+		},
+		{
+		"doctor":"Navajyoti Goswami",
+		"designation":"Specialization: Cataract, Refractive Surgery, Glaucoma",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sutapa Roy",
+		"designation":"Specialization: Glaucoma",
+		"degree":"MBBS (Cal), DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Anuradha Chandra",
+		"designation":"Specialization: Cataract, Squint, Paediatric Ophthalmology, Glaucoma",
+		"degree":"MBBS, MS, FAICO",
+		"schedule":""
+		},
+		{
+		"doctor":"Dhananjay Giri",
+		"designation":"Specialization: Cataract, Glaucoma",
+		"degree":"MBBS, MS, Fellowship (Glaucoma + Cataract)",
+		"schedule":""
+		},
+		{
+		"doctor":"Hari Shanker Nag",
+		"designation":"Specialization: Cataract & Anterior Segment, Glaucoma",
+		"degree":"MBBS, MS, FAEH (Madurai)",
+		"schedule":""
+		},
+		{
+		"doctor":"Amit Budrukkar",
+		"designation":"Specialization: Glaucoma and Cataract Services",
+		"degree":"MBBS, DNB (New Delhi), FICO",
+		"schedule":""
+		},
+		{
+		"doctor":"Abhisek Mondal",
+		"designation":"Specialization: Glaucoma and Cataract Services",
+		"degree":"MBBS, MS (Ophthalmology)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Laser Correction",
+	"schedules":[
+		{
+		"doctor":"Ratish Chandra Paul",
+		"designation":"Secretary, Specialization: Cataract",
+		"degree":"MBBS, DOMS, MS (IPGMER)",
+		"schedule":""
+		},
+		{
+		"doctor":"Nilay Kumar Majumdar",
+		"designation":"Specialization: Glaucoma, Cataract",
+		"degree":"MBBS, DO",
+		"schedule":""
+		},
+		{
+		"doctor":"Prosenjit Mondal",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, MS, FVRS",
+		"schedule":""
+		},
+		{
+		"doctor":"Anirudhha Maiti",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, DO (Gold Medalist), DNB, FRVS, FICO (UK)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sangeeta Roy",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, MD, FICO",
+		"schedule":""
+		},
+		{
+		"doctor":"Alok Agarwal",
+		"designation":"Specialization: Cataract, Medical Retina & Uvea",
+		"degree":"MBBS, MS, Ph.D (Eye), FMRF, FSNEC",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Cornea & Refractive",
+	"schedules":[
+		{
+		"doctor":"Kumkum Ghosh",
+		"designation":"Specialization: Cataract & Anterior Segment, Cornea",
+		"degree":"MBBS, DO, DNB, FRCS (Glassgow)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sayan Das",
+		"designation":"Specialization: Cataract & Anterior Segment, Cornea",
+		"degree":"MBBS (Cal), MS (PGIMER, Chandigarh), FRCS (Glasgow)",
+		"schedule":""
+		},
+		{
+		"doctor":"Nalinakshi Karan",
+		"designation":"Specialization: Cataract, Cornea",
+		"degree":"MBBS, DO, DNB (Ophthalmology) and Fellowship in Cataract & Cornea",
+		"schedule":""
+		},
+		{
+		"doctor":"John Sarkar",
+		"designation":"Specialization: Cataract, Cornea & Refractive Surgery",
+		"degree":"MBBS (CAL), MS (Ophthal), FMRF (Cornea)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Vitreo Retina",
+	"schedules":[
+		{
+		"doctor":"Prosenjit Mondal",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, MS, FVRS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sangeeta Roy",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, MD, FICO",
+		"schedule":""
+		},
+		{
+		"doctor":"Anirudhha Maiti",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, DO (Gold Medalist), DNB, FRVS, FICO (UK)",
+		"schedule":""
+		},
+		{
+		"doctor":"Alok Agrawal",
+		"designation":"Specialization: Cataract, Medical Retina & Uvea",
+		"degree":"MBBS , MS, Ph.D (Eye), FMRF, FSNEC",
+		"schedule":""
+		},
+		{
+		"doctor":"Utsab Pan",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, MS, DNB, FVRS",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Squint",
+	"schedules":[
+		{
+		"doctor":"Anuradha Chandra",
+		"designation":"Specialization: Cataract, Squint, Paediatric Ophthalmology, Glaucoma",
+		"degree":"MBBS, MS, FAICO",
+		"schedule":""
+		},
+		{
+		"doctor":"Sailesh Ranjan Das",
+		"designation":"Specialization: Squint, Paediatric Ophthalmology",
+		"degree":"MBBS (Cal), DO (Cal), MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Asmita Roy",
+		"designation":"Specialization: Squint, Paediatric Ophthalmology",
+		"degree":"MBBS, MS, FPOS",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Pediatric Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Anuradha Chandra",
+		"designation":"Specialization: Cataract, Glaucoma, Squint, Paediatric Ophthalmology",
+		"degree":"MBBS, MS, FAICO",
+		"schedule":""
+		},
+		{
+		"doctor":"Sailesh Ranjan Das",
+		"designation":"Specialization: Squint, Paediatric Ophthalmology",
+		"degree":"MBBS (Cal), DO (Cal)",
+		"schedule":""
+		},
+		{
+		"doctor":"Asmita Ray",
+		"designation":"Specialization: Paediatric Ophthalmology, Squint",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Abu Obaid Bani Sadat",
+		"designation":"Specialization: Paediatric ophthalmology, Phaco",
+		"degree":"MBBS, MS, FICO, Fellow of Paediatric Ophthalmology",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Uveitis",
+	"schedules":[
+		{
+		"doctor":"Anirudhha Maiti",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, DO (Gold Medalist), DNB, FRVS, FICO (UK)",
+		"schedule":""
+		},
+		{
+		"doctor":"Prosenjit Mondal",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, MS, FVRS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sangeeta Roy",
+		"designation":"Specialization: Vitreo-Retina",
+		"degree":"MBBS, MD, FICO",
+		"schedule":""
+		},
+		{
+		"doctor":"Alok Agrawal",
+		"designation":"Specialization: Cataract, Medical Retina & Uvea",
+		"degree":"MBBS, MS, Ph.D (Eye), FMRF, FSNEC",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Lasik",
+	"schedules":[
+		{
+		"doctor":"Navajyoti Goswami",
+		"designation":"Specialization: Cataract, Refractive Surgery, Glaucoma",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Doel Biswas",
+		"designation":"Specialization: Refractive Surgery & Anterior Segment, Cataract",
+		"degree":"MBBS, MS, Fellowship in Comprehensive Opthalmology (SCEH, Delhi)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sayan Das",
+		"designation":"Specialization: Cataract & Anterior Segment, Cornea",
+		"degree":"MBBS (Cal), MS (PGIMER, Chandigarh), FRCS (Glasgow)",
+		"schedule":""
+		},
+		{
+		"doctor":"Vineet Agarwal",
+		"designation":"Specialization: Cataract & Anterior Segment",
+		"degree":"MBBS, DNB (Ophthalmology), MS, Fellow",
+		"schedule":""
+		},
+		{
+		"doctor":"Anirban Kundu",
+		"designation":"Specialization: Cataract & Anterior Segment",
+		"degree":"MBBS (Cal), MS (RIMS), Ranchi University",
+		"schedule":""
+		},
+		{
+		"doctor":"Hari Shanker Nag",
+		"designation":"Specialization: Cataract & Anterior Segment, Glaucoma",
+		"degree":"MBBS, MS, FAEH (Madurai)",
+		"schedule":""
+		},
+		{
+		"doctor":"Kumkum Ghosh",
+		"designation":"Specialization: Cataract & Anterior Segment, Cornea",
+		"degree":"MBBS, DO, DNB, FRCS (Glassgow)",
+		"schedule":""
+		},
+		{
+		"doctor":"Alok Agrawal",
+		"designation":"Specialization: Cataract, Medical Retina & Uvea",
+		"degree":"MBBS, MS, Ph.D (Eye), FMRF, FSNEC",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Orbit & Oculoplasty",
+	"schedules":[
+		{
+		"doctor":"Raka Chatterjee",
+		"designation":"Specialization: Oculoplasty",
+		"degree":"MBBS, MS, FMRF",
+		"schedule":""
+		},
+		{
+		"doctor":"Ashim Kumar Dey",
+		"designation":"Specialization: Oculoplasty",
+		"degree":"MBBS, DO, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Navajyoti Goswami",
+		"designation":"Specialization: Cataract, Refractive Surgery, Glaucoma",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Doel Biswas",
+		"designation":"Specialization: Refractive Surgery & Anterior Segment, Cataract",
+		"degree":"MBBS, MS, Fellowship in Comprehensive Opthalmology (SCEH, Delhi)",
+		"schedule":""
+		}
+		]
+	}
+	]
+}
