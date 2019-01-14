@@ -1,0 +1,393 @@
+﻿{
+"name":"Saroj Gupta Cancer Centre & Research Institute",
+"specialties":[
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"Gautam Das",
+		"degree":"Dip. Card",
+		"schedule":"Mon, Sat"
+		},
+		{
+		"doctor":"Prasanta Kumar Das",
+		"degree":"MD",
+		"schedule":"Tue to Fri"
+		},
+		{
+		"doctor":"Nirmalendu Nath",
+		"designation":"Advisor",
+		"degree":"MD",
+		"schedule":"Wed"
+		}
+		]
+	},
+	{
+	"name":"Cardio Vascular Surgery",
+	"schedules":[
+		{
+		"doctor":"Chayan Kumar Ray",
+		"degree":"MS, M.Ch.",
+		"schedule":"Fri"
+		}
+		]
+	},
+	{
+	"name":"Chest Medicine",
+	"schedules":[
+		{
+		"doctor":"Debasish Roy",
+		"degree":"DTM&H (Cal), DTCD (Cal)",
+		"schedule":"Mon, Tue, Thu, Sat"
+		},
+		{
+		"doctor":"Buddadeb Dasgupta",
+		"degree":"MD (Tuberculosis & Chest Diseases)",
+		"schedule":"Wed"
+		}
+		]
+	},
+	{
+	"name":"Dental",
+	"schedules":[
+		{
+		"doctor":"Arun Kumar Mazumder",
+		"degree":"BDS (Cal)",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"Rakashree Chakraborty (Sen)",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Amitabha Guha",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri, Sat"
+		},
+		{
+		"doctor":"Dhrubajyoti Mukhopadhyay",
+		"designation":"Incharge",
+		"degree":"MS (ENT)",
+		"schedule":"Mon to Thu"
+		},
+		{
+		"doctor":"Bhudeb Bhattacharyya",
+		"degree":"DLO, MS",
+		"schedule":"Tue, Thu, Fri"
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"doctor":"Jayanta Chakrabarti",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"Sanjay Basu",
+		"degree":"",
+		"schedule":"Mon"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Kaushik Das",
+		"degree":"MBBS, ICCN (BHU)",
+		"schedule":"Thu"
+		}
+		]
+	},
+	{
+	"name":"Obstetrics & Gynaecology",
+	"schedules":[
+		{
+		"doctor":"Jaba Basak",
+		"degree":"MBBS",
+		"schedule":"Mon, Fri"
+		},
+		{
+		"doctor":"Tanmoy Chatterjee",
+		"designation":"Coordinator - Clinical Studies",
+		"degree":"DGO, MD (O&G)",
+		"schedule":"Mon to Thu"
+		},
+		{
+		"doctor":"Nidhu Ranjan Mondal",
+		"designation":"Incharge",
+		"degree":"DGO, MD",
+		"schedule":"Tue, Thu, Fri, Sat"
+		},
+		{
+		"doctor":"Rahul Roy Chowdhury",
+		"designation":"Chief Clinical Trial Site Administrator",
+		"degree":"FRCOG, MRCOG",
+		"schedule":"Wed to Fri"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Biman Kumar Chakrabarty",
+		"designation":"HOD",
+		"degree":"FRCOG, FACS",
+		"schedule":"Thu, Sat"
+		}
+		]
+	},
+	{
+	"name":"Oncology",
+	"schedules":[
+		{
+		"doctor":"Ketaki Maitra",
+		"degree":"MS, DMRT (Lond)",
+		"schedule":"Mon, Thu"
+		},
+		{
+		"doctor":"Rakesh Roy",
+		"degree":"MD, ECMO, Dip Pall Med (UK)",
+		"schedule":"Tue, Sat"
+		},
+		{
+		"doctor":"Madhuchanda Kar",
+		"degree":"MD, Ph.D",
+		"schedule":"Wed, Fri"
+		}
+		]
+	},
+	{
+	"name":"Haemato Oncology",
+	"schedules":[
+		{
+		"doctor":"Joydeep Chakrabartty",
+		"degree":"",
+		"schedule":"Mon, Tue, Fri, Sat"
+		},
+		{
+		"doctor":"Partha Pratim Gupta",
+		"designation":"Incharge – BMT",
+		"degree":"MBBS",
+		"schedule":"Mon, Tue, Fri, Sat"
+		},
+		{
+		"doctor":"Rabindra Nath Ghosh",
+		"designation":"HOD",
+		"degree":"MRC Path (Eng)",
+		"schedule":"Wed, Thu"
+		},
+		{
+		"doctor":"Chandan Sengupta",
+		"designation":"Incharge",
+		"degree":"DCH",
+		"schedule":"Wed, Thu"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Oncology",
+	"schedules":[
+		{
+		"doctor":"Rabindra Nath Ghosh",
+		"designation":"HOD",
+		"degree":"MRC Path (Eng)",
+		"schedule":"Mon, Wed, Thu, Fri"
+		},
+		{
+		"doctor":"Chandan Sengupta",
+		"designation":"Incharge",
+		"degree":"DCH",
+		"schedule":"Tue, Thu, Sat"
+		},
+		{
+		"doctor":"Amal Kumar Chakraborty",
+		"designation":"Surgeon",
+		"degree":"MS, FRCS",
+		"schedule":"Thu"
+		}
+		]
+	},
+	{
+	"name":"Pain Clinic & Palliative Care",
+	"schedules":[
+		{
+		"doctor":"Kuntal Ghosh",
+		"degree":"MBBS",
+		"schedule":"Mon to Sat"
+		},
+		{
+		"doctor":"Gautam Bhattacharjee",
+		"designation":"HOD",
+		"degree":"DMRT, MD",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"Rakesh Roy",
+		"degree":"MD, ECMO, Dip Pall Med (UK)",
+		"schedule":"Tue, Sat"
+		},
+		{
+		"doctor":"Suchanda Goswami",
+		"degree":"DMRT, MD (Bom)",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"Onco Psychology",
+	"schedules":[
+		{
+		"doctor":"Indrani Basu Mallik",
+		"degree":"",
+		"schedule":"Thu"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedics",
+	"schedules":[
+		{
+		"doctor":"Dipak Roy Choudhury",
+		"degree":"D.Orth, MS (Orth)",
+		"schedule":"Tue"
+		}
+		]
+	},
+	{
+	"name":"Head Neck Surgery",
+	"schedules":[
+		{
+		"doctor":"Arun Ganguly",
+		"degree":"MS, DNB, M.Ch",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"Indranil Chatterjee",
+		"designation":"Incharge",
+		"degree":"MS",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"Saradindu Ghosh",
+		"designation":"Incharge, Member Secretary Institute Ethics Committee",
+		"degree":"MS",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"General, Breast & Periphery Surgery",
+	"schedules":[
+		{
+		"doctor":"Aditya Narayan Sen",
+		"degree":"FRCS",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"Subhash Chandra De",
+		"degree":"MS",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"Arnab Gupta",
+		"designation":"Chief Cancer Control",
+		"degree":"FRCS (Edin), FRCS (Eng), FIAGES",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"Samir Bhattacharjee",
+		"designation":"HOD",
+		"degree":"MS",
+		"schedule":"Sat"
+		},
+		{
+		"doctor":"Jayanta Chakrabarti",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"Sanjay Basu",
+		"degree":"MS, FRCS",
+		"schedule":"Mon"
+		}
+		]
+	},
+	{
+	"name":"Radiotherapy",
+	"schedules":[
+		{
+		"doctor":"Abhijit Sarkar",
+		"degree":"DMRT",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"Gautam Bhattacharjee",
+		"designation":"HOD",
+		"degree":"DMRT, MD",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"Tamohan Chaudhuri",
+		"designation":"Incharge",
+		"degree":"DMRT, MD (Bom)",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"Mahfuz Ariff",
+		"designation":"Incharge",
+		"degree":"DMRT, MD",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"Sanmay Ganguly",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"Somnath Sorcar",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Kaushik Sarkar",
+		"degree":"",
+		"schedule":"Wed, Fri"
+		},
+		{
+		"doctor":"Sabyasachi Bose",
+		"degree":"DNB",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Speech Therapy",
+	"schedules":[
+		{
+		"initial":"Mr.",
+		"doctor":"Ujjal Sinha",
+		"degree":"",
+		"schedule":"Sat"
+		},
+		{
+		"initial":"Mrs.",
+		"doctor":"Soma Sinha",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	}
+	]
+}

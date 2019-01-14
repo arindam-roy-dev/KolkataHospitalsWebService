@@ -1,0 +1,17 @@
+{
+"name":"Saroj Gupta Cancer Centre & Research Institute",
+"code":"SarojGupta",
+"address":"Mahatma Gandhi Road, Thakurpukur, Kolkata 700063",
+"emails":"cancerwelfare@yahoo.co.in,cancercentre6@gmail.com",
+"websites":"http://www.cancercentrecalcutta.org",
+"faxNumbers":"03324536711,03324534765,03324678002",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Enquery",
+	"phoneNumbers":"03324532781,03324532782,03324532783,9831182904,9831182951,03324678001,03324678003",
+	"isOpd":true
+	},{
+	"name":"Helpline",
+	"phoneNumbers":"9007087270"
+	}]
+}
