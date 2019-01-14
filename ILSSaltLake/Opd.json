@@ -1,0 +1,562 @@
+﻿{
+"name":"ILS Hospitals, Salt Lake",
+"specialties":[
+	{
+	"name":"Bariatric Surgery",
+	"schedules":[
+		{
+		"doctor":"Om Tantia",
+		"degree":"",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Shashi Khanna",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Tamonas Chaudhuri",
+		"degree":"",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"J. Naik",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Sanjib Kumar Pandey",
+		"degree":"",
+		"schedule":"Mon to Fri: 8:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Sunil Lihla",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri: 6:00 PM - 8:00 PM"
+		},
+		{
+		"doctor":"Debasish Mitra",
+		"degree":"",
+		"schedule":"Tue, Thu: 7:00 PM - 9:00 PM"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"P. S. Banerjee",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Girija Ramanan",
+		"degree":"",
+		"schedule":"Wed, Sat: 2:00 PM - 4:00 PM\nThu: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Aritra Sarkar",
+		"degree":"",
+		"schedule":"Thu, Fri: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Shailvi Banka",
+		"degree":"",
+		"schedule":"Thu, Sat: 6:00 PM - 8:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Diabetology & Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Ghanshyam Goyal",
+		"degree":"",
+		"schedule":"Mon to Sat: 9:30 AM - 12:30 PM"
+		},
+		{
+		"doctor":"Avijit Bhandari",
+		"degree":"",
+		"schedule":"Mon to Sat: 2:00 PM - 4:00 PM"
+		},
+		{
+		"doctor":"Ravi Kant Saraogi",
+		"degree":"",
+		"schedule":"Wed, Fri: 4:00 PM - 6:00 PM"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Ramanuj Sinha",
+		"degree":"",
+		"schedule":"Mon, Wed: 6:00 PM - 8:00 PM"
+		},
+		{
+		"doctor":"Goutam Biswas",
+		"degree":"",
+		"schedule":"Thu, Sat: 11:00 AM - 1:00 PM"
+		},
+		{
+		"doctor":"Shibaji Roychoudhuri",
+		"degree":"",
+		"schedule":"Tue, Fri: 2:00 PM - 4:00 PM\nSun: 10:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology",
+	"schedules":[
+		{
+		"doctor":"Jayanta Mukherjee",
+		"degree":"",
+		"schedule":"Mon to Sat: 8:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Debashis Mishra",
+		"degree":"",
+		"schedule":"Mon, Thu: 6:00 PM - 8:00 PM"
+		}
+		]
+	},
+	{
+	"name":"General Medicine",
+	"schedules":[
+		{
+		"doctor":"Koustubh Chakraborty",
+		"degree":"",
+		"schedule":"Tue, Fri: 6:00 PM - 8:00 PM"
+		},
+		{
+		"doctor":"Pramod Sureka",
+		"degree":"",
+		"schedule":"Mon to Sat: 2:00 PM - 4:00 PM"
+		},
+		{
+		"doctor":"Basab Bijay Sarkar",
+		"degree":"",
+		"schedule":"Fri: 6:00 PM - 8:00 PM"
+		},
+		{
+		"doctor":"Debjit Ghosh",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"doctor":"Gautam Chatterjee",
+		"degree":"",
+		"schedule":"Sat: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Om Tantia",
+		"degree":"",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Tamonas Chaudhuri",
+		"degree":"",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Satish Prasad Banka",
+		"degree":"",
+		"schedule":"Tue, Sat: 2:00 PM - 4:00 PM"
+		},
+		{
+		"doctor":"Sudha Chowdhury",
+		"degree":"",
+		"schedule":"Mon, Thu: 3:00 PM - 5:00 PM"
+		},
+		{
+		"doctor":"G. S. Pipara",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri: 2:00 PM - 4:00 PM"
+		},
+		{
+		"doctor":"Shashi Khanna",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat: 10:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Haematology",
+	"schedules":[
+		{
+		"doctor":"S. P. Das",
+		"degree":"",
+		"schedule":"Mon, Fri: 5:00 PM - 6:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Infertility",
+	"schedules":[
+		{
+		"doctor":"Indranil Saha",
+		"degree":"",
+		"schedule":"Mon: 8:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Joyeeta Mitra",
+		"degree":"",
+		"schedule":"Wed: 6:00 PM - 8:00 PM\nSat: 9:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Arindam Saha",
+		"degree":"",
+		"schedule":"Wed: 4:00 PM - 6:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Interventional Cardiology",
+	"schedules":[
+		{
+		"doctor":"Sunil Lihla",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri: 6:00 PM - 8:00 PM"
+		},
+		{
+		"doctor":"J. Naik",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Debasish Mitra",
+		"degree":"",
+		"schedule":"Tue, Thu: 7:00 PM - 9:00 PM"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"P. S. Banerjee",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Medical Oncology",
+	"schedules":[
+		{
+		"doctor":"G. S. Bhattacharya",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Rajendra Pandey",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Neurology",
+	"schedules":[
+		{
+		"doctor":"Sudhir Kumar",
+		"degree":"",
+		"schedule":"Mon, Tue, Wed, Fri, Sat: 12:00 PM - 1:00 PM"
+		},
+		{
+		"doctor":"S. K. Somani",
+		"degree":"",
+		"schedule":"Fri: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Ansu Sen",
+		"degree":"",
+		"schedule":"Tue, Thu: 4:00 PM - 6:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Neuro Psychiatry",
+	"schedules":[
+		{
+		"doctor":"Arnab Ghosh Hazra",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Saurabh Sankar Kundu",
+		"degree":"",
+		"schedule":"Mon: 4:00 PM - 6:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Neuro Surgery",
+	"schedules":[
+		{
+		"doctor":"Atul Vajpayee",
+		"degree":"",
+		"schedule":"Thu: 3:00 PM - 5:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Obstetrics and Gynaecology",
+	"schedules":[
+		{
+		"doctor":"Kasturi Bhowmik",
+		"degree":"",
+		"schedule":"Tue: 6:00 PM - 8:00 PM\nSun: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Indranil Saha",
+		"degree":"",
+		"schedule":"Mon: 8:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Arindam Saha",
+		"degree":"",
+		"schedule":"Wed: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Kavita Mandal",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat: 2:00 PM - 4:00 PM"
+		},
+		{
+		"doctor":"Aruna Tantia",
+		"degree":"",
+		"schedule":"Mon to Sat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Kalpana Sarkar",
+		"degree":"",
+		"schedule":"Sun: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Jayeeta Roy (Mitra)",
+		"degree":"",
+		"schedule":"Wed: 6:00 PM - 8:00 PM\nSat: 9:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Sabuj Sengupta",
+		"degree":"",
+		"schedule":"Tue, Sat: 6:00 PM - 7:00 PM"
+		},
+		{
+		"doctor":"Chitra Ray",
+		"degree":"",
+		"schedule":"Mon: 9:00 AM - 10:00 AM\nTue: 10:00 AM - 11:00 AM\nThu: 4:00 PM - 6:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Oncology",
+	"schedules":[
+		{
+		"doctor":"Supriyo Ghatak",
+		"degree":"",
+		"schedule":"Tue, Sat: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Sumit Gulati",
+		"degree":"",
+		"schedule":"Tue, Sat: 4:00 PM - 6:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Jitendra Shah",
+		"degree":"",
+		"schedule":"Thu: 10:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedics & Joint Replacement",
+	"schedules":[
+		{
+		"doctor":"Jagannath Bhattacharya",
+		"degree":"",
+		"schedule":"Tue: 5:00 PM - 7:00 PM"
+		},
+		{
+		"doctor":"Bimalendu Sen",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Amit Bandyopadhyay",
+		"degree":"",
+		"schedule":"Mon, Thu: 6:00 PM - 8:00 PM"
+		},
+		{
+		"doctor":"Subhasis Deb",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri: 3:00 PM - 5:00 PM"
+		},
+		{
+		"doctor":"Ashwin Choudhury",
+		"degree":"",
+		"schedule":"Mon, Fri: 5:00 PM - 7:00 PM"
+		},
+		{
+		"doctor":"Suresh Kumar Kejriwal",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Paediatrics and Neonatology",
+	"schedules":[
+		{
+		"doctor":"Rajesh Kumar Goel",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Arun Kumar Manglik",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Indrani Bhattacharya",
+		"degree":"",
+		"schedule":"Tue, Sat: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Indranil Roy Chowdhury",
+		"degree":"",
+		"schedule":"Fri: 3:00 PM - 5:00 PM"
+		},
+		{
+		"doctor":"Swapan Chakraborty",
+		"degree":"",
+		"schedule":"Mon, Thu, Sat: 6:00 PM - 8:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Orthopedics",
+	"schedules":[
+		{
+		"doctor":"Ashwin Choudhury",
+		"degree":"",
+		"schedule":"Mon, Sat: 5:00 PM - 7:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Physiotherapy and Rehabilitation",
+	"schedules":[
+		{
+		"doctor":"Sourav Banerjee",
+		"degree":"",
+		"schedule":"Mon to Sat: 12:00 PM - 2:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"doctor":"K. S. Chhajer",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Sajal Halder",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Psychiatry",
+	"schedules":[
+		{
+		"doctor":"Arnab Ghosh Hazra",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Koustubh Chakraborty",
+		"degree":"",
+		"schedule":"Tue, Fri: 6:00 PM - 8:00 PM"
+		},
+		{
+		"doctor":"Srilekha Biswas",
+		"degree":"",
+		"schedule":"Thu: 6:00 PM - 8:00 PM"
+		},
+		{
+		"doctor":"Saurabh Sankar Kundu",
+		"degree":"",
+		"schedule":"Mon: 4:00 PM - 6:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Pulmonology & Chest Medicine",
+	"schedules":[
+		{
+		"doctor":"V. S. Baid",
+		"degree":"",
+		"schedule":"Wed: 2:00 PM - 4:00 PM"
+		},
+		{
+		"doctor":"Saikat Nag",
+		"degree":"",
+		"schedule":"Wed, Fri: 2:00 PM - 4:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Surgical Oncology",
+	"schedules":[
+		{
+		"doctor":"Sumit Gulati",
+		"degree":"",
+		"schedule":"Tue, Sat: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Supriyo Ghatak",
+		"degree":"",
+		"schedule":"Tue, Sat: 4:00 PM - 6:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Ranjan Kumar Dey",
+		"degree":"",
+		"schedule":"Mon, Fri: 4:00 PM - 6:00 PM"
+		},
+		{
+		"doctor":"Anil Chomal",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat: 2:00 PM - 4:00 PM"
+		}
+		]
+	}
+	]
+}

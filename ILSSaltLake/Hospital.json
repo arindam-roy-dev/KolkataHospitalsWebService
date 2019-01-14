@@ -1,0 +1,14 @@
+{
+"name":"ILS Hospitals, Salt Lake",
+"code":"ILSSaltLake",
+"address":"DD 6, Salt Lake City (Near City Centre), Kolkata 700064",
+"emails":"info@ilshospitals.com",
+"websites":"www.ilshospitals.com/hospital-locations.php?location=saltlake",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency Helpline",
+	"phoneNumbers":"03340206500",
+	"isOpd":true
+	}]
+}

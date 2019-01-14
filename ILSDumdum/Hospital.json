@@ -7,10 +7,6 @@
 "faxNumbers":"",
 "hasOpd":true,
 "contactTypes":[{
-	"name":"Helpline",
-	"phoneNumbers":"03340315000",
-	"isOpd":true
-	},{
 	"name":"Emergency Helpline",
 	"phoneNumbers":"03340315000",
 	"isOpd":true
