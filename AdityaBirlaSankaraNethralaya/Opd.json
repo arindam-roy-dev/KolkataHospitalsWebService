@@ -1,0 +1,372 @@
+﻿{
+"name":"Aditya Birla Sankara Nethralaya",
+"specialties":[
+	{
+	"name":"Anesthesia",
+	"schedules":[
+		{
+		"doctor":"Alo Ganguly",
+		"degree":"Diploma in Anesthesiology",
+		"schedule":""
+		},
+		{
+		"doctor":"Gayatri Roy",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Manjula Khosla Nee Bhatnagar",
+		"degree":"MBBS, Diploma in Anaesthesia",
+		"schedule":""
+		},
+		{
+		"doctor":"Nipa Mondal",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Saptarshi Dasgupta",
+		"degree":"Diploma in Anaesthesiology",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Cataract and Intraocular Lens",
+	"schedules":[
+		{
+		"doctor":"Amitabh Kumar",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Anindya Kishore Majumder",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Avirupa Ghose",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"John Sarkar",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Kumar Ravi",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Mayav J Movdawalla",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Mittal Shruti Rajendra",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Mona Bhargava",
+		"degree":"MD (Ophthalmology), Fellowship in Cornea",
+		"schedule":""
+		},
+		{
+		"doctor":"Neha Shrirao Mehta",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Prakash Parimal",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Prashant Srivastava",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Ravi Daulat Barbhaya",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Sheth Siddharth Kamlesh",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Suchetana Mukherjee",
+		"degree":"MBBS, MS (Ophthlamology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sudipta Sahana",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Sujatha Guha",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Surajit Sen",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Cornea",
+	"schedules":[
+		{
+		"doctor":"Dr Aditi Ghosh Dastidar",
+		"degree":"MBBS, MS, PGIMER (New Delhi)",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Mona Bhargava",
+		"degree":"MD (Ophthalmology), Fellowship in Cornea",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"General Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Manoj Datta",
+		"designation":"Senior Consultant",
+		"degree":"Fellowship (General Ophthalmology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Suchetana Mukherjee",
+		"degree":"MBBS, MS (Ophthlamology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Anindya Kishore Majumder",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Mittal Shruti Rajendra",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Prakash Parimal",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Prerna Kedia",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Sheth Siddharth Kamlesh",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Sudipta Sahana",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Surajit Sen",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Glaucoma",
+	"schedules":[
+		{
+		"doctor":"Dr Kumar Ravi",
+		"degree":"MS (Ophthalmology), Fellowship in Glaucoma",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Surajit Sen",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Tamonash Basu",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Laser Vision Correction",
+	"schedules":[
+		{
+		"doctor":"Prema Padmanabhan",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Rama Rajagopal",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Radhika N",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Sudhir R R",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Geetha K Iyer",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Bhaskar Srinivasan",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Niveditha Narayanan",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Neuro Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Mittal Shruti Rajendra",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Sudipta Sahana",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Sujatha Guha",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Oculoplasty",
+	"schedules":[
+		{
+		"doctor":"Md Shahid Alam",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Pediatric Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Dr Mittal Shruti Rajendra",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Sujata Guha",
+		"degree":"MBBS, Diploma in Ophthalmology",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Sudipta Sahana",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Tanmay Biswas",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Prakash Parimal",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Uveitis",
+	"schedules":[
+		{
+		"doctor":"Dr Amitabh Kumar",
+		"degree":"MBBS, Diploma in Ophthalmology",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Anindya Kishore Majumder",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Benazir Ansari",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Avirupa Ghose",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Sharma Preeti Banshidhar",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Vitreo Retina",
+	"schedules":[
+		{
+		"doctor":"Dr Rupak Roy",
+		"designation":"Incharge - Vitreo Retinal Services, Kolkata",
+		"degree":"MBBS, MS (Ophthalmology), Fellowship (Vitreo Retina)",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Sudipta Das",
+		"degree":"MBBS, MS (Ophthalmology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Kumar Saurabh",
+		"degree":"MBBS, MS (Ophthalmology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Eesh Nigam",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Debmalya Das",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	}
+	]
+}

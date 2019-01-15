@@ -1,0 +1,17 @@
+{
+"name":"Aditya Birla Sankara Nethralaya",
+"code":"AdityaBirlaSankaraNethralaya",
+"address":"No. 147, Barakhola, Mukundapur, E M Bypass, (Near Purva Jadavpur Police station), Kolkata 700099",
+"emails":"snk@snmail.org",
+"websites":"www.amrihospitals.in/dhakuria",
+"faxNumbers":"03330416099",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Enquiry",
+	"phoneNumbers":"03330416000,03330956000,03344013000",
+	"isOpd":true
+	},{
+	"name":"DGM - Patient Services\n(9:00 AM to 5:00 PM)",
+	"phoneNumbers":"9874416449,9903969403"
+	}]
+}
