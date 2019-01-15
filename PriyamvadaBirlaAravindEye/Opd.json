@@ -1,0 +1,116 @@
+﻿{
+"name":"Priyamvada Birla Aravind Eye Hospital",
+"specialties":[
+	{
+	"name":"Ophthalmologist",
+	"schedules":[
+		{
+		"doctor":"Jayangshu Sengupta",
+		"designation":"Chief Medical Officer",
+		"degree":"MBBS, MS, Fellow, (Cornea & ANT. Segment), LVPEI, Hyderabad",
+		"schedule":""
+		},
+		{
+		"doctor":"Abhijit Chattopadhyay",
+		"degree":"MBBS, MS, Fellow (Vitreous & Retina), AEH",
+		"schedule":""
+		},
+		{
+		"doctor":"Alokesh Ganguly",
+		"degree":"MBBS, DO, MS, DNB, FICO, Fellow, (ANT. Segment, Glaucoma & Paediatric), AEH",
+		"schedule":""
+		},
+		{
+		"doctor":"Archana Khetan",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Salilsen Gupta",
+		"degree":"MBBS, MS, ICO, Fellow, (Glaucoma), Helsinki University, Finland",
+		"schedule":""
+		},
+		{
+		"doctor":"Surojit Chakraborti",
+		"degree":"MBBS, MS, Fellow (ANT. Segment), AEH",
+		"schedule":""
+		},
+		{
+		"doctor":"Subhankarsri Paul",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Mongistha Acharya",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Ipsita Basu",
+		"degree":"MBBS, DNB, DO",
+		"schedule":""
+		},
+		{
+		"doctor":"Sanchita Ray",
+		"degree":"MBBS, DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Girija Meena",
+		"designation":"Associate Ophthalmologist (Glaucoma)",
+		"degree":"Comprehensive Ophthalmology",
+		"schedule":""
+		},
+		{
+		"doctor":"Jonaki Ghosh (Roy)",
+		"degree":"MBBS, DO, DNB, FRCS (Glasg)",
+		"schedule":""
+		},
+		{
+		"doctor":"Joyati Mitra",
+		"degree":"MBBS, DNB",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"General Physician & Cardiologist",
+	"schedules":[
+		{
+		"doctor":"Suddha Kalyan Paul",
+		"designation":"Visiting Consultant",
+		"degree":"MBBS, PGDIP, ECHO Cardiography, MIS, CCM",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Anaesthesiology",
+	"schedules":[
+		{
+		"doctor":"Babita Basu",
+		"designation":"Visiting Consultant",
+		"degree":"MBBS, DA",
+		"schedule":""
+		},
+		{
+		"doctor":"Sandip Bhadra",
+		"designation":"Visiting Consultant",
+		"degree":"MBBS, MD (Anaesthesiology)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Microbiologist",
+	"schedules":[
+		{
+		"doctor":"Suman Saha",
+		"designation":"Microbiologist",
+		"degree":"Ph.D (Microbiology)",
+		"schedule":""
+		}
+		]
+	}
+	]
+}

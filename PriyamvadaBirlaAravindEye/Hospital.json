@@ -1,0 +1,17 @@
+{
+"name":"Priyamvada Birla Aravind Eye Hospital",
+"code":"PriyamvadaBirlaAravindEye",
+"address":"10 Loudon Street, Kolkata 700017",
+"emails":"info@birlaeye.org",
+"websites":"http://www.birlaeye.org/",
+"faxNumbers":"3322894300",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Enquiry",
+	"phoneNumbers":"03322894343,03322894344,03322894345,03322894346",
+	"isOpd":true
+	},{
+	"name":"Help Line",
+	"phoneNumbers":"8420008000"
+	}]
+}
