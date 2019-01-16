@@ -1,0 +1,180 @@
+﻿{
+"name":"Chittaranjan National Cancer Institute",
+"specialties":[
+	{
+	"name":"Administration",
+	"schedules":[
+		{
+		"doctor":"D. P. Jena",
+		"designation":"Administrative Medical Officer",
+		"degree":"MBBS, DA, MHA",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Anaesthesiology",
+	"schedules":[
+		{
+		"doctor":"Subhra Roy",
+		"degree":"MBBS, MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Smita Gupta",
+		"designation":"General Duty Medical Officer (ICU)",
+		"degree":"MBBS",
+		"schedule":""
+		},
+		{
+		"doctor":"Debasish Jatua",
+		"designation":"General Duty Medical Officer",
+		"degree":"MBBS",
+		"schedule":""
+		},
+		{
+		"doctor":"Deepa Chakrabarti",
+		"degree":"MD",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Aniruddha Dam",
+		"designation":"Head, Dept. of ENT Oncology, Incharge Telemedicine Wing",
+		"degree":"MBBS, DLO, MS, DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Anup Kr. Bhowmick",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Rup Kr. Saha",
+		"designation":"Chief Medical Officer – Selection Grade, Liaison officer of the Institute",
+		"degree":"MBBS, DIH, DH",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Head and Neck Oncology",
+	"schedules":[
+		{
+		"doctor":"Aniruddha Sarkar",
+		"degree":"MS",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Gynecolocical Oncology",
+	"schedules":[
+		{
+		"doctor":"Ranajit Kr. Mondal",
+		"designation":"Specialist grade I",
+		"degree":"MBBS, PGDHHM, DNB, MD (PGI)",
+		"schedule":""
+		},
+		{
+		"doctor":"Dipanwita Banerjee",
+		"degree":"MS (OBG), DPM, IACA Fellowship (Roswell Park Cancer\nInstitute, New York)",
+		"schedule":""
+		},
+		{
+		"doctor":"Manisha Vernekar",
+		"degree":"MS",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Radiation Oncology",
+	"schedules":[
+		{
+		"doctor":"Tapas Maji",
+		"designation":"Chief Course Coordinator DNB Programme, Faculty and Guide - DNB Radiotherapy.",
+		"degree":"MBBS, MD, DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Debarshi Lahiri",
+		"designation":"Faculty DNB - Radiotherapy",
+		"degree":"MBBS, MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Kallol Bhadra",
+		"degree":"MD",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Radio Diagnosis",
+	"schedules":[
+		{
+		"doctor":"Suparna Mazumder",
+		"designation":"Faculty and Guide for Diploma in Radiodiagnosis.",
+		"degree":"MBBS, DTM&H, MD",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Surgical Oncology",
+	"schedules":[
+		{
+		"doctor":"Neyaz Alam",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Indranil Ghosh",
+		"degree":"MBBS, FRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Durga Prasad Nanda",
+		"designation":"General Duty Medical Officer",
+		"degree":"MBBS, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sandip Swarup Mandal",
+		"degree":"MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Dr Souradip Gupta",
+		"degree":"MBBS, MS, M.Ch (Plastic and Reconstructive Surgery)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sagar Sen",
+		"degree":"MS, DNB (Surgical Oncology)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Medical Oncology",
+	"schedules":[
+		{
+		"doctor":"Kalyan Kusum Mukherjee",
+		"degree":"MBBS, MD, FCCM , ECMO",
+		"schedule":""
+		},
+		{
+		"doctor":"Partho Nath",
+		"degree":"MBBS",
+		"schedule":""
+		}
+		]
+	}
+	]
+}

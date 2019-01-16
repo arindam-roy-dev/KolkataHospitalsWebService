@@ -1,0 +1,17 @@
+{
+"name":"Chittaranjan National Cancer Institute",
+"code":"ChittaranjanNationalCancer",
+"address":"37, S. P. Mukherjee Road, Kolkata 700026, India",
+"emails":"cncist@giascl01.vsnl.net.in,cncinst@vsnl.com",
+"websites":"http://cnci.org.in",
+"faxNumbers":"03324757606",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Office",
+	"phoneNumbers":"03324759313,03324758057",
+	"isOpd":true
+	},{
+	"name":"EPABX",
+	"phoneNumbers":"03324765101,03324765102,03324765104"
+	}]
+}
