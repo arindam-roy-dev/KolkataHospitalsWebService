@@ -1,0 +1,14 @@
+{
+"name":"Calcutta Medical Research Institute",
+"code":"AMRIMukundapur",
+"address":"7/2 Diamond Harbour Road, Kolkata 700027, West Bengal",
+"emails":"corporatehelpdesk@cmri.in",
+"websites":"http://cmri.in/",
+"faxNumbers":"03324567880",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Enquiry",
+	"phoneNumbers":"03330903090",
+	"isOpd":true
+	}]
+}
