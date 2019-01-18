@@ -1,0 +1,35 @@
+{
+"name":"Charnock Hospital",
+"code":"Charnock",
+"address":"RGM-2103, Tegharia Major Arterial Road, New Town, Kolkata 700157",
+"emails":"charnockhospital@gmail.com,nodalofficer.gc@gmail.com",
+"websites":"http://www.charnockhospital.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointments & Enquiry",
+	"phoneNumbers":"03340500500",
+	"isOpd":true
+	},{
+	"name":"Help Line - Ortho",
+	"phoneNumbers":"8585088516"
+	},{
+	"name":"Help Line - Pulmonology",
+	"phoneNumbers":"8584022013"
+	},{
+	"name":"Help Line - Urology",
+	"phoneNumbers":"9748770596"
+	},{
+	"name":"Help Line - Cardiac",
+	"phoneNumbers":"8585088555"
+	},{
+	"name":"Help Line - Neuro",
+	"phoneNumbers":"8585088504"
+	},{
+	"name":"Help Line - Gastro",
+	"phoneNumbers":"8585088550"
+	},{
+	"name":"Help Line - Gynaecology",
+	"phoneNumbers":"8585088530"
+	}]
+}
