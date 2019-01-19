@@ -5,7 +5,7 @@
 "emails":"principal_rgkarmch@rediffmail.com",
 "websites":"http://rgkarmedicalcollege.org",
 "faxNumbers":"03325558618",
-"hasOpd":true,
+"hasOpd":true, 
 "contactTypes":[{
 	"name":"Helpline",
 	"phoneNumbers":"03325557656,03325557675",
