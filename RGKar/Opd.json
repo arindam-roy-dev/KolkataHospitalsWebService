@@ -1,0 +1,1010 @@
+﻿{
+"name":"R. G. Kar Medical College & Hospital",
+"specialties":[
+	{
+	"name":"ART Clinic",
+	"schedules":[
+		{
+		"doctor":"Pradip Chakraborty",
+		"degree":"",
+		"schedule":"Mon to Sat"
+		}
+		]
+	},
+	{
+	"name":"Asthma",
+	"schedules":[
+		{
+		"doctor":"Joydip Deb",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"R. S. Mukherjee",
+		"degree":"",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Cardio Thorasic Surgery",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"S. Dey",
+		"designation":"HOD",
+		"degree":"",
+		"schedule":"Mon to Sat"
+		},
+		{
+		"doctor":"R. Basu",
+		"degree":"",
+		"schedule":"Mon to Sat"
+		},
+		{
+		"doctor":"B. Das",
+		"degree":"",
+		"schedule":"Mon to Sat"
+		}
+		]
+	},
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"Lipika Adhikari",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"Kanak Kumar Mitra",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"Biswajit Majumder",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"Biswarup Sarkar",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"S. Paul Chowdhury",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"Subrata Basu",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"Chest",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"A. Dey",
+		"degree":"",
+		"schedule":"Mon, Thu"
+		},
+		{
+		"doctor":"S. Bhattacharya",
+		"degree":"",
+		"schedule":"Mon, Thu"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"S. Kundu",
+		"degree":"",
+		"schedule":"Tue, Fri"
+		},
+		{
+		"doctor":"A. Patra",
+		"degree":"",
+		"schedule":"Tue, Fri"
+		},
+		{
+		"doctor":"A. K. Dwari",
+		"degree":"",
+		"schedule":"Tue, Fri"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"A. D. Chaudhuri",
+		"degree":"",
+		"schedule":"Wed, Sat"
+		},
+		{
+		"doctor":"S. R. Tapader",
+		"degree":"",
+		"schedule":"Wed, Sat"
+		}
+		]
+	},
+	{
+	"name":"Dental",
+	"schedules":[
+		{
+		"doctor":"M. Sen",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri"
+		},
+		{
+		"doctor":"K. C. Mondal",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri"
+		},
+		{
+		"doctor":"R. N. Maity",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat"
+		},
+		{
+		"doctor":"S. Bar",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat"
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Sudip Kumar Ghosh",
+		"degree":"",
+		"schedule":"Mon, Fri"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Surajit Kr. Biswas",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Arghyaprasun Ghosh",
+		"degree":"",
+		"schedule":"Wed, Sat"
+		}
+		]
+	},
+	{
+	"name":"Diabetic",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"A. K. Mukherjee",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"S. P. Chowdhury",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"S. Bhadury",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"N. L. Sahoo",
+		"degree":"",
+		"schedule":"Fri"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"I. N. K.",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri"
+		},
+		{
+		"doctor":"S. K. G.",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri"
+		},
+		{
+		"doctor":"S. S.",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri"
+		},
+		{
+		"doctor":"M. K. S.",
+		"degree":"",
+		"schedule":"Mon, Wed, Fri"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"S. K. B.",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat"
+		},
+		{
+		"doctor":"J. S.",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat"
+		},
+		{
+		"doctor":"S. R.",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat"
+		},
+		{
+		"doctor":"D. G.",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat"
+		},
+		{
+		"doctor":"S. S.",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat"
+		},
+		{
+		"doctor":"D. B.",
+		"degree":"",
+		"schedule":"Tue, Thu, Sat"
+		}
+		]
+	},
+	{
+	"name":"Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Indira Maisnam",
+		"degree":"MD,DM",
+		"schedule":"Wed"
+		}
+		]
+	},
+	{
+	"name":"Eye",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"M. B.",
+		"degree":"",
+		"schedule":"Mon, Wed"
+		},
+		{
+		"doctor":"K. K. M.",
+		"degree":"",
+		"schedule":"Mon, Wed"
+		},
+		{
+		"doctor":"P. M.",
+		"degree":"",
+		"schedule":"Mon, Wed"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"A. C.",
+		"designation":"HOD",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"J. B.",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"M. N. I.",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"S. B.",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"K. K. M.",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"M. Saha",
+		"degree":"",
+		"schedule":"Sat"
+		},
+		{
+		"doctor":"J. Biswas",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"Gastroentrology",
+	"schedules":[
+		{
+		"doctor":"A. K. Pal",
+		"designation":"HOD",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"K. K. Dhar",
+		"degree":"",
+		"schedule":"Thu"
+		}
+		]
+	},
+	{
+	"name":"Gynaecology",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"D. D. Ghosh",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"M. Sengupta",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"N. Chowdhury",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"Tulika Jha",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Amitava Das",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"S. Sarkar",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"Shyamal Das Gupta",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Somnath Laha",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"Rupali Modak",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"Aparna Khan",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"R. P. Ganguly",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"H. H. Shirazee",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"A. K. Majhi",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"A. Rakshit",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"A. Das",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Rupkamal Das",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"A. Naskar",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"R. K. Das",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"M. Murmu",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Subrata Lal Seal",
+		"degree":"",
+		"schedule":"Sat"
+		},
+		{
+		"doctor":"S.bhattacharyya",
+		"degree":"",
+		"schedule":"Sat"
+		},
+		{
+		"doctor":"A. K. Dey",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"Medicine",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"P. S. Karmakar",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"J. Pal",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"S. S. Kar",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"A. K. Mukherjee",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"A. Roy",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"I. Maisnam",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"C. K. Jana",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"D. P. Dutta",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"R. Majumdar",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"S. S. Kundu",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"R. Bari",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"U. S. Ghosh",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"N. Karjyi",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"S. Bandyopadhyay",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"G. Pal",
+		"degree":"",
+		"schedule":"Sat"
+		},
+		{
+		"doctor":"A. Nag",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"K. L. Karmakar",
+		"degree":"",
+		"schedule":"Wed"
+		}
+		]
+	},
+	{
+	"name":"Neuro Medicine",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"K. B. Bhattacharyya",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"B. K. Ray",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"A. K. Dutta",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		}
+		]
+	},
+	{
+	"name":"Neuro Surgery",
+	"schedules":[
+		{
+		"doctor":"S. Chatterjee",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"S. K. Das",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"D. Jaluka",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"B. K. Pal",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"A. Acharya",
+		"degree":"",
+		"schedule":"Fri"
+		}
+		]
+	},
+	{
+	"name":"Orthopeadic",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Sandip Roy",
+		"degree":"",
+		"schedule":"Mon, Thu"
+		},
+		{
+		"doctor":"Sunil Hazra",
+		"degree":"",
+		"schedule":"Mon, Thu"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"D. K. Pal",
+		"designation":"HOD",
+		"degree":"",
+		"schedule":"Wed, Sat"
+		},
+		{
+		"doctor":"S. Dutta",
+		"degree":"",
+		"schedule":"Wed, Sat"
+		},
+		{
+		"doctor":"H. Deb",
+		"degree":"",
+		"schedule":"Wed, Sat"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"K.Banerjee",
+		"degree":"",
+		"schedule":"Tue, Fri"
+		},
+		{
+		"doctor":"E. Hossain",
+		"degree":"",
+		"schedule":"Tue, Fri"
+		},
+		{
+		"doctor":"R. Shaw",
+		"degree":"",
+		"schedule":"Tue, Fri"
+		}
+		]
+	},
+	{
+	"name":"Paediatric",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"M. K. Dasgupta",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"S. Ghosh",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"Sabyasachi Som",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"Tapan Kumar Kundu",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"Avishek Roy",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"Nilanjan Ghosh",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Surgery",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"M. K. Bhattacharyya",
+		"degree":"MS,M.CH",
+		"schedule":"Mon"
+		}
+		]
+	},
+	{
+	"name":"Physical Medicine",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"P. K. Mondal",
+		"designation":"HOD",
+		"degree":"",
+		"schedule":"Mon, Tue, Thu, Sat"
+		},
+		{
+		"doctor":"S. Iswarari",
+		"degree":"",
+		"schedule":"Mon, Tue, Thu, Sat"
+		},
+		{
+		"doctor":"P. P. Das",
+		"degree":"",
+		"schedule":"Mon, Tue, Thu, Sat"
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"R. N. Bhattacharya",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"G. Chaudhuri",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"G. Guha",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"V. P. Saha",
+		"degree":"",
+		"schedule":"Fri"
+		}
+		]
+	},
+	{
+	"name":"Psychiatric",
+	"schedules":[
+		{
+		"doctor":"D. G. Mukherjee",
+		"degree":"",
+		"schedule":"Mon, Tue, Sat"
+		},
+		{
+		"doctor":"M. Sinha",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"Saswati Nath",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"Sayanti Ghosh",
+		"degree":"MD",
+		"schedule":"Fri"
+		}
+		]
+	},
+	{
+	"name":"Radiotherapy",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"C. Dasgupta",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"K. Chowdhury",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"P. Dasgupta",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"S. Gangopadhyay",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"A. Chakraborty",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"C. Roy",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"S. Basu",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"Rheumatology",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Goutam Pal",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Udas Ch. Ghosh",
+		"degree":"",
+		"schedule":"Mon"
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"S. Das",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"S. Mistri",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"S. K. Halder",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"doctor":"S. Chatterjee",
+		"degree":"",
+		"schedule":"Mon"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"D. Gautam",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"S. Nath",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"S. Ranjan",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"doctor":"M. R. Mandal",
+		"degree":"",
+		"schedule":"Tue"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"G. G.",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"B. C. G.",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"S. K.",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"D. C.",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"doctor":"T. K. S.",
+		"degree":"",
+		"schedule":"Wed"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"P. G. Sarkar",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"R. Mukherjee",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"N. Panda",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"doctor":"N. R. Mondal",
+		"degree":"",
+		"schedule":"Thu"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"A. N. Acharya",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"D. K. Das",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"S. Gupta",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"D. K. Roy",
+		"degree":"",
+		"schedule":"Fri"
+		},
+		{
+		"doctor":"A. Gangopadhya",
+		"degree":"",
+		"schedule":"Sat"
+		},
+		{
+		"doctor":"P. Mukherjee",
+		"degree":"",
+		"schedule":"Sat"
+		},
+		{
+		"doctor":"S. Lahiri",
+		"degree":"",
+		"schedule":"Sat"
+		}
+		]
+	},
+	{
+	"name":"Uro Surgery",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"R. K. Das",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"S. Basu",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"R. K. Dey",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		},
+		{
+		"doctor":"S. K. Mitra",
+		"degree":"",
+		"schedule":"Tue, Thu"
+		}
+		]
+	}
+	]
+}

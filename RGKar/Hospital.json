@@ -1,0 +1,14 @@
+{
+"name":"R. G. Kar Medical College & Hospital",
+"code":"RGKar",
+"address":"1, Kshudiram Bose Sarani, Kolkata 700004",
+"emails":"principal_rgkarmch@rediffmail.com",
+"websites":"http://rgkarmedicalcollege.org",
+"faxNumbers":"03325558618",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"03325557656,03325557675",
+	"isOpd":true
+	}]
+}
