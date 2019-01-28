@@ -1,0 +1,588 @@
+﻿{
+"name":"Institute of Post Graduate Medical Education & Research",
+"specialties":[
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"P. Sinha Mahapatra",
+		"designation":"Cardio-Diabetology",
+		"degree":"94334-16336\nPlace: Ronald Ross Building, 4th Floor",
+		"schedule":"Fri: 1:00 PM - 3:00 PM"
+		},
+		{
+		"doctor":"Mrinal K Roy",
+		"designation":"Stroke",
+		"degree":"94334-33021\nPlace: Ronald Ross Building 4th Floor",
+		"schedule":"Fri: 2:30 PM"
+		},
+		{
+		"doctor":"Alokesh Koley",
+		"designation":"Stroke",
+		"degree":"98300-56291\nPlace: Ronald Ross Building 4th Floor",
+		"schedule":"Fri: 2:30 PM"
+		}
+		]
+	},
+	{
+	"name":"Chest",
+	"schedules":[
+		{
+		"doctor":"Amit Karmakar",
+		"designation":"Allergy",
+		"degree":"94330-63516",
+		"schedule":"All Days: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"Somnath Bhattacharjee",
+		"designation":"ILD (Interstitial Lung Disease)",
+		"degree":"98304-86724",
+		"schedule":"Thu: 12:00 PM - 2:00 PM"
+		},
+		{
+		"doctor":"Somnath Bhattacharjee",
+		"designation":"MDR TB",
+		"degree":"98304-86724",
+		"schedule":"Fri: 12:00 PM - 2:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Doctors of Dermatology Dept",
+		"designation":"Dermato & Cosmetic Surgery",
+		"degree":"Place: Dermatology OPD, Emergency Building",
+		"schedule":"Sat: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"Goutam Bannerji",
+		"designation":"Leprosy",
+		"degree":"98301-61538\nPlace: Dermatology OPD, Emergency Building",
+		"schedule":"Wed: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"Goutam Bannerji",
+		"designation":"Vitiligo",
+		"degree":"98301-61538\nPlace: Dermatology OPD, Emergency Building",
+		"schedule":"Wed: 9:00 AM - 2:00 PM (1st, 2nd Wed)"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Anirban Biswas",
+		"designation":"Audio Vestibular",
+		"degree":"98303-52580\nPlace: ENT OPD",
+		"schedule":"All Days: 9:00 AM - 2:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Endocrinology",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Subhankar Chowdhury",
+		"designation":"Diabetic",
+		"degree":"98310-76501\nPlace: Endocrinology OPD, Emergency Building",
+		"schedule":"Wed, Thu, Sat: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"Satinath Mukherjee",
+		"designation":"Diabetic",
+		"degree":"98300-27985\nPlace: Endocrinology OPD, Emergency Building",
+		"schedule":"Wed, Thu, Sat: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"Ranen Dasgupta",
+		"designation":"Diabetic",
+		"degree":"98313-61865\nPlace: Endocrinology OPD, Emergency Building",
+		"schedule":"Wed, Thu, Sat: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"Sujay Ghosh",
+		"designation":"Thyroid Nodule Clinic",
+		"degree":"Place: Main Block Gr Floor",
+		"schedule":"Tue: 3:00 PM - 5:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Gastro-enterology",
+	"schedules":[
+		{
+		"doctor":"Avijit Chowdhury",
+		"designation":"Hepatology (Liver)",
+		"degree":"94330-45435\nPlace: Gastro OPD",
+		"schedule":"Tue, Sat: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"G. K. Dhali",
+		"designation":"Hepatology (Liver)",
+		"degree":"98310-03965\nPlace: Gastro OPD",
+		"schedule":"Tue, Sat: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"G. K. Dhali",
+		"designation":"IBD (Inflammatory Bowel Disease)",
+		"degree":"98310-03965\nPlace: Ronald Ross Building, 4th Fl, Dept. of Gastroenterology",
+		"schedule":"Thu: 2:00 PM"
+		},
+		{
+		"doctor":"Asif Ali Ahmed",
+		"designation":"IBS (Irritable Bowel Syndrome)",
+		"degree":"98304-19978\nPlace: Ronald Ross Building, 4th Fl, Dept. of Gastroenterology",
+		"schedule":"Thu: 2:00 PM"
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Diptendra Kumar Sarkar",
+		"designation":"Unit-in-Charge",
+		"degree":"",
+		"schedule":"Mon\nWed, Fri: OT"
+		},
+		{
+		"doctor":"Suvro Ganguly",
+		"degree":"",
+		"schedule":"Mon\nWed, Fri: OT"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Bitan Kumar Chattopadhyay",
+		"designation":"Unit-in-Charge and HOD",
+		"degree":"",
+		"schedule":"Tue\nThu, Sat: OT"
+		},
+		{
+		"doctor":"Rajat Subhra Morel",
+		"degree":"",
+		"schedule":"Tue\nThu, Sat: OT"
+		},
+		{
+		"doctor":"Susnata De",
+		"degree":"",
+		"schedule":"Tue\nThu, Sat: OT"
+		},
+		{
+		"doctor":"Sunanda Dey",
+		"degree":"",
+		"schedule":"Tue\nThu, Sat: OT"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Makhan Lal Saha",
+		"designation":"Unit-in-Charge",
+		"degree":"",
+		"schedule":"Tue, Wed: OT"
+		},
+		{
+		"doctor":"Soumen Das",
+		"degree":"",
+		"schedule":"Tue, Wed: OT"
+		},
+		{
+		"doctor":"Tanveer Adil",
+		"degree":"",
+		"schedule":"Tue, Wed: OT"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Amitabha Sarkar",
+		"designation":"Unit-in-Charge",
+		"degree":"",
+		"schedule":"Thu, Sat: OT"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Prosanta Kumar Bhattacharya",
+		"degree":"",
+		"schedule":"Thu, Sat: OT"
+		},
+		{
+		"doctor":"Amit Kumar Ray",
+		"degree":"",
+		"schedule":"Thu, Sat: OT"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Abhimanyu Basu",
+		"designation":"Unit-in-Charge",
+		"degree":"",
+		"schedule":"Mon, Wed: OT\nFri"
+		},
+		{
+		"doctor":"Santanu Sinha",
+		"degree":"",
+		"schedule":"Mon, Wed: OT\nFri"
+		},
+		{
+		"doctor":"Partha Sarathi Ghosh",
+		"degree":"",
+		"schedule":"Mon, Wed: OT\nFri"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Prabhas Kumar Sarkar",
+		"designation":"Unit-in-Charge",
+		"degree":"",
+		"schedule":"Tue, Thu: OT\nSat"
+		},
+		{
+		"doctor":"Subhasis Saha",
+		"degree":"",
+		"schedule":"Tue, Thu: OT\nSat"
+		},
+		{
+		"doctor":"Saurabh Das",
+		"degree":"",
+		"schedule":"Tue, Thu: OT\nSat"
+		}
+		]
+	},
+	{
+	"name":"Gynaecology & Obstetrics",
+	"schedules":[
+		{
+		"doctor":"B. Seal",
+		"designation":"Infertility",
+		"degree":"94333-27410\nPlace: Ground Floor, G&O Building",
+		"schedule":"Thu: 11:30 AM - 1:30 PM"
+		},
+		{
+		"doctor":"C. Dutta Roy",
+		"designation":"Infertility",
+		"degree":"98300-31615\nPlace: Ground Floor, G&O Building",
+		"schedule":"Thu: 11:30 AM - 1:30 PM"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"T. K. Ghosh",
+		"designation":"PPTCT (Prevention of Parent To Child Transmission)",
+		"degree":"94333-70277\nPlace: Gynae OPD",
+		"schedule":"All Days: 9:00 AM - 2:00 PM"
+		},
+		{
+		"initial":"Ms.",
+		"doctor":"Manika Bannerjee",
+		"designation":"PPTCT (Prevention of Parent To Child Transmission)",
+		"degree":"94334-32115\nPlace: Gynae OPD",
+		"schedule":"All Days: 9:00 AM - 2:00 PM"
+		},
+		{
+		"initial":"Ms.",
+		"doctor":"Sunetra Chowdhury",
+		"designation":"PPTCT (Prevention of Parent To Child Transmission)",
+		"degree":"94338-01614\nPlace: Gynae OPD",
+		"schedule":"All Days: 9:00 AM - 2:00 PM"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"T. K. Ghosh",
+		"designation":"VCCTC (Voluntary Confidential Counseling and Testing Center)",
+		"degree":"94333-70277\nPlace: Blood Bank",
+		"schedule":"All Days"
+		},
+		{
+		"initial":"Ms.",
+		"doctor":"Sumana Chattopadhyay",
+		"designation":"VCCTC (Voluntary Confidential Counseling and Testing Center)",
+		"degree":"94332-18086\nPlace: Blood Bank",
+		"schedule":"All Days"
+		},
+		{
+		"doctor":"Sudip Saha",
+		"degree":"",
+		"schedule":"Mon\nThu: OT"
+		},
+		{
+		"doctor":"Chaitali Datta Roy",
+		"degree":"",
+		"schedule":"Mon\nThu: OT"
+		},
+		{
+		"doctor":"Subesha Basu Roy",
+		"degree":"",
+		"schedule":"Mon\nThu: OT"
+		},
+		{
+		"doctor":"Gourisankar Kamilya",
+		"degree":"",
+		"schedule":"Tue\nFri: OT"
+		},
+		{
+		"doctor":"Sarbeswar Mandal",
+		"degree":"",
+		"schedule":"Tue\nFri: OT"
+		},
+		{
+		"doctor":"Partha Sarathi Chakravorty",
+		"degree":"",
+		"schedule":"Wed\nSat: OT"
+		},
+		{
+		"doctor":"Dip Narayan Sarkar",
+		"degree":"",
+		"schedule":"Wed\nSat: OT"
+		},
+		{
+		"doctor":"Subhash Chandra Biswas",
+		"degree":"",
+		"schedule":"Mon: OT\nThu"
+		},
+		{
+		"doctor":"S. R. Pramanick",
+		"degree":"",
+		"schedule":"Mon: OT\nThu"
+		},
+		{
+		"doctor":"Debasmita Mondal",
+		"degree":"",
+		"schedule":"Tue: OT\nFri"
+		},
+		{
+		"doctor":"Biswajit Ghosh",
+		"degree":"",
+		"schedule":"Tue: OT\nFri"
+		},
+		{
+		"doctor":"S. N. Banerjee",
+		"degree":"",
+		"schedule":"Wed: OT\nSat"
+		},
+		{
+		"doctor":"Sumanta Kumar Mondal",
+		"degree":"",
+		"schedule":"Wed: OT\nSat"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Krishnendu Mukherjee",
+		"designation":"Hematology",
+		"degree":"94333-42078\nPlace: Pathology, 3rd Fl, Emergency Bldg, Room 16",
+		"schedule":"Thu: 10:00 AM – 1:00 PM"
+		},
+		{
+		"doctor":"Nabanita Chakroborty",
+		"designation":"Hematology",
+		"degree":"98301-98566\nPlace: Pathology, 3rd Fl, Emergency Bldg, Room 16",
+		"schedule":"Thu: 10:00 AM – 1:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Medicine",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"N. B. Debnath",
+		"designation":"Arsenic",
+		"degree":"94332-02319\nPlace: Ronald Ross Building, 4th Floor",
+		"schedule":"Thu: 2:00 PM - 3:30 PM"
+		},
+		{
+		"doctor":"P. S. Karmakar",
+		"designation":"Arsenic",
+		"degree":"93320-02930\nPlace: Ronald Ross Building, 4th Floor",
+		"schedule":"Thu: 2:00 PM - 3:30 PM"
+		},
+		{
+		"doctor":"D. D. Chatterjee",
+		"designation":"Arsenic",
+		"degree":"94332-02319\nPlace: Ronald Ross Building, 4th Floor",
+		"schedule":"Thu: 2:00 PM - 3:30 PM"
+		},
+		{
+		"doctor":"Jyotirmoy Pal",
+		"designation":"Clinical Immunology",
+		"degree":"94332-30319\nPlace: Medicine OPD, Room 10A",
+		"schedule":"Wed: 12:00 PM - 3:00 PM"
+		},
+		{
+		"doctor":"Tapas Das",
+		"designation":"Geriatric",
+		"degree":"98305-83864\nPlace: Ronald Ross Build, 4th Floor",
+		"schedule":"Mon: 2:00 PM - 4:00 PM\nSat: 12:00 PM"
+		},
+		{
+		"doctor":"P. S. Karmakar",
+		"designation":"Geriatric",
+		"degree":"93320-02930\nPlace: Ronald Ross Build, 4th Floor",
+		"schedule":"Mon: 2:00 PM - 4:00 PM\nSat: 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Rheumatology",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Alokendu Ghosh",
+		"degree":"94330-32941\nPlace: Ronald Ross Building 4th Floor",
+		"schedule":"Wed: 12:00 PM – 4:00 PM"
+		},
+		{
+		"doctor":"P. S. Mahaptra",
+		"degree":"94334-16336\nPlace: Ronald Ross Building 4th Floor",
+		"schedule":"Wed: 12:00 PM – 4:00 PM"
+		},
+		{
+		"doctor":"Sanjay Dhar",
+		"degree":"94330-01928\nPlace: Ronald Ross Building 4th Floor",
+		"schedule":"Wed: 12:00 PM – 4:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Neonatology",
+	"schedules":[
+		{
+		"doctor":"Arun Kr Singh",
+		"designation":"High Risk New Born",
+		"degree":"94331-12434\nPlace: SPM, Gymnasium",
+		"schedule":"Sat: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"Arun Kr Singh",
+		"designation":"Neonatal Neuro",
+		"degree":"94331-12434\nPlace: Gr Floor NICU",
+		"schedule":"All Days: 9:00 AM - 2:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Doctors of Nephrology Dept.",
+		"designation":"Glomerulonephritis",
+		"degree":"Place: MRU, 4th Floor",
+		"schedule":"Wed: 2:00 PM"
+		},
+		{
+		"doctor":"Doctors of Nephrology Dept. + Urology Dept",
+		"designation":"Kidney Transplantation",
+		"degree":"Place: MRU, Ronald Ross Building 4th Floor",
+		"schedule":"Thu: 1:00 PM"
+		},
+		{
+		"doctor":"Doctors of Urology Dept. + Doctors of Nephrology Dept.",
+		"designation":"Ultra Sound Prostate Biopsy",
+		"degree":"Place: Urology OT, 5th Floor, MRU",
+		"schedule":"All Days: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Pediatric Medicine",
+	"schedules":[
+		{
+		"doctor":"Dipankar Gupta",
+		"designation":"Pediatric Asthma/ Allergy",
+		"degree":"98305-84980\nOPD Bldg, Emergency Room 9",
+		"schedule":"Fri: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"Dipankar Gupta",
+		"designation":"Pediatric Neurology",
+		"degree":"98305-84980\nPediatric OPD, Room 8",
+		"schedule":"Fri: 1:00 PM - 3:30 PM"
+		},
+		{
+		"doctor":"Rakesh Mondal",
+		"designation":"Pediatric Rheumatology",
+		"degree":"94334-14253",
+		"schedule":"Sat: 10:30 AM - 1:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"doctor":"Doctors of Plastic Surgery",
+		"designation":"Hand",
+		"degree":"Place: Ronald Ross Building 2nd Floor",
+		"schedule":"Thu: 2:30 PM"
+		}
+		]
+	},
+	{
+	"name":"Psychiatry",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Pradip Kumar Saha",
+		"degree":"",
+		"schedule":"Mon, Tue"
+		},
+		{
+		"doctor":"Sikha Mukhopadhyay",
+		"degree":"",
+		"schedule":"Wed, Fri"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Amit Kumar Bhattacharya",
+		"degree":"",
+		"schedule":"Thu, Sat"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Pradip Kumar Saha",
+		"degree":"",
+		"schedule":"Sun: 2nd & 4th"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Doctors of Urology Dept.",
+		"designation":"Day Care Surgery",
+		"degree":"Place: OPD",
+		"schedule":"All Days: 9:00 AM - 2:00 PM"
+		},
+		{
+		"doctor":"Doctors of Urology Dept.",
+		"designation":"Follow Up",
+		"degree":"Place: Seminar Room, MRU",
+		"schedule":"Fri, Sat: 9:30 AM"
+		},
+		{
+		"doctor":"Doctors of Urology Dept.",
+		"designation":"Follow Up / Transplant Surgery",
+		"degree":"Place: Seminar Room, 4th Floor, MRU",
+		"schedule":"All Days: 9:30 AM"
+		},
+		{
+		"doctor":"Doctors of Urology Dept.",
+		"designation":"Uroflowmetry / Urodynamic Studies",
+		"degree":"Place: Urology Building, 3rd Floor, Uro-Dynamic Lab",
+		"schedule":"All Days: 9:30 AM"
+		},
+		{
+		"doctor":"Doctors of Urology Dept.",
+		"designation":"Uro-Onchology",
+		"degree":"Place: Seminar Room, 4th Floor, MRU",
+		"schedule":"Sat: 9:30 AM"
+		},
+		{
+		"doctor":"Doctors of Urology Dept. + Radiology Dept.",
+		"designation":"Uro-Radiology",
+		"degree":"Place: Radiology Dept, 1st Floor Emergency Building",
+		"schedule":"Tue to Thu: 1:00 PM"
+		}
+		]
+	}
+	]
+}

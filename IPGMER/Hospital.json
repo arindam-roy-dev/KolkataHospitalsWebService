@@ -1,0 +1,16 @@
+{
+"name":"Institute of Post Graduate Medical Education & Research (IPGMER)/(PG)",
+"code":"IPGMER",
+"address":"244, A.J.C. Bose Road, Kolkata 700020",
+"emails":"director.ipgmer@gmail.com,msvpsskm@gmail.com",
+"websites":"http://www.ipgmer.gov.in",
+"faxNumbers":"03322235181",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Director - Prof (Dr.) Manimoy Bandopadhyay",
+	"phoneNumbers":"03322041101"
+	},{
+	"name":"MSVP - Prof (Dr.) Raghunath Misra",
+	"phoneNumbers":"03322041204"
+	}]
+}
