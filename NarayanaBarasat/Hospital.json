@@ -1,0 +1,17 @@
+{
+"name":"Narayana Multispeciality Hospital, Barasat",
+"code":"NarayanaBarasat",
+"address":"78, Jessore Road ( South), Barasat, 24 Parganas (North), West Bengal 700127",
+"emails":"info.barasat@narayanahealth.org",
+"websites":"https://www.narayanahealth.org/hospitals/kolkata/narayana-multispeciality-hospital-barasat",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208",
+	"isOpd":true
+	},{
+	"name":"Emergency Number",
+	"phoneNumbers":"919836113636"
+	}]
+}

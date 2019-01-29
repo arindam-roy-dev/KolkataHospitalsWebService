@@ -1,0 +1,581 @@
+﻿{
+"name":"Narayana Multispeciality Hospital, Barasat",
+"specialties":[
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"Asit Das",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DNB",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Hirak Jyoti Sanyal",
+		"designation":"Junior Consultant",
+		"degree":"PGDCC",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Koushik Chaki",
+		"designation":"Consultant",
+		"degree":"PGDCC",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Partha Pratim Dey",
+		"designation":"Junior Consultant",
+		"degree":"PGDCC",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Rathindra Nath Karmakar",
+		"designation":"Associate Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sougata Sanyal",
+		"designation":"Junior Consultant",
+		"degree":"MD, PGDCC",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sunandan Sikdar",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sunil Lhila",
+		"designation":"Consultant",
+		"degree":"DM",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Cardiac Surgery",
+	"schedules":[
+		{
+		"doctor":"Arunansu Dhole",
+		"designation":"Consultant",
+		"degree":"DNB, MRCS (Eng), M.Ch (CTVS)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Dental",
+	"schedules":[
+		{
+		"doctor":"Kaustav Roy",
+		"designation":"Consultant - Cranio-Maxillo Facial Surgery",
+		"degree":"BDS, MFDS, MOMS, FFDRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sanjib Chowdhury",
+		"designation":"Visiting Consultant",
+		"degree":"BDS, MDS, FAGE",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Shekhar Satyanarayan Haldar",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Tamal Chakraborty",
+		"designation":"Visiting Consultant",
+		"degree":"DVD, MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Alakananda Debnath",
+		"designation":"Consultant",
+		"degree":"DLO, DNB (Oto-Rhino-laryngology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Saibal Mishra",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MRCS, DNB",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Emergency Medicine",
+	"schedules":[
+		{
+		"doctor":"Apurba Panja",
+		"designation":"Consultant",
+		"degree":"Diploma (Emergency Medicine)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Aniruddha Bhattacharya",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM, MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"General Medicine",
+	"schedules":[
+		{
+		"doctor":"Bodhisatwa Biswas",
+		"designation":"Junior Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sayan Chattaraj",
+		"designation":"Junior Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology",
+	"schedules":[
+		{
+		"doctor":"Manik Lal Thakur",
+		"designation":"Consultant",
+		"degree":"MD, DM (Gastroenterology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Prabir Kumar Banerjee",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sandip Pal",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Saubhik Ghosh",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DNB, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"doctor":"Anuj Kanti Poddar",
+		"designation":"Visiting Consultant",
+		"degree":"MS, FMAS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Jai Chaudhuri",
+		"designation":"Consultant",
+		"degree":"MS, FRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sujit Sarkar",
+		"designation":"Visiting Consultant",
+		"degree":"MS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Tarshid Ali Jahangir",
+		"designation":"Consultant",
+		"degree":"DNB, MRCS, FLAGES",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Internal Medicine",
+	"schedules":[
+		{
+		"doctor":"Amit De",
+		"designation":"Senior Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Bibhu Chakrabarti",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Trinanjan Ash",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Utpal Kumar Sengupta",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Vikash Maskara",
+		"designation":"Consultant",
+		"degree":"MD, MRCP",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Oncology",
+	"schedules":[
+		{
+		"doctor":"Prashant Pandey",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Microbiology",
+	"schedules":[
+		{
+		"doctor":"Nibedita Chatterjee",
+		"designation":"Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Bismay Kumar",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Jayanta Dutta",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sunil Kumar",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Neurology",
+	"schedules":[
+		{
+		"doctor":"Gautam Das",
+		"designation":"Visiting Consultant",
+		"degree":"DPM, MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Moumita Bagchi",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Santi Brata Ray",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Urmila Das",
+		"designation":"Consultant",
+		"degree":"MD, DM (Neurology)",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Neuro Surgery",
+	"schedules":[
+		{
+		"doctor":"Safi Ikbal Siddique",
+		"designation":"Junior Consultant",
+		"degree":"MS & MCh",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Gynaecology & Obstetrics",
+	"schedules":[
+		{
+		"doctor":"Asit Baran Sarkar",
+		"designation":"Visiting Consultant",
+		"degree":"DGO",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Debalina Brahma",
+		"designation":"Visiting Consultant",
+		"degree":"DGO",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Hossain Imam",
+		"designation":"Visiting Consultant",
+		"degree":"MS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Nilotpal Kulavi",
+		"designation":"Visiting Consultant",
+		"degree":"DGO",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sanchaita Das",
+		"designation":"Consultant",
+		"degree":"MS, MRCOG, CCT, FMAS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sankar Das Mahapatra",
+		"designation":"Consultant",
+		"degree":"DGO, MS, Fellowship (Gynaecology & Obstetrics)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Siuli Chowdhury",
+		"designation":"Consultant",
+		"degree":"DGO, PGDMLS, FAMS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sukalyan Ghosh",
+		"designation":"Visiting Consultant",
+		"degree":"DGO",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Monalisa Pramanik Nandy",
+		"designation":"Visiting Consultant",
+		"degree":"DO",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedics",
+	"schedules":[
+		{
+		"doctor":"Amit Kumar Das",
+		"designation":"Visiting Consultant",
+		"degree":"FRCS, MCh",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Chinmay Nath",
+		"designation":"Visiting Consultant",
+		"degree":"MS, DTB & MRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Indranil Biswas",
+		"designation":"Consultant",
+		"degree":"D.Ortho, DNB",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Seshadri Sen",
+		"designation":"Consultant",
+		"degree":"MS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Soumyadip Dutta",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Paediatrics",
+	"schedules":[
+		{
+		"doctor":"Avijit Biswas",
+		"designation":"Junior Consultant",
+		"degree":"DCH",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Dilip Kumar Saha",
+		"designation":"Consultant",
+		"degree":"DCH, MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Krishnakali Bhattacharyya",
+		"designation":"Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Subhash Chandra Poddar",
+		"designation":"Consultant",
+		"degree":"DVD, MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Sukanta Nandi",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Surgery",
+	"schedules":[
+		{
+		"doctor":"Aloke Kumar Sinhababu",
+		"designation":"Visiting Consultant",
+		"degree":"MS, D.C.H",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"doctor":"Debarati Chattopadhyay",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCh",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Manish Mukul Ghosh",
+		"designation":"Visiting Consultant",
+		"degree":"MD, MS, FRCS, FRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Prabir Kumar Jash",
+		"designation":"Visiting Consultant",
+		"degree":"MS, DNB, FRCS, MCh",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Saptarshi Bhattacharya",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCh, MRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Pulmonology",
+	"schedules":[
+		{
+		"doctor":"Abhradip Das",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Arup Kumar Halder",
+		"designation":"Visiting Consultant",
+		"degree":"DCH, MD",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Swarup Paul",
+		"designation":"Associate Consultant",
+		"degree":"MBBS, DTCD, MD (Anaesthesiology), FNB CCM",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Thoracic Surgery",
+	"schedules":[
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"Amitabha Chakrabarti",
+		"designation":"Consultant",
+		"degree":"DNB, MCh, MNAMS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Chandra Sekhar Patro",
+		"designation":"Consultant",
+		"degree":"MBBS, MS, MCh(Urology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Manas Kumar Mandal",
+		"designation":"Visiting Consultant",
+		"degree":"D.Ortho, MS, M.Ch",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Nabankur Ghosh",
+		"designation":"Visiting Consultant",
+		"degree":"MS, DNB, MRCS, MCh, FMAS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Prabir Basu",
+		"designation":"Consultant",
+		"degree":"MS, MRCS, DNB (Urology)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Tarshid Ali Jahangir",
+		"designation":"Consultant",
+		"degree":"DNB, MRCS, FLAGES",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	}
+	]
+}
