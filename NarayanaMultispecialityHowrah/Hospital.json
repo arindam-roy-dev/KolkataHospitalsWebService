@@ -1,0 +1,17 @@
+{
+"name":"Narayana Multispeciality Hospital, Howrah",
+"code":"NarayanaMultispecialityHowrah",
+"address":"Podrah, Near Chunabati, Andul Road, Howrah, West Bengal - 711109",
+"emails":"info.nmhhowrah@narayanahealth.org",
+"websites":"https://www.narayanahealth.org/hospitals/kolkata/narayana-multispeciality-hospital-howrah",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208",
+	"isOpd":true
+	},{
+	"name":"Emergency Number",
+	"phoneNumbers":"8334830003"
+	}]
+}
