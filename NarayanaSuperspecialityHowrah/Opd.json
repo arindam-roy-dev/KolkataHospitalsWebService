@@ -1,0 +1,1151 @@
+﻿{
+"name":"Narayana Superspeciality Hospital, Howrah",
+"specialties":[
+	{
+	"name":"Anaesthesia & Critical Care",
+	"schedules":[
+		{
+		"doctor":"Anirban Ghosal",
+		"designation":"Consultant",
+		"degree":"DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Arghya Mukherjee",
+		"designation":"Consultant",
+		"degree":"MD, FIPM",
+		"schedule":""
+		},
+		{
+		"doctor":"Debatra Bose",
+		"designation":"Associate Consultant",
+		"degree":"DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Ipsita Rahman",
+		"designation":"Consultant",
+		"degree":"DA",
+		"schedule":""
+		},
+		{
+		"doctor":"Manas Khan",
+		"designation":"Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Manish Kumar Sharma",
+		"designation":"Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Niladri Sekhar Bhattacharyya",
+		"designation":"Consultant",
+		"degree":"DA",
+		"schedule":""
+		},
+		{
+		"doctor":"Nilanchal Chakraborty",
+		"designation":"Associate Consultant",
+		"degree":"MD, PDCC",
+		"schedule":""
+		},
+		{
+		"doctor":"Rachana Bagrodia",
+		"designation":"Junior Consultant",
+		"degree":"MD, Fellow (Paediatric Anesthesia)",
+		"schedule":""
+		},
+		{
+		"doctor":"Raja Kishore Behera",
+		"designation":"Consultant",
+		"degree":"MD, FNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Rangan Koley",
+		"designation":"Consultant",
+		"degree":"MD, PDFCA & CCM",
+		"schedule":""
+		},
+		{
+		"doctor":"Rashmi Shahi",
+		"designation":"Consultant",
+		"degree":"DNB , DA",
+		"schedule":""
+		},
+		{
+		"doctor":"Siddhartha Soman Mookerjee",
+		"designation":"Junior Consultant",
+		"degree":"DNB ( Anaesthesiology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sudipta Ghosh",
+		"designation":"Associate Consultant",
+		"degree":"DA",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"Bijay Prakash Pandey",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Kapil Kumawat",
+		"designation":"Senior Consultant",
+		"degree":"MD, DM, Fellowship (Electrophysiology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Masud Syed Mehedi",
+		"designation":"Associate Consultant",
+		"degree":"",
+		"schedule":""
+		},
+		{
+		"doctor":"Munna Das",
+		"designation":"Consultant",
+		"degree":"MD, DM, Fellow (Electrophysiology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sibananda Datta",
+		"designation":"Visiting Consultant",
+		"degree":"MD (General Medicine), DM ( Cardiology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Siddhartha Mani",
+		"designation":"Consultant",
+		"degree":"MD, DM (Cardiology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Soumyojit Saha",
+		"designation":"Junior Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Subhra Aditya",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Vijay Shankar Sharma",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Cardiac Surgery",
+	"schedules":[
+		{
+		"doctor":"Debasis Das",
+		"designation":"Consultant",
+		"degree":"MS, DNB, MRCS(Edin), MCh, DNB(CTVS), MNAMS",
+		"schedule":""
+		},
+		{
+		"doctor":"Nilanjan Dutta",
+		"designation":"Consultant",
+		"degree":"MS, MCH",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Dental",
+	"schedules":[
+		{
+		"doctor":"Abhay Sonthalia",
+		"designation":"Visiting Consultant",
+		"degree":"MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Ayan Das",
+		"designation":"Visiting Consultant",
+		"degree":"MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Ayan Majumdar",
+		"designation":"Consultant",
+		"degree":"BDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Jayanta Chatterjee",
+		"designation":"Visiting Consultant",
+		"degree":"MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Mrinmoy Chakraborty",
+		"designation":"Visiting Consultant",
+		"degree":"MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Prativa Sharma",
+		"designation":"Visiting Consultant",
+		"degree":"MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Rajshekhar Chatterjee",
+		"designation":"Visiting Consultant",
+		"degree":"MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sudakshina Das",
+		"designation":"Associate Consultant",
+		"degree":"BDS, MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Swati Kejriwal",
+		"designation":"Visiting Consultant",
+		"degree":"MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Tuhina Ghosh Chakraborty",
+		"designation":"Visiting Consultant",
+		"degree":"MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Vishal Singh",
+		"designation":"Visiting Consultant",
+		"degree":"BDS, MDS(Periodontia)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Aritra Sarkar",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Jayanta Kumar Das",
+		"designation":"Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Kingshuk Samanta",
+		"designation":"Visiting Consultant",
+		"degree":"DCH, MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Shekhar Sattyanarayan Haldar",
+		"designation":"Visiting Consultant",
+		"degree":"MD, FDD, FAM",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Maxillo Facial Surgery",
+	"schedules":[
+		{
+		"doctor":"Aditi Jain",
+		"designation":"Visiting Consultant",
+		"degree":"MDS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sougata Chatterjee",
+		"designation":"Consultant",
+		"degree":"BDS, MDS",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Diabetology, Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Hridish Narayan Chakravarti",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM (Endocrinology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sanjay K Shah",
+		"designation":"Consultant",
+		"degree":"MD, MRCP, CCST",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Agniva Basu",
+		"designation":"Junior Consultant",
+		"degree":"MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Anjali Ghosh",
+		"designation":"Visiting Consultant",
+		"degree":"MS, FRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Archana Ranade",
+		"designation":"Visiting Consultant",
+		"degree":"MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Lopamudra (Misra) Chakraborty",
+		"designation":"Visiting Consultant",
+		"degree":"DCH, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Milan Chakroborty",
+		"designation":"Visiting Consultant",
+		"degree":"MS, DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Rajdeep Parames Guha",
+		"designation":"Consultant",
+		"degree":"MS (ENT), DNB (ENT), Fellow TMC",
+		"schedule":""
+		},
+		{
+		"doctor":"Samrat Bandyopadhyay",
+		"designation":"Consultant",
+		"degree":"MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sanjib Kumar Datta",
+		"designation":"Visiting Consultant",
+		"degree":"MS",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Emergency Medicine",
+	"schedules":[
+		{
+		"doctor":"Ramyajit Lahiri",
+		"designation":"Consultant",
+		"degree":"MEM, MD (Accident & Critical Care)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sudip Banerjee",
+		"designation":"Consultant",
+		"degree":"MEM",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Hridish Narayan Chakravarti",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM (Endocrinology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sanjay K Shah",
+		"designation":"Consultant",
+		"degree":"MD, MRCP, CCST",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology",
+	"schedules":[
+		{
+		"doctor":"Dilip Todi",
+		"designation":"Consultant",
+		"degree":"MD, MRCP, CCST (Gastro & Medicine)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sandip Pal",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Sanjoy Basu",
+		"designation":"Consultant",
+		"degree":"FRCP, Diploma (Gastroenterology), MRCP",
+		"schedule":""
+		},
+		{
+		"doctor":"Somnath Mukherjee",
+		"designation":"Consultant",
+		"degree":"MD, DNB, MRCP, CCST",
+		"schedule":""
+		},
+		{
+		"doctor":"Gaurav Kumar",
+		"designation":"Junior Consultant\n(Gastroenterology - Surgical)",
+		"degree":"DNB, MNAMS",
+		"schedule":""
+		},
+		{
+		"doctor":"Partha Pratim Sen",
+		"designation":"Consultant\n(Gastroenterology - Surgical)",
+		"degree":"MS, FRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Rahul Roy",
+		"designation":"Visiting Consultant\n(Gastroenterology - Surgical)",
+		"degree":"MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Shubhayu Banerjee",
+		"designation":"Consultant\n(Gastroenterology - Surgical)",
+		"degree":"MRCS, FRCS, CCST, Adv Lap. & GI Onco Surgery",
+		"schedule":""
+		},
+		{
+		"doctor":"Sumit Sanyal",
+		"designation":"Visiting Consultant\n(Gastroenterology - Surgical)",
+		"degree":"MS, MCh",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Gastrointestinal Oncology",
+	"schedules":[
+		{
+		"doctor":"Shubhayu Banerjee",
+		"designation":"Consultant",
+		"degree":"MRCS, FRCS, CCST, Adv Lap. & GI Onco Surgery",
+		"schedule":""
+		},
+		{
+		"doctor":"Sumit Sanyal",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCh",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"doctor":"Gaurav Kumar",
+		"designation":"Junior Consultant",
+		"degree":"DNB, MNAMS",
+		"schedule":""
+		},
+		{
+		"doctor":"Himansu Roy",
+		"designation":"Visiting Consultant",
+		"degree":"MS, FAIS",
+		"schedule":""
+		},
+		{
+		"doctor":"Partha Pratim Sen",
+		"designation":"Consultant",
+		"degree":"MS, FRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sanjay Kumar Dubey",
+		"designation":"Consultant",
+		"degree":"MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Santosh Kumar Singh",
+		"designation":"Visiting Consultant",
+		"degree":"MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Shashank Shukla",
+		"designation":"Junior Consultant",
+		"degree":"DNB (General Surgery), MNAMS",
+		"schedule":""
+		},
+		{
+		"doctor":"Shubhayu Banerjee",
+		"designation":"Consultant",
+		"degree":"MRCS, FRCS, CCST, Adv Lap. & GI Onco Surgery",
+		"schedule":""
+		},
+		{
+		"doctor":"Subhash Kumar Gupta",
+		"designation":"Visiting Consultant",
+		"degree":"MS, FAIS, FIAGES",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Genetics",
+	"schedules":[
+		{
+		"doctor":"Atanu Kumar Dutta",
+		"designation":"Visiting Consultant",
+		"degree":"MD, FDFMG",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Oncology",
+	"schedules":[
+		{
+		"doctor":"Kaustav Basu",
+		"designation":"Consultant",
+		"degree":"DGO, DNB, Fellowship (Gynae Oncology), FMAS",
+		"schedule":""
+		},
+		{
+		"doctor":"Rahul Roy Chowdhury",
+		"designation":"Senior Consultant",
+		"degree":"MRCOG, FRCOG (Lond), CCST",
+		"schedule":""
+		},
+		{
+		"doctor":"Chandrakanth M.V.",
+		"designation":"Consultant",
+		"degree":"MD (General Medicine), DM (Medical Oncology), Fellow Hemato",
+		"schedule":""
+		},
+		{
+		"doctor":"Rajesh Jindal",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Vivek Agarwala",
+		"designation":"Consultant",
+		"degree":"MD (General Medicine), DM, DNB (Medical Oncology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Apurva Garg",
+		"designation":"Associate Consultant (Head & Neck Surgery)",
+		"degree":"MBBS,MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sourav Datta",
+		"designation":"Consultant",
+		"degree":"MS (ENT), HBMI Fellow (TMH)",
+		"schedule":""
+		},
+		{
+		"doctor":"Kousik Nandy",
+		"designation":"Consultant (Ortho - Oncology)",
+		"degree":"MS, DNB, MNAMS",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Haematology",
+	"schedules":[
+		{
+		"doctor":"Sarmila Chandra",
+		"designation":"Consultant",
+		"degree":"MD (Internal Medicine)",
+		"schedule":""
+		},
+		{
+		"doctor":"Ujal Mani",
+		"designation":"Consultant",
+		"degree":"DMRT",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"General Medicine",
+	"schedules":[
+		{
+		"doctor":"Buddhadeb Mukhopadhyay",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Guru Prasad Bhattacharya",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DFID ( Fellowship in Diabetes), CCEBDM (Diabetes), CCMTD (Thyroid)",
+		"schedule":""
+		},
+		{
+		"doctor":"Jayanta Datta",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Mohiuddin Ahmad",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Monimoy Ghosh",
+		"designation":"Visiting Consultant",
+		"degree":"MD, FRCP",
+		"schedule":""
+		},
+		{
+		"doctor":"Mridul Bera",
+		"designation":"Visiting Consultant",
+		"degree":"MRCP, FCCS, BMS",
+		"schedule":""
+		},
+		{
+		"doctor":"Nilanjan Patranabis",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Rajarshi Sengupta",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Rajkumar Manna",
+		"designation":"Consultant",
+		"degree":"MD, IDCCM",
+		"schedule":""
+		},
+		{
+		"doctor":"Sandip Chakraborty",
+		"designation":"Visiting Consultant",
+		"degree":"Diploma (Cardiology), FCCP (Tropical Cardiology), PGPC (Cardiology), Diploma (Cardilogy), PGD",
+		"schedule":""
+		},
+		{
+		"doctor":"Satish Gupta",
+		"designation":"Consultant",
+		"degree":"MD, MRCP",
+		"schedule":""
+		},
+		{
+		"doctor":"Sugata Roy Chowdhury",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Sukhendu Bikash Mishra",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Bismay Kumar",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Jayanta Datta",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Rohit Rungta",
+		"designation":"Associate Consultant",
+		"degree":"DTM&H, MD (Medicine), DNB (Nephrology)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sharmila Thukral",
+		"designation":"Consultant",
+		"degree":"MD, DNB",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Neurology",
+	"schedules":[
+		{
+		"doctor":"Amlan Mandal",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Arindam Das",
+		"designation":"Consultant",
+		"degree":"MBBS, DTM & H, MD (Med), DM (Neuro)",
+		"schedule":""
+		},
+		{
+		"doctor":"Debashis Bhattacharyya",
+		"designation":"Visiting Consultant",
+		"degree":"DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Debashis Roy",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DNB, DNM",
+		"schedule":""
+		},
+		{
+		"doctor":"Haseeb Hassan",
+		"designation":"Consultant",
+		"degree":"MD, DM, Fellowship (Epilepsy)",
+		"schedule":""
+		},
+		{
+		"doctor":"Sitesh Das Gupta",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Neurosurgery",
+	"schedules":[
+		{
+		"doctor":"Dinesh Jaluka",
+		"designation":"Visiting Consultant",
+		"degree":"MCh (Neurosurgery)",
+		"schedule":""
+		},
+		{
+		"doctor":"Nilay Biswas",
+		"designation":"Consultant",
+		"degree":"MRCS, MS (General Surgery), MCh (Neurosurgery)",
+		"schedule":""
+		},
+		{
+		"doctor":"Partha Pratim Bishnu",
+		"designation":"Consultant",
+		"degree":"MS, MCh",
+		"schedule":""
+		},
+		{
+		"doctor":"Soumitra Ray",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCh",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Obstetrics & Gynaecology",
+	"schedules":[
+		{
+		"doctor":"Farheen Faruque",
+		"designation":"Consultant",
+		"degree":"MS, MRCOG",
+		"schedule":""
+		},
+		{
+		"doctor":"Kakoli Vijay Kumar",
+		"designation":"Visiting Consultant",
+		"degree":"DNB, USMLE, MRCOG, MFFP",
+		"schedule":""
+		},
+		{
+		"doctor":"Pushan Kundu",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DNB, MRCOG, FRCOG, FICOG, DIAOBS",
+		"schedule":""
+		},
+		{
+		"doctor":"Rahul Roy Chowdhury",
+		"designation":"Senior Consultant",
+		"degree":"MRCOG, FRCOG (Lond), CCST",
+		"schedule":""
+		},
+		{
+		"doctor":"Subhas Mukherjee",
+		"designation":"Visiting Consultant",
+		"degree":"DGO, MRCOG",
+		"schedule":""
+		},
+		{
+		"doctor":"Subhashis Samajder",
+		"designation":"Junior Consultant",
+		"degree":"MS, DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Sukumar Barik",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DNB, FRCOG, MFFP, MAMS, FICOG",
+		"schedule":""
+		},
+		{
+		"doctor":"Suman Kumari",
+		"designation":"Consultant",
+		"degree":"MS, Internship MRCOG",
+		"schedule":""
+		},
+		{
+		"doctor":"Sumana Dutta",
+		"designation":"Consultant",
+		"degree":"MD, DNB",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Ophthalmology (Eye)",
+	"schedules":[
+		{
+		"doctor":"Jayanthi Raman",
+		"designation":"Visiting Consultant",
+		"degree":"DNB, FRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Subrata Guhathakurta",
+		"designation":"Visiting Consultant",
+		"degree":"DO, FRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Tapan Kumar Das",
+		"designation":"Visiting Consultant",
+		"degree":"MS, DNB, FHFH",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Ortho - Oncology",
+	"schedules":[
+		{
+		"doctor":"Kousik Nandy",
+		"designation":"Consultant",
+		"degree":"MS, DNB, MNAMS",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Orthopaedics",
+	"schedules":[
+		{
+		"doctor":"Arindam Banerjee",
+		"designation":"Visiting Consultant",
+		"degree":"FRCS, MSc, DO",
+		"schedule":""
+		},
+		{
+		"doctor":"Arindam Ganguly",
+		"designation":"Visiting Consultant",
+		"degree":"MBBS, FRCS(ENG)",
+		"schedule":""
+		},
+		{
+		"doctor":"Brijesh Rai",
+		"designation":"Visiting Consultant",
+		"degree":"D.Ortho",
+		"schedule":""
+		},
+		{
+		"doctor":"Gairik Ghosh",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Kushal Nag",
+		"designation":"Consultant",
+		"degree":"MS (Orthopaedics), Fellowship (Foot and Ankle Surgery)",
+		"schedule":""
+		},
+		{
+		"doctor":"Rajiv Chatterjee",
+		"designation":"Visiting Consultant",
+		"degree":"DO, MS, DNB, FRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Sanjoy Bagchi",
+		"designation":"Visiting Consultant",
+		"degree":"DMCW",
+		"schedule":""
+		},
+		{
+		"doctor":"Soumyajit Mondal",
+		"designation":"Junior Consultant",
+		"degree":"DA, MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Surya Uday Singh",
+		"designation":"Visiting Consultant",
+		"degree":"MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Tahseen Siddiquie",
+		"designation":"Associate Consultant",
+		"degree":"MS",
+		"schedule":""
+		},
+		{
+		"doctor":"Vivek Sharma",
+		"designation":"Consultant",
+		"degree":"MS, DNB, MNAMS, Fellow (Knee & Hip), Fellow (Hip Replacement), Fellow (Foot & Ankle)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Paediatrics",
+	"schedules":[
+		{
+		"doctor":"Abhijit Sarkar",
+		"designation":"Consultant",
+		"degree":"DCH, MRCPCH",
+		"schedule":""
+		},
+		{
+		"doctor":"Debjani Gupta",
+		"designation":"Consultant",
+		"degree":"MRCP, DCH",
+		"schedule":""
+		},
+		{
+		"doctor":"Indranil Chatterjee",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCh",
+		"schedule":""
+		},
+		{
+		"doctor":"Kausik Sur",
+		"designation":"Consultant",
+		"degree":"DCH, DNB, MRCP",
+		"schedule":""
+		},
+		{
+		"doctor":"Nimai Chatterjee",
+		"designation":"Consultant",
+		"degree":"DCH, MRCP",
+		"schedule":""
+		},
+		{
+		"doctor":"Prabir Kumar Das",
+		"designation":"Consultant",
+		"degree":"DCH, MRCP, MRCP",
+		"schedule":""
+		},
+		{
+		"doctor":"Sujoy Chakravarty",
+		"designation":"Consultant",
+		"degree":"MRCPCH, DCH",
+		"schedule":""
+		},
+		{
+		"doctor":"Uday Shankar Chatterjee",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCh",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"doctor":"Adhish Basu",
+		"designation":"Consultant",
+		"degree":"MS, MRC, MCh",
+		"schedule":""
+		},
+		{
+		"doctor":"Aditya Kanoi",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCH",
+		"schedule":""
+		},
+		{
+		"doctor":"Anupam Golash",
+		"designation":"Visiting Consultant",
+		"degree":"MS, FRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Kalyan Das",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCH, MRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Santanu Suba",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCH",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Psychiatry",
+	"schedules":[
+		{
+		"doctor":"Indrani Dutta",
+		"designation":"Consultant",
+		"degree":"MA, MPHIL, PHD",
+		"schedule":""
+		},
+		{
+		"initial":"Ms.",
+		"doctor":"Indrani Sarkar",
+		"designation":"Visiting Consultant",
+		"degree":"M.Sc",
+		"schedule":""
+		},
+		{
+		"doctor":"Santanu Goswami",
+		"designation":"Visiting Consultant",
+		"degree":"MD, DNB, MRCP, CCST",
+		"schedule":""
+		},
+		{
+		"doctor":"Subhabrata Bhakta",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Pulmonology",
+	"schedules":[
+		{
+		"doctor":"Mita Ray Sengupta",
+		"designation":"Visiting Consultant",
+		"degree":"MD",
+		"schedule":""
+		},
+		{
+		"doctor":"Satish Gupta",
+		"designation":"Consultant",
+		"degree":"MD, MRCP",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Rheumatology",
+	"schedules":[
+		{
+		"doctor":"Asish Kumar Kundu",
+		"designation":"Consultant",
+		"degree":"MD, DCH, MD(PMR)",
+		"schedule":""
+		},
+		{
+		"doctor":"Santosh Kumar Mandal",
+		"designation":"Consultant",
+		"degree":"MD, PDF (Clinical Immunology and Rheumatology)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Spine Surgery",
+	"schedules":[
+		{
+		"doctor":"Partha Pratim Bishnu",
+		"designation":"Consultant",
+		"degree":"MS, MCh",
+		"schedule":""
+		},
+		{
+		"doctor":"Susmit Naskar",
+		"designation":"Consultant",
+		"degree":"MS",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Abhay Kumar",
+		"designation":"Consultant",
+		"degree":"MS, DNB",
+		"schedule":""
+		},
+		{
+		"doctor":"Arnab Krishna Deb",
+		"designation":"Visiting Consultant",
+		"degree":"MS, FRCS",
+		"schedule":""
+		},
+		{
+		"doctor":"Rajesh Loonia",
+		"designation":"Consultant",
+		"degree":"MS, MCh",
+		"schedule":""
+		},
+		{
+		"doctor":"Suresh Kumar Bajoria",
+		"designation":"Senior Consultant",
+		"degree":"FRCS, DU",
+		"schedule":""
+		},
+		{
+		"doctor":"Uday Shankar Chatterjee",
+		"designation":"Visiting Consultant",
+		"degree":"MS, MCh",
+		"schedule":""
+		}
+		]
+	}
+	]
+}

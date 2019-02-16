@@ -55,8 +55,11 @@
 	"name":"Narayana Multispeciality Hospital, Barasat",
 	"code":"NarayanaBarasat"
 	},{
-	"name":"Narayana Multispeciality Hospital, Howrah",
+	"name":"Narayana Multispeciality Hospital, Howrah (Chunabati)",
 	"code":"NarayanaMultispecialityHowrah"
+	},{
+	"name":"Narayana Superspeciality Hospital, Howrah (Nabanna)",
+	"code":"NarayanaSuperspecialityHowrah"
 	},{
 	"name":"Nightingale Hospital",
 	"code":"Nightingale"
