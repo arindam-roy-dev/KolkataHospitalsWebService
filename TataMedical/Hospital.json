@@ -1,0 +1,17 @@
+{
+"name":"Tata Medical Center",
+"code":"TataMedical",
+"address":"14 MAR (E-W), New Town, Rajarhat, Kolkata 700160",
+"emails":"info@tmckolkata.com,appointment@tmckolkata.com",
+"websites":"www.tmckolkata.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"03366057000"
+	},{
+	"name":"OPD",
+	"phoneNumbers":"03366057222",
+	"isOpd":true
+	}]
+}

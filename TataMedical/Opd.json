@@ -1,0 +1,399 @@
+﻿{
+"name":"Tata Medical Center",
+"specialties":[
+	{
+	"name":"Anesthesia",
+	"schedules":[
+		{
+		"doctor":"Mayukh Chattopadhyay",
+		"designation":"Senior Consultant",
+		"degree":"MBBS (CAL), MD (PGI, Chandigarh), PDCC (SGPGI), FRCA (London)",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Jyotsna Goswami",
+		"designation":"Senior Consultant and HOD",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Arunangshu Chakraborty",
+		"designation":"Junior Consultant",
+		"degree":"MBBS, MD (Anaesthesiology), Clinical Fellowship (Singapore), UltraSound Life Support Basic level-1 by WINFOCUS, BLS, ACLS, PALS",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Angshuman Rudra Pal",
+		"designation":"Junior consultant",
+		"degree":"MD (Anaesthesiology), Fellowship in Oncoanaesthesia and Critical Care, (TMC, Kol), BLS and ACLS, PALS",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		}
+		]
+	},
+	{
+	"name":"Clinical Hematology",
+	"schedules":[
+		{
+		"doctor":"Mammen Chandy",
+		"designation":"Director",
+		"degree":"MBBS, MD (Medicine), FRACP, FRCPA (Hematology) (Sydney, Australia)",
+		"schedule":"Mon, Wed, Fri: 2:00 PM - 6:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Reena Nair",
+		"designation":"Senior Consultant",
+		"degree":"MBBS, MD (Mumbai)",
+		"schedule":"Mon, Wed, Fri: 2:00 PM - 6:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Vivek S Radhakrishnan",
+		"designation":"Senior Consultant",
+		"degree":"DNB (Haematology and Medical Oncology)",
+		"schedule":"Mon, Wed, Fri: 2:00 PM - 6:00 PM \nBy Appointment"
+		}
+		]
+	},
+	{
+	"name":"Cytogenetics and Lab Hematology",
+	"schedules":[
+		{
+		"doctor":"Mayur Parihar",
+		"designation":"Junior Consultant",
+		"degree":"MBBS, MD (Pathology), Post Doctoral Fellow Cytogenetics (CMC Vellore)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Deepak Kumar Mishra",
+		"designation":"Senior Consultant",
+		"degree":"MBBS (Odisha), MD (Pune), Post-doctoral fellow in Haematology (AIIMS) (New Delhi)",
+		"schedule":"Mon to Fri: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Digestive Diseases",
+	"schedules":[
+		{
+		"doctor":"Mohandas K. Mallath",
+		"degree":"MBBS, MD (Medicine) (Bombay University), DNB (Delhi), Gastroenterology Fellowship (Mumbai)",
+		"schedule":"Mon to Fri: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Medical Oncology",
+	"schedules":[
+		{
+		"doctor":"Deepak Dabkara",
+		"designation":"Consultant",
+		"degree":"MBBS (Indore), MD (Medicine) (Indore), DM (Medical Oncology) (AIIMS) (New Delhi)",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Sandip Ganguly",
+		"designation":"Junior Consultant",
+		"degree":"MBBS (Manipal), MD (Medicine) (Mangalore), DM (Medical Oncology) (Bangalore)",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Joydeep Ghosh",
+		"designation":"Consultant",
+		"degree":"MBBS, MD (medicine), DM (Medical Oncology)",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		}
+		]
+	},
+	{
+	"name":"Microbiology",
+	"schedules":[
+		{
+		"doctor":"Sanjay Bhattacharya",
+		"designation":"Consultant",
+		"degree":"MD (Microbiology) (JIPMER, Pondicherry), DNB, FRCP (Virology)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Gaurav Goel",
+		"designation":"Consultant",
+		"degree":"MBBS (Meerut), MD (Surat), DNB",
+		"schedule":"Mon to Fri: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Nuclear Medicine",
+	"schedules":[
+		{
+		"doctor":"Soumendranath Ray",
+		"designation":"Senior Consultant",
+		"degree":"MBBS, DRM, DNB (Nuclear Medicine), Clinical Fellow (Radiosynoviorthesis) (Cologne, Germany), Clinical Fellow (Nuclear Medicine) (Milwaukee, USA)",
+		"schedule":"Mon, Wed, Fri: 2:00 PM - 6:00 PM \nBy Appointment"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Oncology",
+	"schedules":[
+		{
+		"doctor":"Arpita Bhattacharya",
+		"designation":"Senior Consultant",
+		"degree":"MBBS (Cal), DCH (Cal)",
+		"schedule":"Mon, Wed, Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"initial":"Prof",
+		"doctor":"Vaskar Saha",
+		"designation":"Senior Consultant",
+		"degree":"MBBS, DCH, MD (PAEDS), FRCPCH, PhD, FRCPATH",
+		"schedule":"Mon, Wed, Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Shekhar Krishnan",
+		"designation":"Senior Consultant",
+		"degree":"MBBS (Vellore), MRCP (Paediatrics) (UK), FRCPath (Haematology) (UK), PhD (University of London)",
+		"schedule":"Mon, Wed, Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Anirban Das",
+		"designation":"Consultant",
+		"degree":"MBBS, MD (Pediatrics), DM (Pediatric Hematology-Oncology)",
+		"schedule":"Mon, Wed, Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Niharendu Ghara",
+		"designation":"Senior Consultant",
+		"degree":"MBBS (Cal), MD (Pathology) (AIIMS), DCH (Cal), MRCPCH, FRCPath (Hematology), CCST",
+		"schedule":"Mon, Wed, Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Reghu K. S.",
+		"designation":"Associate Consultant",
+		"degree":"MBBS, MD (Pediatrics), DM (Pediatric oncology)",
+		"schedule":"Mon, Wed, Fri: 9:00 AM - 1:00 PM \nBy Appointment"
+		}
+		]
+	},
+	{
+	"name":"Palliative Care And Psycho-Oncology",
+	"schedules":[
+		{
+		"doctor":"Soumitra Shankar Datta",
+		"designation":"Consultant (Psychiatrist)",
+		"degree":"MBBS, DPM, MD, DNB (Psychiatry) (Vellore)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Shrikant Yegneswaran Atreya",
+		"designation":"Consultant",
+		"degree":"MBBS (Ahmednagar), MD (Community Medicine) (Mumbai), Post Doctoral Fellowship (Palliative Medicine) (Mumbai)",
+		"schedule":"Mon to Fri: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Plastic Surgery",
+	"schedules":[
+		{
+		"doctor":"Gautam Biswas",
+		"designation":"Consultant",
+		"degree":"MBBS (NRS), MS (General Surgery), M.Ch (Plastic Surgery) (Chandigarh), Diplomate National Board (Plastic Surgery)",
+		"schedule":"Mon to Fri: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Radiation Oncology",
+	"schedules":[
+		{
+		"doctor":"Rimpa Achari",
+		"designation":"Consultant",
+		"degree":"MD (Radiation oncology) (Lucknow)",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \n2:00 PM - 6:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Sanjoy Chatterjee",
+		"designation":"Consultant",
+		"degree":"MBBS, MRCP (Gen Medicine), FRCP and FRCR (Clinical Oncology) (London)",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \n2:00 PM - 6:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Indranil Mallick",
+		"designation":"Consultant",
+		"degree":"MD (Radiotherapy) (PGIMER, Chandigarh), DNB",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \n2:00 PM - 6:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Santam Chakraborty",
+		"designation":"Associate Consultant",
+		"degree":"MBBS, MD (Radiation Oncology)",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \n2:00 PM - 6:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Tapesh Bhattacharyya",
+		"designation":"Junior Consultant",
+		"degree":"MBBS (Cal), MD (Radiation Oncology) (Shimla), DNB (Radiation Oncology)",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \n2:00 PM - 6:00 PM \nBy Appointment"
+		},
+		{
+		"doctor":"Moses Arunsingh S",
+		"designation":"Junior Consultant",
+		"degree":"MBBS, MD (Radiation Oncology), FRCR (Clinical Oncology)",
+		"schedule":"Mon to Fri: 9:00 AM - 1:00 PM \n2:00 PM - 6:00 PM \nBy Appointment"
+		}
+		]
+	},
+	{
+	"name":"Radiology",
+	"schedules":[
+		{
+		"doctor":"Saugata Sen",
+		"designation":"Consultant",
+		"degree":"MD (Radiology) (IPGMER)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Aditi Chandra",
+		"designation":"Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Dayananda Lingegowda",
+		"designation":"Consultant",
+		"degree":"MBBS (Bijapur), DNB (Cochin), PDCC (Cardiovascular and Neuro Interventional Radiology) (Thiruvanathapuram)",
+		"schedule":"Mon to Fri: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Surgical Oncology",
+	"schedules":[
+		{
+		"doctor":"Manas Kumar Roy",
+		"designation":"Consultant (Gastrointestinal Surgeon)",
+		"degree":"MBBS (Varanasi), MS (Varanasi), FRCS (Glasgow, UK), FRCS (Edinburgh, UK), MCh (Cardiff, UK)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Pattatheyil Arun",
+		"designation":"Consultant (Head and Neck Surgeon)",
+		"degree":"MBBS, DLO, MS (ENT), DNB (ENT), MCh (Head and Neck Oncology)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Pattatheyil Arun",
+		"designation":"Consultant (Head and Neck Surgeon)",
+		"degree":"MBBS, DLO, MS (ENT), DNB (ENT), MCh (Head and Neck Oncology)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Sudeep Banerjee",
+		"designation":"Consultant (Gastrointestinal Surgeon)",
+		"degree":"MBBS, MS (Surgery), DNB (GI Surgery)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Sujoy Gupta",
+		"designation":"Consultant  (Urological Surgeon)",
+		"degree":"MBBS (CAL), MS (General Surgery), FRCS (England), FRCS (Edinburgh), FRCS (Urology), Diploma in Laparoscopic Urology (France)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Jaydip Bhaumik",
+		"designation":"Senior Consultant (Gynecological Surgeon)",
+		"degree":"MBBS (CAL), Diploma (Obstetrics & Gynaecology), MS (Obstetrics & Gynaecology) (Patna), MRCOG (UK), FRCOG, MPH (Cardiff)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Rosina Ahmed",
+		"designation":"Senior Consultant (Breast Surgeon)",
+		"degree":"MBBS (Cal), FRCS (England), MD (Sheffield), FRCS (Intercollegiate, General Surgery)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Kapila Manikantan",
+		"designation":"Consultant (Head & Neck Surgeon)",
+		"degree":"MBBS, MS (Otorhinolarygology) (Mumbai)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Sanjit Kumar Agrawal",
+		"designation":"Consultant (Breast Oncosurgery)",
+		"degree":"MBBS, MS (General surgery), Fellowship (Surgical Oncology)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Satyadip Mukherjee",
+		"designation":"Senior consultant (Department of Urology)",
+		"degree":"MBBS (Cal), MS (Cal), Mch (Urology) (AIIMS, New Delhi)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Rajeev Sharan",
+		"designation":"Senior Consultant (Head & Neck Surgical Oncology)",
+		"degree":"MBBS (AIIMS, New Delhi), MS (Surgery) (AIIMS, New Delhi), ECFMG (USA), Senior Residency (Surgical Oncology) (IRCH, AIIMS, New Delhi), MCh (Head & Neck Surgical Oncology) (AIMS, Cochin), FAIS",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Sumanta Dutta",
+		"designation":"Consultant (Gastro-Intestinal Surgeon)",
+		"degree":"MBBS, MRCS (UK), MD (Surgical Oncology) (UK), FRCS (UK), CCT (UK)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Prateek Jain",
+		"designation":"Junior Consultant (Surgical Oncology - Head and Neck Surgery)",
+		"degree":"MBBS, MS, DNB (Otorhinolaryngology), Fellowship (Head and Neck Surgery)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Shweta Rai",
+		"designation":"Associate consultant (Gynec Oncology)",
+		"degree":"MBBS (AIIMS), MD (Obstetrics and Gynecology, AIIMS), Mch (Gynec Oncology) (Tata Memorial Hospital)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Arunava Roy",
+		"designation":"Consultant (Gynaecologic Oncosurgery and Robotic Surgery)",
+		"degree":"MBBS & DGO (Silchar, Assam), DNB (O&G) (Kolkata), Clinical Fellowship (Gynaecologic Oncology) (Tata Cancer Center, Kolkata)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Bipradas Roy",
+		"designation":"Fellowship (GI-HPB, Surgical Oncology)",
+		"degree":"MBBS, MS, MRCS (England)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Gaurav Aggarwal",
+		"designation":"Consultant (Urology)",
+		"degree":"MBBS (Nashik), MS (General Surgery) (Indore), Fellowship (Surgical Oncology) (TMC, Kolkata), DNB (Urology) (Apollo, Bhubaneswar)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Amrit Pipara",
+		"designation":"Fellowship (GI-HPB Oncology)",
+		"degree":"MBBS, MS (General surgery), FACRSI, Post Doctoral fellowship (Colorectal Surgery) (CMC, Vellore)",
+		"schedule":"Mon to Fri: By Appointment"
+		},
+		{
+		"doctor":"Karnav Bharat Panchal",
+		"designation":"Consultant (Plastic Reconstructive and Microsurgery)",
+		"degree":"MBBS, DNB (Plastic Surgery), Fellowship (Advanced Microsurgery and Oncoplasty)",
+		"schedule":"Mon to Fri: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Transfusion Medicine",
+	"schedules":[
+		{
+		"doctor":"Sabita Biswas",
+		"designation":"Senior Consultant (Transfusion Medicine)",
+		"degree":"MBBS, MD (Pathology), MNAMS",
+		"schedule":"Mon to Fri: By Appointment"
+		}
+		]
+	}
+	]
+}
