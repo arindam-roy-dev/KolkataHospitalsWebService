@@ -1,0 +1,142 @@
+{
+"name":"Fortis Medical Centre",
+"specialties":[
+	{
+	"name":"Dental",
+	"schedules":[
+		{
+		"doctor":"Amit Roy",
+		"designation":"Consultant",
+		"degree":"BDS, FFDRCS, Oral & Maxillofacial Surgeon",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Biswajit Mandal",
+		"designation":"Consultant",
+		"degree":"MDS",
+		"schedule":"Wed to Fri: 03:00 PM - 05:00 PM"
+		},
+		{
+		"doctor":"Paromita Ray Ganguli",
+		"designation":"Principal Medical Officer",
+		"degree":"BDS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Prosenjit Banerjee",
+		"designation":"Consultant",
+		"degree":"MDS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Diabetes And Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Kaushik Pandit",
+		"designation":"Consultant",
+		"degree":"DM",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Kallol Paul",
+		"designation":"Senior Consultant",
+		"degree":"DLO",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Eye/ Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Asit Banerjee",
+		"designation":"Consultant",
+		"degree":"MD, FRCS (Edin), FRC Opthal (U.K), MAMS",
+		"schedule":"Tue, Thu, Sat: 03:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Nandini Ray",
+		"designation":"Consultant",
+		"degree":"MBBS, FRCOphth (London), MRCOphth(London)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Rajesh Chowdhury",
+		"designation":"Consultant",
+		"degree":"MS (Ophthalmology)",
+		"schedule":"Wed: 05:00 PM - 07:00 PM"
+		},
+		{
+		"doctor":"Somdutt Prasad",
+		"designation":"Senior consultant",
+		"degree":"MS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Somnath Majumdar",
+		"designation":"Consultant",
+		"degree":"MD, DNB, MNAMS, FRCS (Glasg.), FRCS (Edin)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Zahir Abbas",
+		"designation":"Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"General Physician",
+	"schedules":[
+		{
+		"doctor":"Kumar Kanti Chakravarty",
+		"designation":"Senior consultant",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Mental Health and Behavioural Sciences",
+	"schedules":[
+		{
+		"doctor":"Sanjay Garg",
+		"designation":"Consultant",
+		"degree":"MRCPsych (LOND)",
+		"schedule":"Mon, Tue, Thu, Fri: 09:30 AM - 12:10 PM\nWed, Sat: 09:30 AM - 12:10 PM
+02:00 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedics / Bone & Joint Surgery",
+	"schedules":[
+		{
+		"doctor":"Subrata Haldar",
+		"designation":"Consultant",
+		"degree":"D.Ortho, MD",
+		"schedule":"Tue, Fri: 06:00 PM - 08:00 PM\nWed, Sat: 05:30 PM - 06:30 PM"
+		}
+		]
+	},
+	{
+	"name":"Radiology",
+	"schedules":[
+		{
+		"doctor":"R D Pai",
+		"designation":"Consultant",
+		"degree":"MBBS, DMRD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	}
+	]
+}

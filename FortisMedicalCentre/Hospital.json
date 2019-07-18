@@ -1,0 +1,16 @@
+{
+"name":"Fortis Medical Centre",
+"code":"FortisMedicalCentre",
+"address":"2/7, Sarat Bose Road, Opp. Minto Park, Kolkata, West Bengal 700020",
+"emails":"fmc@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-medical-centre-hospital-in-kolkata-west-bengal",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"OPD Schedule",
+	"phoneNumbers":"+913366202000",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"+918420626021"
+	}]
+}
