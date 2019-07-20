@@ -1,0 +1,16 @@
+{
+"name":"Rotary Narayana Eye Hospital, Salt Lake",
+"code":"RotaryNarayanaEye",
+"address":"CN Block, Sector V, Salt Lake City, Kolkata, West Bengal - 700091",
+"emails":"info.rne@narayanahealth.org",
+"websites":"https://www.narayanahealth.org/hospitals/kolkata/rotary-narayana-eye-hospital-salt-lake",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"+913330115000",
+	"isOpd":true
+	},{
+	"name":"Emergency Number",
+	"phoneNumbers":"+919831419000"
+	}]
+}
