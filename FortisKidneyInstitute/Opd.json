@@ -1,5 +1,5 @@
 {
-"name":"Fortis Hospital Kidney Institute",
+"name":"Fortis Hospital & Kidney Institute",
 "specialties":[
 	{
 	"name":"Anaesthesia",
@@ -58,14 +58,13 @@
 		"doctor":"Kaushik Pandit",
 		"designation":"Consultant",
 		"degree":"DM",
-		"schedule":""
+		"schedule":"Mon to Sat: By Appointment"
 		},
 		{
 		"doctor":"Rachna Majumder Hati",
 		"designation":"Consultant",
 		"degree":"MD, DM, MRCP (UK), FRCP (Edin)",
-		"schedule":"Mon: 03:00 PM - 04:00 PM\nTue: 10:00 AM - 12:00 PM
-04:00 PM - 05:35 PM\nWed, Sat: 10:00 AM - 12:00 PM\nThu, Fri: 10:00 AM - 12:15 PM"
+		"schedule":"Mon: 03:00 PM - 04:00 PM\nTue: 10:00 AM - 12:00 PM, 04:00 PM - 05:35 PM\nWed, Sat: 10:00 AM - 12:00 PM\nThu, Fri: 10:00 AM - 12:15 PM"
 		}
 		]
 	},
@@ -123,18 +122,13 @@
 		"doctor":"Apurba Siva",
 		"designation":"Consultant",
 		"degree":"MD, DM",
-		"schedule":"Mon: 09:30 AM - 11:00 AM
-04:00 PM - 06:00 PM\nWed: 09:30 AM - 11:00 AM\nThu: 09:00 AM - 11:00 AM"
+		"schedule":"Mon: 09:30 AM - 11:00 AM, 04:00 PM - 06:00 PM\nWed: 09:30 AM - 11:00 AM\nThu: 09:00 AM - 11:00 AM"
 		},
 		{
 		"doctor":"Debasis Datta",
 		"designation":"Director",
 		"degree":"MD, DNB, MRCP, FRCP",
-		"schedule":"Mon: 09:00 AM - 09:35 AM
-11:30 AM - 01:30 PM
-02:30 PM - 04:30 PM\nTue, Thu, Sat: 10:00 AM - 12:00 PM\nWed: 09:00 AM - 09:35 AM
-02:00 PM - 04:30 PM\nFri: 09:00 AM - 09:35 AM
-02:30 PM - 05:00 PM"
+		"schedule":"Mon: 09:00 AM - 09:35 AM, 11:30 AM - 01:30 PM, 02:30 PM - 04:30 PM\nTue, Thu, Sat: 10:00 AM - 12:00 PM\nWed: 09:00 AM - 09:35 AM, 02:00 PM - 04:30 PM\nFri: 09:00 AM - 09:35 AM, 02:30 PM - 05:00 PM"
 		}
 		]
 	},
@@ -161,9 +155,7 @@
 		"doctor":"Ramesh Agarwalla",
 		"designation":"Director",
 		"degree":"MS, FAIS, FRCS",
-		"schedule":"Mon, Wed, Fri: 11:00 AM - 01:00 PM
-05:00 PM - 07:00 PM\nTue, Thu: 11:00 AM - 01:00 PM\nSat: 11:00 AM - 01:00 PM
-01:00 PM - 02:00 PM"
+		"schedule":"Mon, Wed, Fri: 11:00 AM - 01:00 PM, 05:00 PM - 07:00 PM\nTue, Thu: 11:00 AM - 01:00 PM\nSat: 11:00 AM - 02:00 PM"
 		}
 		]
 	},
@@ -185,8 +177,7 @@
 		"doctor":"Sanjay Garg",
 		"designation":"Consultant",
 		"degree":"MRCPsych (LOND)",
-		"schedule":"Mon, Tue, Thu, Fri: 09:30 AM - 12:10 PM\nWed, Sat: 09:30 AM - 12:10 PM
-02:00 PM - 04:00 PM"
+		"schedule":"Mon, Tue, Thu, Fri: 09:30 AM - 12:10 PM\nWed, Sat: 09:30 AM - 12:10 PM, 02:00 PM - 04:00 PM"
 		}
 		]
 	},
@@ -203,10 +194,7 @@
 		"doctor":"Partha Karmakar",
 		"designation":"Consultant",
 		"degree":"MBBS, DNB (Nephrology)",
-		"schedule":"Mon, Thu: 11:00 AM - 05:15 PM\nTue: 09:00 AM - 10:30 AM
-11:45 AM - 06:15 PM\nWed: 09:00 AM - 12:00 PM
-01:00 PM - 02:40 PM\nFri: 09:00 AM - 10:30 AM
-12:00 PM - 06:15 PM\nSat: 08:00 AM - 10:00 AM"
+		"schedule":"Mon, Thu: 11:00 AM - 05:15 PM\nTue: 09:00 AM - 10:30 AM, 11:45 AM - 06:15 PM\nWed: 09:00 AM - 12:00 PM, 01:00 PM - 02:40 PM\nFri: 09:00 AM - 10:30 AM, 12:00 PM - 06:15 PM\nSat: 08:00 AM - 10:00 AM"
 		},
 		{
 		"doctor":"Sasanka Saha",
@@ -217,8 +205,7 @@
 		"doctor":"Suchandro Das",
 		"designation":"Consultant",
 		"degree":"MRCP (UK)",
-		"schedule":"Mon, Fri: 08:30 AM - 09:30 AM
-02:30 PM - 04:30 PM\nTue, Thu: 02:30 PM - 04:30 PM"
+		"schedule":"Mon, Fri: 08:30 AM - 09:30 AM, 02:30 PM - 04:30 PM\nTue, Thu: 02:30 PM - 04:30 PM"
 		}
 		]
 	},
@@ -262,8 +249,7 @@
 		"doctor":"Rajiv Sinha",
 		"designation":"Consultant",
 		"degree":"MD (Paediatrics)",
-		"schedule":"Mon, Thu: 03:00 PM - 06:30 PM\nTue: 10:00 AM - 12:00 PM\nWed: 03:00 PM - 05:30 PM\nSat: 11:00 AM - 01:15 PM
-02:00 PM - 04:00 PM"
+		"schedule":"Mon, Thu: 03:00 PM - 06:30 PM\nTue: 10:00 AM - 12:00 PM\nWed: 03:00 PM - 05:30 PM\nSat: 11:00 AM - 01:15 PM, 02:00 PM - 04:00 PM"
 		}
 		]
 	},
@@ -290,8 +276,7 @@
 		"doctor":"Ayush Chowdhury",
 		"designation":"Senior Consultant",
 		"degree":"M.Ch",
-		"schedule":"Mon, Wed: 09:30 AM - 11:35 AM\nThu: 09:30 AM - 11:35 AM
-02:00 PM - 03:05 PM\nSat: 02:30 PM - 04:35 PM"
+		"schedule":"Mon, Wed: 09:30 AM - 11:35 AM\nThu: 09:30 AM - 11:35 AM, 02:00 PM - 03:05 PM\nSat: 02:30 PM - 04:35 PM"
 		},
 		{
 		"doctor":"Kaushik Sinha",
@@ -303,8 +288,7 @@
 		"doctor":"Prithwiraj Ghoshal",
 		"designation":"Consultant",
 		"degree":"MS, M.Ch",
-		"schedule":"Mon: 12:00 PM - 02:00 PM
-04:00 PM - 05:00 PM\nTue, Fri, Sat: 12:00 PM - 02:00 PM\nWed: 04:00 PM - 05:00 PM\nThu: 05:00 PM - 07:00 PM"
+		"schedule":"Mon: 12:00 PM - 02:00 PM, 04:00 PM - 05:00 PM\nTue, Fri, Sat: 12:00 PM - 02:00 PM\nWed: 04:00 PM - 05:00 PM\nThu: 05:00 PM - 07:00 PM"
 		},
 		{
 		"doctor":"Pushkar Shayam Chowdhury",
@@ -328,10 +312,7 @@
 		"doctor":"Shrinivas Narayan",
 		"designation":"Director",
 		"degree":"MS, M.Ch",
-		"schedule":"Mon: 10:30 AM - 11:30 AM
-04:00 PM - 06:00 PM\nTue: 04:00 PM - 06:00 PM\nWed, Sat: 10:00 AM - 11:30 AM
-03:00 PM - 05:00 PM\nFri: 10:00 AM - 12:00 PM
-04:00 PM - 06:00 PM"
+		"schedule":"Mon: 10:30 AM - 11:30 AM, 04:00 PM - 06:00 PM\nTue: 04:00 PM - 06:00 PM\nWed, Sat: 10:00 AM - 11:30 AM, 03:00 PM - 05:00 PM\nFri: 10:00 AM - 12:00 PM, 04:00 PM - 06:00 PM"
 		}
 		]
 	}
