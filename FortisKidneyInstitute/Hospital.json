@@ -1,0 +1,13 @@
+{
+"name":"Fortis Hospital & Kidney Institute",
+"code":"FortisKidneyInstitute",
+"address":"111A, Rash Behari Avenue, Gariahat, Kolkata, West Bengal 700029",
+"emails":"fhki@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-hospital-in-kidney-institute-kolkata-west-bengal",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"OPD Schedule",
+	"phoneNumbers":"03366276800",
+	"isOpd":true
+	}]
+}

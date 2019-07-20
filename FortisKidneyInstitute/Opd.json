@@ -1,0 +1,339 @@
+{
+"name":"Fortis Hospital Kidney Institute",
+"specialties":[
+	{
+	"name":"Anaesthesia",
+	"schedules":[
+		{
+		"doctor":"Swapan Sengupta",
+		"degree":"Dip. Cardiology",
+		"schedule":"Thu: 10:00 AM - 12:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Dental Sciences",
+	"schedules":[
+		{
+		"doctor":"Amit Roy",
+		"designation":"Consultant",
+		"degree":"BDS, FFDRCS, Oral & Maxillofacial Surgeon",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Paromita Ray Ganguli",
+		"designation":"Principal Medical Officer",
+		"degree":"BDS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Paromita Roy Chaudhuri",
+		"designation":"Associate consultant",
+		"degree":"BDS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Prosenjit Banerjee",
+		"designation":"Consultant",
+		"degree":"MDS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Pradip Laha",
+		"designation":"Consultant",
+		"degree":"DVD (CAL), DSAP - Certificate course from American Academic of Dermatology",
+		"schedule":"Tue, Thu: 04:00 PM - 06:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Diabetes And Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Kaushik Pandit",
+		"designation":"Consultant",
+		"degree":"DM",
+		"schedule":""
+		},
+		{
+		"doctor":"Rachna Majumder Hati",
+		"designation":"Consultant",
+		"degree":"MD, DM, MRCP (UK), FRCP (Edin)",
+		"schedule":"Mon: 03:00 PM - 04:00 PM\nTue: 10:00 AM - 12:00 PM
+04:00 PM - 05:35 PM\nWed, Sat: 10:00 AM - 12:00 PM\nThu, Fri: 10:00 AM - 12:15 PM"
+		}
+		]
+	},
+	{
+	"name":"Eye/ Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Asit Banerjee",
+		"designation":"Consultant",
+		"degree":"MD, FRCS (Edin), FRC Opthal (UK), MAMS",
+		"schedule":"Tue, Thu, Sat: 03:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Nandini Ray",
+		"designation":"Consultant",
+		"degree":"MBBS, FRCOphth (London), MRCOphth(London)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Rajesh Chowdhury",
+		"designation":"Consultant",
+		"degree":"MS (Ophthalmology)",
+		"schedule":"Wed: 05:00 PM - 07:00 PM"
+		},
+		{
+		"doctor":"Snehasis Basu",
+		"designation":"Senior consultant",
+		"degree":"FRCS, MS, DNB",
+		"schedule":"Tue, Thu: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Somdutt Prasad",
+		"designation":"Senior consultant",
+		"degree":"MS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Somnath Majumdar",
+		"designation":"Consultant",
+		"degree":"MD, DNB, MNAMS, FRCS (Glasg.), FRCS (Edin)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Zahir Abbas",
+		"designation":"Consultant",
+		"degree":"MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology",
+	"schedules":[
+		{
+		"doctor":"Apurba Siva",
+		"designation":"Consultant",
+		"degree":"MD, DM",
+		"schedule":"Mon: 09:30 AM - 11:00 AM
+04:00 PM - 06:00 PM\nWed: 09:30 AM - 11:00 AM\nThu: 09:00 AM - 11:00 AM"
+		},
+		{
+		"doctor":"Debasis Datta",
+		"designation":"Director",
+		"degree":"MD, DNB, MRCP, FRCP",
+		"schedule":"Mon: 09:00 AM - 09:35 AM
+11:30 AM - 01:30 PM
+02:30 PM - 04:30 PM\nTue, Thu, Sat: 10:00 AM - 12:00 PM\nWed: 09:00 AM - 09:35 AM
+02:00 PM - 04:30 PM\nFri: 09:00 AM - 09:35 AM
+02:30 PM - 05:00 PM"
+		}
+		]
+	},
+	{
+	"name":"General Physician",
+	"schedules":[
+		{
+		"doctor":"Kumar Kanti Chakravarty",
+		"designation":"Senior consultant",
+		"degree":"MBBS MD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"doctor":"Biswarup Bose",
+		"degree":"MS, FMAS",
+		"schedule":"Tue, Thu: 05:00 PM - 07:00 PM"
+		},
+		{
+		"doctor":"Ramesh Agarwalla",
+		"designation":"Director",
+		"degree":"MS, FAIS, FRCS",
+		"schedule":"Mon, Wed, Fri: 11:00 AM - 01:00 PM
+05:00 PM - 07:00 PM\nTue, Thu: 11:00 AM - 01:00 PM\nSat: 11:00 AM - 01:00 PM
+01:00 PM - 02:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Laparoscopic Surgery",
+	"schedules":[
+		{
+		"doctor":"Naba Kumar Saha",
+		"designation":"Consultant",
+		"degree":"MS",
+		"schedule":"Tue, Thu, Sat: 05:00 PM - 07:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Mental Health And Behavioural Sciences",
+	"schedules":[
+		{
+		"doctor":"Sanjay Garg",
+		"designation":"Consultant",
+		"degree":"MRCPsych (LOND)",
+		"schedule":"Mon, Tue, Thu, Fri: 09:30 AM - 12:10 PM\nWed, Sat: 09:30 AM - 12:10 PM
+02:00 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Arup Ratan Dutta",
+		"designation":"Director",
+		"degree":"MD, DM",
+		"schedule":"Mon, Fri: 12:00 PM - 03:20 PM\nTue, Thu: 02:00 PM - 05:30 PM\nWed: 12:00 PM - 03:00 PM"
+		},
+		{
+		"doctor":"Partha Karmakar",
+		"designation":"Consultant",
+		"degree":"MBBS, DNB (Nephrology)",
+		"schedule":"Mon, Thu: 11:00 AM - 05:15 PM\nTue: 09:00 AM - 10:30 AM
+11:45 AM - 06:15 PM\nWed: 09:00 AM - 12:00 PM
+01:00 PM - 02:40 PM\nFri: 09:00 AM - 10:30 AM
+12:00 PM - 06:15 PM\nSat: 08:00 AM - 10:00 AM"
+		},
+		{
+		"doctor":"Sasanka Saha",
+		"degree":"MS, FRCS (EDIN)",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Suchandro Das",
+		"designation":"Consultant",
+		"degree":"MRCP (UK)",
+		"schedule":"Mon, Fri: 08:30 AM - 09:30 AM
+02:30 PM - 04:30 PM\nTue, Thu: 02:30 PM - 04:30 PM"
+		}
+		]
+	},
+	{
+	"name":"Gynaecology",
+	"schedules":[
+		{
+		"doctor":"Dipankar Bhattacharyya",
+		"designation":"Senior consultant",
+		"degree":"DGO, MD, MRCOG",
+		"schedule":"Wed: 06:00 PM - 08:05 PM\nFri: 12:00 PM - 02:05 PM"
+		},
+		{
+		"doctor":"Sandip Biswas",
+		"degree":"DGO, MRCOG",
+		"schedule":"Wed: 05:00 PM - 07:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedics",
+	"schedules":[
+		{
+		"doctor":"Subrata Haldar",
+		"designation":"Consultant",
+		"degree":"D.Ortho, MD",
+		"schedule":"Tue, Fri: 06:00 PM - 08:00 PM\nWed, Sat: 05:30 PM - 06:30 PM"
+		},
+		{
+		"doctor":"Ujjwal K Debnath",
+		"designation":"Senior consultant",
+		"degree":"MS (Orth), FRCS (Glasg), FRCS (Tr & Orth), DM (Orth) Univ of Nottingham, CCT-UK (Tr & Orth)",
+		"schedule":"Sat: 09:30 AM - 10:30 AM"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Nephrology",
+	"schedules":[
+		{
+		"doctor":"Rajiv Sinha",
+		"designation":"Consultant",
+		"degree":"MD (Paediatrics)",
+		"schedule":"Mon, Thu: 03:00 PM - 06:30 PM\nTue: 10:00 AM - 12:00 PM\nWed: 03:00 PM - 05:30 PM\nSat: 11:00 AM - 01:15 PM
+02:00 PM - 04:00 PM"
+		}
+		]
+	},
+	{
+	"name":"Radiology",
+	"schedules":[
+		{
+		"doctor":"R D Pai",
+		"designation":"Consultant",
+		"degree":"MBBS, DMRD",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Anjan Das",
+		"degree":"MS, M.Ch",
+		"schedule":"Tue: 09:00 AM - 11:00 AM\nThu: 02:00 PM - 04:00 PM"
+		},
+		{
+		"doctor":"Ayush Chowdhury",
+		"designation":"Senior Consultant",
+		"degree":"M.Ch",
+		"schedule":"Mon, Wed: 09:30 AM - 11:35 AM\nThu: 09:30 AM - 11:35 AM
+02:00 PM - 03:05 PM\nSat: 02:30 PM - 04:35 PM"
+		},
+		{
+		"doctor":"Kaushik Sinha",
+		"designation":"Consultant",
+		"degree":"MS, DNB",
+		"schedule":"Mon, Wed, Fri, Sat: 09:00 AM - 03:00 PM\nTue: 09:00 AM - 11:30 PM\nThu: 09:00 AM - 02:00 PM"
+		},
+		{
+		"doctor":"Prithwiraj Ghoshal",
+		"designation":"Consultant",
+		"degree":"MS, M.Ch",
+		"schedule":"Mon: 12:00 PM - 02:00 PM
+04:00 PM - 05:00 PM\nTue, Fri, Sat: 12:00 PM - 02:00 PM\nWed: 04:00 PM - 05:00 PM\nThu: 05:00 PM - 07:00 PM"
+		},
+		{
+		"doctor":"Pushkar Shayam Chowdhury",
+		"designation":"Senior Consultant",
+		"degree":"MS, M.Ch",
+		"schedule":"Mon: 09:00 AM - 11:05 AM\nTue: 10:30 AM - 01:00 PM\nWed: 10:30 AM - 12:00 PM\nThu: 12:00 PM - 02:05 PM\nFri: 01:30 PM - 04:00 PM\nSat: 10:00 AM - 12:00 PM"
+		},
+		{
+		"doctor":"Raj Kalyan Gopala Krishna",
+		"designation":"Director",
+		"degree":"MS, DNB, FRCS",
+		"schedule":"Mon, Fri: 10:00 AM - 02:00 PM"
+		},
+		{
+		"doctor":"Shivaji Basu",
+		"designation":"Director",
+		"degree":"MS, FRCS (Edinburgh), FRCS (London)",
+		"schedule":"Tue, Sat: 01:00 PM - 04:00 PM\nThu: 05:00 PM - 06:00 PM"
+		},
+		{
+		"doctor":"Shrinivas Narayan",
+		"designation":"Director",
+		"degree":"MS, M.Ch",
+		"schedule":"Mon: 10:30 AM - 11:30 AM
+04:00 PM - 06:00 PM\nTue: 04:00 PM - 06:00 PM\nWed, Sat: 10:00 AM - 11:30 AM
+03:00 PM - 05:00 PM\nFri: 10:00 AM - 12:00 PM
+04:00 PM - 06:00 PM"
+		}
+		]
+	}
+	]
+}
