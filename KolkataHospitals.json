@@ -2,108 +2,178 @@
 "app":"Kolkata Hospitals",
 "hospitals":[{
 	"name":"Aditya Birla Sankara Nethralaya",
+	"city":"Kolkata",
+	"locality":"Mukundapur",
 	"code":"AdityaBirlaSankaraNethralaya"
 	},{
 	"name":"AMRI Hospitals, Dhakuria",
+	"city":"Kolkata",
+	"locality":"Dhakuria",
 	"code":"AMRIDhakuria"
 	},{
 	"name":"AMRI Hospitals, Mukundapur",
+	"city":"Kolkata",
+	"locality":"Mukundapur",
 	"code":"AMRIMukundapur"
 	},{
 	"name":"Apollo Gleneagles Hospital",
+	"city":"Kolkata",
+	"locality":"Kankurgachi",
 	"code":"ApolloGleneagles"
 	},{
 	"name":"Belle Vue Clinic",
+	"city":"Kolkata",
+	"locality":"Minto Park",
 	"code":"BelleVue"
 	},{
 	"name":"Bhagirathi Neotia Woman & Child Care Centre",
+	"city":"Kolkata",
+	"locality":"Park Street",
 	"code":"BhagirathiNeotia"
 	},{
 	"name":"Calcutta Medical Research Institute (CMRI)",
+	"city":"Kolkata",
+	"locality":"New Alipore",
 	"code":"CalcuttaMedical"
 	},{
 	"name":"Charnock Hospital",
+	"city":"Kolkata",
+	"locality":"Tegharia",
 	"code":"Charnock"
 	},{
 	"name":"Chittaranjan National Cancer Institute",
+	"city":"Kolkata",
+	"locality":"Kalighat",
 	"code":"ChittaranjanNationalCancer"
 	},{
 	"name":"Columbia Asia Hospital",
+	"city":"Kolkata",
+	"locality":"Salt Lake",
 	"code":"ColumbiaAsia"
 	},{
 	"name":"DESUN Hospital And Heart Institute",
+	"city":"Kolkata",
+	"locality":"Kasba",
 	"code":"DESUN"
 	},{
 	"name":"Fortis Hospital, Anandapur",
+	"city":"Kolkata",
+	"locality":"Anandapur",
 	"code":"FortisAnandapur"
 	},{
 	"name":"Fortis Hospital & Kidney Institute",
+	"city":"Kolkata",
+	"locality":"Gariahat",
 	"code":"FortisKidneyInstitute"
 	},{
 	"name":"Fortis Medical Centre",
+	"city":"Kolkata",
+	"locality":"Minto Park",
 	"code":"FortisMedicalCentre"
 	},{
 	"name":"ILS Hospitals, Dumdum",
+	"city":"Kolkata",
+	"locality":"Dumdum",
 	"code":"ILSDumdum"
 	},{
 	"name":"ILS Hospitals, Salt Lake",
+	"city":"Kolkata",
+	"locality":"Salt Lake",
 	"code":"ILSSaltLake"
 	},{
 	"name":"Institute of Post Graduate Medical Education & Research (IPGMER)/(PG)",
+	"city":"Kolkata",
+	"locality":"Bhowanipore",
 	"code":"IPGMER"
 	},{
 	"name":"Kothari Medical Centre",
+	"city":"Kolkata",
+	"locality":"Alipore",
 	"code":"Kothari"
 	},{
 	"name":"Medica Superspecialty Hospital",
+	"city":"Kolkata",
+	"locality":"Mukundapur",
 	"code":"Medica"
 	},{
 	"name":"Narayana Multispeciality Hospital, Barasat",
+	"city":"Kolkata",
+	"locality":"Barasat",
 	"code":"NarayanaBarasat"
 	},{
 	"name":"Narayana Multispeciality Hospital, Howrah (Chunabati)",
+	"city":"Howrah",
+	"locality":"Chunabati",
 	"code":"NarayanaMultispecialityHowrah"
 	},{
 	"name":"Narayana Superspeciality Hospital, Howrah (Nabanna)",
+	"city":"Howrah",
+	"locality":"Nabanna",
 	"code":"NarayanaSuperspecialityHowrah"
 	},{
 	"name":"Nightingale Hospital",
+	"city":"Kolkata",
+	"locality":"Shakespeare Sarani",
 	"code":"Nightingale"
 	},{
 	"name":"Nil Ratan Sircar Medical College & Hospital (NRS)",
+	"city":"Kolkata",
+	"locality":"Raja Bazar",
 	"code":"NRS"
 	},{
 	"name":"Peerless Hospital",
+	"city":"Kolkata",
+	"locality":"Pancha Sayar",
 	"code":"Peerless"
 	},{
 	"name":"Priyamvada Birla Aravind Eye Hospital",
+	"city":"Kolkata",
+	"locality":"Minto Park",
 	"code":"PriyamvadaBirlaAravindEye"
 	},{
 	"name":"Rabindranath Tagore International Institute of Cardiac Sciences",
+	"city":"Kolkata",
+	"locality":"Mukundapur",
 	"code":"RabindranathTagoreCardiacSciences"
 	},{
 	"name":"R. G. Kar Medical College & Hospital",
+	"city":"Kolkata",
+	"locality":"Shyam Bazar",
 	"code":"RGKar"
 	},{
 	"name":"Rotary Narayana Eye Hospital, Salt Lake",
+	"city":"Kolkata",
+	"locality":"Salt Lake",
 	"code":"RotaryNarayanaEye"
 	},{
 	"name":"Ruby General Hospital",
+	"city":"Kolkata",
+	"locality":"Ruby More",
 	"code":"RubyGeneral"
 	},{
 	"name":"Saroj Gupta Cancer Centre & Research Institute",
+	"city":"Kolkata",
+	"locality":"Thakurpukur",
 	"code":"SarojGupta"
 	},{
 	"name":"Sri Aurobindo Seva Kendra (EDF)",
+	"city":"Kolkata",
+	"locality":"Jodhpur Park",
 	"code":"EDF"
 	},{
 	"name":"Susrut Eye Foundation & Research Centre",
+	"city":"Kolkata",
+	"locality":"Salt Lake",
 	"code":"SusrutSaltlake"
 	},{
 	"name":"Tata Medical Center",
+	"city":"Kolkata",
+	"locality":"New Town",
 	"code":"TataMedical"
 	},{
 	"name":"Woodlands Hospital",
+	"city":"Kolkata",
+	"locality":"Alipore",
 	"code":"Woodlands"
 	}]
 } 
