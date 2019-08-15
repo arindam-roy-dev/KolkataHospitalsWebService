@@ -2,6 +2,7 @@
 "name":"DESUN Hospital And Heart Institute",
 "code":"DESUN",
 "address":"Desun More, Kasba Golpark, EM Bypass, Kolkata 700107, India",
+"geoLocation":"22.5148427,88.401102",
 "emails":"info@desunhospital.com",
 "websites":"www.desunhospital.com",
 "hasOpd":false,

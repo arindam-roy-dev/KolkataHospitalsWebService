@@ -2,6 +2,7 @@
 "name":"Woodlands Hospital",
 "code":"Woodlands",
 "address":"8/5, Alipore Road, Kolkata 700027",
+"geoLocation":"22.5322653,88.3269842",
 "emails":"enquiry@woodlandshospital.in",
 "websites":"www.woodlandshospital.in",
 "hasOpd":true,

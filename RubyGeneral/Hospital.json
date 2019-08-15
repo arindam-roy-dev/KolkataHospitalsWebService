@@ -2,6 +2,7 @@
 "name":"Ruby General Hospital",
 "code":"RubyGeneral",
 "address":"Kasba Golpark, E. M. Bypass Kolkata, Kolkata 700107",
+"geoLocation":"22.5135133,88.4006953",
 "emails":"ruby@rubyhospital.com",
 "websites":"www.rubyhospital.com",
 "hasOpd":true,
