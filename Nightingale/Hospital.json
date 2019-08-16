@@ -4,7 +4,7 @@
 "address":"11, Shakespeare Sarani, Kolkata 7000071",
 "geoLocation":"22.546103,88.3492143",
 "emails":"feedback@nightingalehospital.com,admin@nightingalehospital.com",
-"websites":"www.nightingalehospital.com",
+"websites":"http://www.nightingalehospital.com",
 "hasOpd":true,
 "contactTypes":[{
 	"name":"OPD Helpdesk (10:00AM to 6:00PM)",
