@@ -1,0 +1,30 @@
+{
+"name":"Jeevan Rekha Diagnostic, Raiganj",
+"code":"JeevanRekhaRaiganj",
+"address":"Ukilpara, Raiganj, Uttar Dinajpur, PIN 733134, West Bengal",
+"geoLocation":"25.6118815,88.1342293",
+"emails":"jeerekhaoffice@gmail.com,drsantanudas1965@gmail.com",
+"websites":"http://www.jeevanrekhadiagnostic.com",
+"faxNumbers":"03523241248",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Reception",
+	"phoneNumbers":"8373082891,8373082892",
+	"isOpd":true
+	},{
+	"name":"Office",
+	"phoneNumbers":"8373082881"
+	},{
+	"name":"Pathology",
+	"phoneNumbers":"8373082885,8373082897,8373082896"
+	},{
+	"name":"Dr. Santanu Das's Chamber",
+	"phoneNumbers":"8373082882,8373082877"
+	},{
+	"name":"Dialysis Unit",
+	"phoneNumbers":"8373085412"
+	},{
+	"name":"Kaliyaganj Branch",
+	"phoneNumbers":"8373085414,8373085415,03523259960"
+	}]
+}

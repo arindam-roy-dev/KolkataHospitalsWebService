@@ -1,0 +1,122 @@
+﻿{
+"name":"Jivan Rekha, Raiganj",
+"specialties":[
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"Arvind Kumar",
+		"degree":"MD, DNB",
+		"schedule":"All Days: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Endocrinology",
+	"schedules":[
+		{
+		"doctor":"Sujay Majumdar",
+		"degree":"MD, MRCP",
+		"schedule":"Sun: All Day (One Sunday of every month)"
+		}
+		]
+	},
+	{
+	"name":"Gastro Enterology",
+	"schedules":[
+		{
+		"doctor":"P. B. Choudhury",
+		"degree":"",
+		"schedule":"Sun: All Day (Once in every 3 weeks)"
+		}
+		]
+	},
+	{
+	"name":"General Medicine",
+	"schedules":[
+		{
+		"doctor":"Santanu Das",
+		"designation":"Director",
+		"degree":"MD (Medicine)",
+		"schedule":"Mon to Fri: 9:00 am - 6:00 pm\nSat: 10:00 am - 4:00 pm\nSun: 12:00 pm - 3:00 pm, By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Bismay Kumar",
+		"degree":"MD, DM",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Neurology",
+	"schedules":[
+		{
+		"doctor":"P. B. Barma",
+		"degree":"MD, DPM, DM (Neurology)",
+		"schedule":"Sat: All Day (Except 3rd Saturday)"
+		}
+		]
+	},
+	{
+	"name":"Pathology",
+	"schedules":[
+		{
+		"doctor":"Sukumar Dutta",
+		"degree":"MBBS, DCP",
+		"schedule":""
+		},
+		{
+		"doctor":"Ashok Prasad",
+		"degree":"MBBS, DNB (Pathology)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Radiology",
+	"schedules":[
+		{
+		"doctor":"Sushil Kumar",
+		"degree":"MD (Radiology)",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Rheumatology",
+	"schedules":[
+		{
+		"doctor":"Swapan Mishra",
+		"degree":"MBBS, DNB (PMR), Gold Medalist",
+		"schedule":""
+		}
+		]
+	},
+	{
+	"name":"Sonology (Ultrasonography)",
+	"schedules":[
+		{
+		"doctor":"Bipasha Adhvaryu",
+		"designation":"Director",
+		"degree":"MBBS",
+		"schedule":"Mon to Fri: 9:30 am - 3:30 pm\nSat: 10:00 am - 3:00 pm\nSun: 10:30 am - 12.30 pm, By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Kuntal Pandip",
+		"degree":"MBBS, MNAMS, DNB, FNB",
+		"schedule":""
+		}
+		]
+	}
+	]
+}
