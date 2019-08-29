@@ -5,7 +5,7 @@
 "geoLocation":"22.5148427,88.401102?q=DESUN+Hospital+And+Heart+Institute",
 "emails":"info@desunhospital.com",
 "websites":"https://www.desunhospital.com",
-"hasOpd":false,
+"hasOpd":true,
 "contactTypes":[{
 	"name":"Doctor’s Appointment",
 	"phoneNumbers":"9903922444,9163322074",
