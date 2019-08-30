@@ -1,0 +1,29 @@
+﻿{
+"name":"Desun Hospital Siliguri",
+"code":"DesunSiliguri",
+"address":"Beside Medical College, Siliguri, West Bengal 734012",
+"geoLocation":"26.6867855,88.399085?q=Desun+Hospital+Siliguri",
+"emails":"",
+"websites":"https://siliguri.desunhospital.com/index.php",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"OPD Booking Number",
+	"phoneNumbers":"9073692687,9674019660,03536690000",
+	"isOpd":true
+	},{
+	"name":"24 Hrs Emergency Number",
+	"phoneNumbers":"9051640000"
+	},{
+	"name":"Ambulance Service",
+	"phoneNumbers":"9051640000,9073692687"
+	},{
+	"name":"Surgery Package Queries",
+	"phoneNumbers":"9073692687,03536690000"
+	},{
+	"name":"Health Check Up And Other Queries",
+	"phoneNumbers":"03536690000"
+	},{
+	"name":"TPA Helpline",
+	"phoneNumbers":"9038055602,8697709187"
+	}]
+}

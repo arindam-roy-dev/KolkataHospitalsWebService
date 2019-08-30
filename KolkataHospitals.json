@@ -1,6 +1,6 @@
 {
 "app":"Kolkata Hospitals",
-"appCaption":"Kolkata, Howrah, Raiganj",
+"appCaption":"Kolkata, Howrah, Siliguri, Raiganj",
 "hospitals":[{
 	"name":"Aditya Birla Sankara Nethralaya",
 	"city":"Kolkata",
@@ -56,6 +56,11 @@
 	"city":"Kolkata",
 	"locality":"Ruby More",
 	"code":"DESUN"
+	},{
+	"name":"Desun Hospital Siliguri",
+	"city":"Siliguri",
+	"locality":"Kawakhali",
+	"code":"DesunSiliguri"
 	},{
 	"name":"Fortis Hospital, Anandapur",
 	"city":"Kolkata",

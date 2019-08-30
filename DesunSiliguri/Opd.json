@@ -1,0 +1,377 @@
+{
+"name":"Desun Hospital, Siliguri",
+"specialties":[
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"SWAPAN KUMAR SAHA",
+		"degree":"MBBS, MD, DM (CARDIO)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"BISWADEV BASU MAJUMDER",
+		"degree":"MBBS, MD, DM (CARDIO)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"D. PAUL",
+		"degree":"MBBS, PGDCC",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Neurology",
+	"schedules":[
+		{
+		"doctor":"S. SATYANARAYAN REDDY",
+		"degree":"MBBS, MS (G.S), MCh (NEUROSURGERY)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"SUKIRTI CHAUHAN",
+		"degree":"MBBS, MS, MCh (NEUROSURGERY) Fellowship in Skull Base Tumor surgery",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"initial":"Prof. Dr.",
+		"doctor":"DURGA PRASAD CHAKRABARTI",
+		"degree":"MBBS, MS, DM (NEUROLOGY)",
+		"schedule":"Mon, Wed: 2:30 am - 4:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedic Surgery",
+	"schedules":[
+		{
+		"doctor":"MRITUNJOY ROY",
+		"degree":"MBBS, MS",
+		"schedule":"Mon, Tue, Wed, Fri, Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"SOUVIK ROY",
+		"degree":"MBBS, MS (IPGMER)",
+		"schedule":"Mon to Sat: 10:00 am - 12:00 pm"
+		},
+		{
+		"doctor":"SANKALP KUMAR",
+		"degree":"MBBS, MS",
+		"schedule":"Mon, Wed, Fri: 10:00 am - 12:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology & Hepatology",
+	"schedules":[
+		{
+		"doctor":"AMIT AGARWAL",
+		"degree":"MBBS, MD, Fellowship in Clinical Gastroenterology, Hepatology & Liver Transplant",
+		"schedule":"Mon to Fri: 12:30 pm - 2:30 pm\nSat: 8:00 am - 9:00 am"
+		}
+		]
+	},
+	{
+	"name":"General & Laparoscopic Surgery",
+	"schedules":[
+		{
+		"doctor":"D. BAGCHI",
+		"degree":"MBBS, MS",
+		"schedule":"Mon to Sat: 4:00 pm - 5:00 pm"
+		},
+		{
+		"doctor":"J. ROY BASUNIA",
+		"degree":"MBBS, MS",
+		"schedule":"Mon, Wed, Thu: 4:00 pm - 6:00 pm"
+		},
+		{
+		"doctor":"KAUSHIK BHATTACHARJEE",
+		"degree":"MBBS, MS",
+		"schedule":"Mon to Sat: 11:00 am - 1:00 pm"
+		},
+		{
+		"doctor":"BIDYUT BISWAS",
+		"degree":"MBBS, MS",
+		"schedule":"Mon, Tue, Sat: 10:00 pm - 2:00 pm"
+		}
+		]
+	},
+	{
+	"name":"General Medicine",
+	"schedules":[
+		{
+		"doctor":"NEERAJ KUMAR",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"SUBHASHIS GHOSH",
+		"degree":"MBBS, MD, DCH (Paediatrics)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Respiratory Medicine",
+	"schedules":[
+		{
+		"doctor":"ADRITA KAR",
+		"degree":"MBBS, MD (PULMONOLOGY)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Gynaecology",
+	"schedules":[
+		{
+		"doctor":"T. K. KONAR",
+		"degree":"MBBS, DGO, MD (G & O) (Kolkata) FICOG",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"SANDEEP SENGUPTA",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Sat: 4:00 pm - 6:00 pm"
+		},
+		{
+		"doctor":"SHANJOY DAS",
+		"degree":"MBBS, DGO",
+		"schedule":"Wed to Fri: 10:00 am - 11:00 am, 3:00 pm - 6:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Critical Care/ Anaesthesiology/ Intensivists",
+	"schedules":[
+		{
+		"doctor":"SABIHUL ISLAM",
+		"degree":"MBBS, MD, FNB (Critical Care Medicine), EDIC, CEURF",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"ADRITA KAR",
+		"degree":"MBBS, MD (Pulmonology)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Oncology",
+	"schedules":[
+		{
+		"doctor":"T. N. MITRA",
+		"degree":"MD, RADIOTHERAPY",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Opthalmology",
+	"schedules":[
+		{
+		"doctor":"GANGOTRI BAROI",
+		"degree":"MS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Cosmetic Plastic & Reconstructive Surgery",
+	"schedules":[
+		{
+		"doctor":"PRAVIN KUMAR",
+		"degree":"D. T. M&H, MCh (Plastic Surgery)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Maxillofacial Surgery",
+	"schedules":[
+		{
+		"doctor":"S. S. SUSHANT",
+		"degree":"BDS, MDS (Oral & Maxillofacial Surgeon)",
+		"schedule":"Mon, Tue: 9:00 am - 1:00 pm\nWed to Sat: By Appointment"
+		},
+		{
+		"doctor":"SOUVICK SARKAR",
+		"degree":"BDS, MDS",
+		"schedule":"Mon to Sat: 11:00 am - 1:00 pm"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"PRANABASISH BANERJEE",
+		"degree":"MS, MRCS",
+		"schedule":"Thu to Sat: By Appointment"
+		},
+		{
+		"doctor":"RICHARD NARJINARY",
+		"degree":"MBBS, DLO (Kolkata)",
+		"schedule":"Tue, Wed: 12:00 pm - 2:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Dental",
+	"schedules":[
+		{
+		"doctor":"RASHMI M. SHARMA",
+		"degree":"BDS, MDS (Prosthodontist)",
+		"schedule":"Thu, Sat: 9:00 am - 2:00 pm"
+		},
+		{
+		"doctor":"PRASANT AGARWAL",
+		"degree":"BDS, MDS ( ORTHODONTIST), PDCR, FAGE",
+		"schedule":"Wed, Fri: 9:00 am - 4:00 pm"
+		},
+		{
+		"doctor":"S. S. SUSHANT",
+		"degree":"BDS, MDS (Oral & Maxillofacial Surgeon)",
+		"schedule":"Mon, Tue: 9:00 am - 1:00 pm\nWed to Sat: By Appointment"
+		},
+		{
+		"doctor":"SOUVICK SARKAR",
+		"degree":"BDS, MDS",
+		"schedule":"Mon to Sat: 11:00 am - 12:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Physiotherapy",
+	"schedules":[
+		{
+		"doctor":"PIKAI GANGULY",
+		"degree":"BPT",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"SONIA SINHA",
+		"degree":"BPT",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"PARTHA PRATIM DEB",
+		"degree":"MBBS, DNB UROLOGIST (GS) MCH",
+		"schedule":"Mon, Thu: By Appointment"
+		},
+		{
+		"doctor":"S. MUKHERJEE",
+		"degree":"MBBS, MCH UROLOGY, GOLD MEDALIST, MS (GENERAL SURGERY)",
+		"schedule":"Tue to Thu: 4:00 pm - 6:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Nutrition & Dietetics",
+	"schedules":[
+		{
+		"doctor":"SUSHRITA DE SARKAR",
+		"degree":"BSC, MSC (Dietetics & Nutrition)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"SHREYA GHOSH",
+		"degree":"BSC, MSC",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Diabetology",
+	"schedules":[
+		{
+		"doctor":"NEERAJ KUMAR",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"SUBHASHIS GHOSH",
+		"degree":"MBBS, MD, DCH (Paediatrics)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"General Pain Clinic",
+	"schedules":[
+		{
+		"initial":"Dr. Ms.",
+		"doctor":"DEBANJALI RAY",
+		"degree":"MBBS, MD",
+		"schedule":"Mon, Wed, Fri: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Back & Neck Pain Clinic",
+	"schedules":[
+		{
+		"doctor":"S. SATYANARAYAN REDDY",
+		"degree":"MBBS, MS (G.S), MCh (NEUROSURGERY)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"SUKIRTI CHAUHAN",
+		"degree":"MBBS, MS, MCh (NEUROSURGERY) Fellowship in Skull Base Tumor surgery",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Asthma Clinic",
+	"schedules":[
+		{
+		"doctor":"NEERAJ KUMAR",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"ADRITA KAR",
+		"degree":"MBBS, MD (PULMONOLOGY)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		},
+		{
+		"doctor":"SUBHASHIS GHOSH",
+		"degree":"MBBS, MD, DCH (Paediatrics)",
+		"schedule":"Mon to Sat: 9:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Epilepsy Clinic",
+	"schedules":[
+		{
+		"doctor":"SUKIRTI CHAUHAN",
+		"degree":"MBBS, MS, MCh (NEUROSURGERY) Fellowship in Skull Base Tumor surgery",
+		"schedule":"Mon: 9:00 am - 12:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Headache Clinic",
+	"schedules":[
+		{
+		"doctor":"S. SATYANARAYANA REDDY",
+		"degree":"MBBS, MS(G.S), MCh (NEUROSURGERY)",
+		"schedule":"Fri: 9:00 am - 12:00 pm"
+		},
+		{
+		"doctor":"SUKIRTI CHAUHAN",
+		"degree":"MBBS, MS, MCh (NEUROSURGERY) Fellowship in Skull Base Tumor surgery",
+		"schedule":"Wed: 9:00 am - 12:00 pm"
+		}
+		]
+	}
+	]
+}
