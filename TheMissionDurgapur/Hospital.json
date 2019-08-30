@@ -1,0 +1,15 @@
+{
+"name":"The Mission Hospital, Durgapur",
+"code":"TheMissionDurgapur",
+"address":"Immon Kalyan Sarani, Sector 2C, Bidhannagar, Durgapur, Burdwan, West Bengal - 713212",
+"geoLocation":"23.5190976,87.3558008?q=The+Mission+Hospital+,+Durgapur",
+"emails":"hospital@themissionhospital.in",
+"websites":"http://themissionhospital.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"OPD",
+	"phoneNumbers":"8687500500",
+	"isOpd":true
+	}]
+}

@@ -1,6 +1,6 @@
 {
 "app":"Kolkata Hospitals",
-"appCaption":"Kolkata, Howrah, Siliguri, Raiganj",
+"appCaption":"Kolkata, Howrah, Siliguri, Durgapur, Raiganj",
 "hospitals":[{
 	"name":"Aditya Birla Sankara Nethralaya",
 	"city":"Kolkata",
@@ -57,7 +57,7 @@
 	"locality":"Ruby More",
 	"code":"DESUN"
 	},{
-	"name":"Desun Hospital Siliguri",
+	"name":"Desun Hospital, Siliguri",
 	"city":"Siliguri",
 	"locality":"Kawakhali",
 	"code":"DesunSiliguri"
@@ -181,6 +181,11 @@
 	"city":"Kolkata",
 	"locality":"New Town",
 	"code":"TataMedical"
+	},{
+	"name":"The Mission Hospital, Durgapur",
+	"city":"Durgapur",
+	"locality":"Bidhannagar",
+	"code":"TheMissionDurgapur"
 	},{
 	"name":"Woodlands Hospital",
 	"city":"Kolkata",

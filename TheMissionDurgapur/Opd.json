@@ -1,0 +1,394 @@
+﻿{
+"name":"The Mission Hospital, Durgapur",
+"specialties":[
+	{
+	"name":"Cardiology",
+	"schedules":[
+		{
+		"doctor":"Nadeem Afroz",
+		"degree":"MD, DM",
+		"schedule":"Mon to Sat: 9:30 am - 11:00 am"
+		},
+		{
+		"doctor":"Jayanarayan Naik",
+		"degree":"MD, DM",
+		"schedule":"Mon to Fri: 10:00 am - 4:00 pm"
+		},
+		{
+		"doctor":"Tapan Kumar Matia",
+		"degree":"MD, DNB",
+		"schedule":"Mon to Sat: 10:00 am - 1:00 pm"
+		},
+		{
+		"doctor":"Debargha Dhua",
+		"degree":"MD, DM",
+		"schedule":"Mon to Fri: 11:30 am - 3:30 pm"
+		}
+		]
+	},
+	{
+	"name":"Cardiothoracic Surgery",
+	"schedules":[
+		{
+		"doctor":"Srirup Chatterjee",
+		"degree":"MS, FRCS",
+		"schedule":"Mon to Sat: By Appointment"
+		},
+		{
+		"doctor":"Satyajit Bose",
+		"degree":"MS, M.Ch., FIACS",
+		"schedule":"Mon to Sat: By Appointment"
+		}
+		]
+	},
+	{
+	"name":"Cosmetic & Reconstructive Surgery",
+	"schedules":[
+		{
+		"doctor":"Krishnendu Goswami",
+		"degree":"MBBS, MS, M.ch.",
+		"schedule":"Mon, Wed, Fri, Sat: 12:00 pm - 2:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Dentistry",
+	"schedules":[
+		{
+		"doctor":"Dibyendu Nandi",
+		"degree":"BDS",
+		"schedule":"Tue, Sat: 1:00 pm - 4:00 pm"
+		},
+		{
+		"doctor":"Mun Mukherjee",
+		"degree":"BDS, MDS",
+		"schedule":"Mon to Sat: 9:30 am - 1:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Dermatology",
+	"schedules":[
+		{
+		"doctor":"Samujjala Deb",
+		"degree":"MBBS, MD, DNB, FAAB",
+		"schedule":"Mon to Sat: 10:00 am - 1:00 pm, 2:00 pm - 4:00 pm"
+		},
+		{
+		"doctor":"Bidisha Guha Neogi",
+		"degree":"MBBS, MD (DVL)",
+		"schedule":"Mon: 9:30 am - 11:30 am"
+		},
+		{
+		"doctor":"Raghubir Banerjee",
+		"designation":"Visiting",
+		"degree":"MBBS, MD",
+		"schedule":"Thu: 4:00 pm - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"ENT",
+	"schedules":[
+		{
+		"doctor":"Nishant Kumar",
+		"degree":"MBBS, MS",
+		"schedule":"Mon to Sat: 11:00 am - 1:00 pm, 4:00 pm - 6:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Gastroenterology",
+	"schedules":[
+		{
+		"doctor":"Md. Ashif Ali Ahmed",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Mon: 3:00 pm - 5:00 pm\nTue, Fri: 11:00 am - 1:00 pm,  3:00 pm - 4:00 pm"
+		},
+		{
+		"doctor":"Lalan Kumar",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Mon to Sat: 11:00 am - 1:00 pm, 3:00 pm - 4:00 pm"
+		}
+		]
+	},
+	{
+	"name":"General Medicine",
+	"schedules":[
+		{
+		"doctor":"Balwant kumar",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Fri: 1:00 pm - 5:00 pm"
+		},
+		{
+		"doctor":"Rajat Kanti Singha",
+		"designation":"Visiting",
+		"degree":"MBBS, MD",
+		"schedule":"Mon, Thu: 5:00 pm - 7:00 pm"
+		},
+		{
+		"doctor":"Bappaditya Mondal",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Sat: 10:30 am - 2:00 pm, 3:00 pm - 4:00 pm"
+		}
+		]
+	},
+	{
+	"name":"General Surgery",
+	"schedules":[
+		{
+		"doctor":"Bhaskar Dhar",
+		"degree":"MBBS, MS",
+		"schedule":"Mon to Sat: 11:00 am - 1:00 pm, 5:00 pm - 6:00 pm"
+		},
+		{
+		"doctor":"Ashish Krishna",
+		"degree":"MBBS, MS, FMAS",
+		"schedule":"Mon, Wed, Fri: 5:00 pm - 6:00 pm\nTue, Thu, Sat: 12:00 - 5:00 pm"
+		},
+		{
+		"doctor":"A. K. Singh",
+		"degree":"MBBS, MS",
+		"schedule":"Tue to Fri: 9:30 am -12:30 pm"
+		}
+		]
+	},
+	{
+	"name":"Gynaecology",
+	"schedules":[
+		{
+		"doctor":"Dipanwita Sen",
+		"degree":"MBBS, MD, MRCOG",
+		"schedule":"Mon, Fri: 10:00 am - 3:00 pm"
+		},
+		{
+		"doctor":"Sudip Samanta",
+		"degree":"MBBS, MS, DNB",
+		"schedule":"Tue, Thu, Sat: 12:00 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Haematology",
+	"schedules":[
+		{
+		"doctor":"Dibyendu De",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Mon to Sat: 9:30 am - 1:00 pm, 3:00 pm - 4:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Nephrology",
+	"schedules":[
+		{
+		"doctor":"Deepak Kumar",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Mon to Sat: 12:00 am - 1:30 pm, 3:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Neurology",
+	"schedules":[
+		{
+		"doctor":"Snigdhendu Ghosh",
+		"degree":"MBBS, DCH, MD, DM",
+		"schedule":"Mon to Sat: 11:00 am - 4:00 pm"
+		},
+		{
+		"doctor":"Debasish Bhattacharya",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Tue, Wed: 10:00 am - 4:00 pm (1st week of month)\nSat, Sun: 10:00 am - 4:00 pm (2st week of month)"
+		},
+		{
+		"doctor":"Debasish Roy",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Sat, Sun: 10:00 am - 4:00 pm (3rd week of month)"
+		},
+		{
+		"doctor":"Mrinal Kumar Acharya",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Sat, Sun: 3:00 pm - 7:00 pm (2nd & 4th week of month)"
+		}
+		]
+	},
+	{
+	"name":"Neuro Surgery",
+	"schedules":[
+		{
+		"doctor":"Satyajit Das",
+		"degree":"MBBS, DNB",
+		"schedule":"Wed, Fri: 1:30 pm - 3:00 pm"
+		},
+		{
+		"doctor":"Gopi Krishna Kursa",
+		"degree":"MBBS, MS, M.Ch.",
+		"schedule":"Tue, Thu: 1:30 pm - 3:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Oncology",
+	"schedules":[
+		{
+		"doctor":"Debashis Chatterjee",
+		"degree":"MBBS, DCH, MD",
+		"schedule":"Mon to Sat: 9:00 am - 1:00 pm, 3:00 pm - 4:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Oncosurgery",
+	"schedules":[
+		{
+		"doctor":"Debasish Chatterjee",
+		"degree":"MBBS, MS",
+		"schedule":"Mon to Fri: 10:00 am - 4:00 pm\nSat: 10:00 am - 2:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Ophthalmology",
+	"schedules":[
+		{
+		"doctor":"Soumen Chakraborty",
+		"degree":"MBBS, DO, MS",
+		"schedule":"Thu, Fri: 5:00 pm - 6:00 pm"
+		},
+		{
+		"doctor":"Phalguni Mitra",
+		"degree":"MBBS, DO, MS",
+		"schedule":"Sat: 10:00 am - 11:00 am"
+		}
+		]
+	},
+	{
+	"name":"Orthopaedics",
+	"schedules":[
+		{
+		"doctor":"Dipankar Sen",
+		"degree":"MS, FRCS, M.Ch.",
+		"schedule":"Tue, Thu: 3:00 pm - 5:00 pm"
+		},
+		{
+		"doctor":"Nirmal Kr. Jajodia",
+		"degree":"MS, DNB, MNAMS",
+		"schedule":"Mon: 10:30 am - 2:00 pm, 2:30 pm - 4:30 pm\nFri: 2:30 pm - 5:30 pm"
+		},
+		{
+		"doctor":"Abhishek Ray",
+		"degree":"MBBS, MS, MRCS",
+		"schedule":"Wed: 11:30 pm - 5:00 pm\nSat: 11:30 am - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Paediatrics & Neonatology",
+	"schedules":[
+		{
+		"doctor":"Joshi Anand Kerketta",
+		"degree":"MBBS, DCH, MD",
+		"schedule":"Mon, Wed, Fri: 11:00 am - 1:00 pm"
+		},
+		{
+		"doctor":"Krishanu Mondal",
+		"degree":"MBBS, MD",
+		"schedule":"Mon, Wed, Fri: 12:00 pm - 2:00 pm"
+		},
+		{
+		"doctor":"Mohammad Ali",
+		"degree":"MBBS, MD, DM",
+		"schedule":"Thu: 10:00 am - 12:00 pm"
+		},
+		{
+		"doctor":"Devdeep Mukherjee",
+		"degree":"MBBS, DCH, MRCPCH",
+		"schedule":"Mon to Sat: 11:00 am - 1:00 pm"
+		},
+		{
+		"doctor":"Aritra Sengupta",
+		"degree":"MBBS, DCH, DNB",
+		"schedule":"Mon, Wed, Fri: 2:30 pm - 4:30 pm"
+		},
+		{
+		"doctor":"Dibyendu Chakraborty",
+		"designation":"Visiting",
+		"degree":"MBBS, DCH, MD",
+		"schedule":"Tue: 3:30 pm - 5:00 pm"
+		},
+		{
+		"doctor":"Subhasish Chakraborty",
+		"designation":"Visiting",
+		"degree":"MBBS, DCH",
+		"schedule":"Thu: 3:30 pm - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Paediatric Cardiology",
+	"schedules":[
+		{
+		"doctor":"Hemant Kumar Nayak",
+		"degree":"MD, FPC",
+		"schedule":"Mon to Sat: 12:30 pm -5:00 pm"
+		},
+		{
+		"doctor":"Saurabhi Das",
+		"degree":"MBBS, MD, DNB, FNB, MNAMS",
+		"schedule":"Mon to Sat: 12:30 pm -5:00 pm"
+		},
+		{
+		"doctor":"Sudipta Bhattacharjya",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Sat: 12:30 pm -5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Psychiatry",
+	"schedules":[
+		{
+		"doctor":"Manish Roy",
+		"degree":"MBBS, MD",
+		"schedule":"Mon to Fri: 10:00 am - 4:00 pm"
+		},
+		{
+		"doctor":"Saugata Bandhopadhyay",
+		"degree":"MBBS, DTM&H, MRCP, PGCMHSC, CCT",
+		"schedule":"Sat: 9:00 am - 10:00 am"
+		}
+		]
+	},
+	{
+	"name":"Respiratory Medicine",
+	"schedules":[
+		{
+		"doctor":"Shantanu Kumar Das",
+		"degree":"MBBS, MD, FCCP, FCCS",
+		"schedule":"Mon, Wed, Fri: 1:00 pm - 3:00 pm, 4:00 pm - 5:00 pm"
+		},
+		{
+		"doctor":"Humayun Kabir",
+		"degree":"MBBS, DTCD, MD",
+		"schedule":"Tue, Thu, Sat: 2:00 pm - 5:00 pm"
+		}
+		]
+	},
+	{
+	"name":"Urology",
+	"schedules":[
+		{
+		"doctor":"Ajit J. Thomas",
+		"degree":"MBBS, MS, M.Ch.",
+		"schedule":"Mon to Fri: 10:30 am - 12:30 pm, 3:00 pm - 4:00 pm\nSat: 11:30 am - 1:30 pm"
+		},
+		{
+		"doctor":"Vinod Priyadarshi",
+		"degree":"MBBS, MS, M.Ch.",
+		"schedule":"Mon, Wed, Fri: 10:00 am - 12:00 pm\nTue, Thu: 9:30 am - 11:00 am, 3:00 pm - 4:00 pm\nSat: 9:00 am - 10:00 am"
+		}
+		]
+	}
+	]
+}
