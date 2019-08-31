@@ -12,15 +12,15 @@
 	"locality":"Dhakuria",
 	"code":"AMRIDhakuria"
 	},{
+	"name":"AMRI Hospitals, Mukundapur",
+	"city":"Kolkata",
+	"locality":"Mukundapur",
+	"code":"AMRIMukundapur"
+	},{
 	"name":"Apex Institute of Medical Sciences",
 	"city":"Kolkata",
 	"locality":"Survey Park",
 	"code":"ApexInstitute"
-	},{
-	"name":"Apollo Gleneagles Hospital",
-	"city":"Kolkata",
-	"locality":"Kankurgachi",
-	"code":"ApolloGleneagles"
 	},{
 	"name":"Apollo Gleneagles Hospital",
 	"city":"Kolkata",
