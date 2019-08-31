@@ -1,0 +1,21 @@
+{
+"name":"Apex Institute of Medical Sciences",
+"code":"ApexInstitute",
+"address":"1219 Survey Park, Sammilani Park, Near Hiland Park Big Bazar, Santoshpur, Kolkata - 700 075",
+"geoLocation":"22.4839669,88.3908381?q=Apex+Institute+of+Medical+Sciences",
+"emails":"apeximskolkata@gmail.com",
+"websites":"https://www.apeximskolkata.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency Helpline",
+	"phoneNumbers":"03371256666",
+	"isOpd":true
+	},{
+	"name":"Hospital",
+	"phoneNumbers":"03324164091,03324164122,03324164307,03324164643"
+	},{
+	"name":"Toll Free",
+	"phoneNumbers":"1800123101666"
+	}]
+}
