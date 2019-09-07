@@ -1,0 +1,23 @@
+{
+"name":"IRIS Multispeciality Hospital",
+"code":"IRISMultispeciality",
+"address":"82, Raja Subodh Chandra Mallick Rd, Next to Big Bazaar, Vidyasagar Colony, Ganguly Bagan, Kolkata, West Bengal 700047",
+"geoLocation":"22.4781311,88.3770641?q=IRIS+Multispeciality+Hospital",
+"emails":"feedback@irishealthservices.com",
+"websites":"https://www.irishealthservices.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"OPD Doctors Booking (8:00 AM to 8:00 PM)",
+	"phoneNumbers":"8336900451"
+	},{
+	"name":"Admission/Ambulance/Emergency (24 Hrs.)",
+	"phoneNumbers":"8336900450,03366096000"
+	},{
+	"name":"Investigation and Home blood collection (8:00 AM to 8:00 PM)",
+	"phoneNumbers":"8336900452"
+	},{
+	"name":"Surgical Helpline",
+	"phoneNumbers":"8336000710"
+	}]
+}
