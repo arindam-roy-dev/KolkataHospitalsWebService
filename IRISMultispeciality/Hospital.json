@@ -9,7 +9,8 @@
 "hasOpd":true,
 "contactTypes":[{
 	"name":"OPD Doctors Booking (8:00 AM to 8:00 PM)",
-	"phoneNumbers":"8336900451"
+	"phoneNumbers":"8336900451",
+	"isOpd":true
 	},{
 	"name":"Admission/Ambulance/Emergency (24 Hrs.)",
 	"phoneNumbers":"8336900450,03366096000"
