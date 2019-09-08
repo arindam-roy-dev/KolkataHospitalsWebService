@@ -1,0 +1,17 @@
+{
+"name":"GD Hospital & Diabetes Institute",
+"code":"GDHospitalDiabetes",
+"address":"139 A, Lenin Sarani, Kolkata - 700013",
+"geoLocation":"22.5614551,88.3619763?q=GD+Hospital+%26+Diabetes+Institute",
+"emails":"info@gddihealthcare.com",
+"websites":"http://www.gddihealthcare.com",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"OPD Schedule",
+	"phoneNumbers":"03322255030,03322255031,03322255032,03322255033",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"03339873987"
+	}]
+}

@@ -1,6 +1,6 @@
 {
 "app":"Kolkata Hospitals",
-"appCaption":"Kolkata, Howrah, Siliguri, Durgapur, Raiganj",
+"appCaption":"Kolkata and West Bengal",
 "hospitals":[{
 	"name":"Aditya Birla Sankara Nethralaya",
 	"city":"Kolkata",
@@ -81,6 +81,11 @@
 	"city":"Kolkata",
 	"locality":"Minto Park",
 	"code":"FortisMedicalCentre"
+	},{
+	"name":"GD Hospital & Diabetes Institute",
+	"city":"Kolkata",
+	"locality":"Bowbazar",
+	"code":"GDHospitalDiabetes"
 	},{
 	"name":"ILS Hospitals, Dumdum",
 	"city":"Kolkata",

@@ -8,10 +8,10 @@
 "hasOpd":true,
 "contactTypes":[{
 	"name":"OPD Schedule",
-	"phoneNumbers":"+913366202000",
+	"phoneNumbers":"03366202000",
 	"isOpd":true
 	},{
 	"name":"Emergency",
-	"phoneNumbers":"+918420626021"
+	"phoneNumbers":"08420626021"
 	}]
 }
