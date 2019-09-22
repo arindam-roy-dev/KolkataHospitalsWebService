@@ -22,6 +22,11 @@
 	"locality":"Salt Lake",
 	"code":"AMRISaltLake"
 	},{
+	"name":"AMRI Medical Centre, Southern Avenue",
+	"city":"Kolkata",
+	"locality":"Southern Avenue",
+	"code":"AMRISouthernAvenue"
+	},{
 	"name":"Apex Institute of Medical Sciences",
 	"city":"Kolkata",
 	"locality":"Survey Park",

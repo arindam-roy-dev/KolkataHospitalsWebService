@@ -1,0 +1,15 @@
+{
+"name":"AMRI Medical Centre, Southern Avenue",
+"code":"AMRISouthernAvenue",
+"address":"97 A, Southern Avenue, Opp. Lake Stadium, Kolkata 700029",
+"geoLocation":"22.5124251,88.3531007?q=AMRI+Hospital+Southern+Avenue",
+"emails":"",
+"websites":"https://www.amrihospitals.in/southern-avenue",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"03366228000",
+	"isOpd":true
+	}]
+}
