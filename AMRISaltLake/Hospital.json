@@ -1,0 +1,15 @@
+{
+"name":"AMRI Hospitals, Salt Lake",
+"code":"AMRISaltLake",
+"address":"KB 24, KB Block, Sector III, Salt Lake City, Kolkata, West Bengal 700098",
+"geoLocation":"22.5673799,88.412339?q=AMRI+HOSPITAL,+SALT+LAKE",
+"emails":"",
+"websites":"https://www.amrihospitals.in/saltlake",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"03366063800,03366147700",
+	"isOpd":true
+	}]
+}
