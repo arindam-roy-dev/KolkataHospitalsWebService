@@ -37,6 +37,11 @@
 	"locality":"Kankurgachi",
 	"code":"ApolloGleneagles"
 	},{
+	"name":"Apollo Hospitals, Greams Road, Chennai",
+	"city":"Chennai",
+	"locality":"Greams Road",
+	"code":"ApolloGreamsRoad"
+	},{
 	"name":"Belle Vue Clinic",
 	"city":"Kolkata",
 	"locality":"Minto Park",

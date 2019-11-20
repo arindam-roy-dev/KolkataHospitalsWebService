@@ -1,0 +1,15 @@
+{
+"name":"Apollo Hospitals, Greams Road, Chennai",
+"code":"ApolloGreamsRoad",
+"address":"21, Greams Lane, Off Greams Road, Chennai - 600006",
+"geoLocation":"13.0624,80.2514112?q=Apollo+Hospital+Chennai",
+"emails":"info@apollohospitals.com",
+"websites":"https://chennai.apollohospitals.com/hospitals/greams-road",
+"faxNumbers":"04428294429",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital",
+	"phoneNumbers":"04428290200,04428293333",
+	"isOpd":true
+	}]
+}
