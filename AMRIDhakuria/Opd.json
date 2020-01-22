@@ -1,6 +1,6 @@
 ﻿{
   "name" : "AMRI Hospitals, Dhakuria",
-  "specialities" : [ {
+  "specialties" : [ {
     "name" : "Cardiology",
     "schedules" : [ {
       "doctor" : "Avishek Saha",
