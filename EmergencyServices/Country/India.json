@@ -48,7 +48,7 @@
 	},{
 	"name":"Gas leakage",
 	"phoneNumbers":"1906",
-	"iconName":"lpg"
+	"iconName":"gas"
 	},{
 	"name":"Child Helpline",
 	"phoneNumbers":"1098",
@@ -105,5 +105,22 @@
 	"name":"Airport (Flight Departure)",
 	"phoneNumbers":"143",
 	"iconName":"airport"
+	},{
+	"name":"Sample Water",
+	"phoneNumbers":"000",
+	"iconName":"water"
+	},{
+	"name":"Sample Govt",
+	"phoneNumbers":"000",
+	"iconName":"govt"
+	},{
+	"name":"Sample Medical",
+	"phoneNumbers":"000",
+	"iconName":"medical"
+	},{
+	"name":"Sample Maritime",
+	"phoneNumbers":"000",
+	"iconName":"maritime"
+	},{
 	}]
 }
