@@ -121,5 +121,9 @@
 	"name":"Sample Maritime",
 	"phoneNumbers":"000",
 	"iconName":"maritime"
+	},{
+	"name":"Sample Gas Station",
+	"phoneNumbers":"000",
+	"iconName":"gasStation"
 	}]
 }
