@@ -1,0 +1,109 @@
+{
+"app":"Kolkata Hospitals",
+"country":"India",
+"contacts":[{
+	"name":"Ambulance",
+	"contactNumbers":"102",
+	"iconName":"ambulance"
+	},{
+	"name":"Ambulance Network",
+	"contactNumbers":"09343180000",
+	"iconName":"ambulance"
+	},{
+	"name":"Blood Requirement",
+	"contactNumbers":"104",
+	"iconName":"blood"
+	},{
+	"name":"New Town Police Station",
+	"contactNumbers":"03323246076",
+	"iconName":"police"
+	},{
+	"name":"Police Control Room",
+	"contactNumbers":"100",
+	"iconName":"police"
+	},{
+	"name":"West Bengal Police",
+	"contactNumbers":"03322144031, 03322141946",
+	"iconName":"police"
+	},{
+	"name":"Lalbazar Control Room",
+	"contactNumbers":"03322143024, 03322143230, 03322141310",
+	"iconName":"police"
+	},{
+	"name":"Fire Control Room",
+	"contactNumbers":"101",
+	"iconName":"fire"
+	},{
+	"name":"Salt Lake Fire Station",
+	"contactNumbers":"03323575293",
+	"iconName":"fire"
+	},{
+	"name":"West Bengal State Electricity Board",
+	"contactNumbers":"03323591915, 03323371150",
+	"iconName":"electric"
+	},{
+	"name":"AIDS helpline",
+	"contactNumbers":"1097",
+	"iconName":"aids"
+	},{
+	"name":"Gas leakage",
+	"contactNumbers":"1906",
+	"iconName":"lpg"
+	},{
+	"name":"Child Helpline",
+	"contactNumbers":"1098",
+	"iconName":"child"
+	},{
+	"name":"Women's Helpline",
+	"contactNumbers":"181",
+	"iconName":"woman"
+	},{
+	"name":"Senior Citizen Helpline",
+	"contactNumbers":"1291",
+	"iconName":"seniorCitizen"
+	},{
+	"name":"Disaster Management Services",
+	"contactNumbers":"108",
+	"iconName":"disaster"
+	},{
+	"name":"Central Vigilance Commission",
+	"contactNumbers":"1964",
+	"iconName":"police"
+	},{
+	"name":"Railway Enquiry",
+	"contactNumbers":"139",
+	"iconName":"railway"
+	},{
+	"name":"Railway Accident Emergency Service",
+	"contactNumbers":"1072",
+	"iconName":"railway"
+	},{
+	"name":"Railway Security Helpline",
+	"contactNumbers":"1322",
+	"iconName":"railway"
+	},{
+	"name":"Tourist Helpline",
+	"contactNumbers":"1363",
+	"iconName":"tourist"
+	},{
+	"name":"Road Accident Emergency Service",
+	"contactNumbers":"1073",
+	"iconName":"road"
+	},{
+	"name":"Airport (General Inquiry)",
+	"contactNumbers":"140",
+	"iconName":"airport"
+	},{
+	"name":"Airport (Reservation Inquiry)",
+	"contactNumbers":"141",
+	"iconName":"airport"
+	},{
+	"name":"Airport (Flight Arrival)",
+	"contactNumbers":"142",
+	"iconName":"airport"
+	},{
+	"name":"Airport (Flight Departure)",
+	"contactNumbers":"143",
+	"iconName":"airport"
+	}]
+}
