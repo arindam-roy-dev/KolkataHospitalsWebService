@@ -6,41 +6,17 @@
 	"phoneNumbers":"102",
 	"iconName":"ambulance"
 	},{
-	"name":"Ambulance Network",
-	"phoneNumbers":"09343180000",
-	"iconName":"ambulance"
-	},{
 	"name":"Blood Requirement",
 	"phoneNumbers":"104",
 	"iconName":"blood"
-	},{
-	"name":"New Town Police Station",
-	"phoneNumbers":"03323246076",
-	"iconName":"police"
 	},{
 	"name":"Police Control Room",
 	"phoneNumbers":"100",
 	"iconName":"police"
 	},{
-	"name":"West Bengal Police",
-	"phoneNumbers":"03322144031, 03322141946",
-	"iconName":"police"
-	},{
-	"name":"Lalbazar Control Room",
-	"phoneNumbers":"03322143024, 03322143230, 03322141310",
-	"iconName":"police"
-	},{
 	"name":"Fire Control Room",
 	"phoneNumbers":"101",
 	"iconName":"fire"
-	},{
-	"name":"Salt Lake Fire Station",
-	"phoneNumbers":"03323575293",
-	"iconName":"fire"
-	},{
-	"name":"West Bengal State Electricity Board",
-	"phoneNumbers":"03323591915, 03323371150",
-	"iconName":"electric"
 	},{
 	"name":"AIDS helpline",
 	"phoneNumbers":"1097",
@@ -105,25 +81,5 @@
 	"name":"Airport (Flight Departure)",
 	"phoneNumbers":"143",
 	"iconName":"airport"
-	},{
-	"name":"Sample Water",
-	"phoneNumbers":"000",
-	"iconName":"water"
-	},{
-	"name":"Sample Govt",
-	"phoneNumbers":"000",
-	"iconName":"govt"
-	},{
-	"name":"Sample Medical",
-	"phoneNumbers":"000",
-	"iconName":"medical"
-	},{
-	"name":"Sample Maritime",
-	"phoneNumbers":"000",
-	"iconName":"maritime"
-	},{
-	"name":"Sample Gas Station",
-	"phoneNumbers":"000",
-	"iconName":"gasStation"
 	}]
 }

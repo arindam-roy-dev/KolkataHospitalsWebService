@@ -1,0 +1,23 @@
+ambulance
+blood
+police
+fire
+water
+gas
+gasStation
+govt
+electric
+child
+woman
+seniorCitizen
+medical
+disaster
+railway
+tourist
+road
+airport
+maritime
+disabled
+crime
+
+* default icon is: emergencyDefault
