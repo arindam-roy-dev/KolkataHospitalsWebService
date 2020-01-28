@@ -1,0 +1,73 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Australia",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"10177",
+	"iconName":"ambulance"
+	},{
+	"name":"Police",
+	"phoneNumbers":"10111",
+	"iconName":"police"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"10177",
+	"iconName":"fire"
+	},{
+	"name":"Cell phone emergency",
+	"phoneNumbers":"112",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Emergency in Cape Town",
+	"phoneNumbers":"107",
+	"iconName":"emergency"
+	},{
+	"name":"Lifeline",
+	"phoneNumbers":"0861322322",
+	"iconName":"medical"
+	},{
+	"name":"Suicide Crisis Line",
+	"phoneNumbers":"0800567567",
+	"iconName":"medical"
+	},{
+	"name":"SADAG Mental Health line",
+	"phoneNumbers":"0112344837",
+	"iconName":"medical"
+	},{
+	"name":"Child Line",
+	"phoneNumbers":"0800055555,0800123321",
+	"iconName":"child"
+	},{
+	"name":"Rescue Service (Aviation)",
+	"phoneNumbers":"0831999",
+	"iconName":"airport"
+	},{
+	"name":"Medical rescue",
+	"phoneNumbers":"0800111990",
+	"iconName":"medical"
+	},{
+	"name":"Electricity (Eskom)",
+	"phoneNumbers":"0860037566",
+	"iconName":"electric"
+	},{
+	"name":"Water",
+	"phoneNumbers":"0860103054",
+	"iconName":"water"
+	},{
+	"name":"Disaster Management",
+	"phoneNumbers":"0113755911",
+	"iconName":"disaster"
+	},{
+	"name":"Mountain Rescue in Gauteng",
+	"phoneNumbers":"0741251385,0741633952",
+	"iconName":"mountain"
+	},{
+	"name":"Mountain Rescue in KwaZulu-Natal (KZN)",
+	"phoneNumbers":"0313077744",
+	"iconName":"mountain"
+	},{
+	"name":"Difficulty with emergency services",
+	"phoneNumbers":"1022",
+	"iconName":"emergency"
+	}]
+}

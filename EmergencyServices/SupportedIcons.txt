@@ -19,5 +19,8 @@ airport
 maritime
 disabled
 crime
+mobilePhone
+mountain
+
 
 * default icon is: emergencyDefault
