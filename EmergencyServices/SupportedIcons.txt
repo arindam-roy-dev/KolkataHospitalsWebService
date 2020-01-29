@@ -21,6 +21,8 @@ disabled
 crime
 mobilePhone
 mountain
+household
+
 
 
 * default icon is: emergencyDefault

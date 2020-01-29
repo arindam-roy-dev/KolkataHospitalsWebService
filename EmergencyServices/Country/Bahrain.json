@@ -1,0 +1,49 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Bahrain",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"999",
+	"iconName":"ambulance"
+	},{
+	"name":"Police",
+	"phoneNumbers":"999",
+	"iconName":"police"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"999",
+	"iconName":"fire"
+	},{
+	"name":"National Emergency Call Center",
+	"phoneNumbers":"999",
+	"iconName":"emergency"
+	},{
+	"name":"International Emergency Number",
+	"phoneNumbers":"112",
+	"iconName":"emergency"
+	},{
+	"name":"Traffic police",
+	"phoneNumbers":"199",
+	"iconName":"police"
+	},{
+	"name":"Coast Guard (CGD)",
+	"phoneNumbers":"994",
+	"iconName":"maritime"
+	},{
+	"name":"Emergency Criminal Investigations (CID)",
+	"phoneNumbers":"992",
+	"iconName":"police"
+	},{
+	"name":"For household emergencies",
+	"phoneNumbers":"80001810",
+	"iconName":"household"
+	},{
+	"name":"Drainage repairs",
+	"phoneNumbers":"17515555",
+	"iconName":"household"
+	},{
+	"name":"Electricity related",
+	"phoneNumbers":"80001810",
+	"iconName":"electric"
+	}]
+}
