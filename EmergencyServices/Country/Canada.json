@@ -1,0 +1,37 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Canada",
+"contacts":[{
+	"name":"Emergency (Fire/Medical/Police)",
+	"phoneNumbers":"911",
+	"iconName":"emergency"
+	},{
+	"name":"Emergency (from Mobile Phone)",
+	"phoneNumbers":"112",
+	"iconName":"mobile"
+	},{
+	"name":"Poison Information Centre",
+	"phoneNumbers":"6137371100",
+	"iconName":"poison"
+	},{
+	"name":"Poison Information Centre",
+	"phoneNumbers":"6137371100",
+	"iconName":"poison"
+	},{
+	"name":"Assaulted Women\'s Helpline",
+	"phoneNumbers":"4163644144,18883641210",
+	"iconName":""
+	},{
+	"name":"Crime Stoppers",
+	"phoneNumbers":"18002228477",
+	"iconName":"crime"
+	},{
+	"name":"Kids Help",
+	"phoneNumbers":"18006686888",
+	"iconName":"child"
+	},{
+	"name":"Marine, Air Search & Rescue",
+	"phoneNumbers":"18002677270",
+	"iconName":"maritime"
+	}]
+}

@@ -22,7 +22,8 @@ crime
 mobilePhone
 mountain
 household
-
+agriculture
+poison
 
 
 * default icon is: emergencyDefault
