@@ -1,0 +1,81 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Hong Kong",
+"contacts":[{
+	"name":"Emergency (Fire/Medical/Police)",
+	"phoneNumbers":"999",
+	"iconName":"emergency"
+	},{
+	"name":"Emergency (from Mobile Phone)",
+	"phoneNumbers":"112",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Phone fraud",
+	"phoneNumbers":"18222",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Police - General Enquiries Hotline",
+	"phoneNumbers":"28602000",
+	"iconName":"police"
+	},{
+	"name":"Police - Police stations and Report rooms",
+	"phoneNumbers":"2527177",
+	"iconName":"police"
+	},{
+	"name":"Fire - General Hotline",
+	"phoneNumbers":"27232233",
+	"iconName":"fire"
+	},{
+	"name":"Fire - Divisions and Report rooms",
+	"phoneNumbers":"27238787",
+	"iconName":"fire"
+	},{
+	"name":"Marine Police",
+	"phoneNumbers":"22337999",
+	"iconName":"maritime"
+	},{
+	"name":"Directory enquiries",
+	"phoneNumbers":"1081",
+	"iconName":"mobilePhone"
+	},{
+	"name":"The Samaritans - hotline",
+	"phoneNumbers":"28960000",
+	"iconName":"medical"
+	},{
+	"name":"Harmony House (Domestic Violence)",
+	"phoneNumbers":"23420072",
+	"iconName":"household"
+	},{
+	"name":"Soultalk (Women in emotional and relationship crisis)",
+	"phoneNumbers":"25599211",
+	"iconName":"woman"
+	},{
+	"name":"CancerFund (Cancer support)",
+	"phoneNumbers":"36560800",
+	"iconName":"medical"
+	},{
+	"name":"Cocaine Anonymous",
+	"phoneNumbers":"81011125",
+	"iconName":"poison"
+	},{
+	"name":"Hong Kong Red Cross",
+	"phoneNumbers":"28020021",
+	"iconName":"medical"
+	},{
+	"name":"Youth Outreach (Children\'s crisis)",
+	"phoneNumbers":"26222890",
+	"iconName":"child"
+	},{
+	"name":"Hong Kong Automobile Association",
+	"phoneNumbers":"35833628",
+	"iconName":"govt"
+	},{
+	"name":"Society for the Protection of Animals (SPCA)",
+	"phoneNumbers":"28020501",
+	"iconName":"pet"
+	},{
+	"name":"Emergency veterinary service (SPCA hotline)",
+	"phoneNumbers":"27111000",
+	"iconName":"medical"
+	}]
+}

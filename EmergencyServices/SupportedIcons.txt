@@ -24,6 +24,9 @@ mountain
 household
 agriculture
 poison
+market
+weather
+pet
 
 
-* default icon is: emergencyDefault
+* default icon is: emergency

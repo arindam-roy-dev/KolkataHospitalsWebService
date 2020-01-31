@@ -8,7 +8,7 @@
 	},{
 	"name":"Emergency (from Mobile Phone)",
 	"phoneNumbers":"112",
-	"iconName":"mobile"
+	"iconName":"mobilePhone"
 	},{
 	"name":"Poison Information Centre",
 	"phoneNumbers":"6137371100",
