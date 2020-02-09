@@ -3,7 +3,7 @@
 "specialities":[
 	"Acupuncture",
 	"Allergy",
-	"Anaesthesiology"
+	"Anaesthesiology",
 	"Anesthesia",
 	"Bariatric",
 	"Cardiac Electrophysiology",
@@ -84,6 +84,6 @@
 	"Urology",
 	"Uveitis",
 	"Vitreo Retina",
-	"Vascular Surgery",
+	"Vascular Surgery"
 	]
 }
