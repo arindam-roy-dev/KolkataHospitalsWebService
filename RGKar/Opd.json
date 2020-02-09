@@ -175,7 +175,7 @@
 		]
 	},
 	{
-	"name":"Diabetic",
+	"name":"Diabetology",
 	"schedules":[
 		{
 		"initial":"Prof. Dr.",
@@ -268,7 +268,7 @@
 		]
 	},
 	{
-	"name":"Eye",
+	"name":"Eye (Ophthalmology)",
 	"schedules":[
 		{
 		"initial":"Prof. Dr.",
@@ -466,7 +466,7 @@
 		]
 	},
 	{
-	"name":"Medicine",
+	"name":"General Medicine",
 	"schedules":[
 		{
 		"initial":"Prof. Dr.",
@@ -791,7 +791,7 @@
 		]
 	},
 	{
-	"name":"Radiotherapy",
+	"name":"Radiology",
 	"schedules":[
 		{
 		"initial":"Prof. Dr.",

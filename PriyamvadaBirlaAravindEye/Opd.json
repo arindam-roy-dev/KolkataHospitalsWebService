@@ -2,7 +2,7 @@
 "name":"Priyamvada Birla Aravind Eye Hospital",
 "specialties":[
 	{
-	"name":"Ophthalmologist",
+	"name":"Ophthalmology",
 	"schedules":[
 		{
 		"doctor":"Jayangshu Sengupta",
@@ -74,7 +74,7 @@
 		]
 	},
 	{
-	"name":"General Physician & Cardiologist",
+	"name":"General Physician & Cardiology",
 	"schedules":[
 		{
 		"doctor":"Suddha Kalyan Paul",
@@ -102,7 +102,7 @@
 		]
 	},
 	{
-	"name":"Microbiologist",
+	"name":"Microbiology",
 	"schedules":[
 		{
 		"doctor":"Suman Saha",

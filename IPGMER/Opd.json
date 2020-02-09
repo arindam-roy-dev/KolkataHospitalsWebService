@@ -482,23 +482,23 @@
 		]
 	},
 	{
-	"name":"Pediatric Medicine",
+	"name":"Paediatric Medicine",
 	"schedules":[
 		{
 		"doctor":"Dipankar Gupta",
-		"designation":"Pediatric Asthma/ Allergy",
+		"designation":"Paediatric Asthma/ Allergy",
 		"degree":"98305-84980\nOPD Bldg, Emergency Room 9",
 		"schedule":"Fri: 9:00 AM - 2:00 PM"
 		},
 		{
 		"doctor":"Dipankar Gupta",
-		"designation":"Pediatric Neurology",
-		"degree":"98305-84980\nPediatric OPD, Room 8",
+		"designation":"Paediatric Neurology",
+		"degree":"98305-84980\nPaediatric OPD, Room 8",
 		"schedule":"Fri: 1:00 PM - 3:30 PM"
 		},
 		{
 		"doctor":"Rakesh Mondal",
-		"designation":"Pediatric Rheumatology",
+		"designation":"Paediatric Rheumatology",
 		"degree":"94334-14253",
 		"schedule":"Sat: 10:30 AM - 1:00 PM"
 		}
