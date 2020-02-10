@@ -1,0 +1,10 @@
+{
+"app":"Kolkata Hospitals",
+"dictionaryItems":[{
+	"id":"10001",
+	"name":"MBBS"
+	},{
+	"id":"10002",
+	"name":"MD"
+	}]
+}
