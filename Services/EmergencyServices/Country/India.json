@@ -2,6 +2,98 @@
 "app":"Kolkata Hospitals",
 "country":"India",
 "contacts":[{
+	"name":"Corona Virus Helpline - Andhra Pradesh",
+	"phoneNumbers":"08662410978",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Andaman and Nicobar",
+	"phoneNumbers":"03192232102",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Arunachal Pradesh",
+	"phoneNumbers":"9436055743",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Assam",
+	"phoneNumbers":"6913347770",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Bihar, Chhattisgarh, Goa, Gujarat, Himachal Pradesh, Jharkhand, Karnataka, Sikkim, Telangana, Uttarakhand, Daman & Diu, Puducherry",
+	"phoneNumbers":"104",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Chandigarh",
+	"phoneNumbers":"9779558282",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Delhi",
+	"phoneNumbers":"01122307145",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Haryana",
+	"phoneNumbers":"8558893911",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Jammu & Kashmir",
+	"phoneNumbers":"01912520982,01942440283",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Kerala",
+	"phoneNumbers":"04712552056",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Ladakh",
+	"phoneNumbers":"01982256462",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Madhya Pradesh",
+	"phoneNumbers":"07552527177",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Maharashtra",
+	"phoneNumbers":"02026127394",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Manipur",
+	"phoneNumbers":"3852411668",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Meghalaya",
+	"phoneNumbers":"108",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Mizoram",
+	"phoneNumbers":"102",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Nagaland",
+	"phoneNumbers":"7005539653",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Odisha",
+	"phoneNumbers":"9439994859",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Rajasthan",
+	"phoneNumbers":"01412225624",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Tamil Nadu",
+	"phoneNumbers":"04429510500",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Tripura",
+	"phoneNumbers":"03812315879",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - Uttar Pradesh",
+	"phoneNumbers":"18001805145",
+	"iconName":"poison"
+	},{
+	"name":"Corona Virus Helpline - West Bengal",
+	"phoneNumbers":"03323412600,1800313444222",
+	"iconName":"poison"
+	},{
 	"name":"Ambulance",
 	"phoneNumbers":"102",
 	"iconName":"ambulance"
