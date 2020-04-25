@@ -1,0 +1,41 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Malaysia",
+"contacts":[{
+	"name":"Police",
+	"phoneNumbers":"999",
+	"iconName":"police"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"999",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire and Rescue",
+	"phoneNumbers":"994",
+	"iconName":"fire"
+	},{
+	"name":"Civil Defence",
+	"phoneNumbers":"991",
+	"iconName":"govt"
+	},{
+	"name":"Tourist Police Hotline",
+	"phoneNumbers":"0321496590",
+	"iconName":"police"
+	},{
+	"name":"Tourist Police Enquiries",
+	"phoneNumbers":"0321496593",
+	"iconName":"police"
+	},{
+	"name":"Tourist Police Customs",
+	"phoneNumbers":"0387872312",
+	"iconName":"police"
+	},{
+	"name":"Gas emergency",
+	"phoneNumbers":"995",
+	"iconName":"gas"
+	},{
+	"name":"Power failure",
+	"phoneNumbers":"15454",
+	"iconName":"electric"
+	}]
+}

@@ -1,0 +1,61 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Mauritius",
+"contacts":[{
+	"name":"Emergency Medical Assistance (SAMU)",
+	"phoneNumbers":"114",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire services",
+	"phoneNumbers":"115",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"112,999",
+	"iconName":"police"
+	},{
+	"name":"Central Police",
+	"phoneNumbers":"2081212",
+	"iconName":"police"
+	},{
+	"name":"Tourism Police",
+	"phoneNumbers":"2131740",
+	"iconName":"tourist"
+	},{
+	"name":"CEB (Electricity)",
+	"phoneNumbers":"130",
+	"iconName":"electric"
+	},{
+	"name":"CWA (Water)",
+	"phoneNumbers":"170",
+	"iconName":"water"
+	},{
+	"name":"Child Protection",
+	"phoneNumbers":"113",
+	"iconName":"child"
+	},{
+	"name":"Crime Prevention",
+	"phoneNumbers":"148",
+	"iconName":"crime"
+	},{
+	"name":"Meteorological services",
+	"phoneNumbers":"6861031",
+	"iconName":"weather"
+	},{
+	"name":"Telephone directory",
+	"phoneNumbers":"150",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Tourist info",
+	"phoneNumbers":"152",
+	"iconName":"tourist"
+	},{
+	"name":"Flight info",
+	"phoneNumbers":"8965",
+	"iconName":"airport"
+	},{
+	"name":"Road Traffic",
+	"phoneNumbers":"2031251",
+	"iconName":"road"
+	}]
+}

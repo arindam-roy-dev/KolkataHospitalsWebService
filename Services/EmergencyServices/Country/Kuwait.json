@@ -1,0 +1,57 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Kuwait",
+"contacts":[{
+	"name":"Emergency",
+	"phoneNumbers":"112",
+	"iconName":"emergency"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"112",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"112",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"112",
+	"iconName":"police"
+	},{
+	"name":"Electricity",
+	"phoneNumbers":"152",
+	"iconName":"electric"
+	},{
+	"name":"Water Emergency",
+	"phoneNumbers":"152",
+	"iconName":"water"
+	},{
+	"name":"Consumer Protection",
+	"phoneNumbers":"135",
+	"iconName":"market"
+	},{
+	"name":"Kuwait Municipality",
+	"phoneNumbers":"139",
+	"iconName":"govt"
+	},{
+	"name":"Ministry of Health",
+	"phoneNumbers":"151",
+	"iconName":"medical"
+	},{
+	"name":"Kuwait International Airport",
+	"phoneNumbers":"161",
+	"iconName":"airport"
+	},{
+	"name":"Public Institution for Social Security",
+	"phoneNumbers":"114",
+	"iconName":"govt"
+	},{
+	"name":"Zakat House",
+	"phoneNumbers":"175",
+	"iconName":"govt"
+	},{
+	"name":"Ministry of Public Works",
+	"phoneNumbers":"150",
+	"iconName":"govt"
+	}]
+}

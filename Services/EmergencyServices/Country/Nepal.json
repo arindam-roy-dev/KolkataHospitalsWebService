@@ -1,0 +1,37 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Nepal",
+"contacts":[{
+	"name":"Police Control",
+	"phoneNumbers":"100",
+	"iconName":"police"
+	},{
+	"name":"Police Emergency Number",
+	"phoneNumbers":"4228435",
+	"iconName":"police"
+	},{
+	"name":"Fire Brigade",
+	"phoneNumbers":"101",
+	"iconName":"fire"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"102",
+	"iconName":"ambulance"
+	},{
+	"name":"Traffic police",
+	"phoneNumbers":"103",
+	"iconName":"police"
+	},{
+	"name":"Child Missing",
+	"phoneNumbers":"104",
+	"iconName":"child"
+	},{
+	"name":"Government Hotline",
+	"phoneNumbers":"1234",
+	"iconName":"govt"
+	},{
+	"name":"Rescue and help",
+	"phoneNumbers":"1114",
+	"iconName":"disaster"
+	}]
+}

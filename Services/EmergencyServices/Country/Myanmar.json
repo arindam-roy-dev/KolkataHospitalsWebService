@@ -1,0 +1,29 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Myanmar",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"192",
+	"iconName":"ambulance"
+	},{
+	"name":"Police",
+	"phoneNumbers":"199",
+	"iconName":"police"
+	},{
+	"name":"Fire Service, Rescue",
+	"phoneNumbers":"191",
+	"iconName":"fire"
+	},{
+	"name":"Red Cross",
+	"phoneNumbers":"295133",
+	"iconName":"medical"
+	},{
+	"name":"Airport",
+	"phoneNumbers":"662811",
+	"iconName":"airport"
+	},{
+	"name":"Business Telephone Number Enquiry",
+	"phoneNumbers":"100,104",
+	"iconName":"mobilePhone"
+	}]
+}

@@ -1,0 +1,37 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Oman",
+"contacts":[{
+	"name":"Emergency (Ambulance, Fire & Police)",
+	"phoneNumbers":"9999",
+	"iconName":"emergency"
+	},{
+	"name":"Electricity",
+	"phoneNumbers":"1442",
+	"iconName":"electric"
+	},{
+	"name":"Water",
+	"phoneNumbers":"1442",
+	"iconName":"water"
+	},{
+	"name":"ROP traffic services",
+	"phoneNumbers":"24343999,24343998",
+	"iconName":"road"
+	},{
+	"name":"Passport and Residence services",
+	"phoneNumbers":"24512974,24512975,24512976",
+	"iconName":"govt"
+	},{
+	"name":"Civil Status (Omanis) Services",
+	"phoneNumbers":"24511363",
+	"iconName":"govt"
+	},{
+	"name":"Civil Status (Residents) Services",
+	"phoneNumbers":"24521885",
+	"iconName":"govt"
+	},{
+	"name":"Crimes (Blackmail and Fraud)",
+	"phoneNumbers":"24569701",
+	"iconName":"crime"
+	}]
+}
