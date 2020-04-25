@@ -20,15 +20,15 @@
 	},{
 	"name":"Tourist Police Hotline",
 	"phoneNumbers":"0321496590",
-	"iconName":"police"
+	"iconName":"tourist"
 	},{
 	"name":"Tourist Police Enquiries",
 	"phoneNumbers":"0321496593",
-	"iconName":"police"
+	"iconName":"tourist"
 	},{
 	"name":"Tourist Police Customs",
 	"phoneNumbers":"0387872312",
-	"iconName":"police"
+	"iconName":"tourist"
 	},{
 	"name":"Gas emergency",
 	"phoneNumbers":"995",
