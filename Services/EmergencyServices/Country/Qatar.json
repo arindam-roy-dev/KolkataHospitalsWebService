@@ -1,0 +1,81 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Qatar",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"999",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"999",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"999",
+	"iconName":"police"
+	},{
+	"name":"Water",
+	"phoneNumbers":"991",
+	"iconName":"water"
+	},{
+	"name":"Electricity",
+	"phoneNumbers":"991",
+	"iconName":"electric"
+	},{
+	"name":"Telephone Directory (local)",
+	"phoneNumbers":"180",
+	"iconName":"mobilePhone"
+	},{
+	"name":"International Calls",
+	"phoneNumbers":"150",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Qatar Telecom",
+	"phoneNumbers":"44400400",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Traffic & Patrol Police Department",
+	"phoneNumbers":"4890666",
+	"iconName":"road"
+	},{
+	"name":"Hamad Hospital",
+	"phoneNumbers":"44394444",
+	"iconName":"medical"
+	},{
+	"name":"Hamad International Airport",
+	"phoneNumbers":"40106666",
+	"iconName":"airport"
+	},{
+	"name":"Qatar Tourism Authority",
+	"phoneNumbers":"4411555",
+	"iconName":"tourist"
+	},{
+	"name":"Doha Time",
+	"phoneNumbers":"140,141",
+	"iconName":"govt"
+	},{
+	"name":"General Post Office",
+	"phoneNumbers":"4464000",
+	"iconName":"govt"
+	},{
+	"name":"Ministry of Interior",
+	"phoneNumbers":"2366666",
+	"iconName":"govt"
+	},{
+	"name":"General Directorate of Borders, Passport and Expat Affairs",
+	"phoneNumbers":"44890333",
+	"iconName":"govt"
+	},{
+	"name":"Qatar General Electricity and Water Corporation",
+	"phoneNumbers":"44845555",
+	"iconName":"govt"
+	},{
+	"name":"Qatar Weather/Meteorology Department",
+	"phoneNumbers":"44557077",
+	"iconName":"weather"
+	},{
+	"name":"Consumer Protection",
+	"phoneNumbers":"8005000",
+	"iconName":"market"
+	}]
+}

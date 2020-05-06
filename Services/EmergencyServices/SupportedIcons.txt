@@ -35,4 +35,7 @@ woman
 upcoming:
 people
 directory
+landPhone
 religion
+postOffice
+sewage

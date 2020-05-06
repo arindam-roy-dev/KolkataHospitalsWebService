@@ -1,0 +1,45 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Sri Lanka",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"110",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire & Rescue",
+	"phoneNumbers":"110",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"118,119",
+	"iconName":"police"
+	},{
+	"name":"Police Emergency",
+	"phoneNumbers":"0112433333",
+	"iconName":"police"
+	},{
+	"name":"Emergency Police Mobile Squad",
+	"phoneNumbers":"0115717171",
+	"iconName":"police"
+	},{
+	"name":"Tourist Police",
+	"phoneNumbers":"0112421052",
+	"iconName":"tourist"
+	},{
+	"name":"Accident Service - General Hospital, Colombo",
+	"phoneNumbers":"0112691111",
+	"iconName":"medical"
+	},{
+	"name":"Fire & Ambulance Service",
+	"phoneNumbers":"0112422222",
+	"iconName":"ambulance"
+	},{
+	"name":"Report Crimes",
+	"phoneNumbers":"0112691500",
+	"iconName":"crime"
+	},{
+	"name":"Government Information Center",
+	"phoneNumbers":"1919",
+	"iconName":"govt"
+	}]
+}
