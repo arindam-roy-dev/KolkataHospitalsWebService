@@ -1,0 +1,85 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Saudi Arabia",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"144",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"118",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"117",
+	"iconName":"police"
+	},{
+	"name":"Rescue",
+	"phoneNumbers":"1414",
+	"iconName":"disaster"
+	},{
+	"name":"Poison Emergencies",
+	"phoneNumbers":"145",
+	"iconName":"poison"
+	},{
+	"name":"Children and Young People (Pro Juventute)",
+	"phoneNumbers":"147",
+	"iconName":"child"
+	},{
+	"name":"Missing Children",
+	"phoneNumbers":"116000",
+	"iconName":"child"
+	},{
+	"name":"Road Emergency & Breakdown Service",
+	"phoneNumbers":"140",
+	"iconName":"road"
+	},{
+	"name":"Road Report",
+	"phoneNumbers":"163",
+	"iconName":"road"
+	},{
+	"name":"Swiss Air Rescue: REGA",
+	"phoneNumbers":"1414",
+	"iconName":"disaster"
+	},{
+	"name":"Weather Report",
+	"phoneNumbers":"162",
+	"iconName":"weather"
+	},{
+	"name":"Avalanche & Weather",
+	"phoneNumbers":"187",
+	"iconName":"mountain"
+	},{
+	"name":"Glaciar emergencies: Air Glaciers",
+	"phoneNumbers":"1415",
+	"iconName":"mountain"
+	},{
+	"name":"Vaccinations & Advice for Travellers",
+	"phoneNumbers":"0900575131",
+	"iconName":"tourist"
+	},{
+	"name":"Telephone Faults",
+	"phoneNumbers":"175",
+	"iconName":"mobilePhone"
+	},{
+	"name":"LGBT+ Helpline",
+	"phoneNumbers":"0800133133",
+	"iconName":"crime"
+	},{
+	"name":"The Helping Hand Samaritans",
+	"phoneNumbers":"143",
+	"iconName":"crime"
+	},{
+	"name":"Education Hotline",
+	"phoneNumbers":"0800474747",
+	"iconName":"govt"
+	},{
+	"name":"Federal Department of Foreign Affairs",
+	"phoneNumbers":"0800247365,584653333",
+	"iconName":"govt"
+	},{
+	"name":"Sports & Lottery Results",
+	"phoneNumbers":"164",
+	"iconName":"govt"
+	}]
+}

@@ -39,3 +39,5 @@ landPhone
 religion
 postOffice
 sewage
+rescue
+abouse
