@@ -21,18 +21,24 @@
 	"androidMajorVersion":"",
 	"manufacturer":"",
 	"modelCode":"",
-	"message":"New version of Visual Quiz is available. Please update this from Play Store."
+	"message":"New version of Kolkata Hospitals is available. Please update this from Play Store."
 	},{
 	"appVersion":"",
 	"androidMajorVersion":"",
 	"manufacturer":"",
 	"modelCode":"",
-	"message":"New version of Visual Quiz is available. Please update this from Play Store."
+	"message":"New version of Kolkata Hospitals is available. Please update this from Play Store."
 	},{
 	"appVersion":"",
 	"androidMajorVersion":"",
 	"manufacturer":"",
 	"modelCode":"",
-	"message":"New version of Visual Quiz is available. Please update this from Play Store App."
+	"message":"New version of Kolkata Hospitals is available. Please update this from Play Store App."
+	},{
+	"appVersion":"1.5",
+	"androidMajorVersion":"",
+	"manufacturer":"",
+	"modelCode":"",
+	"message":"Hospitals’ OPD service may not be operational due to Coronavirus Pandemic. Please call hospitals from this app for current operational status.\n\nPlease stay home and save lives."
 	}]
 }
