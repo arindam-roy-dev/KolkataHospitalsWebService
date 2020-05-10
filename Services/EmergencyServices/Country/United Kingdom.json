@@ -1,0 +1,37 @@
+{
+"app":"Kolkata Hospitals",
+"country":"United Kingdom",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"999,112",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"999,112",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"999,112",
+	"iconName":"police"
+	},{
+	"name":"Gas Emergency",
+	"phoneNumbers":"0800111999",
+	"iconName":"gas"
+	},{
+	"name":"National Health Service",
+	"phoneNumbers":"08454647",
+	"iconName":"medical"
+	},{
+	"name":"Police (Non Emergency)",
+	"phoneNumbers":"101",
+	"iconName":"police"
+	},{
+	"name":"Medical (Non Emergency)",
+	"phoneNumbers":"111",
+	"iconName":"medical"
+	},{
+	"name":"Roadside Assistance (British Automobile Association)",
+	"phoneNumbers":"0800887766",
+	"iconName":"road"
+	}]
+}

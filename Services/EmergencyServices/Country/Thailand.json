@@ -1,0 +1,37 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Thailand",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"1554",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"199",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"191",
+	"iconName":"police"
+	},{
+	"name":"Tourist Police",
+	"phoneNumbers":"1155",
+	"iconName":"tourist"
+	},{
+	"name":"National Disaster Warning Centre",
+	"phoneNumbers":"1860",
+	"iconName":"disaster"
+	},{
+	"name":"Crime",
+	"phoneNumbers":"1195",
+	"iconName":"crime"
+	},{
+	"name":"Medical Emergency Call",
+	"phoneNumbers":"1669",
+	"iconName":"medical"
+	},{
+	"name":"Private Air Ambulance (Siam Air Care)",
+	"phoneNumbers":"025867654",
+	"iconName":"medical"
+	}]
+}

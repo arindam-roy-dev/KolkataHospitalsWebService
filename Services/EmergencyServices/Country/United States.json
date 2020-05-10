@@ -1,0 +1,17 @@
+{
+"app":"Kolkata Hospitals",
+"country":"United States",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"911",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"911",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"911",
+	"iconName":"police"
+	}]
+}
