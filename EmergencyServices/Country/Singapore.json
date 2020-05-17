@@ -1,0 +1,73 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Singapore",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"995",
+	"iconName":"ambulance"
+	},{
+	"name":"Non-Emergency Ambulance",
+	"phoneNumbers":"1777",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"995",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"999",
+	"iconName":"police"
+	},{
+	"name":"Police Hotline",
+	"phoneNumbers":"18002550000",
+	"iconName":"police"
+	},{
+	"name":"Dengue Hotline",
+	"phoneNumbers":"18009336483",
+	"iconName":"medical"
+	},{
+	"name":"Fire Hazard Reporting",
+	"phoneNumbers":"18002800000",
+	"iconName":"fire"
+	},{
+	"name":"Singapore Power (Power Failure)",
+	"phoneNumbers":"18007788888",
+	"iconName":"electric"
+	},{
+	"name":"City Gas",
+	"phoneNumbers":"18007521800",
+	"iconName":"gas"
+	},{
+	"name":"Weather",
+	"phoneNumbers":"65427788",
+	"iconName":"weather"
+	},{
+	"name":"National Environment Agency (Weather)",
+	"phoneNumbers":"18002255632",
+	"iconName":"weather"
+	},{
+	"name":"Drugs & Poison",
+	"phoneNumbers":"64239119",
+	"iconName":"poison"
+	},{
+	"name":"Singapore Civil Defence Force",
+	"phoneNumbers":"18002865555",
+	"iconName":"govt"
+	},{
+	"name":"Agri-Food and Veterinary Authority of Singapore",
+	"phoneNumbers":"18002262250",
+	"iconName":"govt"
+	},{
+	"name":"Floods or Drain Obstructions",
+	"phoneNumbers":"18002846600",
+	"iconName":"household"
+	},{
+	"name":"Building & Construction Authority",
+	"phoneNumbers":"63257191,63257393",
+	"iconName":"household"
+	},{
+	"name":"Housing & Development Board (Essential Maintenance)",
+	"phoneNumbers":"18002755555,18003258888,18003543333",
+	"iconName":"household"
+	}]
+}

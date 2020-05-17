@@ -1,0 +1,49 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Pakistan",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"115",
+	"iconName":"ambulance"
+	},{
+	"name":"Police",
+	"phoneNumbers":"15",
+	"iconName":"police"
+	},{
+	"name":"Fire Brigade",
+	"phoneNumbers":"16",
+	"iconName":"fire"
+	},{
+	"name":"PIA Flight Enquiry",
+	"phoneNumbers":"114",
+	"iconName":"airport"
+	},{
+	"name":"Railway Enquiry",
+	"phoneNumbers":"117",
+	"iconName":"railway"
+	},{
+	"name":"Telephone Enquiry",
+	"phoneNumbers":"17",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Telephone Complaints",
+	"phoneNumbers":"18",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Trunk Overseas Booking",
+	"phoneNumbers":"102",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Trunk inland Enquiry",
+	"phoneNumbers":"103",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Phonogram",
+	"phoneNumbers":"116",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Weather Enquiry",
+	"phoneNumbers":"4572811",
+	"iconName":"weather"
+	}]
+}

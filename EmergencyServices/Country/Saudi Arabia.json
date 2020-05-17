@@ -1,0 +1,37 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Saudi Arabia",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"997",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"998",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"911,999",
+	"iconName":"police"
+	},{
+	"name":"General Emergency",
+	"phoneNumbers":"112",
+	"iconName":"emergency"
+	},{
+	"name":"Traffic Police",
+	"phoneNumbers":"993",
+	"iconName":"road"
+	},{
+	"name":"Natural Disaster",
+	"phoneNumbers":"966",
+	"iconName":"disaster"
+	},{
+	"name":"Coast guard",
+	"phoneNumbers":"994",
+	"iconName":"maritime"
+	},{
+	"name":"Directory",
+	"phoneNumbers":"905",
+	"iconName":"mobilePhone"
+	}]
+}

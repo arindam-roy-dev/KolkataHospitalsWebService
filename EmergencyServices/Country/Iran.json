@@ -1,0 +1,65 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Iran",
+"contacts":[{
+	"name":"Police",
+	"phoneNumbers":"110",
+	"iconName":"police"
+	},{
+	"name":"Local Police (From mobile only)",
+	"phoneNumbers":"112",
+	"iconName":"police"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"125",
+	"iconName":"fire"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"115",
+	"iconName":"ambulance"
+	},{
+	"name":"Directory Inquiries",
+	"phoneNumbers":"118",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Weather",
+	"phoneNumbers":"134",
+	"iconName":"weather"
+	},{
+	"name":"Calendar and Prayer Times",
+	"phoneNumbers":"192",
+	"iconName":"govt"
+	},{
+	"name":"National Travel Call Center",
+	"phoneNumbers":"09629",
+	"iconName":"tourist"
+	},{
+	"name":"Ministry of Foreign Affairs (I.R.Iran)",
+	"phoneNumbers":"+982161151",
+	"iconName":"govt"
+	},{
+	"name":"Imam Khomeini Intl. Airport (Tehran Airport)",
+	"phoneNumbers":"2166930934,+982151001",
+	"iconName":"airport"
+	},{
+	"name":"Shiraz Shahid Dastghaib International Airport",
+	"phoneNumbers":"7121948",
+	"iconName":"airport"
+	},{
+	"name":"Railways (I.R.Iran)",
+	"phoneNumbers":"+982155121",
+	"iconName":"railway"
+	},{
+	"name":"Roads Management Center",
+	"phoneNumbers":"+9821141",
+	"iconName":"railway"
+	},{
+	"name":"Customs Administration (IRICA)",
+	"phoneNumbers":"+982182991",
+	"iconName":"govt"
+	},{
+	"name":"Tourism Marketing & Advertising Office (ICHTO)",
+	"phoneNumbers":"2166582014",
+	"iconName":"tourist"
+	}]
+}

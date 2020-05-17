@@ -1,0 +1,45 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Bangladesh",
+"contacts":[{
+	"name":"Emergency telephone number",
+	"phoneNumbers":"999",
+	"iconName":"emergency"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"199",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"199",
+	"iconName":"fire"
+	},{
+	"name":"Anti Corruption Commission",
+	"phoneNumbers":"106",
+	"iconName":"police"
+	},{
+	"name":"Agricultural Information Services",
+	"phoneNumbers":"16123",
+	"iconName":"agriculture"
+	},{
+	"name":"Health Services",
+	"phoneNumbers":"16263",
+	"iconName":"medical"
+	},{
+	"name":"Dhaka Water Supply And Sewerage",
+	"phoneNumbers":"16162",
+	"iconName":"water"
+	},{
+	"name":"Women and Children Ministry",
+	"phoneNumbers":"109",
+	"iconName":"woman"
+	},{
+	"name":"Legal Services",
+	"phoneNumbers":"16430",
+	"iconName":"govt"
+	},{
+	"name":"Customer complain – All mobile operators",
+	"phoneNumbers":"158",
+	"iconName":"mobile"
+	}]
+}

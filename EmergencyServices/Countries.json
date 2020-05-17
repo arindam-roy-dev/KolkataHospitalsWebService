@@ -1,0 +1,61 @@
+{
+"app":"Kolkata Hospitals",
+"description":"List of the Countries supported to display Emergency Service Contacts",
+"countries":[{
+	"name":"Australia"
+	},{
+	"name":"Bahrain"
+	},{
+	"name":"Bangladesh"
+	},{
+	"name":"Canada"
+	},{
+	"name":"China"
+	},{
+	"name":"Hong Kong"
+	},{
+	"name":"India"
+	},{
+	"name":"Indonesia"
+	},{
+	"name":"Iran"
+	},{
+	"name":"Iraq"
+	},{
+	"name":"Kuwait"
+	},{
+	"name":"Malaysia"
+	},{
+	"name":"Mauritius"
+	},{
+	"name":"Myanmar"
+	},{
+	"name":"Nepal"
+	},{
+	"name":"New Zealand"
+	},{
+	"name":"Oman"
+	},{
+	"name":"Pakistan"
+	},{
+	"name":"Qatar"
+	},{
+	"name":"Saudi Arabia"
+	},{
+	"name":"Singapore"
+	},{
+	"name":"South Africa"
+	},{
+	"name":"Sri Lanka"
+	},{
+	"name":"Switzerland"
+	},{
+	"name":"Thailand"
+	},{
+	"name":"United Arab Emirates"
+	},{
+	"name":"United Kingdom"
+	},{
+	"name":"United States"
+	}
+]}

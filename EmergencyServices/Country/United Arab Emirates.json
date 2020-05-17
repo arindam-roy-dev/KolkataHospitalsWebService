@@ -1,0 +1,49 @@
+{
+"app":"Kolkata Hospitals",
+"country":"United Arab Emirates",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"998",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire Department (Civil Defence)",
+	"phoneNumbers":"997",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"911",
+	"iconName":"police"
+	},{
+	"name":"Coastguard",
+	"phoneNumbers":"996",
+	"iconName":"maritime"
+	},{
+	"name":"Electricity Failure",
+	"phoneNumbers":"991",
+	"iconName":"electric"
+	},{
+	"name":"Water Failure",
+	"phoneNumbers":"922",
+	"iconName":"water"
+	},{
+	"name":"Violence & Abuse of Women & Children",
+	"phoneNumbers":"116111",
+	"iconName":"woman"
+	},{
+	"name":"EWAA Shelter for Women and Children",
+	"phoneNumbers":"8007283",
+	"iconName":"woman"
+	},{
+	"name":"Dubai Foundation for Women and Children",
+	"phoneNumbers":"800111",
+	"iconName":"woman"
+	},{
+	"name":"Ministry of Climate Change and Environment",
+	"phoneNumbers":"8003050",
+	"iconName":"weather"
+	},{
+	"name":"Emirates Animal Welfare Society",
+	"phoneNumbers":"97125010054",
+	"iconName":"pet"
+	}]
+}

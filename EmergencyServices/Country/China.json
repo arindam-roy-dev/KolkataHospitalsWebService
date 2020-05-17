@@ -1,0 +1,85 @@
+{
+"app":"Kolkata Hospitals",
+"country":"China",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"120",
+	"iconName":"ambulance"
+	},{
+	"name":"Police",
+	"phoneNumbers":"110",
+	"iconName":"police"
+	},{
+	"name":"Fire Service",
+	"phoneNumbers":"119",
+	"iconName":"fire"
+	},{
+	"name":"Traffic police",
+	"phoneNumbers":"122",
+	"iconName":"road"
+	},{
+	"name":"Forest fire (in some cities)",
+	"phoneNumbers":"12119",
+	"iconName":"fire"
+	},{
+	"name":"Marine SOS",
+	"phoneNumbers":"12395",
+	"iconName":"maritime"
+	},{
+	"name":"Marine police",
+	"phoneNumbers":"95110",
+	"iconName":"maritime"
+	},{
+	"name":"Private ambulance service (Beijing only)",
+	"phoneNumbers":"999",
+	"iconName":"ambulance"
+	},{
+	"name":"Private ambulance service (Outside Beijing)",
+	"phoneNumbers":"010999",
+	"iconName":"emergency"
+	},{
+	"name":"Beijing Capital International Airport",
+	"phoneNumbers":"96158",
+	"iconName":"airport"
+	},{
+	"name":"Shanghai Pudong International Airport",
+	"phoneNumbers":"96990",
+	"iconName":"airport"
+	},{
+	"name":"Complaints about Goods\’ Qualities",
+	"phoneNumbers":"12315",
+	"iconName":"market"
+	},{
+	"name":"Complaints about Prices",
+	"phoneNumbers":"12358",
+	"iconName":"market"
+	},{
+	"name":"Post Code Information",
+	"phoneNumbers":"184",
+	"iconName":"govt"
+	},{
+	"name":"Weather Forecast",
+	"phoneNumbers":"12121",
+	"iconName":"weather"
+	},{
+	"name":"Phone Directory",
+	"phoneNumbers":"114",
+	"iconName":"mobilePhone"
+	},{
+	"name":"Railway Information",
+	"phoneNumbers":"12306",
+	"iconName":"railway"
+	},{
+	"name":"Civil Aviation",
+	"phoneNumbers":"950137",
+	"iconName":"airport"
+	},{
+	"name":"Air China",
+	"phoneNumbers":"95583",
+	"iconName":"airport"
+	},{
+	"name":"Bank of China",
+	"phoneNumbers":"95566",
+	"iconName":"govt"
+	}]
+}

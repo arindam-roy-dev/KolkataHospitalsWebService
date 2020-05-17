@@ -1,0 +1,37 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Australia",
+"contacts":[{
+	"name":"Ambulance",
+	"phoneNumbers":"000",
+	"iconName":"ambulance"
+	},{
+	"name":"Police",
+	"phoneNumbers":"000",
+	"iconName":"police"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"000",
+	"iconName":"fire"
+	},{
+	"name":"SES assistance in floods and storms",
+	"phoneNumbers":"132500",
+	"iconName":"disaster"
+	},{
+	"name":"Police attendance (all states except Victoria)",
+	"phoneNumbers":"131444",
+	"iconName":"police"
+	},{
+	"name":"International incident emergency helpline",
+	"phoneNumbers":"1300555135",
+	"iconName":"emergency"
+	},{
+	"name":"Crime Stoppers",
+	"phoneNumbers":"1800333000",
+	"iconName":"crime"
+	},{
+	"name":"Threats to national security",
+	"phoneNumbers":"1800123400",
+	"iconName":"govt"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+"app":"India Hospitals",
+"cities":[{
+	"name":"Bangalore",
+	"name":"Chennai",
+	"name":"Delhi",
+	"name":"Durgapur",
+	"name":"Howrah",
+	"name":"Hyderabad",
+	"name":"Kolkata",
+	"name":"Mumbai",
+	"name":"Raiganj",
+	"name":"Siliguri"
+	}]
+} 

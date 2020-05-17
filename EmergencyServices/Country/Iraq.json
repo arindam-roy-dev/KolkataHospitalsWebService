@@ -1,0 +1,25 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Iraq",
+"contacts":[{
+	"name":"Emergency",
+	"phoneNumbers":"122",
+	"iconName":"emergency"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"122",
+	"iconName":"ambulance"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"115",
+	"iconName":"fire"
+	},{
+	"name":"Police",
+	"phoneNumbers":"104",
+	"iconName":"police"
+	},{
+	"name":"Airport",
+	"phoneNumbers":"8130000",
+	"iconName":"airport"
+	}]
+}

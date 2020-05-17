@@ -1,0 +1,21 @@
+{
+"app":"Kolkata Hospitals",
+"country":"New Zealand",
+"contacts":[{
+	"name":"Emergency (Ambulance, Fire and Police)",
+	"phoneNumbers":"111",
+	"iconName":"emergency"
+	},{
+	"name":"Deaf fax",
+	"phoneNumbers":"0800161616",
+	"iconName":"govt"
+	},{
+	"name":"Crime Stoppers",
+	"phoneNumbers":"0800555111",
+	"iconName":"crime"
+	},{
+	"name":"Police (Non Emergency)",
+	"phoneNumbers":"105",
+	"iconName":"police"
+	}]
+}

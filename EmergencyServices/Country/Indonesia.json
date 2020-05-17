@@ -1,0 +1,45 @@
+{
+"app":"Kolkata Hospitals",
+"country":"Indonesia",
+"contacts":[{
+	"name":"Main Emergency",
+	"phoneNumbers":"112",
+	"iconName":"emergency"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"118",
+	"iconName":"ambulance"
+	},{
+	"name":"Police",
+	"phoneNumbers":"110",
+	"iconName":"police"
+	},{
+	"name":"Fire",
+	"phoneNumbers":"113",
+	"iconName":"fire"
+	},{
+	"name":"Medical Emergencies",
+	"phoneNumbers":"119",
+	"iconName":"medical"
+	},{
+	"name":"Tourist Police (Airport)",
+	"phoneNumbers":"03619351023",
+	"iconName":"airport"
+	},{
+	"name":"Tourist Police (Bali)",
+	"phoneNumbers":"0361754599,0361224111",
+	"iconName":"tourist"
+	},{
+	"name":"Tourist Police (Jakarta)",
+	"phoneNumbers":"0215264073",
+	"iconName":"tourist"
+	},{
+	"name":"Search & Rescue",
+	"phoneNumbers":"111,115,151",
+	"iconName":"disaster"
+	},{
+	"name":"Marine Rescue, Coast Guard",
+	"phoneNumbers":"03613000911",
+	"iconName":"maritime"
+	}]
+}
