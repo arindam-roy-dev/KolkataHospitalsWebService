@@ -2,12 +2,8 @@
 "app":"India Hospitals",
 "city":"Siliguri",
 "hospitals":[{
-	"name":"",
-	"locality":"",
-	"code":""
-	},{
-	"name":"",
-	"locality":"",
-	"code":""
+	"name":"Desun Hospital, Siliguri",
+	"locality":"Kawakhali",
+	"code":"DesunSiliguri"
 	}]
 } 

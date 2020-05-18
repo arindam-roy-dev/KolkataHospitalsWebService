@@ -5,37 +5,37 @@
 	"name":"Aditya Birla Sankara Nethralaya",
 	"city":"Kolkata",
 	"locality":"Mukundapur",
-	"code":"AdityaBirlaSankaraNethralaya"
+	"code":"OPDServices/Kolkata/AdityaBirlaSankaraNethralaya"
 	},{
 	"name":"AMRI Hospitals, Dhakuria",
 	"city":"Kolkata",
 	"locality":"Dhakuria",
-	"code":"AMRIDhakuria"
+	"code":"OPDServices/Kolkata/AMRIDhakuria"
 	},{
 	"name":"AMRI Hospitals, Mukundapur",
 	"city":"Kolkata",
 	"locality":"Mukundapur",
-	"code":"AMRIMukundapur"
+	"code":"OPDServices/Kolkata/AMRIMukundapur"
 	},{
 	"name":"AMRI Hospitals, Salt Lake",
 	"city":"Kolkata",
 	"locality":"Salt Lake",
-	"code":"AMRISaltLake"
+	"code":"OPDServices/Kolkata/AMRISaltLake"
 	},{
 	"name":"AMRI Medical Centre, Southern Avenue",
 	"city":"Kolkata",
 	"locality":"Southern Avenue",
-	"code":"AMRISouthernAvenue"
+	"code":"OPDServices/Kolkata/AMRISouthernAvenue"
 	},{
 	"name":"Apex Institute of Medical Sciences",
 	"city":"Kolkata",
 	"locality":"Survey Park",
-	"code":"ApexInstitute"
+	"code":"OPDServices/Kolkata/ApexInstitute"
 	},{
 	"name":"Apollo Gleneagles Hospital",
 	"city":"Kolkata",
 	"locality":"Kankurgachi",
-	"code":"ApolloGleneagles"
+	"code":"OPDServices/Kolkata/ApolloGleneagles"
 	},{
 	"name":"Apollo Gleneagles Cancer Hospital",
 	"city":"Kolkata",
@@ -45,186 +45,186 @@
 	"name":"Apollo Hospitals, Greams Road, Chennai",
 	"city":"Chennai",
 	"locality":"Greams Road",
-	"code":"ApolloGreamsRoad"
+	"code":"OPDServices/Chennai/ApolloGreamsRoad"
 	},{
 	"name":"Belle Vue Clinic",
 	"city":"Kolkata",
 	"locality":"Minto Park",
-	"code":"BelleVue"
+	"code":"OPDServices/Kolkata/BelleVue"
 	},{
 	"name":"Bhagirathi Neotia Woman & Child Care Centre",
 	"city":"Kolkata",
 	"locality":"Park Street",
-	"code":"BhagirathiNeotia"
+	"code":"OPDServices/Kolkata/BhagirathiNeotia"
 	},{
 	"name":"Calcutta Medical Research Institute (CMRI)",
 	"city":"Kolkata",
 	"locality":"New Alipore",
-	"code":"CalcuttaMedical"
+	"code":"OPDServices/Kolkata/CalcuttaMedical"
 	},{
 	"name":"Charnock Hospital",
 	"city":"Kolkata",
 	"locality":"Tegharia",
-	"code":"Charnock"
+	"code":"OPDServices/Kolkata/Charnock"
 	},{
 	"name":"Chittaranjan National Cancer Institute",
 	"city":"Kolkata",
 	"locality":"Kalighat",
-	"code":"ChittaranjanNationalCancer"
+	"code":"OPDServices/Kolkata/ChittaranjanNationalCancer"
 	},{
 	"name":"Columbia Asia Hospital",
 	"city":"Kolkata",
 	"locality":"Salt Lake",
-	"code":"ColumbiaAsia"
+	"code":"OPDServices/Kolkata/ColumbiaAsia"
 	},{
 	"name":"DESUN Hospital And Heart Institute",
 	"city":"Kolkata",
 	"locality":"Ruby More",
-	"code":"DESUN"
+	"code":"OPDServices/Kolkata/DESUN"
 	},{
 	"name":"Desun Hospital, Siliguri",
 	"city":"Siliguri",
 	"locality":"Kawakhali",
-	"code":"DesunSiliguri"
+	"code":"OPDServices/Siliguri/DesunSiliguri"
 	},{
 	"name":"Fortis Hospital, Anandapur",
 	"city":"Kolkata",
 	"locality":"Anandapur",
-	"code":"FortisAnandapur"
+	"code":"OPDServices/Kolkata/FortisAnandapur"
 	},{
 	"name":"Fortis Hospital & Kidney Institute",
 	"city":"Kolkata",
 	"locality":"Gariahat",
-	"code":"FortisKidneyInstitute"
+	"code":"OPDServices/Kolkata/FortisKidneyInstitute"
 	},{
 	"name":"Fortis Medical Centre",
 	"city":"Kolkata",
 	"locality":"Minto Park",
-	"code":"FortisMedicalCentre"
+	"code":"OPDServices/Kolkata/FortisMedicalCentre"
 	},{
 	"name":"GD Hospital & Diabetes Institute",
 	"city":"Kolkata",
 	"locality":"Bowbazar",
-	"code":"GDHospitalDiabetes"
+	"code":"OPDServices/Kolkata/GDHospitalDiabetes"
 	},{
 	"name":"ILS Hospitals, Dumdum",
 	"city":"Kolkata",
 	"locality":"Dumdum",
-	"code":"ILSDumdum"
+	"code":"OPDServices/Kolkata/ILSDumdum"
 	},{
 	"name":"ILS Hospitals, Salt Lake",
 	"city":"Kolkata",
 	"locality":"Salt Lake",
-	"code":"ILSSaltLake"
+	"code":"OPDServices/Kolkata/ILSSaltLake"
 	},{
 	"name":"Institute of Post Graduate Medical Education & Research (IPGMER)/(PG)",
 	"city":"Kolkata",
 	"locality":"Bhowanipore",
-	"code":"IPGMER"
+	"code":"OPDServices/Kolkata/IPGMER"
 	},{
 	"name":"IRIS Multispeciality Hospital",
 	"city":"Kolkata",
 	"locality":"Ganguly Bagan",
-	"code":"IRISMultispeciality"
+	"code":"OPDServices/Kolkata/IRISMultispeciality"
 	},{
 	"name":"Jeevan Rekha Diagnostic, Raiganj",
 	"city":"Raiganj",
 	"locality":"Ukilpara",
-	"code":"JeevanRekhaRaiganj"
+	"code":"OPDServices/Raiganj/JeevanRekha"
 	},{
 	"name":"Kothari Medical Centre",
 	"city":"Kolkata",
 	"locality":"Alipore",
-	"code":"Kothari"
+	"code":"OPDServices/Kolkata/Kothari"
 	},{
 	"name":"Medica Superspecialty Hospital",
 	"city":"Kolkata",
 	"locality":"Mukundapur",
-	"code":"Medica"
+	"code":"OPDServices/Kolkata/Medica"
 	},{
 	"name":"Narayana Multispeciality Hospital, Barasat",
 	"city":"Kolkata",
 	"locality":"Barasat",
-	"code":"NarayanaBarasat"
+	"code":"OPDServices/Kolkata/NarayanaBarasat"
 	},{
 	"name":"Narayana Multispeciality Hospital, Howrah (Chunabati)",
 	"city":"Howrah",
 	"locality":"Chunabati",
-	"code":"NarayanaMultispecialityHowrah"
+	"code":"OPDServices/Howrah/NarayanaMultispeciality"
 	},{
 	"name":"Narayana Superspeciality Hospital, Howrah (Nabanna)",
 	"city":"Howrah",
 	"locality":"Nabanna",
-	"code":"NarayanaSuperspecialityHowrah"
+	"code":"OPDServices/Howrah/NarayanaSuperspeciality"
 	},{
 	"name":"Nightingale Hospital",
 	"city":"Kolkata",
 	"locality":"Park Street",
-	"code":"Nightingale"
+	"code":"OPDServices/Kolkata/Nightingale"
 	},{
 	"name":"Nil Ratan Sircar Medical College & Hospital (NRS)",
 	"city":"Kolkata",
 	"locality":"Raja Bazar",
-	"code":"NRS"
+	"code":"OPDServices/Kolkata/NRS"
 	},{
 	"name":"Peerless Hospital",
 	"city":"Kolkata",
 	"locality":"Pancha Sayar",
-	"code":"Peerless"
+	"code":"OPDServices/Kolkata/Peerless"
 	},{
 	"name":"Priyamvada Birla Aravind Eye Hospital",
 	"city":"Kolkata",
 	"locality":"Minto Park",
-	"code":"PriyamvadaBirlaAravindEye"
+	"code":"OPDServices/Kolkata/PriyamvadaBirlaAravindEye"
 	},{
 	"name":"Rabindranath Tagore International Institute of Cardiac Sciences",
 	"city":"Kolkata",
 	"locality":"Mukundapur",
-	"code":"RabindranathTagoreCardiacSciences"
+	"code":"OPDServices/Kolkata/RabindranathTagoreCardiacSciences"
 	},{
 	"name":"R. G. Kar Medical College & Hospital",
 	"city":"Kolkata",
 	"locality":"Shyam Bazar",
-	"code":"RGKar"
+	"code":"OPDServices/Kolkata/RGKar"
 	},{
 	"name":"Rotary Narayana Eye Hospital, Salt Lake",
 	"city":"Kolkata",
 	"locality":"Salt Lake",
-	"code":"RotaryNarayanaEye"
+	"code":"OPDServices/Kolkata/RotaryNarayanaEye"
 	},{
 	"name":"Ruby General Hospital",
 	"city":"Kolkata",
 	"locality":"Ruby More",
-	"code":"RubyGeneral"
+	"code":"OPDServices/Kolkata/RubyGeneral"
 	},{
 	"name":"Saroj Gupta Cancer Centre & Research Institute",
 	"city":"Kolkata",
 	"locality":"Thakurpukur",
-	"code":"SarojGupta"
+	"code":"OPDServices/Kolkata/SarojGupta"
 	},{
 	"name":"Sri Aurobindo Seva Kendra (EDF)",
 	"city":"Kolkata",
 	"locality":"Jodhpur Park",
-	"code":"EDF"
+	"code":"OPDServices/Kolkata/EDF"
 	},{
 	"name":"Susrut Eye Foundation & Research Centre",
 	"city":"Kolkata",
 	"locality":"Salt Lake",
-	"code":"SusrutSaltlake"
+	"code":"OPDServices/Kolkata/SusrutSaltlake"
 	},{
 	"name":"Tata Medical Center",
 	"city":"Kolkata",
 	"locality":"New Town",
-	"code":"TataMedical"
+	"code":"OPDServices/Kolkata/TataMedical"
 	},{
 	"name":"The Mission Hospital, Durgapur",
 	"city":"Durgapur",
 	"locality":"Bidhannagar",
-	"code":"TheMissionDurgapur"
+	"code":"OPDServices/Durgapur/TheMissionHospital"
 	},{
 	"name":"Woodlands Hospital",
 	"city":"Kolkata",
 	"locality":"Alipore",
-	"code":"Woodlands"
+	"code":"OPDServices/Kolkata/Woodlands"
 	}]
 } 

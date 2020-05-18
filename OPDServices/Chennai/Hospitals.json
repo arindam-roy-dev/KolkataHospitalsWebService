@@ -2,12 +2,8 @@
 "app":"India Hospitals",
 "city":"Chennai",
 "hospitals":[{
-	"name":"",
-	"locality":"",
-	"code":""
-	},{
-	"name":"",
-	"locality":"",
-	"code":""
+	"name":"Apollo Hospitals, Greams Road",
+	"locality":"Greams Road",
+	"code":"ApolloGreamsRoad"
 	}]
 } 

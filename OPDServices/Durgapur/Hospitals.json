@@ -2,12 +2,8 @@
 "app":"India Hospitals",
 "city":"Durgapur",
 "hospitals":[{
-	"name":"",
-	"locality":"",
-	"code":""
-	},{
-	"name":"",
-	"locality":"",
-	"code":""
+	"name":"The Mission Hospital, Durgapur",
+	"locality":"Bidhannagar",
+	"code":"TheMissionHospital"
 	}]
 } 
