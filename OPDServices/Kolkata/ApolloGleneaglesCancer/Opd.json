@@ -1,0 +1,96 @@
+﻿{
+  "name" : "Apollo Gleneagles Cancer Hospital",
+  "specialties" : [ {
+    "name" : "Haemato Oncology",
+    "schedules" : [ {
+      "doctor" : "Shilpa Bhartia",
+      "degree" : "MBBS, MRCP, FRCPath",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Thu: 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Soumya Bhattacharya",
+      "degree" : "MD (Med), MRCP (UK), DRCPath, MRCPath (UK), FRCPath (UK) CCST (Hematology, UK)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Mon to Sat: 03:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Amit Dutt Dwary",
+      "degree" : "MBBS, MD (Medicine), DM (Medical Oncology)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Tue: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Indranil Ghosh",
+      "degree" : "MBBS, MD (AIIMS, New Delhi), DM (Medical Oncology) (AIIMS, European Certificate of Medical Oncology) (ECMO)",
+      "language" : "English, বাংলা",
+      "schedule" : "Wed: 12:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Radiation Oncology",
+    "schedules" : [ {
+      "doctor" : "Akhter Jawade",
+      "degree" : "MBBS, MD",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM,\n12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Arundhati Chakraborty",
+      "degree" : "MBBS, MD (Radiotherapy), PG Dip. in Palliative Medicine (UK)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Wed: 03:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Jibak Bhattacharya",
+      "degree" : "MBBS, MD (Radiotherapy)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Litan Naha Biswas",
+      "degree" : "MD (Radiotherapy)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Mon: 12:00 PM - 03:00 PM\nTue to Sat: 01:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Shila Mitra",
+      "degree" : "MBBS, DO (Diploma in Ophthalmology), MD (Radiotherapy)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Thu: 12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Suchanda Goswami",
+      "degree" : "MBBS, DMRT, MD",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Mon, Tue, Fri: 12:00 PM - 03:00 PM\nWed: 11:00 AM - 12:00 PM,\n12:00 PM - 03:00 PM\nThu: 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Tanmoy Mukhopadhyay",
+      "degree" : "MBBS, DCH, MD (Medicine), MRCP (UK), FRCP (Edin), FRCR (UK), CCT (Clinical Oncology, UK)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Fri: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Tanweer Shahid",
+      "degree" : "MBBS, DNB (Radiation Oncology)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Wed: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Animesh Saha",
+      "degree" : "MBBS, MD (Radiation Oncology), DNB (Radiation Oncology), MNAMS, PDCR, FRCR (London), CESR (UK) (Ex - Consultant Leeds Cancer Center, UK)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM,\n12:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Nipun Saha",
+      "degree" : "MBBS (Hons), DGO, MS (ORL & Head & Neck Surgery)",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM,\n12:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Shaikat Gupta",
+      "degree" : "MS, FRCS Ed",
+      "language" : "English, বাংলা, हिंदी",
+      "schedule" : "Tue, Thu: 12:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Suvadip Chakrabarti",
+      "degree" : "MCh (Surgical Oncology), MS (General Surgery), FAIS",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    } ]
+  } ]
+}

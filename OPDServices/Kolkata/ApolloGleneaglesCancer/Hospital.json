@@ -1,0 +1,27 @@
+{
+"name":"Apollo Gleneagles Cancer Hospital",
+"code":"ApolloGleneaglesCancer",
+"address":"51, Kadapara, Phool Bagan, Kankurgachi, Kolkata, West Bengal 700054",
+"geoLocation":"22.5756777,88.4012345?q=Apollo+Gleneagles+cancer+hospital",
+"emails":"info@apollohospitals.com,hospital@apollogleneagles.in,ips_kol@apollohospitals.com,corp_aghl@apollohospitals.com",
+"websites":"https://www.apollogleneagles.in",
+"faxNumbers":"03323205184,03323200334,03323205184",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"General Patient Inquiry",
+	"phoneNumbers":"03323203040,03323202122,03344202122",
+	"isOpd":true
+	},{
+	"name":"24 Hours Emergency",
+	"phoneNumbers":"03344202122"
+	},{
+	"name":"International Patient Inquiry",
+	"phoneNumbers":"3323203040,03323202122"
+	},{
+	"name":"Corporate Patient Inquiry",
+	"phoneNumbers":"03323203040"
+	},{
+	"name":"Public Relations & Branding",
+	"phoneNumbers":"03323203040,03344202011"
+	}]
+}

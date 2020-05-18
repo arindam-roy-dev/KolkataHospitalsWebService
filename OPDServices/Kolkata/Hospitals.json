@@ -2,12 +2,8 @@
 "app":"India Hospitals",
 "city":"Kolkata",
 "hospitals":[{
-	"name":"",
-	"locality":"",
-	"code":""
-	},{
-	"name":"",
-	"locality":"",
-	"code":""
+	"name":"Apollo Gleneagles Cancer Hospital",
+	"locality":"Kankurgachi",
+	"code":"ApolloGleneaglesCancer"
 	}]
 } 
