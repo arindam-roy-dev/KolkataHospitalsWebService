@@ -40,7 +40,7 @@
 	"name":"Apollo Gleneagles Cancer Hospital",
 	"city":"Kolkata",
 	"locality":"Kankurgachi",
-	"code":"OPDServices\Kolkata\ApolloGleneaglesCancer"
+	"code":"OPDServices/Kolkata/ApolloGleneaglesCancer"
 	},{
 	"name":"Apollo Hospitals, Greams Road, Chennai",
 	"city":"Chennai",
