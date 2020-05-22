@@ -16,5 +16,8 @@
 "messagesAlways":[{
 	"appVersion":"1.5",
 	"message":"Hospitals\' OPD service may not be operational due to Coronavirus Pandemic.\nPlease call hospitals from this app, for current operational status.\n\nPlease stay home and save lives."
+	},{
+	"appVersion":"1.6",
+	"message":"Hospitals\' OPD service may not be operational due to Coronavirus Pandemic.\nPlease call hospitals from this app, for current operational status.\n\nPlease stay home and save lives."
 	}]
 }
