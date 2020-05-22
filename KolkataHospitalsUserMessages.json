@@ -1,40 +1,19 @@
 {
 "app":"Kolkata Hospitals",
+"messagesSample":[{
+	"id":10001,
+	"appVersion":"1.5",
+	"androidMajorVersion":"6",
+	"manufacturer":"Samsung",
+	"modelCode":"A20",
+	"country":"India",
+	"message":"This is a sample message"
+}],
 "messagesExit":[{
-	"appVersion":"",
-	"androidMajorVersion":"",
-	"manufacturer":"",
-	"modelCode":"",
-	"country":"",
-	"message":"Your App is not supported by your Android version 9"
 	}],
 "messagesOneTime":[{
-	"id":10001,
-	"appVersion":"",
-	"androidMajorVersion":"",
-	"manufacturer":"",
-	"modelCode":"",
-	"message":"More Questions has been added..Enjoy your app!!!"
 	}],
 "messagesAlways":[{
-	"appVersion":"",
-	"androidMajorVersion":"",
-	"manufacturer":"",
-	"modelCode":"",
-	"message":"New version of Kolkata Hospitals is available. Please update this from Play Store."
-	},{
-	"appVersion":"",
-	"androidMajorVersion":"",
-	"manufacturer":"",
-	"modelCode":"",
-	"message":"New version of Kolkata Hospitals is available. Please update this from Play Store."
-	},{
-	"appVersion":"",
-	"androidMajorVersion":"",
-	"manufacturer":"",
-	"modelCode":"",
-	"message":"New version of Kolkata Hospitals is available. Please update this from Play Store App."
-	},{
 	"appVersion":"1.5",
 	"message":"Hospitals\' OPD service may not be operational due to Coronavirus Pandemic.\nPlease call hospitals from this app, for current operational status.\n\nPlease stay home and save lives."
 	}]
