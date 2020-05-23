@@ -2,14 +2,32 @@
 "app":"India Hospitals",
 "cities":[{
 	"name":"Bangalore",
+	"state":"Karnataka"
+	},{
 	"name":"Chennai",
+	"state":"Tamil Nadu"
+	},{
 	"name":"Delhi",
+	"state":"Delhi"
+	},{
 	"name":"Durgapur",
+	"state":"West Bengal"
+	},{
 	"name":"Howrah",
+	"state":"West Bengal"
+	},{
 	"name":"Hyderabad",
+	"state":"Telangana"
+	},{
 	"name":"Kolkata",
+	"state":"West Bengal"
+	},{
 	"name":"Mumbai",
+	"state":"Maharashtra"
+	},{
 	"name":"Raiganj",
-	"name":"Siliguri"
+	},{
+	"name":"Siliguri",
+	"state":"West Bengal"
 	}]
 } 
