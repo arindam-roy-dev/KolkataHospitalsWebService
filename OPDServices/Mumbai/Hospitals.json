@@ -2,12 +2,5 @@
 "app":"India Hospitals",
 "city":"Mumbai",
 "hospitals":[{
-	"name":"",
-	"locality":"",
-	"code":""
-	},{
-	"name":"",
-	"locality":"",
-	"code":""
 	}]
 } 
