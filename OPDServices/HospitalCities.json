@@ -2,32 +2,43 @@
 "app":"India Hospitals",
 "cities":[{
 	"name":"Bangalore",
-	"state":"Karnataka"
+	"state":"Karnataka",
+	"localities":[]
 	},{
 	"name":"Chennai",
-	"state":"Tamil Nadu"
+	"state":"Tamil Nadu",
+	"localities":["Greams Road"]
 	},{
 	"name":"Delhi",
-	"state":"Delhi"
+	"state":"Delhi",
+	"localities":[]
 	},{
 	"name":"Durgapur",
-	"state":"West Bengal"
+	"state":"West Bengal",
+	"localities":["Bidhannagar"]
 	},{
 	"name":"Howrah",
-	"state":"West Bengal"
+	"state":"West Bengal",
+	"localities":["Chunabati","Nabanna"]
 	},{
 	"name":"Hyderabad",
-	"state":"Telangana"
+	"state":"Telangana",
+	"localities":[]
 	},{
 	"name":"Kolkata",
-	"state":"West Bengal"
+	"state":"West Bengal",
+	"localities":["Alipore","Anandapur","Barasat","Bhowanipore","Bowbazar","Dhakuria","Dumdum","Ganguly Bagan","Gariahat","Jodhpur Park","Kalighat","Kankurgachi","Minto Park","Mukundapur","New Alipore","New Town","Pancha Sayar","Park Street","Raja Bazar","Ruby More","Salt Lake","Shyam Bazar","Southern Avenue","Survey Park","Tegharia","Thakurpukur"]
 	},{
 	"name":"Mumbai",
-	"state":"Maharashtra"
+	"state":"Maharashtra",
+	"localities":[]
 	},{
-	"name":"Raiganj"
+	"name":"Raiganj",
+	"state":"West Bengal",
+	"localities":["Ukilpara"]
 	},{
 	"name":"Siliguri",
-	"state":"West Bengal"
+	"state":"West Bengal",
+	"localities":["Kawakhali"]
 	}]
 } 
