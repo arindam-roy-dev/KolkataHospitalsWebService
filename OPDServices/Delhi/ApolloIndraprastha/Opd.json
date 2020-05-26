@@ -1,5 +1,5 @@
 ﻿{
-  "name" : "Apollo Hospitals Delhi",
+  "name" : "Indraprastha Apollo Hospital",
   "specialties" : [ {
     "name" : "Bariatric",
     "schedules" : [ {
@@ -100,12 +100,12 @@
       "doctor" : "S K Gupta",
       "degree" : "MD, DM, DIP.NB (Cardiology), MNAMS, FICA (USA)",
       "language" : "English, हिंदी, தமிழ்",
-      "schedule" : "Mon: 12:00 PM - 02:30 PM\nTue, Thu: 02:00 PM - 06:00 PM\nWed: 12:00 PM - 12:30 PM\nFri: 12:00 PM - 04:00 PM\nSat: 02:00 PM - 03:30 PM,\n04:00 PM - 06:00 PM"
+      "schedule" : "Mon: 12:00 PM - 02:30 PM\nTue, Thu: 02:00 PM - 06:00 PM\nWed: 12:00 PM - 12:30 PM\nFri: 12:00 PM - 04:00 PM\nSat: 02:00 PM - 03:30 PM, 04:00 PM - 06:00 PM"
     }, {
       "doctor" : "Sunil Modi",
       "degree" : "MBBS (Hons.), MD (Medicine), DM (Cardiology)",
       "language" : "English, हिंदी, मराठी, ਪੰਜਾਬੀ",
-      "schedule" : "Mon, Wed, Fri: 11:00 AM - 01:00 PM\nTue, Thu: 01:30 PM - 01:45 PM,\n01:45 PM - 02:45 PM\nSat: 01:30 PM - 01:45 PM,\n01:45 PM - 02:00 PM"
+      "schedule" : "Mon, Wed, Fri: 11:00 AM - 01:00 PM\nTue, Thu: 01:30 PM - 01:45 PM, 01:45 PM - 02:45 PM\nSat: 01:30 PM - 01:45 PM, 01:45 PM - 02:00 PM"
     }, {
       "doctor" : "Vipul Narain Roy",
       "degree" : "MBBS, MD, MRCP (UK)",
@@ -187,7 +187,7 @@
       "doctor" : "Mohammad Asim Siddiqui",
       "degree" : "MRCP (Endocrinology & Diabetes), MD (Internal Medicine), MRCP (UK) (LONDON)",
       "language" : "English, हिंदी",
-      "schedule" : "Mon to Fri: 11:00 AM - 01:30 PM,\n03:00 PM - 04:00 PM\nSat: 11:00 AM - 01:30 PM"
+      "schedule" : "Mon to Fri: 11:00 AM - 01:30 PM, 03:00 PM - 04:00 PM\nSat: 11:00 AM - 01:30 PM"
     }, {
       "doctor" : "R P Singh",
       "degree" : "MBBS, MD (Medicine), DM (Endocrinology)",
@@ -308,7 +308,7 @@
       "doctor" : "Sunil Kaul",
       "degree" : "MBBS, MS, FELLOW in general minimal access surgery",
       "language" : "English, हिंदी",
-      "schedule" : "Mon, Tue: 09:30 AM - 01:45 PM,\n01:45 PM - 04:15 PM\nWed, Thu, Sat: 09:15 AM - 01:45 PM,\n01:45 PM - 04:15 PM\nFri: 09:15 AM - 01:45 PM,\n01:45 PM - 04:30 PM"
+      "schedule" : "Mon, Tue: 09:30 AM - 01:45 PM, 01:45 PM - 04:15 PM\nWed, Thu, Sat: 09:15 AM - 01:45 PM, 01:45 PM - 04:15 PM\nFri: 09:15 AM - 01:45 PM, 01:45 PM - 04:30 PM"
     }, {
       "doctor" : "Sushil Kumar Jain",
       "degree" : "MBBS, MS (Surgery)",
@@ -929,7 +929,7 @@
       "doctor" : "Deepa Sharma",
       "degree" : "MBBS, DCH, DNB",
       "language" : "English, हिंदी",
-      "schedule" : "Mon: 04:00 PM - 05:30 PM\nTue, Wed: 09:00 AM - 12:00 PM\nThu to Sat: 01:30 PM - 04:00 PM,\n12:00 PM - 01:30 PM"
+      "schedule" : "Mon: 04:00 PM - 05:30 PM\nTue, Wed: 09:00 AM - 12:00 PM\nThu to Sat: 01:30 PM - 04:00 PM, 12:00 PM - 01:30 PM"
     }, {
       "doctor" : "Prem Narayan Dubey",
       "degree" : "MBBS, MD (Paediatrics)",
