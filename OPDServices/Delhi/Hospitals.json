@@ -1,6 +1,9 @@
 {
 "app":"India Hospitals",
 "city":"Delhi",
-"hospitals":[
-	]
+"hospitals":[{
+	"name":"Indraprastha Apollo Hospital",
+	"locality":"Sarita Vihar",
+	"code":"ApolloIndraprastha"
+	}]
 } 
