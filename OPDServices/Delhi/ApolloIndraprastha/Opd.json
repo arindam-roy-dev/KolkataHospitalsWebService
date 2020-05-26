@@ -1,12 +1,12 @@
 ﻿{
-  "name" : "Indraprastha Apollo Hospital",
+  "name" : "Apollo Hospitals Delhi",
   "specialties" : [ {
     "name" : "Bariatric",
     "schedules" : [ {
       "doctor" : "Aloy Jyoti Mukherjee",
       "degree" : "MBBS, MS",
       "language" : "English, हिंदी",
-      "schedule" : "Mon: 04:00 PM - 07:00 PM\nTue: 09:00 AM - 12:00 PM\nWed, Fri: 01:30 PM - 04:00 PM,\n12:00 PM - 01:30 PM\nThu: 02:00 PM - 04:00 PM\nSat: 09:00 AM - 12:00 PM,\n04:00 PM - 07:00 PM"
+      "schedule" : "Mon: 04:00 PM - 07:00 PM\nTue: 09:00 AM - 12:00 PM\nWed, Fri: 01:30 PM - 04:00 PM, 12:00 PM - 01:30 PM\nThu: 02:00 PM - 04:00 PM\nSat: 09:00 AM - 12:00 PM, 04:00 PM - 07:00 PM"
     } ]
   }, {
     "name" : "Bone Marrow Transplant",
@@ -32,7 +32,7 @@
       "doctor" : "Mukesh Goel",
       "degree" : "MBBS, MS, MCh",
       "language" : "English, हिंदी",
-      "schedule" : "Mon to Sat: 11:00 AM - 01:45 PM,\n01:45 PM - 04:15 PM"
+      "schedule" : "Mon to Sat: 11:00 AM - 01:45 PM, 01:45 PM - 04:15 PM"
     } ]
   }, {
     "name" : "Cardiology",
@@ -133,7 +133,7 @@
       "doctor" : "Neeraj Verma",
       "degree" : "BDS, MDS, ADV.C. (Orthodontics), Dental Implants",
       "language" : "English, हिंदी",
-      "schedule" : "Mon: 10:00 AM - 11:30 AM\nTue, Fri: 10:00 AM - 11:30 AM,\n12:00 PM - 03:45 PM\nWed, Thu, Sat: 10:00 AM - 11:30 AM,\n12:00 PM - 04:30 PM"
+      "schedule" : "Mon: 10:00 AM - 11:30 AM\nTue, Fri: 10:00 AM - 11:30 AM, 12:00 PM - 03:45 PM\nWed, Thu, Sat: 10:00 AM - 11:30 AM, 12:00 PM - 04:30 PM"
     }, {
       "doctor" : "Sanju Lall",
       "degree" : "MDS, BDS",
@@ -283,7 +283,7 @@
       "doctor" : "B M L Kapoor",
       "degree" : "MBBS, MS, FRCS, FAMS",
       "language" : "English, हिंदी",
-      "schedule" : "Mon, Fri: 10:00 AM - 12:00 PM\nThu: 02:00 AM - 04:00 AM,\n12:00 PM - 04:00 PM"
+      "schedule" : "Mon, Fri: 10:00 AM - 12:00 PM\nThu: 02:00 AM - 04:00 AM, 12:00 PM - 04:00 PM"
     }, {
       "doctor" : "Har Prakash Garg",
       "degree" : "MBBS, MS",
@@ -293,7 +293,7 @@
       "doctor" : "Praveen Sodhi",
       "degree" : "MBBS, MS (Laproscopic, Gastroenterology, Anorectal & Breast Surgery)",
       "language" : "English, हिंदी",
-      "schedule" : "Mon, Sat: 01:30 PM - 04:00 PM,\n12:00 PM - 01:30 PM\nTue, Fri: 04:00 PM - 07:00 PM\nWed: 09:00 AM - 12:00 PM\nThu: 09:00 AM - 10:00 AM,\n04:00 PM - 07:00 PM"
+      "schedule" : "Mon, Sat: 01:30 PM - 04:00 PM, 12:00 PM - 01:30 PM\nTue, Fri: 04:00 PM - 07:00 PM\nWed: 09:00 AM - 12:00 PM\nThu: 09:00 AM - 10:00 AM, 04:00 PM - 07:00 PM"
     }, {
       "doctor" : "Rekha Jaiswal",
       "degree" : "MBBS, MS (General Surgery), FIAGES, FMAS, FALS (Bariatric), DMAS and Robotic (de Vinci)",
@@ -313,7 +313,7 @@
       "doctor" : "Sushil Kumar Jain",
       "degree" : "MBBS, MS (Surgery)",
       "language" : "English, हिंदी",
-      "schedule" : "Mon: 04:00 AM - 07:00 AM,\n04:00 PM - 06:00 PM\nTue, Thu, Sat: 12:00 PM - 04:00 PM\nWed, Fri: 08:00 AM - 12:00 PM"
+      "schedule" : "Mon: 04:00 AM - 07:00 AM, 04:00 PM - 06:00 PM\nTue, Thu, Sat: 12:00 PM - 04:00 PM\nWed, Fri: 08:00 AM - 12:00 PM"
     } ]
   }, {
     "name" : "Bariatric Surgery",
@@ -334,7 +334,7 @@
       "doctor" : "Om Prakash Sharma",
       "degree" : "MD",
       "language" : "English, हिंदी, ਪੰਜਾਬੀ",
-      "schedule" : "Mon to Sat: 10:00 AM - 01:45 PM,\n01:45 PM - 02:00 PM"
+      "schedule" : "Mon to Sat: 10:00 AM - 01:45 PM, 01:45 PM - 02:00 PM"
     } ]
   }, {
     "name" : "Gynec Oncology",
@@ -378,7 +378,7 @@
       "doctor" : "Jasvinder Paintal",
       "degree" : "MBBS, Diplomate In Internal Medcine",
       "language" : "English",
-      "schedule" : "Mon, Wed, Thu, Sat: 01:00 PM - 01:30 PM,\n01:30 PM - 02:30 PM\nFri: 01:00 PM - 01:30 PM,\n01:30 PM - 02:00 PM"
+      "schedule" : "Mon, Wed, Thu, Sat: 01:00 PM - 01:30 PM, 01:30 PM - 02:30 PM\nFri: 01:00 PM - 01:30 PM, 01:30 PM - 02:00 PM"
     }, {
       "doctor" : "Kamal Ahmad",
       "degree" : "MBBS, MD (Medicine)",
@@ -393,7 +393,7 @@
       "doctor" : "M S Chaudhary",
       "degree" : "MBBS, MD (Medicine)",
       "language" : "English, हिंदी",
-      "schedule" : "Mon to Sat: 09:00 AM - 10:00 AM,\n04:00 PM - 06:00 PM"
+      "schedule" : "Mon to Sat: 09:00 AM - 10:00 AM, 04:00 PM - 06:00 PM"
     }, {
       "doctor" : "Rakesh Gupta",
       "degree" : "MBBS, MD (Medicine), FIACM",
@@ -408,7 +408,7 @@
       "doctor" : "S Chatterjee",
       "degree" : "MBBS, MD (Medicine)",
       "language" : "English, বাংলা, हिंदी",
-      "schedule" : "Mon to Sat: 01:00 PM - 01:30 PM,\n01:30 PM - 04:00 PM"
+      "schedule" : "Mon to Sat: 01:00 PM - 01:30 PM, 01:30 PM - 04:00 PM"
     }, {
       "doctor" : "S K Agarwal",
       "degree" : "MD, MNAMS, FICP",
@@ -437,7 +437,7 @@
       "doctor" : "Narendra Nath Khanna",
       "degree" : "MD, DM, MNAMS, FACC (USA), FSCAI (USA), FCCP (USA), FESC, FAPSIC, FIMSA, FEISI, FICC",
       "language" : "English, français, हिंदी",
-      "schedule" : "Mon, Wed, Fri: 01:00 PM - 01:45 PM,\n01:45 PM - 05:00 PM\nTue, Thu, Sat: 09:00 AM - 01:00 PM"
+      "schedule" : "Mon, Wed, Fri: 01:00 PM - 01:45 PM, 01:45 PM - 05:00 PM\nTue, Thu, Sat: 09:00 AM - 01:00 PM"
     } ]
   }, {
     "name" : "Liver",
@@ -453,7 +453,7 @@
       "doctor" : "Amitabha Dutta",
       "degree" : "MBBS, FRCP",
       "language" : "English, हिंदी",
-      "schedule" : "Mon to Wed: 12:00 PM - 02:00 PM\nThu, Fri: 03:00 PM - 05:00 PM\nSat: 03:00 PM - 03:45 PM,\n04:00 PM - 05:00 PM"
+      "schedule" : "Mon to Wed: 12:00 PM - 02:00 PM\nThu, Fri: 03:00 PM - 05:00 PM\nSat: 03:00 PM - 03:45 PM, 04:00 PM - 05:00 PM"
     }, {
       "doctor" : "D K Bhargava",
       "degree" : "MD, PHD, FACG, AGAF",
@@ -473,7 +473,7 @@
       "doctor" : "Sanjay Jain",
       "degree" : "MBBS, MD, MRCP (UK), FRCP (LONDON), FRCP (GLASGOW)",
       "language" : "English, हिंदी",
-      "schedule" : "Mon: 04:00 PM - 05:00 PM,\n12:30 PM - 02:30 PM\nTue, Thu: 02:30 PM - 05:00 PM\nWed, Fri: 10:30 AM - 12:00 PM,\n04:00 PM - 05:00 PM\nSat: 01:00 PM - 02:30 PM,\n04:00 PM - 05:00 PM"
+      "schedule" : "Mon: 04:00 PM - 05:00 PM, 12:30 PM - 02:30 PM\nTue, Thu: 02:30 PM - 05:00 PM\nWed, Fri: 10:30 AM - 12:00 PM, 04:00 PM - 05:00 PM\nSat: 01:00 PM - 02:30 PM, 04:00 PM - 05:00 PM"
     }, {
       "doctor" : "Sanjay Sikka",
       "degree" : "MBBS, MD (Med), FACG (USA)",
@@ -562,7 +562,7 @@
       "doctor" : "Jayant Kumar Hota",
       "degree" : "MBBS, MD, DM (Nephrology)",
       "language" : "English, हिंदी, ਪੰਜਾਬੀ",
-      "schedule" : "Mon: 10:00 AM - 12:00 PM\nTue, Thu: 04:00 PM - 06:00 PM\nWed, Sat: 01:45 PM - 04:00 PM,\n12:00 PM - 01:45 PM\nFri: 01:30 PM - 04:00 PM,\n12:00 PM - 01:30 PM"
+      "schedule" : "Mon: 10:00 AM - 12:00 PM\nTue, Thu: 04:00 PM - 06:00 PM\nWed, Sat: 01:45 PM - 04:00 PM, 12:00 PM - 01:45 PM\nFri: 01:30 PM - 04:00 PM, 12:00 PM - 01:30 PM"
     }, {
       "doctor" : "Kailash Nath Singh",
       "degree" : "MBBS, MD, , DNB",
@@ -686,7 +686,7 @@
       "doctor" : "Puneet Bedi",
       "degree" : "MBBS, MD",
       "language" : "English, हिंदी, ਪੰਜਾਬੀ",
-      "schedule" : "Mon, Sat: 02:00 PM - 06:00 PM\nTue: 04:00 PM - 06:00 PM\nWed: 09:00 AM - 12:00 PM\nThu: 01:30 PM - 04:00 PM,\n12:00 PM - 01:30 PM\nFri: 10:00 AM - 01:30 PM,\n01:30 PM - 02:00 PM"
+      "schedule" : "Mon, Sat: 02:00 PM - 06:00 PM\nTue: 04:00 PM - 06:00 PM\nWed: 09:00 AM - 12:00 PM\nThu: 01:30 PM - 04:00 PM, 12:00 PM - 01:30 PM\nFri: 10:00 AM - 01:30 PM, 01:30 PM - 02:00 PM"
     }, {
       "doctor" : "Ranjana Sharma",
       "degree" : "MBBS, MS, MRCOG (UK), FROG (UK), MFFP (UK), FICOG, PG Cert in Med Edu",
@@ -803,7 +803,7 @@
       "doctor" : "Yashwanth Singh Tanwar",
       "degree" : "MBBS, MS (Orthopaedic), DNB (Orthopaedic)",
       "language" : "English, हिंदी",
-      "schedule" : "Tue: 09:00 AM - 12:00 PM\nWed, Sat: 01:30 PM - 04:00 PM,\n12:00 PM - 01:30 PM\nThu: 04:00 PM - 08:00 PM\nFri: 08:00 AM - 12:00 PM"
+      "schedule" : "Tue: 09:00 AM - 12:00 PM\nWed, Sat: 01:30 PM - 04:00 PM, 12:00 PM - 01:30 PM\nThu: 04:00 PM - 08:00 PM\nFri: 08:00 AM - 12:00 PM"
     }, {
       "doctor" : "Yatinder Kharbanda",
       "degree" : "MBBS, MS, Dip.Orth, DNB",
@@ -866,7 +866,7 @@
       "doctor" : "Nameet Jerath",
       "degree" : "MBBS, MD, FIMSA, FIAP, FRCP (Glasgow)",
       "language" : "English, हिंदी, ਪੰਜਾਬੀ",
-      "schedule" : "Mon to Fri: 10:00 AM - 01:45 PM,\n01:45 PM - 02:00 PM\nSat: 10:00 AM - 12:00 PM"
+      "schedule" : "Mon to Fri: 10:00 AM - 01:45 PM, 01:45 PM - 02:00 PM\nSat: 10:00 AM - 12:00 PM"
     } ]
   }, {
     "name" : "Paediatric Nephrology",
@@ -895,12 +895,12 @@
       "doctor" : "Amita Mahajan",
       "degree" : "MBBS, MD, MRCP",
       "language" : "English, हिंदी",
-      "schedule" : "Mon: 12:00 PM - 02:15 PM\nTue: 01:00 PM - 02:45 PM,\n12:00 PM - 12:30 PM\nWed: 01:00 PM - 01:30 PM,\n12:00 PM - 12:15 PM\nThu: 01:00 PM - 02:15 PM,\n12:00 PM - 12:30 PM\nFri: 12:00 PM - 04:00 PM\nSat: 01:00 PM - 03:00 PM,\n12:00 PM - 12:30 PM"
+      "schedule" : "Mon: 12:00 PM - 02:15 PM\nTue: 01:00 PM - 02:45 PM, 12:00 PM - 12:30 PM\nWed: 01:00 PM - 01:30 PM, 12:00 PM - 12:15 PM\nThu: 01:00 PM - 02:15 PM, 12:00 PM - 12:30 PM\nFri: 12:00 PM - 04:00 PM\nSat: 01:00 PM - 03:00 PM, 12:00 PM - 12:30 PM"
     }, {
       "doctor" : "Gaurav Kharya",
       "degree" : "MBBS (Jabalpur, MP, India), DCH (UP, India), DNB (Pediatrics) (New Delhi), Fellowship Pediatric Hematology -Oncology and Bone Marrow Transplant (New Delhi, India), Fellowship in Pediatric Hematology - Oncology and Bone Marrow Transplant (UK), Fellowship in Pediatric Hematology & Bone Marrow Transplan (London UK)",
       "language" : "English, हिंदी",
-      "schedule" : "Mon to Sat: 10:00 AM - 01:45 PM,\n01:45 PM - 03:00 PM"
+      "schedule" : "Mon to Sat: 10:00 AM - 01:45 PM, 01:45 PM - 03:00 PM"
     } ]
   }, {
     "name" : "Paediatric Orthopaedic",
@@ -947,7 +947,7 @@
       "doctor" : "Reetesh Gupta",
       "degree" : "MBBS, MD",
       "language" : "English, हिंदी",
-      "schedule" : "Mon, Tue, Thu, Fri: 09:00 AM - 01:45 PM,\n01:45 PM - 05:00 PM\nWed: 09:30 AM - 01:45 PM,\n01:45 PM - 05:00 PM\nSat: 09:00 AM - 01:45 PM,\n01:45 PM - 04:30 PM"
+      "schedule" : "Mon, Tue, Thu, Fri: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM\nWed: 09:30 AM - 01:45 PM, 01:45 PM - 05:00 PM\nSat: 09:00 AM - 01:45 PM, 01:45 PM - 04:30 PM"
     } ]
   }, {
     "name" : "Plastic Surgery",
@@ -960,7 +960,7 @@
       "doctor" : "Shahin Nooreyezdan",
       "degree" : "MBBS, MS, MCh (Plastic Surgery)",
       "language" : "English, हिंदी",
-      "schedule" : "Mon to Sat: 10:00 AM - 01:30 PM,\n01:30 PM - 02:00 PM"
+      "schedule" : "Mon to Sat: 10:00 AM - 01:30 PM, 01:30 PM - 02:00 PM"
     }, {
       "doctor" : "Anup Dhir",
       "degree" : "MBBS, MS, MCh (Plastic & Reconstructive Surgery), FECSM, Board Certified Plastic And Cosmetic Surgeon",
@@ -988,12 +988,12 @@
       "doctor" : "Achal Bhagat",
       "degree" : "MBBS, MD, MRCP",
       "language" : "English, हिंदी",
-      "schedule" : "Mon: 10:00 AM - 01:30 PM,\n01:30 PM - 02:00 PM\nWed: 10:00 AM - 01:30 PM,\n01:30 PM - 03:00 PM\nFri: 11:00 AM - 01:30 PM,\n01:30 PM - 03:00 PM"
+      "schedule" : "Mon: 10:00 AM - 01:30 PM, 01:30 PM - 02:00 PM\nWed: 10:00 AM - 01:30 PM, 01:30 PM - 03:00 PM\nFri: 11:00 AM - 01:30 PM, 01:30 PM - 03:00 PM"
     }, {
       "doctor" : "Monica Chib",
       "degree" : "MBBS, MD (Psychiatry)",
       "language" : "English",
-      "schedule" : "Mon, Tue, Thu: 02:00 PM - 03:00 PM,\n04:30 PM - 06:30 PM\nWed, Sat: 04:30 PM - 06:30 PM\nFri: 11:00 AM - 12:00 PM,\n04:30 PM - 06:30 PM"
+      "schedule" : "Mon, Tue, Thu: 02:00 PM - 03:00 PM, 04:30 PM - 06:30 PM\nWed, Sat: 04:30 PM - 06:30 PM\nFri: 11:00 AM - 12:00 PM, 04:30 PM - 06:30 PM"
     }, {
       "doctor" : "Neatu Narang",
       "degree" : "MBBS, MD (Psychiatry), DNB (Psychiatry)",
@@ -1011,7 +1011,7 @@
       "doctor" : "Ekta Soni Puri",
       "degree" : "MA (Applied Psychology), PG Diploma (Clinical Psychology)",
       "language" : "English",
-      "schedule" : "Mon: 06:00 PM - 07:00 PM\nTue: 11:00 AM - 01:30 PM,\n01:30 PM - 02:00 PM\nWed to Fri: 02:00 PM - 04:00 PM\nSat: 04:00 PM - 06:00 PM"
+      "schedule" : "Mon: 06:00 PM - 07:00 PM\nTue: 11:00 AM - 01:30 PM, 01:30 PM - 02:00 PM\nWed to Fri: 02:00 PM - 04:00 PM\nSat: 04:00 PM - 06:00 PM"
     }, {
       "doctor" : "Rakhi Anand",
       "degree" : "Ph.D (Clinical Psychology)",
@@ -1062,17 +1062,17 @@
       "doctor" : "S N Mehta",
       "degree" : "MBBS, MS, FRCS",
       "language" : "English, हिंदी",
-      "schedule" : "Tue: 01:45 PM - 04:00 PM,\n12:00 PM - 01:45 PM\nThu: 10:00 AM - 01:45 PM"
+      "schedule" : "Tue: 01:45 PM - 04:00 PM, 12:00 PM - 01:45 PM\nThu: 10:00 AM - 01:45 PM"
     }, {
       "doctor" : "Sandeep Guleria",
       "degree" : "MBBS, MS, DNB, FRCS (Eng) FRCS (Ed), FRCS (Glas), FRCP (Edin), MNAMS",
       "language" : "English, हिंदी",
-      "schedule" : "Mon to Thu: 01:00 PM - 01:45 PM,\n01:45 PM - 04:00 PM"
+      "schedule" : "Mon to Thu: 01:00 PM - 01:45 PM, 01:45 PM - 04:00 PM"
     }, {
       "doctor" : "Vijaya Raja Kumari",
       "degree" : "MBBS, MS, DNB, FRCS",
       "language" : "English, हिंदी, தமிழ்",
-      "schedule" : "Mon, Tue: 02:00 PM - 05:00 PM\nWed: 01:45 PM - 04:00 PM,\n12:00 PM - 01:45 PM\nThu: 09:45 AM - 12:00 PM\nSat: 09:30 AM - 11:30 AM"
+      "schedule" : "Mon, Tue: 02:00 PM - 05:00 PM\nWed: 01:45 PM - 04:00 PM, 12:00 PM - 01:45 PM\nThu: 09:45 AM - 12:00 PM\nSat: 09:30 AM - 11:30 AM"
     } ]
   }, {
     "name" : "Respiratory",
@@ -1100,7 +1100,7 @@
       "doctor" : "Rajesh K Chawla",
       "degree" : "MD, FCCM, FCCP, EDIC",
       "language" : "English",
-      "schedule" : "Mon, Wed: 11:00 AM - 01:00 PM\nTue, Thu: 01:00 PM - 04:00 PM\nFri: 11:00 AM - 11:15 AM,\n12:00 PM - 01:00 PM\nSat: 11:00 AM - 11:45 AM,\n12:00 PM - 01:00 PM"
+      "schedule" : "Mon, Wed: 11:00 AM - 01:00 PM\nTue, Thu: 01:00 PM - 04:00 PM\nFri: 11:00 AM - 11:15 AM, 12:00 PM - 01:00 PM\nSat: 11:00 AM - 11:45 AM, 12:00 PM - 01:00 PM"
     }, {
       "doctor" : "Sanjay Sobti",
       "degree" : "MBBS, MD, DNB",
@@ -1115,7 +1115,7 @@
       "doctor" : "Viny Kantroo",
       "degree" : "DNB (Respiratory Diseases), MRCP (London), IDCCM, EDARM",
       "language" : "English, हिंदी, ਪੰਜਾਬੀ",
-      "schedule" : "Mon, Wed: 04:00 PM - 06:00 PM\nTue, Sat: 09:00 AM - 10:00 AM\nThu: 01:45 PM - 02:00 PM,\n12:00 PM - 01:45 PM\nFri: 06:00 PM - 07:00 PM"
+      "schedule" : "Mon, Wed: 04:00 PM - 06:00 PM\nTue, Sat: 09:00 AM - 10:00 AM\nThu: 01:45 PM - 02:00 PM, 12:00 PM - 01:45 PM\nFri: 06:00 PM - 07:00 PM"
     } ]
   }, {
     "name" : "Rheumatology",
@@ -1150,12 +1150,12 @@
       "doctor" : "Deepak Govil",
       "degree" : "MBBS, MS, Ph.D",
       "language" : "English, हिंदी",
-      "schedule" : "Mon, Tue, Thu: 11:00 AM - 12:00 PM,\n02:00 PM - 03:00 PM\nSat: 11:00 AM - 12:00 PM"
+      "schedule" : "Mon, Tue, Thu: 11:00 AM - 12:00 PM, 02:00 PM - 03:00 PM\nSat: 11:00 AM - 12:00 PM"
     }, {
       "doctor" : "Arun Prasad",
       "degree" : "",
       "language" : "English, हिंदी",
-      "schedule" : "Mon: 10:45 AM - 01:45 PM,\n01:45 PM - 03:00 PM\nTue to Sat: 10:15 AM - 01:45 PM,\n01:45 PM - 03:00 PM"
+      "schedule" : "Mon: 10:45 AM - 01:45 PM, 01:45 PM - 03:00 PM\nTue to Sat: 10:15 AM - 01:45 PM, 01:45 PM - 03:00 PM"
     } ]
   }, {
     "name" : "Surgical Oncology",
@@ -1231,7 +1231,7 @@
       "doctor" : "Rajesh Taneja",
       "degree" : "MBBS, MS (General Surgery), MCh (Urology)",
       "language" : "English, हिंदी, ਪੰਜਾਬੀ, اردو",
-      "schedule" : "Mon, Thu, Fri, Sat: 11:00 AM - 01:00 PM,\n02:00 PM - 04:00 PM"
+      "schedule" : "Mon, Thu, Fri, Sat: 11:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
     }, {
       "doctor" : "Suresh Kr Rawat",
       "degree" : "MBBS, MS, MCH, DNB",
