@@ -1,6 +1,9 @@
 {
 "app":"India Hospitals",
 "city":"Bangalore",
-"hospitals":[
-	]
+"hospitals":[{
+	"name":"Apollo Hospitals Bannerghatta Road",
+	"locality":"Panduranga Nagar",
+	"code":"ApolloBannerghatta"
+	}]
 } 

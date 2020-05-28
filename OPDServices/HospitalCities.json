@@ -3,7 +3,7 @@
 "cities":[{
 	"name":"Bangalore",
 	"state":"Karnataka",
-	"localities":[]
+	"localities":["Panduranga Nagar"]
 	},{
 	"name":"Chennai",
 	"state":"Tamil Nadu",

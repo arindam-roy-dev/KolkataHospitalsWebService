@@ -1,0 +1,673 @@
+﻿{
+  "name" : "Apollo Hospitals Bannerghatta Road",
+  "specialties" : [ {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Sathyaki P Nambala",
+      "degree" : "MS, DNB (General Surgery), MCh (CTVS)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Fri: 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Abhijit Vilas Kulkarni",
+      "degree" : "MBBS, MD, DM (Cardiology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 11:00 AM - 02:00 PM\nFri: 09:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "C M Nagesh",
+      "degree" : "MBBS (Bangalore University), MD (General Medicine, Rajasthan University), DM (Cardiology, AIIMS Delhi)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Girish B Navasundi",
+      "degree" : "MBBS, MD (General Medicine), DNB (Cardiology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "K B Prasad",
+      "degree" : "MBBS, MD, DM",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Rahul Patil",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 05:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Ramesh B",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Venkatesh T K",
+      "degree" : "MBBS, MD (Med), DNB (Cardiology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Vithal D Bagi",
+      "degree" : "MBBS, MD (General medicine), DM (Cardiology), DNB (Cardiology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 12:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Colorectal Surgery",
+    "schedules" : [ {
+      "initial" : "Prof.",
+      "doctor" : "Narasimhaiah Srinivasaiah",
+      "degree" : "MBBS, DNB (India), MD (Academic surgery), MRCS (Eng, Ed, Glas), MRCSI (Dub), FRCS (General Surgery), EBSQ (European Board of Surgery, Coloproctology), PGDMLE",
+      "language" : "English, हिंदी, ಕನ್ನಡ, മലയാളം, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 03:00 PM"
+    }, {
+      "doctor" : "Shabnam Bashir",
+      "degree" : "DNB (Surgery), PGDAE, MRCS (Glasgow, UK), FACRSI, Fellowship in Breast Cancer Surgeries, Fellowship in Colorectal Cancer Surgeries, Fellowship In Robotic Surgeries",
+      "language" : "English, हिंदी, اردو",
+      "schedule" : "Mon to Sat: 11:30 AM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Girish Panth",
+      "degree" : "MBBS, MD (Dermatology & Venereology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Wed, Fri: 03:00 PM - 07:00 PM\nTue: 08:00 AM - 10:00 AM\nSat: 08:00 AM - 10:00 AM, 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Vanita Mathew",
+      "degree" : "MBBS, PG Diploma in Dermatology, Venerology and Leprosy, PG in Practical Dermatology.",
+      "language" : "English",
+      "schedule" : "Mon, Wed, Fri: 01:00 PM - 03:15 PM\nTue, Sat: 01:00 PM - 05:00 PM\nThu: 03:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Dietitian",
+    "schedules" : [ {
+      "doctor" : "Priyanka Rohatgi",
+      "degree" : "MSc, ADND, PhD (Nutrition)",
+      "language" : "English",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 03:00 PM - 04:45 PM\nTue: 03:15 PM - 04:45 PM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Dwarakanath C S",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Endocrinology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Nagamani Y S",
+      "degree" : "MBBS, MS (EN), DNB",
+      "language" : "English, हिंदी, ಕನ್ನಡ, മലയാളം, தமிழ், తెలుగు",
+      "schedule" : "Tue: 09:00 AM - 11:00 AM\nWed: 04:00 PM - 07:00 PM\nSat: 04:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Pradeep Hosamani H",
+      "degree" : "MBBS, MS (General Surgery), DNB (ENT)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Tue: 11:30 AM - 02:00 PM"
+    }, {
+      "doctor" : "Satish Babu K",
+      "degree" : "MBBS, DLO, MS (ENT)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Tue: 08:00 AM - 08:00 PM\nWed: 10:00 AM - 02:00 PM\nFri: 02:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Satish Nair",
+      "degree" : "MBBS, MS (ENT), Post Doctoral TRG in Head & Neck Oncology",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Wed, Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Sumit Kumar Gaur",
+      "degree" : "MBBS, MS (ENT)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Thu: 09:00 AM - 06:00 PM\nFri: 09:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Sunil Narayan Dutt",
+      "degree" : "MS (ENT), DNB (ORL), DLO, RCS (Eng), FRCS ED, FRCS (ORL - HNS), PhD",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon: 08:00 AM - 08:00 PM\nThu: 08:00 AM - 04:00 PM\nFri: 08:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Gopal S T",
+      "degree" : "MBBS, MRCP (UK), CCST (UK)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Prasanna K S",
+      "degree" : "MBBS, MD, DM (Gastro - SGPGI)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Wed, Fri, Sat: 10:30 AM - 02:30 PM\nTue, Thu: 10:30 AM - 02:30 PM, 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Suresh Raghavaiah",
+      "degree" : "MBBS, MS, FHPB (Paris), Post - doc in Transplant Immunology (Mayo Clinic, USA), FASTS (Mayo Clinic, USA),",
+      "language" : "English, français, हिंदी, ಕನ್ನಡ, മലയാളം, தமிழ், తెలుగు",
+      "schedule" : "Mon, Wed, Thu, Fri: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Dinesh Kumar G R",
+      "degree" : "MBBS, MS, MRCS, Fellowship in Laparoscopic Surgery (Minimal Access Surgery)",
+      "language" : "English, தமிழ், తెలుగు",
+      "schedule" : "Mon: 08:00 AM - 01:00 PM\nTue, Thu, Sat: 08:00 AM - 10:00 AM, 05:00 PM - 08:00 PM\nWed: 08:00 AM - 02:00 PM\nFri: 08:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Kiran K J",
+      "degree" : "MBBS MS , FMAS, DMAS, Felllow & Diploma in Milimal Access Surgery",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Prashanth C",
+      "degree" : "MBBS, MS (General surgery)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon: 01:00 PM - 08:00 PM\nTue: 11:00 AM - 01:00 PM\nWed: 05:00 PM - 08:00 PM\nFri: 11:00 AM - 01:00 PM, 05:00 PM - 08:00 PM\nSat: 01:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Chitra Ramamurthy",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ், తెలుగు",
+      "schedule" : "Mon, Fri: 08:30 AM - 11:00 AM, 05:00 PM - 06:00 PM\nTue, Thu, Sat: 11:00 AM - 01:00 PM\nWed: 08:30 AM - 11:00 AM"
+    }, {
+      "doctor" : "Harshita Ramamurthy",
+      "degree" : "MBBS, MS (Obstetrics), FMAS (Gynecology), DRM",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Fri: 11:00 AM - 12:30 PM, 05:00 PM - 06:00 PM\nWed, Thu, Sat: 11:00 AM - 12:30 PM"
+    }, {
+      "doctor" : "Mala Prakash",
+      "degree" : "MBBS, MD",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ், తెలుగు",
+      "schedule" : "Mon, Wed, Fri: 11:00 AM - 01:00 PM\nTue, Thu, Sat: 08:30 AM - 11:00 AM, 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Preeti Prabhakar Shetty",
+      "degree" : "MBBS, MD",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 02:00 PM - 04:30 PM, 05:30 PM - 07:30 PM"
+    }, {
+      "doctor" : "Sunitha Sreedhar",
+      "degree" : "MBBS, MD (Obstetrics)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Fri: 01:30 PM - 04:30 PM\nSat: 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Gynecologic Oncology",
+    "schedules" : [ {
+      "doctor" : "Abhilasha Narayan",
+      "degree" : "MS (Obstetrics), DNB (Obstetrics), Fellow in Gynaec Oncology",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 11:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Haematooncology",
+    "schedules" : [ {
+      "doctor" : "Anoop P",
+      "degree" : "MBBS, MD, DCH, MRCPCH, FRCPath, CCST, FRCPCH",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Infection Medicine",
+    "schedules" : [ {
+      "doctor" : "Vinay D",
+      "degree" : "MD (Internal Medicine), FNB, ID",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 01:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Jyothsna Krishnappa",
+      "degree" : "MBBS, MD (Medicine)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, മലയാളം",
+      "schedule" : "Tue, Thu, Sat: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Kalpana Janardan",
+      "degree" : "MBBS, MD (American Board Certified in General Medicine)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM, 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Malla Reddy",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM, 05:30 PM - 07:30 PM"
+    }, {
+      "doctor" : "Rajeeva Moger",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM, 02:00 PM - 03:30 PM"
+    }, {
+      "doctor" : "Ramesh B S",
+      "degree" : "MBBS, MD",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:00 AM - 03:00 PM"
+    }, {
+      "doctor" : "Raza Shah",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, فارسی, தமிழ்",
+      "schedule" : "Mon to Sat: 08:30 AM - 10:30 AM, 03:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Swarna Das",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Thu: 09:00 AM - 10:30 AM, 06:00 PM - 07:30 PM\nFri: 09:00 AM - 12:30 PM, 06:00 PM - 07:30 PM\nSat: 09:00 AM - 10:30 AM"
+    } ]
+  }, {
+    "name" : "Interventional Cardiologist",
+    "schedules" : [ {
+      "doctor" : "Lakshmikanth P",
+      "degree" : "MBBS, MD, DM",
+      "language" : "English, આ, हिंदी, ಕನ್ನಡ, മലയാളം, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Liver",
+    "schedules" : [ {
+      "doctor" : "Jayanth Reddy",
+      "degree" : "MS (General Surgery), DNB (General Surgery), MRCS (Edinburgh), MCh (Surgical Gastroenterology), ASTS Fellowship (Abdominal Transplant and Hepatobiliary Surgery) (Duke University)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ், తెలుగు",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Sanjay Govil",
+      "degree" : "MBBS, MS, FRCS",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Tue, Wed, Fri, Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Sandeep Satsangi",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Hepatology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, ਪੰਜਾਬੀ, తెలుగు",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Linu Abraham Jacob",
+      "degree" : "MBBS, MD, DM (Medical Oncology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, മലയാളം",
+      "schedule" : "Mon, Wed, Fri: 06:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "Prashanth Somaraj U R S",
+      "degree" : "MBBS, DCH, DNB (Paediatrics), Fellowship in Advanced Neonatology",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:45 AM - 02:45 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Gokul Nath",
+      "degree" : "MBBS, MD (General Medicine), DM, DNB (Nephrology), FISN, FRCP (London)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Tue, Thu, Sat: 12:30 PM - 02:45 PM, 03:30 PM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Gurucharan Adoor",
+      "degree" : "MBBS, MD (MED), DM (Neurology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు, ತುಳು",
+      "schedule" : "Mon: 08:30 AM - 10:30 AM\nTue, Wed, Thu, Sat: 10:30 AM - 02:30 PM"
+    }, {
+      "doctor" : "Karthik Nagaraj",
+      "degree" : "MD, DM (Neurology), Clinical fellowship in headache medicine (KCL, UK)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, ಕೊಂಕಣಿ",
+      "schedule" : "Mon, Tue, Thu: 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Suryanarayana Sharma P M",
+      "degree" : "MBBS, MD (Medicine), DM (Neurology), Fellowship in stroke (NUH, Singapore)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ்",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 10:30 AM - 02:30 PM"
+    }, {
+      "doctor" : "Vikram Kamath",
+      "degree" : "MBBS, DM (Neurology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Wed, Fri: 10:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Abhilash Bansal",
+      "degree" : "MBBS, DNB (Neurosurgery)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Arun L Naik",
+      "degree" : "MBBS, MS (AIIMS), MCh (AIIMS) Senior Consultant and Head Department of Neurosurgery",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు, ತುಳು",
+      "schedule" : "Mon to Sat: 08:00 AM - 10:00 AM, 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "K Kartik Revanappa",
+      "degree" : "MBBS, MS (Orthopaedic), MCh (Neurosurgery) (CMC Vellore)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, मराठी, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 02:00 PM - 03:30 PM"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "B K M Reddy",
+      "degree" : "MBBS, MD (Radiation Oncology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Patil C N",
+      "degree" : "MBBS, MD (General Medicine), DM (Medical Oncology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 11:00 AM - 01:00 PM, 02:00 PM - 03:00 PM\nFri: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Vishwanath S",
+      "degree" : "MBBS, MD, DM, Fellowship at MD Anderson Cancer Center",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Opthalmology",
+    "schedules" : [ {
+      "doctor" : "Shalini Shetty",
+      "degree" : "MBBS, MS (Opthalmology), FRCS (UK)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:00 AM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedic Surgeon",
+    "schedules" : [ {
+      "doctor" : "Ajith Prabhu",
+      "degree" : "MBBS, MS (Orthopaedic)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Fri: 08:00 AM - 02:00 PM\nWed, Thu, Sat: 02:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Harish D N",
+      "degree" : "MBBS, MS (Orthopaedic)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Thu: 01:45 PM - 04:00 PM, 12:15 PM - 01:45 PM"
+    }, {
+      "doctor" : "Jithendra Kumar G P",
+      "degree" : "MBBS , MS (Orthopaedic)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Fri: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Manish Samson",
+      "degree" : "D. Ortho, MS (Orthopaedic), M Ch Orth (UK)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Wed: 02:00 PM - 06:00 PM\nThu, Sat: 08:00 AM - 02:00 PM\nFri: 08:00 AM - 02:00 PM, 02:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Pradeep Kocheeppan",
+      "degree" : "MBBS, D. Ortho,",
+      "language" : "English, हिंदी",
+      "schedule" : "Mon, Wed: 08:00 AM - 02:00 PM\nTue, Sat: 02:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Raviraj A",
+      "degree" : "MBBS, D. Ortho, DNB (Orthopaedic), MCh (Orthopaedic), MNAMS",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Fri: 02:00 PM - 08:00 PM\nTue, Wed, Sat: 08:00 AM - 02:00 PM\nThu: 02:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Shashi Kumar H K",
+      "degree" : "MBBS, MS (Orthopaedic)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Wed, Fri, Sat: 05:00 PM - 08:00 PM\nTue, Thu: 08:00 AM - 02:00 PM, 05:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Venugopal B",
+      "degree" : "MBBS, D. Ortho, DNB (Orthopaedic), Fellowhip in Joint Replacement Surgery",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Fri: 08:00 AM - 10:00 AM\nTue, Thu: 04:00 PM - 08:00 PM\nSat: 08:00 AM - 10:00 AM, 04:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "P S Ragavan",
+      "degree" : "MBBS, MD, DCH, PDCC",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:30 AM - 02:00 PM"
+    }, {
+      "doctor" : "Poonam K Shetty",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 03:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Radha Krisna Hegde",
+      "degree" : "MBBS, DCH, MD",
+      "language" : "English, हिंदी, ಕನ್ನಡ, ತುಳು",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Ramesh Sungal",
+      "degree" : "MBBS, MD (Pediatrics), Fellowship in Pediatric Emergency",
+      "language" : "English, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:30 AM - 04:00 PM"
+    }, {
+      "doctor" : "Sowmya C C",
+      "degree" : "MBBS, DNB (Paediatrics), IGICH",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 08:30 AM - 10:30 AM, 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Endocrinologist",
+    "schedules" : [ {
+      "doctor" : "Anjana Hulse",
+      "degree" : "MBBS, MRCPCH (UK), MSc (Pead Sc, Endo UK)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Tue, Sat: 03:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Orthopaedic",
+    "schedules" : [ {
+      "doctor" : "Manohara Babu K V",
+      "degree" : "MBBS, MS (Orthopedics) (Gold Medallist), DNB Ortho, MRCS (Edinburgh UK)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Tue, Thu, Sat: 10:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Anand Alladi",
+      "degree" : "MS, MCh (Pediatric Surgery), FIAPS",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Thu, Fri: 04:45 PM - 05:45 PM"
+    }, {
+      "doctor" : "Chithra Ramu",
+      "degree" : "MBBS, MS (General Surgery), MCH (Paediatric Surgery)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Tue, Thu, Fri, Sat: 11:00 AM - 01:00 PM\nWed: 04:45 PM - 05:45 PM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Naveen Rao",
+      "degree" : "MBBS, MS, MCh, Fellow in Cosmetic Surgery",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Sat: 08:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Roshan Jain",
+      "degree" : "MBBS, MRCPsych (UK), MMedSc (University Of Nottingham), CCST (UK)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 02:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Shobha Krishna",
+      "degree" : "MBBS, MRCPsych",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ், తెలుగు",
+      "schedule" : "Mon, Wed, Fri: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Srinivas Reddy",
+      "degree" : "MBBS, MRCP (Psychiatry)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Tue, Thu, Sat: 09:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Psychology",
+    "schedules" : [ {
+      "doctor" : "Sugami Ramesh",
+      "degree" : "MA (Clinical Psy), B Ed, MHRM, MSCP",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 02:30 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Ravindra M Mehta",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Sumant Mantri",
+      "degree" : "MBBS, DNB, FCCP (USA)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 09:30 AM - 01:00 PM, 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Radiation Oncology",
+    "schedules" : [ {
+      "doctor" : "B Krishnamoorthy Reddy",
+      "degree" : "MBBS, MD (Radiation Therapy)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Belliappa M S",
+      "degree" : "MBBS, MD, DNB, DMRT, FAIMS",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Fri: 09:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Dattatreyudu Nori",
+      "degree" : "MD, FACR, FACRO, FASTRO, Certified by American Board",
+      "language" : "English",
+      "schedule" : "Tue: 12:00 PM - 12:15 PM"
+    }, {
+      "doctor" : "M Vinay Ural",
+      "degree" : "MBBS, DMRT, DNB (Radiation Oncology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Natarajan V",
+      "degree" : "MBBS, DNB (Radiation Oncology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 03:00 PM"
+    }, {
+      "doctor" : "Vijay Bhaskar L",
+      "degree" : "MBBS, MD (Radiation Oncology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Fri: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Savith Kumar",
+      "degree" : "MBBS, MD, FRCR, MMed, DM,",
+      "language" : "English, ಕನ್ನಡ",
+      "schedule" : "Mon to Thu: 08:00 AM - 01:45 PM, 01:45 PM - 04:45 PM\nFri: 08:15 AM - 01:45 PM, 01:45 PM - 04:45 PM\nSat: 08:30 AM - 01:45 PM, 01:45 PM - 04:45 PM"
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Uma Karjigi",
+      "degree" : "MBBS, MRCP (UK), MRCP (Rheumatology), CCT (Rheumatology)",
+      "language" : "English, हिंदी",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Spine Surgery",
+    "schedules" : [ {
+      "doctor" : "Ameet H Kulkarni",
+      "degree" : "MBBS, MS (Ortho), DNB (Ortho), FRCS (England)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, ಕೊಂಕಣಿ, मराठी",
+      "schedule" : "Thu: 03:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Ravishankar Bhat B",
+      "degree" : "MBBS, MS (General Surgery), DNB (General Surgery), FRCS (Edinburgh), MCh (GI Surgery) (AIMS)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:00 AM - 03:00 PM"
+    }, {
+      "doctor" : "Saurabh Misra",
+      "degree" : "MBBS, MS, FICS, FIAGES Senior Consultant Laparoscopic, Minimal Access & Bariatric Surgery",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Satyajit Godhi",
+      "degree" : "MBBS, MS, Mch",
+      "language" : "English",
+      "schedule" : "Mon, Tue, Thu, Sat: 08:00 AM - 04:00 PM\nWed, Fri: 08:00 AM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Anil Kamath",
+      "degree" : "MBBS, MS",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "M Chandrashekar",
+      "degree" : "MBBS, MS, FICS",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Pandu Dasappa",
+      "degree" : "MBBS, MS, FIAGES, MCh (Surgical Oncology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Wed, Sat: 10:00 AM - 01:30 PM, 02:15 PM - 04:15 PM"
+    }, {
+      "doctor" : "Sindhu V A",
+      "degree" : "MBBS, MS, Mch",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Thu: 09:00 AM - 01:00 PM\nTue, Wed, Fri, Sat: 09:00 AM - 01:45 PM, 01:45 PM - 02:00 PM"
+    }, {
+      "doctor" : "Soumya S Holla",
+      "degree" : "MBBS, MS (General Surgery), MRCS, Fellowship in Breast Surgery",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Satish Nair",
+      "degree" : "Post Doctoral Trg in Head Neck, Post Doctoral Trg in Endoscopic Thyroid Surgery, Post Doctoral Trg in Robotic Surgery",
+      "language" : "English, ಕನ್ನಡ, മലയാളം, தமிழ்",
+      "schedule" : "Mon, Tue, Thu, Fri: 09:00 AM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Anand Arumugam",
+      "degree" : "MBBS, MS (General Surgery), MCh (Urology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ்",
+      "schedule" : "Mon to Sat: 08:00 AM - 11:00 AM, 03:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Deepak Bolbandi",
+      "degree" : "MBBS, MS, DNB, MCh (Urology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 08:00 AM - 03:00 PM, 05:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Girish H",
+      "degree" : "MBBS, MS (Surgery), DNB (Urology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 02:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Sreedhar Reddy",
+      "degree" : "MBBS, MS (General Surgery), DNB (Urology), MNAMS (Urology), FRTS, FIMS",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Sriharsha Ajjur",
+      "degree" : "MBBS, MS, Mch",
+      "language" : "English, हिंदी, ಕನ್ನಡ",
+      "schedule" : "Mon, Wed, Fri: 03:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Sunder Narasimhan",
+      "degree" : "MBBS, MS (General Surgery)",
+      "language" : "English, हिंदी",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM, 03:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Umesh Satish Gheewala",
+      "degree" : "MBBS, MS (General Surgery), MCH (Vascular Surgery and Endovascular Surgery)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 05:30 PM - 07:15 PM"
+    } ]
+  } ]
+}

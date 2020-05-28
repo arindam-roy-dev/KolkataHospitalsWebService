@@ -1,0 +1,33 @@
+{
+"name":"Apollo Hospitals Bannerghatta Road",
+"code":"ApolloBannerghatta",
+"address":"154/11, Opp IIM, Bannerghatta Road, Bengaluru 560076, Karnataka, India",
+"geoLocation":"12.8961558,77.5998869?q=Apollo+Hospitals+Bannerghatta",
+"emails":"customercare_bangalore@apollohospitals.com",
+"websites":"https://bangalore.apollohospitals.com/bannerghattaroad",
+"faxNumbers":"8041463151",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital Information",
+	"phoneNumbers":"8026304050,8026304051",
+	"isOpd":true
+	},{
+	"name":"Apollo Health Checks",
+	"phoneNumbers":"8026304115,8026304118"
+	},{
+	"name":"Admissions",
+	"phoneNumbers":"8026304108,8026304109"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"8026304124"
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8026304126,8026304127"
+	},{
+	"name":"PRM Cell",
+	"phoneNumbers":"8026304050,8026304051,8026304188"
+	},{
+	"name":"Toll Free No",
+	"phoneNumbers":"1066"
+	}]
+}
