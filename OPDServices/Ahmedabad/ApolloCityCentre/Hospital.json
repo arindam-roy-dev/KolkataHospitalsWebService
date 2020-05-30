@@ -1,0 +1,15 @@
+{
+"name":"Apollo Hospitals, City Centre",
+"code":"ApolloCityCentre",
+"address":"1, Tulsibaug Society, Opp. Doctor House, Nr. Parimal Garden, Ellisbridge, Ahmedabad 380006",
+"geoLocation":"23.0169826,72.5559297?q=Apollo+Hospitals+City+Centre",
+"emails":"info_ahcc@apolloahd.com",
+"websites":"https://ahmedabad.apollohospitals.com/patient-care/apollo-city-centre/",
+"faxNumbers":"7966305803",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital Information",
+	"phoneNumbers":"7966305800,7966305801,7698815059,7698815139",
+	"isOpd":true
+	}]
+}

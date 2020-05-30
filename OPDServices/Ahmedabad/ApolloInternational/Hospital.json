@@ -1,0 +1,42 @@
+{
+"name":"Apollo Hospitals International Limited",
+"code":"ApolloInternational",
+"address":"Plot No.1 A, Bhat GIDC Estate, Gandhinagar 382428, Gujarat, India",
+"geoLocation":"23.1087819,72.6267596?q=Apollo+Hospital+International+Limited",
+"emails":"info@apolloahd.com",
+"websites":"https://ahmedabad.apollohospitals.com",
+"faxNumbers":"7966701843",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment Desk",
+	"phoneNumbers":"7966701800",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"7966701866"
+	},{
+	"name":"Immigration",
+	"phoneNumbers":"7966701800"
+	},{
+	"name":"Apollo Health Check",
+	"phoneNumbers":"7698815028"
+	},{
+	"name":"International Wing",
+	"phoneNumbers":"7698815038"
+	},{
+	"name":"Apollo Pharmacy",
+	"phoneNumbers":"7965231066"
+	},{
+	"name":"Duty Administrator",
+	"phoneNumbers":"7698815100"
+	},{
+	"name":"Insurance Desk",
+	"phoneNumbers":"7698815066"
+	},{
+	"name":"Corporate Desk",
+	"phoneNumbers":"7698815120"
+	},{
+	"name":"Public Relation Officer",
+	"phoneNumbers":"7698815010"
+	}]
+}

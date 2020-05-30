@@ -1,0 +1,335 @@
+{
+  "name" : "Apollo Hospitals International Limited",
+  "specialties" : [ {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Nitin Jain",
+      "degree" : "MBBS, MS (General Surgery), DNB (CTVS)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 11:00 AM - 01:30 PM, 01:30 PM - 04:00 PM\nSat: 11:00 AM - 01:30 PM, 01:30 PM - 03:00 PM"
+    }, {
+      "doctor" : "Sudhir Adalti",
+      "degree" : "MBBS (NSCB Medical College, Jabalpur, MP, India), Internship (NSCB Medical College, Jabalpur, MP), MS (General Surgery) (NSCB Medical College Jabalpur, MP, India), Mch (Sir J J Group of Hospitals and Grant Medical College, Mumbai, India), Post Graduate Fellowship (Advance Cardiothoracic Surgery at GCC, Auckland, NZ), Mch (Magister Chirurgiae)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 10:30 AM - 12:45 PM"
+    }, {
+      "doctor" : "Utpal Shah",
+      "degree" : "MBBS, MS (General Surgery), MCh (Cardio Thoracic Surgery)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Thu: 10:00 AM - 12:30 PM\nFri, Sat: 10:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Hasit Joshi",
+      "degree" : "MBBS, MD (Medicine), DM (Cardiology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Jayesh Prajapati",
+      "degree" : "MBBS, MD (Medicine), DM (Cardiology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sameer Dani",
+      "degree" : "MBBS, MD (Medicine), DM (Cardiology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sharad Jain",
+      "degree" : "MBBS, MD (Medicine), DM (Cardiology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Subir Ghosh",
+      "degree" : "MBBS, MD (Medicine), DM (Cardiology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Wed: 10:05 AM - 11:35 AM\nThu: 10:05 AM - 10:35 AM\nFri: 10:05 AM - 11:05 AM"
+    } ]
+  }, {
+    "name" : "Critical Care",
+    "schedules" : [ {
+      "doctor" : "Manoj Singh",
+      "degree" : "MD (Chest), DNB (Chest), FNB (Critical Care)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Dental",
+    "schedules" : [ {
+      "doctor" : "Chirag Shah",
+      "degree" : "BDS",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Saumya Saran Roy",
+      "degree" : "MDS",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 02:00 PM - 03:30 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Anshul Warman",
+      "degree" : "MBBS, MD (Dermatology), DNB (Dermatology & Venereology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 02:30 PM - 04:30 PM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Ramesh Goyal",
+      "degree" : "MBBS, MD (General Medicine & Therapeutics), DM (Endocrinology) (AIIMS, New Delhi)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Rucha Mehta",
+      "degree" : "MD (Medicine), FACP",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Wed to Fri: 02:00 PM - 03:45 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "B K Kedia",
+      "degree" : "MS (ENT)",
+      "language" : "English",
+      "schedule" : "Mon: 11:00 AM - 12:00 PM\nTue to Thu: 11:00 AM - 01:00 PM\nFri: 11:45 AM - 01:00 PM"
+    }, {
+      "doctor" : "Vinita Bhagia",
+      "degree" : "MBBS, MS (ENT), FRCS (Otolaryngology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Deven Shah",
+      "degree" : "MBBS, DNB (Family Medicine)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Apurva Shah",
+      "degree" : "MBBS, MD (Internal Medicine), DNB (Gastroenterology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Fri: 10:00 AM - 12:30 PM"
+    }, {
+      "doctor" : "Shravan Bohra",
+      "degree" : "MBBS, MD (Medicine), MRCP, FEBG",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Vipul Worah",
+      "degree" : "MBBS, MD (Medicine), DM (Gastroenterology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Tue: 11:00 AM - 01:30 PM, 01:30 PM - 05:00 PM\nWed: 11:00 AM - 01:00 PM, 01:30 PM - 02:30 PM\nThu: 11:00 AM - 01:30 PM, 01:30 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Manjulata Anchalia",
+      "degree" : "MBBS, MS (General Surgery), FIAGES (Honorary), IAGES",
+      "language" : "English",
+      "schedule" : "Mon, Tue: 11:45 AM - 01:45 PM, 01:45 PM - 04:00 PM\nWed: 03:15 PM - 04:00 PM\nThu: 01:00 PM - 01:45 PM, 01:45 PM - 04:00 PM"
+    }, {
+      "doctor" : "Swati Upadhayay",
+      "degree" : "MBBS, MS, FICS (General Surgery)",
+      "language" : "English",
+      "schedule" : "Mon to Fri: 10:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Gynecologic Oncology",
+    "schedules" : [ {
+      "doctor" : "Nitin Singhal",
+      "degree" : "MS, MCh (Surgical Oncology) (Tata Memorial, Mumbai)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon, Fri: 10:00 AM - 01:30 PM\nTue: 10:00 AM - 01:00 PM\nWed: 10:00 AM - 12:30 PM\nThu: 10:00 AM - 01:30 PM, 01:30 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Interventional Specilaist",
+    "schedules" : [ {
+      "doctor" : "Sandeep Jhala",
+      "degree" : "MBBS, MD (Bom), DMRE, DNB, Fellowship in Interventional Specilty (USA)",
+      "language" : "English, આ, हिंदी, मराठी",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:30 PM, 01:30 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Haresh Patel",
+      "degree" : "MBBS, MD (Medicine), DM (Nephrology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Kavita Parihar",
+      "degree" : "MBBS, MD (Medicine), DNB (Nephrology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon, Tue, Thu: 11:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Manoj Gumber",
+      "degree" : "MD, DM (Nephrology)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 11:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Mukesh Sharma",
+      "degree" : "MBBS, MD (Medicine), DM (Neurology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Tue, Thu, Sat: 11:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Sucheta Mudgerikar",
+      "degree" : "MBBS, MD (Medicine), DM (Neurology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon, Wed, Fri: 11:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Neurosurgery",
+    "schedules" : [ {
+      "doctor" : "Deepak Malhotra",
+      "degree" : "MBBS, MS, MCH (Neurosurgery)",
+      "language" : "English",
+      "schedule" : "Mon: 12:00 PM - 01:30 PM, 01:30 PM - 03:00 PM\nTue to Fri: 12:30 PM - 01:45 PM, 01:45 PM - 03:00 PM"
+    }, {
+      "doctor" : "Somesh Desai",
+      "degree" : "MBBS, MS (General Surgery), MCh (Neurosurgery)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Kirti Nahar",
+      "degree" : "MBBS, MS (Obstetrics & Gynaecology), Fellowship in Ultrasound",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Sheroo Zamindar",
+      "degree" : "MBBS, DGO, MD",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Wed, Sat: 10:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Usha Bohra",
+      "degree" : "MBBS, MS (Obstetrics & Gynecology), MRCOG (UK), MRCPI (Dublin), Dip (Colp) Accredited Colposcopist (UK)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Vandana Sinha",
+      "degree" : "MBBS (Hons), MS (Obstetrics & Gynecology), Fellowship in Gyneacology",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Opthalmology",
+    "schedules" : [ {
+      "doctor" : "Krishna Marfatia",
+      "degree" : "MBBS, MS (Ophthalmology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Manish Joshi",
+      "degree" : "MS (Opthalmology)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 12:30 PM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Maulik Patwa",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Tejas Thakker",
+      "degree" : "MBBS, MS (Orthopaedics), AO Fellowship",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Pain",
+    "schedules" : [ {
+      "doctor" : "Rajeev Harshe",
+      "degree" : "MBBS, MD (Anesthesiology), Fellow in Interventional Pain Management (AIIMS, New Delhi)",
+      "language" : "English",
+      "schedule" : "Mon, Thu, Fri, Sat: 10:00 AM - 12:45 PM\nTue: 10:00 AM - 11:15 AM\nWed: 10:00 AM - 10:30 AM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Jyotinder Kaur",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "language" : "English",
+      "schedule" : "Mon: 11:15 AM - 12:45 PM"
+    }, {
+      "doctor" : "Pushkar Srivastava",
+      "degree" : "MBBS, MD (Pediatrics), MRCPCH, FAAP",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Neurology",
+    "schedules" : [ {
+      "doctor" : "Anand Subramaniam Iyer",
+      "degree" : "MD (Pediatrics), FRCPCH (UK), CCT (Paediatric Neurology) (UK)",
+      "language" : "English, આ, हिंदी, தமிழ்",
+      "schedule" : "Mon, Wed, Fri: 11:00 AM - 01:30 PM, 01:30 PM - 03:30 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Kashmira Jhala",
+      "degree" : "MBBS, DTDC, MD (Chest Medicine)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Vishnu Sharma",
+      "degree" : "MBBS, MD (General Medicine), DNB (Rheumatology), MC, Fellow EULAR",
+      "language" : "English",
+      "schedule" : "Mon to Fri: 02:30 PM - 04:30 PM"
+    } ]
+  }, {
+    "name" : "Spine Surgery",
+    "schedules" : [ {
+      "doctor" : "Praveen Saxena",
+      "degree" : "MS (Orthopaedic)",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:30 PM, 01:30 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Chirag Desai",
+      "degree" : "MBBS, MS (General Surgery), DNB (Gastro Surgery), FRCS (Edin), FRCS (Glasg), UK",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon, Tue, Wed, Fri: 11:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Lakshman Khiria",
+      "degree" : "MBBS, MS, MCh (GI Surgery)",
+      "language" : "English",
+      "schedule" : "Mon, Tue, Fri: 11:00 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Vishal Choksi",
+      "degree" : "MBBS, Diplomate of American Board of Surgery",
+      "language" : "English",
+      "schedule" : "Tue: 09:20 AM - 11:45 AM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Kunal Aterkar",
+      "degree" : "MBBS, MS (General Surgery), MCh (urology)",
+      "language" : "English",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 09:00 AM - 12:00 PM\nFri: 09:45 AM - 12:00 PM"
+    } ]
+  } ]
+}

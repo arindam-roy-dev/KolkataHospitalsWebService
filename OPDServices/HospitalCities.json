@@ -1,6 +1,10 @@
 {
 "app":"India Hospitals",
 "cities":[{
+	"name":"Ahmedabad",
+	"state":"Gujarat",
+	"localities":["Ambawadi","Bhat"]
+	},{
 	"name":"Bangalore",
 	"state":"Karnataka",
 	"localities":["Jayanagar","Panduranga Nagar","Sheshadripuram"]

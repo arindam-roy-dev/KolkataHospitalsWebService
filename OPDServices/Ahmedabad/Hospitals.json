@@ -1,6 +1,13 @@
 {
 "app":"India Hospitals",
 "city":"Ahmedabad",
-"hospitals":[
-]
-} 
+"hospitals":[{
+	"name":"Apollo Hospitals International Limited",
+	"locality":"Bhat",
+	"code":"ApolloInternational"
+	},{
+	"name":"Apollo Hospitals, City Centre",
+	"locality":"Ambawadi",
+	"code":"ApolloCityCentre"
+	}]
+}

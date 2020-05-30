@@ -1,0 +1,19 @@
+{
+  "name" : "Apollo Hospitals City Centre",
+  "specialties" : [ {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Shakuntala Shah",
+      "degree" : "MBBS, MS (General Surgery)",
+      "designation" : "Breast Cancer Surgery",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon to Sat: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Darshan K Shah",
+      "degree" : "MBBS, MS (General Surgery), MCh (Genitourinary Surgery)",
+      "designation" : "Uro Cancer Surgery",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Mon: 07:00 AM - 08:00 AM,\n03:00 PM - 06:30 PM\nThu: 03:15 PM - 05:30 PM"
+    } ]
+  } ]
+}
