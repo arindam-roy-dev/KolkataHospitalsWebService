@@ -1,0 +1,33 @@
+{
+"name":"Apollo Hospitals Sheshadripuram",
+"code":"ApolloSheshadripuram",
+"address":"No.1, Old No.28, Platform Road, Near Mantri Square Mall, Sheshadripuram, Bangalore 560020, Karnataka, India",
+"geoLocation":"12.9875579,77.572779?q=Apollo+Hospitals+Sheshadripuram+Bangalore",
+"emails":"enquiry_ssp@apollohospitals.com",
+"websites":"https://bangalore.apollohospitals.com/sheshadripuram/",
+"faxNumbers":"8046686666",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital Information",
+	"phoneNumbers":"8046688888,8046688999",
+	"isOpd":true
+	},{
+	"name":"Apollo Health Checks",
+	"phoneNumbers":"8046688070,8046688081"
+	},{
+	"name":"Admissions",
+	"phoneNumbers":"8046688117"
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"8046688098"
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8046688098,8046688097"
+	},{
+	"name":"PRM Cell",
+	"phoneNumbers":"8046688888,8046688999"
+	},{
+	"name":"Toll Free No",
+	"phoneNumbers":"1066"
+	}]
+}
