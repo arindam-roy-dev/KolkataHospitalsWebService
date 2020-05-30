@@ -35,7 +35,7 @@
 	},{
 	"name":"Mumbai",
 	"state":"Maharashtra",
-	"localities":[]
+	"localities":["Belapur","Vashi"]
 	},{
 	"name":"Raiganj",
 	"state":"West Bengal",

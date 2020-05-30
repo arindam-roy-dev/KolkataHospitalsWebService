@@ -1,6 +1,13 @@
 {
 "app":"India Hospitals",
 "city":"Mumbai",
-"hospitals":[
-	]
+"hospitals":[{
+	"name":"Apollo Hospitals, Navi Mumbai",
+	"locality":"Belapur",
+	"code":"ApolloNaviMumbai"
+	},{
+	"name":"Apollo Outpatient Centre, Vashi",
+	"locality":"Vashi",
+	"code":"ApolloVashi"
+	}]
 } 

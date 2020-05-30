@@ -1,0 +1,18 @@
+{
+"name":"Apollo Hospitals, Navi Mumbai",
+"code":"ApolloNaviMumbai",
+"address":"Plot #13, Parsik Hill Road, Off Uran Road, Sector 23, CBD Belapur, Opp. Nerul Wonders Park, Navi Mumbai 400614",
+"geoLocation":"19.0202974,73.0289681?q=Apollo+Hospitals",
+"emails":"info@apollohospitals.com",
+"websites":"https://mumbai.apollohospitals.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital Information",
+	"phoneNumbers":"2233503350,2262806280",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"1066"
+	}]
+}

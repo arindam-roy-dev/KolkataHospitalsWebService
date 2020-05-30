@@ -1,0 +1,18 @@
+{
+"name":"Apollo Outpatient Centre, Vashi",
+"code":"ApolloVashi",
+"address":"Plot No. 195/B, The Emerald, Sector 12, Besides Neel Siddhi Towers, Navi Mumbai, Maharashtra 400703",
+"geoLocation":"19.0879249,73.0026215?q=Apollo+Clinic+-+Vashi,+Navi+Mumbai",
+"emails":"vashiclinic_nm@apollohospitals.com",
+"websites":"https://mumbai.apollohospitals.com/about/out-patient-centre.html",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointments",
+	"phoneNumbers":"02227881322,2233503350,2262806280",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"1066"
+	}]
+}
