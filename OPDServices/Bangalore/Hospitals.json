@@ -2,12 +2,16 @@
 "app":"India Hospitals",
 "city":"Bangalore",
 "hospitals":[{
-	"name":"Apollo Hospitals Bannerghatta Road",
+	"name":"Apollo Hospitals, Bannerghatta Road",
 	"locality":"Panduranga Nagar",
 	"code":"ApolloBannerghatta"
 	},{
-	"name":"Apollo Hospitals Sheshadripuram",
+	"name":"Apollo Hospitals, Sheshadripuram",
 	"locality":"Sheshadripuram",
 	"code":"ApolloSheshadripuram"
+	},{
+	"name":"Apollo Speciality Hospitals, Jayanagar",
+	"locality":"Jayanagar",
+	"code":"ApolloJayanagar"
 	}]
 } 

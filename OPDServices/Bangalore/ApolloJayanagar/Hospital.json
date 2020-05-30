@@ -1,0 +1,24 @@
+{
+"name":"Apollo Speciality Hospitals Jayanagar",
+"code":"ApolloJayanagar",
+"address":"21/2 (Old No.2), 14th Cross, 3rd Block, Jayanagar,(Near Madhavan Park), Bengaluru 560011, Karnataka, India",
+"geoLocation":"12.9364311,77.5821124?q=Apollo+Speciality+Hospital",
+"emails":"customercare_ahjn@apollohospitals.com",
+"websites":"https://bangalore.apollohospitals.com/jayanagar",
+"faxNumbers":"8046124666",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointments",
+	"phoneNumbers":"8046124444,8046504444",
+	"isOpd":true
+	},{
+	"name":"Admissions",
+	"phoneNumbers":"8046124501,8046124502"
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8046124500,8046124555"
+	},{
+	"name":"Toll Free No",
+	"phoneNumbers":"1066"
+	}]
+}
