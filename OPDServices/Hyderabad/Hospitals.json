@@ -1,6 +1,9 @@
 {
 "app":"India Hospitals",
 "city":"Hyderabad",
-"hospitals":[
-	]
+"hospitals":[{
+	"name":"Apollo Health City, Jubilee Hills",
+	"locality":"Jubilee Hills",
+	"code":"ApolloJubileeHills"
+	}]
 } 

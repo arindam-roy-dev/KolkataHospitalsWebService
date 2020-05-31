@@ -1,0 +1,18 @@
+{
+"name":"Apollo Health City, Jubilee Hills",
+"code":"ApolloJubileeHills",
+"address":"Jubilee Hills, Hyderabad 500033, Telangana, India",
+"geoLocation":"17.414416,78.4119062?q=Apollo+Hospitals+-+Jubilee+Hills",
+"emails":"apollohealthcityhyd@apollohospitals.com",
+"websites":"https://hyderabad.apollohospitals.com",
+"faxNumbers":"4023607530",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18605001066",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"1066"
+	}]
+}
