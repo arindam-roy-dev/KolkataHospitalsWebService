@@ -3,7 +3,11 @@
 "city":"Chennai",
 "hospitals":[{
 	"name":"Apollo Hospitals, Greams Road",
-	"locality":"Greams Road",
+	"locality":"Thousand Lights",
 	"code":"ApolloGreamsRoad"
+	},{
+	"name":"Apollo Cancer Institutes",
+	"locality":"Teynampet",
+	"code":"ApolloCancer"
 	}]
 } 
