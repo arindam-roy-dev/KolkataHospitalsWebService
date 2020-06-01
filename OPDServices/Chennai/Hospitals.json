@@ -9,5 +9,9 @@
 	"name":"Apollo Cancer Institutes",
 	"locality":"Teynampet",
 	"code":"ApolloCancer"
+	},{
+	"name":"Apollo Firstmed Hospital",
+	"locality":"Kilpauk",
+	"code":"ApolloFirstmed"
 	}]
 } 

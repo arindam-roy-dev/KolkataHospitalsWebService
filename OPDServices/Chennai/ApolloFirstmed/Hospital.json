@@ -1,0 +1,15 @@
+{
+"name":"Apollo Firstmed Hospital",
+"code":"ApolloFirstmed",
+"address":"No. 154, Poonamallee High Road, Kilpauk, Chennai 600010",
+"geoLocation":"13.0774476,80.2462376?q=Apollo+First+Med+Hospitals",
+"emails":"",
+"websites":"https://chennai.apollohospitals.com/hospitals/kilpauk",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4424336119,4439366000",
+	"isOpd":true
+	}]
+}
