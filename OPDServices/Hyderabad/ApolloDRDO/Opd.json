@@ -1,0 +1,211 @@
+﻿{
+  "name" : "Apollo Hospitals DRDO",
+  "specialties" : [ {
+    "name" : "Anesthesia",
+    "schedules" : [ {
+      "doctor" : "Arun Kumar",
+      "degree" : "MBBS, DA",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 06:00 PM"
+    }, {
+      "doctor" : "Bala Krishna P",
+      "degree" : "MBBS, DA, DNB (Anesthesia)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Fri: 09:00 AM - 10:00 AM"
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Makarand G Nandapurkar",
+      "degree" : "MBBS, MS, Mch",
+      "language" : "English, हिंदी, मराठी",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Healthyheart Drdo",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:30 PM"
+    }, {
+      "doctor" : "Siddhartha Rout",
+      "degree" : "MBBS, MD, DM (Cardiology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM, 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Dental",
+    "schedules" : [ {
+      "doctor" : "Srinivas Gadipelly",
+      "degree" : "MBBS, BDS, MDS, FDSRCS (London)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:00 PM, 05:30 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Fariya Rasheed",
+      "degree" : "MD, DVL",
+      "language" : "English, हिंदी, తెలుగు, اردو",
+      "schedule" : "Mon: 10:00 AM - 11:45 AM, 12:00 PM - 01:00 PM\nTue: 10:00 AM - 10:30 AM, 12:00 PM - 01:00 PM\nWed: 10:00 AM - 11:15 AM, 12:00 PM - 01:00 PM\nThu: 10:00 AM - 10:30 AM, 12:00 PM - 12:15 PM\nFri: 10:00 AM - 10:15 AM, 12:00 PM - 01:00 PM\nSat: 10:00 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Prasanna Kumar",
+      "degree" : "MBBS, DLO, DNB",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Fri: 11:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Santosh Reddy M",
+      "degree" : "MBBS, MS, FRCS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Wed: 06:30 PM - 07:30 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "K Naga Jyothi",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Raghu A",
+      "degree" : "DCH, MD (Internal Medicine), Dip in Diabetology",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Ramesh Kumar Bhuta",
+      "degree" : "MBBS, MS (General Surgery)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 10:30 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Hemavathi B V",
+      "degree" : "MBBS, DGO, DNB",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 06:30 PM"
+    }, {
+      "doctor" : "Sangita A",
+      "degree" : "MBBS, MD, DGO",
+      "language" : "English, हिंदी, मराठी, తెలుగు",
+      "schedule" : ""
+    }, {
+      "doctor" : "S V Nagavalli",
+      "degree" : "",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Pardha Saradhi",
+      "degree" : "MBBS, MD, DNB (General Medicine), DNB (Nephrology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Kishor Kumar",
+      "degree" : "MBBS, DNB (Neurosurgery)",
+      "language" : "English, हिंदी, മലയാളം, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Murali Krishna C H Venkata",
+      "degree" : "MBBS, MD (General medicine), DM (Neurology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 10:00 AM - 02:30 PM"
+    }, {
+      "doctor" : "Sree Ranga Lakshmi G",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Fri: 04:30 PM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Opthalmology",
+    "schedules" : [ {
+      "doctor" : "Sirish Kumar V",
+      "degree" : "MBBS, MS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 01:45 PM - 02:00 PM, 12:30 PM - 01:45 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Chintapeta Ravi",
+      "degree" : "MBBS, MS (Orthopaedics), MRCS (UK) (Joint Replacement)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Everyday: 12:00 AM - 11:45 PM"
+    }, {
+      "doctor" : "Gopinath Kattamuri",
+      "degree" : "MBBS, MS (Ortho), Mch (Ortho)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Everyday: 12:00 AM - 11:45 PM"
+    }, {
+      "doctor" : "Jarugumilli Srikanth",
+      "degree" : "MBBS, D (Ortho), DNB (Ortho)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Everyday: 12:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Krishna Reddy",
+      "degree" : "MBBS, MS (Orthopedics)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Sat: 10:00 AM - 01:45 PM, 01:45 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Narsing Rao J",
+      "degree" : "MBBS, MD (Paediatrics)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:30 AM, 04:00 PM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Yoga Nagender M",
+      "degree" : "MBBS, MS, MCh, DNB (Paediatric Surgery)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Jagadish M Jyoti",
+      "degree" : "MBBS, MS, MCH (Plastic Surgery)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Y M Abdul Quddus",
+      "degree" : "MBBS, DTCD, DNB (Pulmonary Medicine)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు, اردو",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 11:00 AM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Gurnurkar Sham Sunder",
+      "degree" : "MBBS, MS, DGO, FRCS, MCh, FACS, FAIS",
+      "language" : "English, हिंदी, ಕನ್ನಡ, मराठी, తెలుగు, اردو",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 02:00 PM"
+    }, {
+      "doctor" : "Vasanth Rao P",
+      "degree" : "MBBS, MS, MCH (Urology)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 12:00 PM - 03:00 PM"
+    } ]
+  } ]
+}

@@ -6,6 +6,14 @@
 	"locality":"Jubilee Hills",
 	"code":"ApolloJubileeHills"
 	},{
+	"name":"Apollo Hospitals DRDO",
+	"locality":"Kanchan Bagh",
+	"code":"ApolloDRDO"
+	},{
+	"name":"Apollo Hospitals, Hyderguda",
+	"locality":"Hyderguda",
+	"code":"ApolloHyderguda"
+	},{
 	"name":"Apollo Hospitals, Secunderabad",
 	"locality":"Secunderabad",
 	"code":"ApolloSecunderabad"

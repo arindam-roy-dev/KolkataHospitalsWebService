@@ -1,0 +1,18 @@
+{
+"name":"Apollo Hospitals DRDO",
+"code":"ApolloDRDO",
+"address":"Kanchan Bagh, Hyderabad 500058, Telangana, India",
+"geoLocation":"17.3420159,78.5072113?q=Apollo+Hospitals+DRDO",
+"emails":"apollodrdo@apollohospitals.com",
+"websites":"https://hyderabad.apollohospitals.com/drdo",
+"faxNumbers":"4024342255",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4024342222,4024342211,4024343333,9542187735",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"1066"
+	}]
+}

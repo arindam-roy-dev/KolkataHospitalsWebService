@@ -1,0 +1,15 @@
+{
+"name":"Apollo Hospitals, Hyderguda",
+"code":"ApolloHyderguda",
+"address":"Plot No. 3-5-874/1, Near, Old MLA Quarters Rd, Hyderguda, hyderabad 500029, Telangana",
+"geoLocation":"17.3975089,78.4845661?q=Apollo+Hospitals+Hyderguda",
+"emails":"hyderguda.apollo@gmail.com",
+"websites":"https://hyderabad.apollohospitals.com/hyderguda",
+"faxNumbers":"4023388339",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4023231380",
+	"isOpd":true
+	}]
+}
