@@ -1,0 +1,495 @@
+﻿{
+  "name" : "Apollo Teleclinic",
+  "specialties" : [ {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Sai Ravi Shankar",
+      "degree" : "MD, DM (Cardiology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Kowshik Kumar Muriki",
+      "degree" : "MBBS, MD, DVL",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Mon: 12:00 PM - 01:30 PM"
+    }, {
+      "doctor" : "Ram Sushruth Pathuri",
+      "degree" : "MD, DVL",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM\nWed: 09:30 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Subbareddy Bovilla",
+      "degree" : "MBBS, MD, DVL",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Dietitian",
+    "schedules" : [ {
+      "doctor" : "Angelina Pillay",
+      "degree" : "BSc (Nutrition)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 09:30 AM - 01:45 PM, 01:45 PM - 05:30 PM\nFri: 09:45 AM - 01:45 PM, 01:45 PM - 05:30 PM"
+    }, {
+      "doctor" : "Deepika Rani V S",
+      "degree" : "",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Srija S Narasa",
+      "degree" : "MBBS, MS (ENT)",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Ellareddy C",
+      "degree" : "MBBS, MD, DM (Endocrinology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "K V S Hari Kumar",
+      "degree" : "DNB (Endocrinology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Karthik Tokkulu",
+      "degree" : "MBBS, MD, DM (Endocrinology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Kishor Dnyadeo Kharche",
+      "degree" : "DM (Endocrinology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Mamidala Venkata Rama Mohan",
+      "degree" : "MBBS, MD (General medicine), DM (Endocrinology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Nishita D",
+      "degree" : "MBBS, MD, DM (Endocrinology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Prasanna B",
+      "degree" : "MBBS, MD, DM (Endocrinology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Shalini P",
+      "degree" : "DM (Endocrinology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Shravan A",
+      "degree" : "",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Srinivas Rao Chokkapu",
+      "degree" : "MBBS, MD, DM (Endocrinology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Aasiya Jabeen",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी",
+      "schedule" : "Mon to Sat: 09:30 AM - 01:45 PM, 01:45 PM - 05:30 PM"
+    }, {
+      "doctor" : "Ajay Kumar Goud",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM\nFri: 09:30 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Akhila Kosuru",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Fri: 09:45 AM - 12:00 PM, 03:00 PM - 05:00 PM\nSat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Akhila Reddy R",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Amirunisa Begum Mohammed",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు, اردو",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM\nWed: 09:30 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Bhavani Y",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue: 08:00 AM - 01:45 PM, 01:45 PM - 04:00 PM"
+    }, {
+      "doctor" : "Chennareddy Sumakar",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Deepthi Sonika",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM\nFri: 09:45 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Harish Goud Sathyagouni",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Thu: 09:45 AM - 01:45 PM, 01:45 PM - 05:00 PM\nTue, Wed, Fri, Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "K Bharat Kumar",
+      "degree" : "",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Wed: 12:00 PM - 01:45 PM, 01:45 PM - 08:00 PM"
+    }, {
+      "doctor" : "K Vedalatha",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Thu, Sat: 12:00 PM - 01:45 PM, 01:45 PM - 08:00 PM"
+    }, {
+      "doctor" : "Kishore Babu D Y",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM\nThu: 09:30 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Kishore Kandikatla",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "M Rishmitha Reddy",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Tue: 12:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Mir Vajid Ali",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Wed, Thu: 12:00 PM - 01:45 PM, 01:45 PM - 08:00 PM"
+    }, {
+      "doctor" : "N Vamsi Krishna",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Neetal Vijayasen",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 01:45 PM, 01:45 PM - 04:00 PM"
+    }, {
+      "doctor" : "Prathibha Rani A",
+      "degree" : "MBBS, FCD",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 08:00 AM - 01:45 PM, 01:45 PM - 04:00 PM"
+    }, {
+      "doctor" : "Sai Kumar",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Wed, Fri: 09:00 AM - 01:45 PM, 01:45 PM - 07:00 PM\nThu: 09:45 AM - 01:45 PM, 01:45 PM - 07:00 PM\nSat: 09:15 AM - 01:45 PM, 01:45 PM - 07:00 PM"
+    }, {
+      "doctor" : "Satish Kumar",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Wed, Thu, Sun: 01:00 AM - 08:00 AM, 08:00 PM - 11:45 PM"
+    }, {
+      "doctor" : "Shashikumar J",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:45 PM, 01:45 PM - 04:00 PM"
+    }, {
+      "doctor" : "Smitha Devi Boga",
+      "degree" : "MBBS",
+      "language" : "English",
+      "schedule" : "Mon, Tue, Thu, Fri: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM\nWed, Sat: 09:30 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Syed Abrar Kareem",
+      "degree" : "MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Aluka Sai Chandroop",
+      "degree" : "",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue, Wed, Fri: 08:00 AM - 08:00 PM\nThu, Sat: 08:00 AM - 07:00 PM\nSun: 08:00 AM - 06:45 PM"
+    }, {
+      "doctor" : "Ameen Rupani",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 08:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Chilakamarthi Kavya Nikhila",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Gopaladasu Venkata Naga Vineeth",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 04:00 PM - 11:45 PM"
+    }, {
+      "doctor" : "Guduru Narayana Prudhvi Swaraj",
+      "degree" : "",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Everyday: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "K Susheela Elizabeth",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Koppula Triveni",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon: 08:00 AM - 05:00 PM\nTue, Thu: 08:00 AM - 05:30 PM\nWed: 08:00 AM - 06:15 PM\nFri, Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Mohammed Amer Mahboob Bagan",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Everyday: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Mohammed Iftekhar",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Peddi Anudeep",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon: 04:00 PM - 11:45 PM\nTue, Fri, Sat: 01:00 AM - 08:00 AM, 08:00 PM - 11:45 PM"
+    }, {
+      "doctor" : "Regandla Divya",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Riyaankaa Palipi",
+      "degree" : "",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Rj Bhavna Srivastav",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Srikanth Chittaraddy",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Thummala Bhavya",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat, Sun: 08:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Vempati Chaitanya",
+      "degree" : "",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Vineeta Kalla",
+      "degree" : "MBBS",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Boyapati Anand Kumar",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Karthik Reddy",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Koniki Priyanka",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Mohammed Mubasheer Ali",
+      "degree" : "MD, MBBS, FCGP",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Muralikrishna M",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "P Ramya",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Praneeth N Movva",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Prasuna K",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Ranjith Kumar M",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, français, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Samyuktha Reddy V",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Srinjith Tottempudi",
+      "degree" : "MBBS, DNB (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Suresh G",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Veena Santoshi",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Gurram Sritheja",
+      "degree" : "MBBS, MS, OBG, DNB, SRM",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Nitisha Reddy",
+      "degree" : "MBBS, DNB",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Thu: 03:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Shamili Gaddam",
+      "degree" : "MS (Obstetrics)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Neha Singh Rathod",
+      "degree" : "MBBS, MS (Gynecology)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue, Thu, Fri: 09:30 AM - 01:45 PM, 01:45 PM - 05:30 PM\nWed, Sat: 09:45 AM - 01:45 PM, 01:45 PM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Aravind G",
+      "degree" : "MBBS, MS (Orthopaedics Arthoplasty)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Bathala Sravanthi",
+      "degree" : "MBBS, MS DNB (Orthopaedics)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Hanumatha Rao",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Karri Sandeep Reddy",
+      "degree" : "MS (Orthopedics)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Kiran Reddy Mekala",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Mohd Suhaib Mudabbir",
+      "degree" : "MBBS, MS (Orthopaedics), Fellowship in Joint Replacement, Fellowship in Arthroscopy and Sports Medicine",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Pankaj Kabra",
+      "degree" : "MS (Orthopaedics)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 10:00 AM - 01:45 PM, 01:45 PM - 04:00 PM\nFri: 10:45 AM - 01:45 PM, 01:45 PM - 04:00 PM"
+    }, {
+      "doctor" : "Ravi Teja Reddy",
+      "degree" : "MBBS, MS (Orthopaedics), Fellowship in Joint Replacement, Fellowship in revision arthroplasty, Fellowship in Arthroscopy",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Ravindra Patil",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Satish Kumar B",
+      "degree" : "MBBS, DNB (Ortho)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Shiva Ram Reddy",
+      "degree" : "MBBS, MS (Orthopaedics) (Asst. Professor)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Srikanth Nara",
+      "degree" : "MS (Ortho)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Fri: 10:30 AM - 12:00 PM, 12:30 PM - 04:00 PM\nSat: 08:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Vijay Kumar Loya",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon: 09:15 AM - 01:45 PM, 01:45 PM - 05:00 PM\nTue to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "M Aravind",
+      "degree" : "MBBS, MD (Paediatrics)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon, Fri: 09:30 AM - 01:45 PM, 01:45 PM - 05:00 PM\nTue, Thu: 09:45 AM - 01:45 PM, 01:45 PM - 05:00 PM\nWed, Sat: 09:15 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Prashant Kumar Singh",
+      "degree" : "MBBS, MD (Pediatrician)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Mon to Sat: 09:30 AM - 01:45 PM, 01:45 PM - 05:30 PM"
+    }, {
+      "doctor" : "Swetha Reddy Pasam",
+      "degree" : "MBBS, DNB",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Tue: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Psychology",
+    "schedules" : [ {
+      "doctor" : "Shruti Naik",
+      "degree" : "Psychologist",
+      "language" : "English, हिंदी, ಕನ್ನಡ, తెలుగు",
+      "schedule" : "Wed to Sat: 10:00 AM - 10:30 AM"
+    }, {
+      "initial" : "Ms.",
+      "doctor" : "Tabassum Sheikh",
+      "degree" : "MSC (Applied Psychology) (PG)",
+      "language" : "English, हिंदी",
+      "schedule" : "Tue to Fri: 09:30 AM - 01:45 PM, 01:45 PM - 05:30 PM"
+    } ]
+  } ]
+}

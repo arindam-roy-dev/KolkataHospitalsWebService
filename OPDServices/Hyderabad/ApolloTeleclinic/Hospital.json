@@ -1,0 +1,15 @@
+{
+"name":"Apollo Teleclinic",
+"code":"ApolloTeleclinic",
+"address":"Krishe Sapphire Building, 9th Floor, MSR Block, Survey No. 88, HI-Tech City Main Road, Madhapur, Hyderabad 500081, Telangana, India",
+"geoLocation":"17.4422508,78.387484?q=Apollo+TeleHealth+Services",
+"emails":"nodalofficer@apollotelehealth.com,nodalofficer_t@apollohospitals.com",
+"websites":"https://www.apollotelehealth.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Contact Person: Ms. Prativa Gupta",
+	"phoneNumbers":"914023606868",
+	"isOpd":true
+	}]
+}

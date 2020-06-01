@@ -9,5 +9,9 @@
 	"name":"Apollo Hospitals, Secunderabad",
 	"locality":"Secunderabad",
 	"code":"ApolloSecunderabad"
+	},{
+	"name":"Apollo Teleclinic",
+	"locality":"HITech City",
+	"code":"ApolloTeleclinic"
 	}]
 } 
