@@ -1,0 +1,15 @@
+{
+"name":"Apollo Hospitals, Secunderabad",
+"code":"ApolloSecunderabad",
+"address":"Pollishetty Towers, Besides Keys High School, St. John\'s road, Secunderabad 500003, Telangana, India",
+"geoLocation":"17.4395108,78.5047849?q=Apollo+Hospitals+Secunderabad",
+"emails":"apollo_sec@apollohospitals.com",
+"websites":"https://hyderabad.apollohospitals.com/secunderabad",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4027718888,8179020202",
+	"isOpd":true
+	}]
+}
