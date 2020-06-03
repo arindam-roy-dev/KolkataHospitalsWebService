@@ -14,8 +14,20 @@
 	"locality":"Thousand Lights",
 	"code":"ApolloChildrens"
 	},{
+	"name":"Apollo City Center Hospital, Sowcarpet",
+	"locality":"Sowcarpet",
+	"code":"ApolloSowcarpet"
+	},{
 	"name":"Apollo Firstmed Hospital",
 	"locality":"Kilpauk",
 	"code":"ApolloFirstmed"
+	},{
+	"name":"Apollo Heart Centre",
+	"locality":"Thousand Lights",
+	"code":"ApolloHeartCentre"
+	},{
+	"name":"Apollo Hospitals, Tondiarpet",
+	"locality":"Tondiarpet",
+	"code":"ApolloTondiarpet"
 	}]
 } 

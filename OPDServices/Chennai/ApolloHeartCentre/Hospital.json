@@ -1,0 +1,15 @@
+{
+"name":"Apollo Heart Centre",
+"code":"ApolloHeartCentre",
+"address":"No. 15, Shafee Mohammed Rd, Thousand Lights West, Thousand Lights, Chennai 600006",
+"geoLocation":"13.0598904,80.2544103?q=Apollo+Heart+Centre+-+Best+heart+hospital+in+chennai",
+"emails":"",
+"websites":"https://chennai.apollohospitals.com/hospitals/apollo-heart-centre",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4428296060,7338777888",
+	"isOpd":true
+	}]
+}

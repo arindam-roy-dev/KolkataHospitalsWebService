@@ -1,0 +1,15 @@
+{
+"name":"Apollo City Center Hospital, Sowcarpet",
+"code":"ApolloSowcarpet",
+"address":"No. 134, Mint Street, Sowcarpet, Chennai 600079",
+"geoLocation":"13.0978397,80.2800501?q=Apollo+City+Centre+Hospital+Sowcarpet",
+"emails":"",
+"websites":"https://chennai.apollohospitals.com/hospitals/sowcarpet",
+"faxNumbers":"4425296084",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital",
+	"phoneNumbers":"4425296080,4425296084",
+	"isOpd":true
+	}]
+}

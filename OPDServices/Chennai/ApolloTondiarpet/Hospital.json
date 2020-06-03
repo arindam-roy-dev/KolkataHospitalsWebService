@@ -1,0 +1,15 @@
+{
+"name":"Apollo Hospitals, Tondiarpet",
+"code":"ApolloTondiarpet",
+"address":"No. 645, Thiruvottiyur High Road, Tondiarpet, Chennai 600081",
+"geoLocation":"13.1280375,80.2909326?q=Apollo+Hospitals+Tondiarpet",
+"emails":"aht@apollohospitals.com",
+"websites":"https://chennai.apollohospitals.com/hospitals/tondiarpet",
+"faxNumbers":"4425913333",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital",
+	"phoneNumbers":"4425913333",
+	"isOpd":true
+	}]
+}

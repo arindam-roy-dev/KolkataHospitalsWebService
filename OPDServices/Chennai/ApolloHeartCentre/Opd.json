@@ -1,0 +1,122 @@
+﻿{
+  "name" : "Apollo Heart Centre",
+  "specialties" : [ {
+    "name" : "Allergy",
+    "schedules" : [ {
+      "doctor" : "Basheer Ahmed",
+      "degree" : "",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 03:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Breast Surgery",
+    "schedules" : [ {
+      "doctor" : "Rajesh Balasubramanian",
+      "degree" : "MS (General Surgery), MRCS (Edin), FRCS (General Surgery) (Edin), FEBS (Breast Surgery) (European Society of Surgical Oncology)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 12:00 PM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Abraham Oomman",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology), DNB (Cardiology)",
+      "language" : "English, മലയാളം",
+      "schedule" : "Everyday: 03:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "Arulnidhi Ayyanathan",
+      "degree" : "MBBS, MRCP (UK), AB (US), MBA (US)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "D Vaidhyanathan",
+      "degree" : "MBBS, MD, DM, FRCP (Ed), FRCP (G) (Cardiology)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Rakesh Gopal",
+      "degree" : "MD, FRCP, DM, DNB, FESC",
+      "language" : "English, বাংলা, हिंदी, മലയാളം, ଓଡ଼ିଆ, தமிழ்",
+      "schedule" : "Mon, Thu, Fri, Sat: 09:00 AM - 10:00 AM\nTue, Wed: 09:00 AM - 09:30 AM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Antionetta Ashwini J",
+      "degree" : "MBBS, MD (Dermatology)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Shyam Kumar S",
+      "degree" : "MBBS, MS ENT",
+      "language" : "English",
+      "schedule" : "Everyday: 09:00 AM - 10:00 AM"
+    } ]
+  }, {
+    "name" : "Family Medicine",
+    "schedules" : [ {
+      "doctor" : "Sadhana Dhavapalani",
+      "degree" : "MBBS, MRCGP (UK)",
+      "language" : "English, हिंदी",
+      "schedule" : "Everyday: 11:00 AM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Aman Kumar",
+      "degree" : "MBBS, MD",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 09:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Subhashini Venkatesh",
+      "degree" : "MBBS, DCH (London), MRCGP, Diploma in Dermatology",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 11:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Opthalmology",
+    "schedules" : [ {
+      "doctor" : "Chockalingam Muthuraman",
+      "degree" : "MBBS, DO DNB (Opthalmology) FRCS, PGDMHM",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Thu, Fri: 11:30 AM - 12:30 PM\nTue: 11:30 AM - 12:15 PM\nWed: 11:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Pradeep Kumar Bezwada",
+      "degree" : "MBBS, DO, FRACO (GON), Australia",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 02:30 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Clington Fernando",
+      "degree" : "MBBS, Diploma in Orthopaedics, MRCS (UK), FRCS (Trauma & Orthopedic Surgery), MCh (Orthopaedics), Orthopedist, Joint Replacement Surgeon, Sports Medicine Surgeon",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Senthil Kamalasekaran",
+      "degree" : "MBBS, MS (Orthopaedics), Fellowship in Knee & Hip Surgery, MRCS (UK)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Tue: 02:00 PM - 02:45 PM\nWed to Sat: 02:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Samundeswari V",
+      "degree" : "MD, DMRD (Radiology)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Wed: 11:00 AM - 01:50 PM, 01:50 PM - 02:00 PM\nTue: 10:30 AM - 11:30 AM\nFri: 10:30 AM - 01:50 PM, 01:50 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Sexual Medicine",
+    "schedules" : [ {
+      "doctor" : "Narayana Reddy",
+      "degree" : "MBBS, Ph.D",
+      "language" : "English, తెలుగు",
+      "schedule" : "Everyday: 04:00 PM - 06:00 PM"
+    } ]
+  } ]
+}

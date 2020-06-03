@@ -1,0 +1,181 @@
+﻿{
+  "name" : "Apollo Hospitals Tondiarpet",
+  "specialties" : [ {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Abraham Oomman",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology), DNB (Cardiology)",
+      "language" : "English, മലയാളം",
+      "schedule" : "Mon, Wed, Thu, Sat: 12:00 PM - 01:00 PM"
+    }, {
+      "doctor" : "Asha Mahilmaran",
+      "degree" : "MD, DNB, DM",
+      "language" : "English, हिंदी",
+      "schedule" : "Mon to Sat: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Healthyheart Tondiarpet",
+      "degree" : "MBBS",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 07:00 AM - 11:00 PM"
+    }, {
+      "doctor" : "Abraham Oomman",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology), DNB (Cardiology)",
+      "language" : "English, മലയാളം",
+      "schedule" : "Mon, Wed, Thu, Sat: 12:00 PM - 01:00 PM"
+    }, {
+      "doctor" : "Asha Mahilmaran",
+      "degree" : "MD, DNB, DM",
+      "language" : "English, हिंदी",
+      "schedule" : "Mon to Sat: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Healthyheart Tondiarpet",
+      "degree" : "MBBS",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 07:00 AM - 11:00 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Kirupanandam G",
+      "degree" : "MBBS, MS (ENT), DLO",
+      "language" : "English",
+      "schedule" : "Everyday: 01:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Kirupanandam G",
+      "degree" : "MBBS, MS (ENT), DLO",
+      "language" : "English",
+      "schedule" : "Everyday: 01:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Hari Prasath J",
+      "degree" : "MD (General Medicine), FCCP, PGD Diab",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Everyday: 12:00 PM - 01:00 PM, 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Kanakarajan P",
+      "degree" : "MBBS, MD",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 09:00 AM - 12:00 PM, 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Kannaiyan R",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 11:30 AM - 02:30 PM"
+    }, {
+      "doctor" : "Hari Prasath J",
+      "degree" : "MD (General Medicine), FCCP, PGD Diab",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Everyday: 12:00 PM - 01:00 PM, 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Kanakarajan P",
+      "degree" : "MBBS, MD",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 09:00 AM - 12:00 PM, 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Kannaiyan R",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 11:30 AM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Gobala Kichenen M",
+      "degree" : "MB, MS (General Surgery), FRSH (LON), FMAS (Laproscopy), FIAGES",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Gobala Kichenen M",
+      "degree" : "MB, MS (General Surgery), FRSH (LON), FMAS (Laproscopy), FIAGES",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "R M Bhoopathy",
+      "degree" : "MD (Internal Medicine), DM (Neurology)",
+      "language" : "English",
+      "schedule" : "Everyday: 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "R M Bhoopathy",
+      "degree" : "MD (Internal Medicine), DM (Neurology)",
+      "language" : "English",
+      "schedule" : "Everyday: 05:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Opthalmology",
+    "schedules" : [ {
+      "doctor" : "Rajaram Thangasamy",
+      "degree" : "MBBS, DO, DNB (Opthalmology)",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 08:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Rajaram Thangasamy",
+      "degree" : "MBBS, DO, DNB (Opthalmology)",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 08:00 AM - 10:00 AM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Dhilip Kumar T",
+      "degree" : "MS (Orthopaedics)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM, 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Dhilip Kumar T",
+      "degree" : "MS (Orthopaedics)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM, 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Ekambaranath T S",
+      "degree" : "MD (Pediatrics)",
+      "language" : "English, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Latha Vishwanathan",
+      "degree" : "MBBS, DCH, DNB (Pediatrics), MNAMS",
+      "language" : "English",
+      "schedule" : "Wed: 01:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Ekambaranath T S",
+      "degree" : "MD (Pediatrics)",
+      "language" : "English, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Latha Vishwanathan",
+      "degree" : "MBBS, DCH, DNB (Pediatrics), MNAMS",
+      "language" : "English",
+      "schedule" : "Wed: 01:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "P M Praveen Kumar",
+      "degree" : "MBBS, MS, MCh (Plastic Surgery)",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "R Murali",
+      "degree" : "MBBS, MS, MCh (Plastic Surgery)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "P M Praveen Kumar",
+      "degree" : "MBBS, MS, MCh (Plastic Surgery)",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "R Murali",
+      "degree" : "MBBS, MS, MCh (Plastic Surgery)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    } ]
+  } ]
+}

@@ -1,0 +1,158 @@
+﻿{
+  "name" : "Apollo City Center Hospital, Sowcarpet",
+  "specialties" : [ {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Abraham Oomman",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology), DNB (Cardiology)",
+      "language" : "English, മലയാളം",
+      "schedule" : "Everyday: 03:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "Kesavan S",
+      "degree" : "MBBS, MD, DM, DNB,",
+      "language" : "English, बर’, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Prakash Chand Jain",
+      "degree" : "MBBS, MD (General Medicine), DND (Cardiology)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Diabetology",
+    "schedules" : [ {
+      "doctor" : "Chinnaiyan P",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English",
+      "schedule" : "Everyday: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Niraj Joshi",
+      "degree" : "MBBS, MD, DLO, PhD, FAGE",
+      "language" : "English, हिंदी, русский, தமிழ், తెలుగు",
+      "schedule" : "Mon: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Sridhar K",
+      "degree" : "MBBS, DLO, MS",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 12:00 PM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Emergency Medicine",
+    "schedules" : [ {
+      "doctor" : "Raja N",
+      "degree" : "MBBS, MD",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 10:00 AM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Prashanth P S",
+      "degree" : "MD (General Medicine)",
+      "language" : "English, આ, हिंदी, मराठी, தமிழ்",
+      "schedule" : "Everyday: 01:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Senthilmuthu K",
+      "degree" : "MBBS, MD",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 10:30 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Gobala Kichenen M",
+      "degree" : "MB, MS (General Surgery), FRSH (London), FMAS (Laproscopy), FIAGES",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Sunitha Singhvi",
+      "degree" : "DGO, DNB (Obstetrics & Gynecology)",
+      "language" : "English",
+      "schedule" : "Everyday: 12:00 AM - 11:45 PM"
+    }, {
+      "doctor" : "Uma Selvam",
+      "degree" : "MBBS, MD (O&G), DNB (O&G)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 12:00 AM - 11:45 PM"
+    }, {
+      "doctor" : "Vinutha Arunachalam",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology), DNB, Diploma in Reproductive Medicine and Embryology (Germany)",
+      "language" : "English, العَرَبِيَّة, বাংলা, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 04:00 PM - 09:30 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Gobinathan S",
+      "degree" : "MBBS, MD, DM (Neurology)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Fri: 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "T Ram",
+      "degree" : "MBBS, MS (Orthopaedics), FAGE, FAIS (Aus)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Ekambaranath T S",
+      "degree" : "MD (Pediatrics)",
+      "language" : "English, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Ganesan D",
+      "degree" : "MD (Pediatrics)",
+      "language" : "English",
+      "schedule" : "Everyday: 12:00 AM - 11:45 PM"
+    }, {
+      "doctor" : "Latha Viswanathan",
+      "degree" : "MBBS, DCH, DNB (Pediatrics)",
+      "language" : "English",
+      "schedule" : "Mon, Wed, Fri: 12:00 PM - 01:00 PM"
+    }, {
+      "doctor" : "Manish Kumar Jain",
+      "degree" : "MBBS, MD (Pediatrics) (Child Specilalist)",
+      "language" : "English",
+      "schedule" : "Everyday: 09:00 AM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Urology",
+    "schedules" : [ {
+      "doctor" : "Jimmy Shad",
+      "degree" : "",
+      "language" : "English",
+      "schedule" : "Everyday: 03:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "R Murali",
+      "degree" : "MBBS, MS, MCh (Plastic Surgery)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 01:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Nitesh Jain",
+      "degree" : "MBBS, MS (General Surgery), MCh (Urology)",
+      "language" : "English, অসমিয়া, বাংলা, हिंदी, मराठी, தமிழ்",
+      "schedule" : "Mon to Sat: 08:00 AM - 05:30 PM"
+    }, {
+      "doctor" : "Vezhavendhan G",
+      "degree" : "",
+      "language" : "English",
+      "schedule" : "Everyday: 12:00 AM - 11:45 PM"
+    } ]
+  } ]
+}
