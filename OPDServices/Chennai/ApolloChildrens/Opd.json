@@ -1,0 +1,467 @@
+﻿{
+  "name" : "Apollo Children's Hospital",
+  "specialties" : [ {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Neville Soloman",
+      "degree" : "MBBS, MS (General Surgery), MCh (Cardio Thoracic Surgery)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 12:00 PM - 01:00 PM, 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Anuradha Sridhar",
+      "degree" : "MBBS, DNB, FNB",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Muthukumaran C S",
+      "degree" : "MBBS, MRCPCH, D.Ch, CCST (Paediatric Cardiology)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Prasad Manne",
+      "degree" : "MBBS, DCH, MRCPCH (UK), FRCPCH (London), Specialist Training (Paed Card) (UK)",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Child Development & Behavioral Health",
+    "schedules" : [ {
+      "doctor" : "M Shyamala Devi",
+      "degree" : "MBBS, DCH, MRCP (UK), MRCPCH (UK)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Col Rajagopal A",
+      "degree" : "MBBS, MD DV&D",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Ravichandran G",
+      "degree" : "BSc, MD, DD, MDerm",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Vengopal Reddy V",
+      "degree" : "MBBS, MD (Dermatology), PGCIH, AFIH",
+      "language" : "English, বাংলা, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 06:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Balaji R",
+      "degree" : "MBBS, MS (ENT)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM, 01:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "M Gowri Shankar",
+      "degree" : "MBBS, DLO, DNB, MS ENT",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 03:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Nithya Narayanan",
+      "degree" : "MBBS, DLO, DNB (ENT), MNAMS",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 10:00 AM, 12:00 PM - 01:00 PM"
+    }, {
+      "doctor" : "Sakthivel Manickavasagam",
+      "degree" : "MBBS, MS (ENT)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM, 01:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Venkata Karthikeyan C",
+      "degree" : "MS (AIIMS), DNB, Fellowship (USA)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Vikram P S J",
+      "degree" : "MBBS, FCR, MS (ENT)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM, 03:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Vinutha Arunachalam",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology), DNB, Diploma in Reproductive Medicine and Embryology (Germany)",
+      "language" : "English, العَرَبِيَّة, বাংলা, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Infection Medicine",
+    "schedules" : [ {
+      "doctor" : "Ram Gopalakrishnan",
+      "degree" : "MD, MRCP (UK), AB (Internal Medicine), AB (Infectious Dieseaes), American Certificate (Tropical Medicine), FIDSA",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Wed, Fri: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Suresh Kumar D",
+      "degree" : "MBBS, MD, FNB",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon, Wed, Sat: 12:00 PM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "Jaya Kumar Reddy",
+      "degree" : "MBBS, MD",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Fri: 12:30 PM - 02:00 PM\nSat: 12:30 PM - 02:00 PM, 08:30 PM - 09:00 PM"
+    }, {
+      "doctor" : "Jothi Parthasarathy S",
+      "degree" : "MBBS, MD (Pediatrics) (Neonatal)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Latha Kanchi Parthasarathy",
+      "degree" : "MBBS, DCH, MRCPCH, CCT (London)",
+      "language" : "English, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Meena Thiagarajan",
+      "degree" : "MBBS, DCH, MRCP",
+      "language" : "English",
+      "schedule" : "Thu: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Radhalakshmi Senthil",
+      "degree" : "MBBS, MD, DNB, MRCPCH",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Everyday: 04:00 PM - 06:00 PM, 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Ragupathy V",
+      "degree" : "MBBS, DCH, AB (Pediatrics) (USA), AB (Neonatology) (USA), FRCP (Canada)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 02:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Shyamala J",
+      "degree" : "MBBS, DCH, DNB (Pediatrics), Diplomate of National Board",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 09:00 AM - 02:00 PM\nTue: 12:00 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Kalaivani Ganesan",
+      "degree" : "MBBS, MD (Pediatrics), Fellowship in Pediatrics Nephrology (ISPN and The Tamilnadu, Dr MGR Medical University)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Thu, Sat: 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "M Saravanan",
+      "degree" : "MBBS, MD, DM (Nephrology) (CMC Vellore), DNB (Nephrology) (MNAMS), FIMSA, Visiting Fellow Renal Transplant (London)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Everyday: 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Sukanya Govindan",
+      "degree" : "MD (Paediatrics), DM (Nephrology), FISN (UK), MD (Paediatrics), DM (Nephrology), FISN (UK)",
+      "language" : "English, हिंदी, ਪੰਜਾਬੀ, தமிழ்",
+      "schedule" : "Tue, Wed, Fri: 04:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Balamurugan M",
+      "degree" : "DNB (Neuro Surgery)",
+      "language" : "English, বাংলা, தமிழ்",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Shankar Ganesh C V",
+      "degree" : "MS (General Surgery), MCh (Neuro)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Srinivasan Paramasivam",
+      "degree" : "MD, MCh (Neuro), MRCS (Ed), FINR (USA)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM, 03:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Kamala D",
+      "degree" : "MBBS, DCH, MD (Paediatrics), DM (Neurology)",
+      "language" : "English, বাংলা",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Mahesh Narayanan",
+      "degree" : "MD (Paed), DM (Neuro)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon, Wed, Sat: 10:30 AM - 11:00 AM, 05:00 PM - 06:00 PM\nTue, Thu, Fri, Sun: 10:30 AM - 11:00 AM"
+    }, {
+      "doctor" : "Sivaji Vani",
+      "degree" : "MRCP (UK), DCH (Lon), MRCPCH (UK)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Arun Kannan",
+      "degree" : "MS (Orthopaedics)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Clington Justin Fernando",
+      "degree" : "MBBS, D.Ortho, MRCS, FRCS, MCh (Ortho)",
+      "language" : "English, français, മലയാളം, தமிழ்",
+      "schedule" : "Mon: 10:45 AM - 12:00 PM\nTue to Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Gopinath Menon",
+      "degree" : "MS (Orthopaedics), D (Orthopaedics), FRCS, DSM",
+      "language" : "English, বাংলা, हिंदी, മലയാളം, தமிழ்",
+      "schedule" : "Mon to Sat: 06:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Praveen Kumar K L",
+      "degree" : "MRCS, FRCS (Trauma & Ortho) (UK) , DISEM (Sports Medicine)",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Sankar R",
+      "degree" : "MBBS, D.Ortho, FRCSI, FRCS (Orthopaedics)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Everyday: 09:00 AM - 10:00 AM, 03:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Daga Jn",
+      "degree" : "MD DCH",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 02:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Desai A",
+      "degree" : "MD (Pediatircs), DCH",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM, 03:00 PM - 04:00 PM, 04:00 PM - 05:00 PM, 04:00 PM - 06:00 PM\nSun: 09:00 AM - 11:00 AM, 03:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Dolly Lakhani",
+      "degree" : "MBBS, DCH, PGLMC",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Latha Vishwanathan",
+      "degree" : "MBBS, DCH, DNB (Pediatrics) (MNAMS)",
+      "language" : "English",
+      "schedule" : "Mon, Wed, Fri: 09:00 AM - 12:00 PM\nTue, Thu, Sat: 09:00 AM - 11:30 AM"
+    }, {
+      "doctor" : "Mathrubootham Sridhar",
+      "degree" : "MBBS, MRCPCH (UK)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM, 06:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Priya Biswakumar",
+      "degree" : "MBBS, DNB (Pediatrics) (MNAMS)",
+      "language" : "English, हिंदी, മലയാളം, தமிழ்",
+      "schedule" : "Mon, Wed, Fri, Sat: 03:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Radha Rajagopalan",
+      "degree" : "AB (Pediatrics)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Tue, Thu, Sat, Sun: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Satheesh Chithapuram",
+      "degree" : "MBBS, DCH, DNB (Pediatrics)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 12:00 PM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Allergy",
+    "schedules" : [ {
+      "doctor" : "Major Nagaraju Kuravi",
+      "degree" : "MD, DCH, DAA",
+      "language" : "English, മലയാളം",
+      "schedule" : "Wed, Sat: 03:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Anbezhil Subbarayan",
+      "degree" : "MBBS, MD (Pediatrics), MRCPCH (UK), FRCPCH (UK), CCT (UK), MSc Diabetes (UK)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Ramkumar S",
+      "degree" : "MBBS, MD, DNB (Diabetes & Endocrinology), DM (Diabetes & Endocrinology) (AIIMS), Clinical Fellowship in Diabetes, Insulin Pumps (Auckland, NZ)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Soundaram V",
+      "degree" : "MBBS, MD (Paediatrics), Fellowship in Paediatric and Adolescent Endocrinology.",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Fri: 10:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Dhanasekhar Kesavelu",
+      "degree" : "MBBS, MRCPCH, FRCPCH, CCT",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 09:30 AM - 10:30 AM"
+    }, {
+      "doctor" : "Shrinivas S",
+      "degree" : "MBBS, DCH, DNB, PDCC (Paediatric Gastroenterology)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Everyday: 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Viswanathan M S",
+      "degree" : "MBBS, MD (Paediatrics), MRCPCH (UK), FRCPCH (UK), Paediatric Nutrition (RCPCH, UK), CCT (UK)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Haematology",
+    "schedules" : [ {
+      "doctor" : "Revathi Raj",
+      "degree" : "MBBS, DCH, PLAB, MRCP, FRCPath",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Thu: 05:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Neurology",
+    "schedules" : [ {
+      "doctor" : "Sai Sucheethra Dorairaj",
+      "degree" : "MBBS, DCH, MRCPCH",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Wed, Fri: 12:00 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Opthalmology & Squint",
+    "schedules" : [ {
+      "doctor" : "Parthasarathy V C",
+      "degree" : "MBBS, DO, FRC OPATH (London)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Wed, Fri: 02:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Suresh Kumar G D",
+      "degree" : "MBBS, DCH, MRCPCH, MRCPsych, CCT (UK)",
+      "language" : "English, हिंदी, తెలుగు",
+      "schedule" : "Tue, Thu, Sat: 06:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Chitra Sundramoorthy",
+      "degree" : "MBBS, DCH, MRCPCH, MSc (Rheumatology), CCT",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 01:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Mahesh Janarthanan",
+      "degree" : "MD, MRCPCH, FRCPCH, MSC (Rheumatology)",
+      "language" : "English, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Bagdi R K",
+      "degree" : "MBBS, MS (General Surgery), MNAMS (General Surgery), MCh (Pediatric Surgery)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Balamourougane P",
+      "degree" : "MS, DNB, MNAMS, MCR (AIIMS), DNB (Pediatric Surgery)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 08:00 AM - 10:00 AM, 07:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Lazarus Rajiv B Padankati",
+      "degree" : "MBBS, Dip NB (General Surgery & pediatric Surgery), MRCS",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon, Wed, Thu, Sat: 08:00 AM - 09:00 AM\nTue, Fri: 08:00 AM - 09:00 AM, 03:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Prakash Agarwal",
+      "degree" : "MBBS, MS, MCh (Pediatric Surgery)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon, Fri: 10:00 AM - 12:45 PM, 05:00 PM - 05:45 PM\nTue, Wed, Thu, Sat: 05:00 PM - 05:45 PM"
+    }, {
+      "doctor" : "Radhakrishnan Satheesan",
+      "degree" : "MBBS, MD",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Thu: 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Kannan Prema",
+      "degree" : "MBBS, MS (General Surgery), MCH (Plastic Surgery), FIMSA, FRCS (Glasgow)",
+      "language" : "English, বাংলা, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 04:00 PM - 04:45 PM"
+    }, {
+      "doctor" : "Leela Praveen Kumar K",
+      "degree" : "MS (General Surgery), MCh (Plastic Surgery)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, தமிழ், తెలుగు",
+      "schedule" : "Fri, Sat: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Roshini Gopinathan",
+      "degree" : "MBBS, D.Ortho, AB (General Surgery & Plastic Surgery)",
+      "language" : "English, हिंदी, മലയാളം, தமிழ்",
+      "schedule" : "Mon to Sat: 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Sivakumar K S",
+      "degree" : "MBBS, MS (Gen), MCh (PRS)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Wed: 09:00 AM - 10:00 AM"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Venkateswaran R",
+      "degree" : "MBBS, MD",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon, Wed, Fri: 05:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Psychology",
+    "schedules" : [ {
+      "doctor" : "Aarthi Radhika Inuganti",
+      "degree" : "Master of Science, Developmental Psychology Eastern Washington University, Spokane, WA. March 1996 Master of Arts, English Literature Kakatiya University, India, April 1992 Bachelor of Arts, Sociology Stella Maris College, Madras University, India, June 1990",
+      "language" : "English, తెలుగు",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Keerthi Pai",
+      "degree" : "MPhil (Clinical Psychology), PHD",
+      "language" : "English, বাংলা, हिंदी, ಕನ್ನಡ, ಕೊಂಕಣಿ, മലയാളം, தமிழ்",
+      "schedule" : "Everyday: 03:30 PM - 04:30 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Ayesha Shahnaz",
+      "degree" : "MBBS, MRCPCH, CCT",
+      "language" : "English, हिंदी",
+      "schedule" : "Everyday: 11:00 AM - 01:45 PM"
+    }, {
+      "doctor" : "Vijaysekaran D",
+      "degree" : "MBBS, DCH, MD (Paediatrics), FIAP",
+      "language" : "English",
+      "schedule" : "Everyday: 01:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Mahesh Jhanardhan",
+      "degree" : "",
+      "schedule" : "Everyday: 04:00 PM - 04:45 PM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Jimmy Shad",
+      "degree" : "MS, MCh (Paediatric Surgery), Fellowship Paediatric Urology",
+      "language" : "English, हिंदी, ਪੰਜਾਬੀ, தமிழ்",
+      "schedule" : "Mon: 09:15 AM - 02:00 PM, 07:00 PM - 08:00 PM\nTue to Sat: 09:00 AM - 02:00 PM, 07:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Sripathi V",
+      "degree" : "MBBS, MS, MCh (CMC, Vellore), FRACS (Melbourne), European Board Certified (Pediatric Urology)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 03:00 PM - 04:45 PM"
+    } ]
+  } ]
+}

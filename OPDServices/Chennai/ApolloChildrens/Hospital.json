@@ -1,0 +1,15 @@
+{
+"name":"Apollo Children\'s Hospital",
+"code":"ApolloChildrens",
+"address":"No. 15, Shafee Mohammed Road, Thousand Lights, Chennai 600006",
+"geoLocation":"13.0598552,80.2524842?q=Apollo+Children\'s+Hospital",
+"emails":"info@apollohospitals.com",
+"websites":"https://chennai.apollohospitals.com/hospitals/thousand-lights-childrens",
+"faxNumbers":"4428294429",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4428298282,4428296262",
+	"isOpd":true
+	}]
+}
