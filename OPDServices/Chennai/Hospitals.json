@@ -29,5 +29,13 @@
 	"name":"Apollo Hospitals, Tondiarpet",
 	"locality":"Tondiarpet",
 	"code":"ApolloTondiarpet"
+	},{
+	"name":"Apollo Medical Centre, Karapakkam",
+	"locality":"Karapakkam",
+	"code":"ApolloKarapakkam"
+	},{
+	"name":"Apollo Speciality Hospitals, OMR",
+	"locality":"Perungudi",
+	"code":"ApolloOMR"
 	}]
 } 

@@ -1,0 +1,15 @@
+{
+"name":"Apollo Medical Centre, Karapakkam",
+"code":"ApolloKarapakkam",
+"address":"#2/319, OMR, Karapakkam, Chennai 600097",
+"geoLocation":"12.9144419,80.2301459?q=Apollo+Medical+Centre+Karapakkam",
+"emails":"amc_cni@apollohospitals.com",
+"websites":"https://chennai.apollohospitals.com/hospitals/karapakkam",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4430707777,4424505700,4430707788,7299040625",
+	"isOpd":true
+	}]
+}

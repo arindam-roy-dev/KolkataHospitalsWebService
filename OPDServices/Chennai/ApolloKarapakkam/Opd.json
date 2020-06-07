@@ -1,0 +1,182 @@
+﻿{
+  "name" : "Apollo Medical Centre, Karapakkam",
+  "specialties" : [ {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Anuj Singh",
+      "degree" : "MBBS (Stanley Medical College), DDVL (Madras Medical College)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 02:30 PM - 03:30 PM"
+    }, {
+      "doctor" : "Tejaswi Cherukuri",
+      "degree" : "MBBS, MD (DVL), FAM, FAAD",
+      "language" : "English, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Usha Ayyagari",
+      "degree" : "MBBS, MRCP",
+      "language" : "English, తెలుగు",
+      "schedule" : "Tue, Thu, Sat: 09:00 AM - 09:30 AM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Durga Damodaran",
+      "degree" : "MBBS, MRCGP, Dip in Diabetes (UK), Certification in Botox & Fillers (Cosmetology)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Nandita Kapat Sinha",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 07:00 PM - 08:30 PM"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Amudha Hari",
+      "degree" : "MBBS, DGO Phd",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 07:30 PM - 08:00 PM"
+    }, {
+      "doctor" : "Bobby Mathiyarasu",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology) (MMC), MRCOG (UK)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 10:30 AM"
+    }, {
+      "doctor" : "Janani Iyer",
+      "degree" : "MD, MRCOG, FRCOG (UK)",
+      "language" : "English, આ, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Karthiga Devi",
+      "degree" : "MBBS, MS (Obstetrics)",
+      "language" : "English, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 10:30 AM - 02:30 PM"
+    }, {
+      "doctor" : "Parimalam Ramanathan",
+      "degree" : "MD (Obstetrics & Gynecology), DNB, MRCOG (UK), CCT (UK), FMAS, FRCOG (UK)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Rajsri J Shankar",
+      "degree" : "MBBS, MRCOG",
+      "language" : "English, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 11:00 AM - 02:30 PM"
+    }, {
+      "doctor" : "Sangeetha Visweswar",
+      "degree" : "MBBS, DGO, DNB",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 08:00 AM - 10:00 PM"
+    }, {
+      "doctor" : "Sindhu Bhargavi G",
+      "degree" : "MBBS, DNB (Obstetrics), MRCOG (Reproductive Medicine) (ICOG)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Wed, Fri, Sat: 02:00 PM - 04:00 PM\nTue, Thu: 02:00 PM - 04:00 PM, 07:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "Sowmya Raghavan",
+      "degree" : "MBBS, DGO, MD (Obstetrics & Gynecology), DNB",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Fri: 11:00 AM - 02:30 PM\nSat: 11:00 AM - 06:30 PM"
+    }, {
+      "doctor" : "Vanitha Shri R",
+      "degree" : "MBBS, DNB (Obstetrics & Gynecology), Dip Reproductive Medicine (Germany)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Wahida Suresh",
+      "degree" : "MBBS, DNB",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Fri: 05:00 PM - 06:00 PM\nSat: 10:00 AM - 11:30 AM, 05:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "Radhalakshmi Senthil",
+      "degree" : "MBBS, MD, DNB, MRCPCH",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 09:00 AM - 10:30 AM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Sankar R",
+      "degree" : "MBBS, D. Ortho, FRCSI, FRCS (Orthopaedics)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Wed: 05:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Antony J",
+      "degree" : "MBBS, MD Pediatrics",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 05:00 PM - 06:30 PM"
+    }, {
+      "doctor" : "Banu K",
+      "degree" : "MBBS, DCH, DNB, DAP",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Tue, Sat, Sun: 03:00 PM - 07:00 PM\nThu: 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Meena Thiyagarajan",
+      "degree" : "MBBS, MRCP",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Wed: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Prakash Selvaperumal",
+      "degree" : "MBBS, MD (Pediatrics) (AIIIMS)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 10:00 AM - 04:00 PM, 07:00 PM - 08:30 PM"
+    }, {
+      "doctor" : "Prof Suresh Panchanathan",
+      "degree" : "",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon, Wed, Sat, Sun: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Rini Shah",
+      "degree" : "MBBS, MD (Pediatrics), Fellowship in Pediatric Endocrinology",
+      "language" : "English, આ, हिंदी",
+      "schedule" : "Wed, Fri, Sat: 05:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Harish V S",
+      "degree" : "MBBS, DCH, MRCPCH, CCT",
+      "language" : "English, ಕನ್ನಡ",
+      "schedule" : "Mon to Sat: 09:30 AM - 02:00 PM, 07:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "Murali Gopal",
+      "degree" : "DCh (UK), MRCPCh (UK), FRCPCh (UK), CCT (Paediatrics) (UK), Fellow Paediatric Respiratory Medicine (Australia)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Fri: 09:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Rajiv Padankatti",
+      "degree" : "DIPNB (Surgery), DIPNB (Paediatric Surgery)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon, Wed, Fri: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sivasankar Jayakumar",
+      "degree" : "MBBS, MRCS, PGCME, FEBPS",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon, Thu, Sat: 02:00 PM - 03:00 PM\nTue, Wed, Fri: 10:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Rohini Prasad",
+      "degree" : "MBBS, MS, DNB (General Surgery), MCh (Plastic Surgery)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Thu: 02:00 PM - 03:00 PM"
+    } ]
+  } ]
+}

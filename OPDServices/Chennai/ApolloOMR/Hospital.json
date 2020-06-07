@@ -1,0 +1,15 @@
+{
+"name":"Apollo Speciality Hospitals, OMR",
+"code":"ApolloOMR",
+"address":"05/639, Old Mahabalipuram Road, Chennai 600096",
+"geoLocation":"12.9626022,80.2460097?q=Apollo+Speciality+Hospital+OMR",
+"emails":"apollospecialty@apollohospitals.com",
+"websites":"https://chennai.apollohospitals.com/hospitals/omr",
+"faxNumbers":"4433221999",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4433221111,4424961111",
+	"isOpd":true
+	}]
+}
