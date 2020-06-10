@@ -8,7 +8,7 @@
 "faxNumbers":"4425296084",
 "hasOpd":true,
 "contactTypes":[{
-	"name":"Hospital",
+	"name":"Helpline",
 	"phoneNumbers":"4425296080,4425296084",
 	"isOpd":true
 	}]

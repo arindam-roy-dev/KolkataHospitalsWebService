@@ -1,5 +1,5 @@
 ﻿{
-  "name" : "Apollo Women\'s Hospital",
+  "name" : "Apollo Womens Hospital",
   "specialties" : [ {
     "name" : "Gynaecology",
     "schedules" : [ {
@@ -19,22 +19,22 @@
       "schedule" : "Mon to Sat: 02:00 PM - 03:00 PM"
     }, {
       "doctor" : "Meenakshi Sundaram",
-      "degree" : "MBBS, MD, DNB (O &G)",
+      "degree" : "MBBS, MD, DNB (O&G)",
       "language" : "English, বাংলা, മലയാളം, मराठी",
       "schedule" : "Mon to Sat: 08:00 AM - 05:00 PM"
     }, {
       "doctor" : "Priyanka Mehta",
-      "degree" : "MD MRCOG FMAS DIPLOMA ADVANCED LAP (GERMANY)",
+      "degree" : "MD, MRCOG, FMAS, Diploma Advanced Lap (Germany)",
       "language" : "English, हिंदी, தமிழ்",
       "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
     }, {
       "doctor" : "Senthamil Selvi",
-      "degree" : "MBBS, DNB OBGYN, Minimal Access , Endoscopy, Infertility and related Endosopy",
+      "degree" : "MBBS, DNB (Obstetrics & Gynecology), Minimal Access, Endoscopy, Infertility and related Endosopy",
       "language" : "English, தமிழ்",
       "schedule" : "Mon to Sat: 03:00 PM - 05:00 PM"
     }, {
       "doctor" : "Shiva Singh Shekhawat",
-      "degree" : "MBBS, DGO, DNB, CIMP, Fellowship In Minimal Access Surgery, Diploma In Minimal Access Surgery, Fellowship In ART",
+      "degree" : "MBBS, DGO, DNB, CIMP, Fellowship in Minimal Access Surgery, Diploma in Minimal Access Surgery, Fellowship in ART",
       "language" : "English, हिंदी, ਪੰਜਾਬੀ, தமிழ்",
       "schedule" : "Mon to Sat: 08:00 AM - 10:00 PM"
     }, {
@@ -59,12 +59,12 @@
       "schedule" : "Mon to Fri: 02:00 PM - 03:00 PM"
     }, {
       "doctor" : "Vinutha Arunachalam",
-      "degree" : "MBBS, MD (OBST &GYN), DNB, Diploma in Reproductive Medicine and Embryology, Germany.",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology), DNB, Diploma in Reproductive Medicine and Embryology (Germany)",
       "language" : "English, العَرَبِيَّة, বাংলা, हिंदी, தமிழ், తెలుగు",
       "schedule" : "Mon to Sat: 08:00 AM - 05:00 PM"
     }, {
       "doctor" : "Vishnu Vandana",
-      "degree" : "MBBS, DNB (OBGYN)",
+      "degree" : "MBBS, DNB (Obstetrics & Gynecology)",
       "language" : "English, தமிழ்",
       "schedule" : "Mon to Sat: 08:00 AM - 05:00 PM"
     }, {
@@ -74,7 +74,7 @@
       "schedule" : "Mon to Sat: 04:00 PM - 05:00 PM"
     } ]
   }, {
-    "name" : "Gynecologic Oncology",
+    "name" : "Gynaecologic Oncology",
     "schedules" : [ {
       "doctor" : "Kumar Gubbala",
       "degree" : "MBBS, MRCOG",
@@ -85,20 +85,17 @@
     "name" : "Reproductive Medicine & Infertility",
     "schedules" : [ {
       "doctor" : "Kanimozhi K",
-      "degree" : "MBBS, MD (O &G), MCh REPRODUCTIVE Medicine & Surgery, Diploma in Clinical Embryology (Australia)",
+      "degree" : "MBBS, MD (O&G), MCh (Reproductive Medicine & Surgery), Diploma in Clinical Embryology (Australia)",
       "language" : "English, தமிழ், తెలుగు",
       "schedule" : "Mon to Sat: 12:00 PM - 03:00 PM"
     }, {
       "doctor" : "Kirthika K S",
-      "degree" : "MD (OG), DNB (OG), FNB (REPRODUCTIVE Medicine)",
+      "degree" : "MD (OG), DNB (OG), FNB (Reproductive Medicine)",
       "language" : "English, العَرَبِيَّة, हिंदी, தமிழ்",
       "schedule" : "Mon to Sat: 08:00 AM - 12:00 PM"
-    } ]
-  }, {
-    "name" : "Reproductive Medicine & Infertility, Gynaecology, Gynaecology, Gynecologist & Obstetrician, Gynaecologist & Infertility Specialist",
-    "schedules" : [ {
+    }, {
       "doctor" : "Sumana Manohar",
-      "degree" : "MBBS, MRCOG (LONDON), FRCOG (LONDON)",
+      "degree" : "MBBS, MRCOG (London), FRCOG (London)",
       "language" : "English, العَرَبِيَّة, বাংলা, हिंदी, தமிழ், తెలుగు",
       "schedule" : "Mon to Sat: 08:00 AM - 03:00 PM"
     } ]
@@ -114,7 +111,7 @@
     "name" : "Urogynaecology",
     "schedules" : [ {
       "doctor" : "Alpa Khakhar",
-      "degree" : "MBBS, MD (OB , GYN)",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology)",
       "language" : "English, বাংলা, આ, हिंदी, தமிழ்",
       "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
     } ]
