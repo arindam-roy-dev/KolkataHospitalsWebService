@@ -1,0 +1,75 @@
+﻿{
+  "name" : "Apollo Proton Cancer Centre",
+  "specialties" : [ {
+    "name" : "Head & Neck Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Naveen H C",
+      "degree" : "MBBS, MS (ENT), Fellowship in Head & Neck Onoclogy, Fellow in Head and Neck Surgery, MCh (Head & Neck Surgical Oncology)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, മലയാളം",
+      "schedule" : "Everyday: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Vidhyadharan Sivakumar",
+      "degree" : "MBBS, MS (ENT), DNB (ENT), MCh (Head & Neck Surgery), FEB (ORL HNS), FICRS",
+      "language" : "English, हिंदी, മലയാളം, தமிழ்",
+      "schedule" : "Everyday: 08:00 AM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Raja T",
+      "degree" : "MBBS, MD, DM",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 01:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Roopesh Kumar",
+      "degree" : "MBBS, MS (General), MCh (NeuroSurgery)",
+      "language" : "English, हिंदी, ಕನ್ನಡ, മലയാളം, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 08:00 AM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Srivatsa V G",
+      "degree" : "MBBS, DPM, DNB (Psychiatry), FIPS, FIAMS",
+      "language" : "English, বাংলা, हिंदी, ಕನ್ನಡ, മലയാളം, தமிழ், తెలుగు",
+      "schedule" : "Tue, Thu: 09:30 AM - 06:00 PM\nFri: 12:30 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Radiation Oncology",
+    "schedules" : [ {
+      "doctor" : "Rakesh Jalali",
+      "degree" : "MBBS, MD (Radiotherapy and Oncology)",
+      "language" : "English",
+      "schedule" : "Everyday: 08:00 AM - 08:00 PM"
+    }, {
+      "doctor" : "Sapna Nangia",
+      "degree" : "MBBS (AFMC), MD (Radiotherapy) (SGPGI)",
+      "language" : "English, हिंदी, ਪੰਜਾਬੀ",
+      "schedule" : "Mon, Sat: 09:00 AM - 02:00 PM, 03:15 PM - 05:00 PM\nTue to Fri: 10:30 AM - 02:00 PM, 03:15 PM - 05:00 PM"
+    }, {
+      "doctor" : "Srinivas Chilukuri",
+      "degree" : "MBBS, MD, PDCR",
+      "language" : "English, हिंदी, मराठी, తెలుగు",
+      "schedule" : "Everyday: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Saravanan M N",
+      "degree" : "MBBS, DNB (General Surgery), DNB (Surgical Gastroenterology)",
+      "language" : "English, हिंदी, मराठी, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 08:00 AM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Vaithiswaran Velayoudam",
+      "degree" : "MBBS, MS (General Surgery), MRCS, FAIS, FMAS",
+      "language" : "English, français, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Everyday: 08:00 AM - 08:00 PM"
+    } ]
+  } ]
+}

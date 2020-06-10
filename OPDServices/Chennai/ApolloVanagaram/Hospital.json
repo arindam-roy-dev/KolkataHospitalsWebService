@@ -1,0 +1,15 @@
+{
+"name":"Apollo Speciality Hospitals, Vanagaram",
+"code":"ApolloVanagaram",
+"address":"No.64, Vanagaram to Ambattur Main Road, Chennai 600095",
+"geoLocation":"13.0698169,80.1512266?q=Apollo+Speciality+Hospitals",
+"emails":"vanagaram@apollohospitals.com",
+"websites":"https://chennai.apollohospitals.com/hospitals/vanagaram",
+"faxNumbers":"4426531021",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4426537777",
+	"isOpd":true
+	}]
+}

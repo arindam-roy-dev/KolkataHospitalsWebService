@@ -1,0 +1,15 @@
+{
+"name":"Apollo Proton Cancer Centre",
+"code":"ApolloProton",
+"address":"100 Feet Road, Taramani, Chennai 600113",
+"geoLocation":"12.9797097,80.250346?q=Apollo+Proton+Cancer+Centre",
+"emails":"protontherapy@apollohospitals.com",
+"websites":"https://proton.apollohospitals.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"9840069381,4424548888",
+	"isOpd":true
+	}]
+}

@@ -34,8 +34,24 @@
 	"locality":"Karapakkam",
 	"code":"ApolloKarapakkam"
 	},{
+	"name":"Apollo Proton Cancer Centre",
+	"locality":"Taramani",
+	"code":"ApolloProton"
+	},{
 	"name":"Apollo Speciality Hospitals, OMR",
 	"locality":"Perungudi",
 	"code":"ApolloOMR"
+	},{
+	"name":"Apollo Speciality Hospitals, Vanagaram",
+	"locality":"Vanagaram",
+	"code":"ApolloVanagaram"
+	},{
+	"name":"Apollo Women\'s Hospital",
+	"locality":"Thousand Lights",
+	"code":"ApolloWomens"
+	},{
+	"name":"Apollo Cosmetic Clinics, MRC Nagar",
+	"locality":"MRC Nagar",
+	"code":"ApolloCosmetic"
 	}]
 } 

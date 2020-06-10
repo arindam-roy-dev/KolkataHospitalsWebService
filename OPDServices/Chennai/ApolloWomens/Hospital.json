@@ -1,0 +1,15 @@
+{
+"name":"Apollo Women\'s Hospital",
+"code":"ApolloWomens",
+"address":"No. 16, Shafee Mohammed Road, Thousand Lights, Chennai 600006",
+"geoLocation":"13.0594477,80.2524485?q=Apollo+Women\'s+Hospital",
+"emails":"info@apollohospitals.com",
+"websites":"https://chennai.apollohospitals.com/hospitals/tondiarpet",
+"faxNumbers":"4428294429",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"04428296270,04428296262,04428298282",
+	"isOpd":true
+	}]
+}

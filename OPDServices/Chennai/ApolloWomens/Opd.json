@@ -1,0 +1,122 @@
+﻿{
+  "name" : "Apollo Women\'s Hospital",
+  "specialties" : [ {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Charumathi R",
+      "degree" : "MD, DGO",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 08:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Kondammal R",
+      "degree" : "MD, DGO, DNB",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 08:00 AM - 12:00 PM, 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Manjula Bagdi",
+      "degree" : "MBBS, DGO",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Meenakshi Sundaram",
+      "degree" : "MBBS, MD, DNB (O &G)",
+      "language" : "English, বাংলা, മലയാളം, मराठी",
+      "schedule" : "Mon to Sat: 08:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Priyanka Mehta",
+      "degree" : "MD MRCOG FMAS DIPLOMA ADVANCED LAP (GERMANY)",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Senthamil Selvi",
+      "degree" : "MBBS, DNB OBGYN, Minimal Access , Endoscopy, Infertility and related Endosopy",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 03:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Shiva Singh Shekhawat",
+      "degree" : "MBBS, DGO, DNB, CIMP, Fellowship In Minimal Access Surgery, Diploma In Minimal Access Surgery, Fellowship In ART",
+      "language" : "English, हिंदी, ਪੰਜਾਬੀ, தமிழ்",
+      "schedule" : "Mon to Sat: 08:00 AM - 10:00 PM"
+    }, {
+      "doctor" : "Sowbarnika Ramamoorthy",
+      "degree" : "MBBS, MD (Obstetrics) (JIPMER), DNB, FMAS, MNAMS (Fellowship in Minimal Access Surgery)",
+      "language" : "English, বাংলা, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 10:00 PM"
+    }, {
+      "doctor" : "Sree Priya",
+      "degree" : "MBBS, DGO (OG), DNB, FNB",
+      "language" : "English, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Swarnakumari C",
+      "degree" : "MD (DGO), DA, FACS, FICOG",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Vasanthi D",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology)",
+      "language" : "English",
+      "schedule" : "Mon to Fri: 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Vinutha Arunachalam",
+      "degree" : "MBBS, MD (OBST &GYN), DNB, Diploma in Reproductive Medicine and Embryology, Germany.",
+      "language" : "English, العَرَبِيَّة, বাংলা, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Vishnu Vandana",
+      "degree" : "MBBS, DNB (OBGYN)",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 08:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Wahida Suresh",
+      "degree" : "MBBS, DNB",
+      "language" : "English, தமிழ்",
+      "schedule" : "Mon to Sat: 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Gynecologic Oncology",
+    "schedules" : [ {
+      "doctor" : "Kumar Gubbala",
+      "degree" : "MBBS, MRCOG",
+      "language" : "English, हिंदी",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Reproductive Medicine & Infertility",
+    "schedules" : [ {
+      "doctor" : "Kanimozhi K",
+      "degree" : "MBBS, MD (O &G), MCh REPRODUCTIVE Medicine & Surgery, Diploma in Clinical Embryology (Australia)",
+      "language" : "English, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Kirthika K S",
+      "degree" : "MD (OG), DNB (OG), FNB (REPRODUCTIVE Medicine)",
+      "language" : "English, العَرَبِيَّة, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 08:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Reproductive Medicine & Infertility, Gynaecology, Gynaecology, Gynecologist & Obstetrician, Gynaecologist & Infertility Specialist",
+    "schedules" : [ {
+      "doctor" : "Sumana Manohar",
+      "degree" : "MBBS, MRCOG (LONDON), FRCOG (LONDON)",
+      "language" : "English, العَرَبِيَّة, বাংলা, हिंदी, தமிழ், తెలుగు",
+      "schedule" : "Mon to Sat: 08:00 AM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Balaji R",
+      "degree" : "MBBS, MS, MRCS (Edinburgh), MCh (Surgical Oncology), DNB (Surgical Oncology)",
+      "language" : "English, ಕನ್ನಡ, தமிழ்",
+      "schedule" : "Mon to Sat: 03:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Urogynaecology",
+    "schedules" : [ {
+      "doctor" : "Alpa Khakhar",
+      "degree" : "MBBS, MD (OB , GYN)",
+      "language" : "English, বাংলা, આ, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
+    } ]
+  } ]
+}

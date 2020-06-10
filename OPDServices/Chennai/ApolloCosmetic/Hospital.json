@@ -1,0 +1,15 @@
+{
+"name":"Apollo Cosmetic Clinics, MRC Nagar",
+"code":"ApolloCosmetic",
+"address":"Sathyadev Avenue, MRC Nagar, RA Puram, Chennai 600028",
+"geoLocation":"13.0168901,80.2716976?q=Apollo+Cosmetic+Clinics",
+"emails":"contactus@apollocosmetic.com",
+"websites":"https://www.apollocosmeticclinics.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital",
+	"phoneNumbers":"9790977977",
+	"isOpd":true
+	}]
+}

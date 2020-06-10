@@ -1,0 +1,83 @@
+﻿{
+  "name" : "Apollo Cosmetic Clinics, MRC Nagar",
+  "specialties" : [ {
+    "name" : "Cosmetic Surgery",
+    "schedules" : [ {
+      "doctor" : "A P Selvam",
+      "degree" : "MD (USA), DCh, MS MCh (Plastic Surgery)",
+      "language" : "English",
+      "schedule" : "Mon, Fri: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Annie Flora",
+      "degree" : "MBBS, DDVL",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Arumugam S",
+      "degree" : "MBBS, MD, FACS",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Arvind Maharaj P M",
+      "degree" : "MBBS, MS, MCh",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 06:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "K Rama Chandran",
+      "degree" : "MBBS, MS, MCh, MNAMS",
+      "language" : "English",
+      "schedule" : "Mon, Tue: 09:00 AM - 01:30 PM, 04:00 PM - 05:00 PM\nWed to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Manjusree Naik Naik",
+      "degree" : "MBBS, MS, DNB, MCh",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Nirmala Subramaniam",
+      "degree" : "",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    }, {
+      "doctor" : "Sasi Kumar",
+      "degree" : "MBBS, MS, MCh (Plastic Surgery)",
+      "language" : "English",
+      "schedule" : "Mon, Tue: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM\nWed: 09:45 AM - 01:45 PM, 01:45 PM - 05:00 PM\nThu to Sat: 09:00 AM - 01:30 PM, 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Shashi Bushan",
+      "degree" : "MBBS, MS, MCh, MICH",
+      "language" : "English",
+      "schedule" : "Mon to Fri: 09:00 AM - 01:45 PM, 01:45 PM - 04:00 PM\nSat: 09:00 AM - 01:45 PM, 01:45 PM - 03:30 PM"
+    }, {
+      "doctor" : "Shivaram Bharadwaj",
+      "degree" : "MBBS, DNB, FRCS (Plastic Surgery)",
+      "language" : "English",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM\nThu: 09:15 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Ashiq Mohamed",
+      "degree" : "MBBS, MD (Dermatology, Venerology & Leprosy)",
+      "language" : "English, தமிழ், اردو",
+      "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Venugopal Reddy",
+      "degree" : "MBBS, MD",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM, 01:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Maxillo Facial Surgery",
+    "schedules" : [ {
+      "doctor" : "Ajay Mohan",
+      "degree" : "BDS, MDS (Oral & Maxillofacial Surgery), Fellowship in Cleft Lip & Palate & Craniofacial Surgery, Fellowship in Aesthetic Medicine",
+      "language" : "English, हिंदी, தமிழ்",
+      "schedule" : "Mon to Sat: 01:00 PM - 04:45 PM"
+    }, {
+      "doctor" : "Senthil Nathan",
+      "degree" : "BDS, MBS",
+      "language" : "English",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
+    } ]
+  } ]
+}
