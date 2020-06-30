@@ -13,5 +13,13 @@
 	"name":"Apollo Speciality Hospitals, Jayanagar",
 	"locality":"Jayanagar",
 	"code":"ApolloJayanagar"
+	},{
+	"name":"Narayana Institute Cardiac Sciences, Bommasandra",
+	"locality":"Bommasandra",
+	"code":"NarayanaCardiac"
+	},{
+	"name":"Narayana Medical Centre, Langford Town",
+	"locality":"Langford Town",
+	"code":"NarayanaLangfordTown"
 	}]
 } 

@@ -1,0 +1,403 @@
+﻿{
+  "name" : "Narayana Institute Cardiac Sciences, Bommasandra",
+  "specialties" : [ {
+    "name" : "Anaesthesia & Critical Care",
+    "schedules" : [ {
+      "doctor" : "Ganesh Sambandamoorthy",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Hema C Nair",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Keshava Murthy Shankariah",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kumaraswamy Manjunath",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kumarswamy G N",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Lakshmi R Patil",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Manjunath R",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Muralidhar Kanchi",
+      "degree" : "Senior Consultant & Professor",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Neha Srivastava K M",
+      "degree" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rajesh Govardhan Hegde",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Ratankumar Thakuk Das Gupta",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Riyan S. Shetty",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sanjay Orathi Patangi",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shiva Prasad",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shreedhar Joshi",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shriman Narayan K H",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sucharita Das",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sunil Kumar V",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Warkari Tejas Arun",
+      "degree" : "Senior Registrar",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiac Surgery - Adult",
+    "schedules" : [ {
+      "doctor" : "Avery Mathew",
+      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Devi Prasad Shetty",
+      "degree" : "Founder, Chairman And Senior Consultant Cardiac Surgeon",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Dhaded Sanjay Basavaraj",
+      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Dibya Prakash Sahu",
+      "degree" : "Junior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Julius Punnen",
+      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kiran K",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "P S Jairaj",
+      "degree" : "Professor",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "P V Rao",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Praveen Kumar",
+      "degree" : "Medical Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Priyankar Sinha",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Raghu M G",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Ramesh Seshadri",
+      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Ravindra Setty B R",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Thiruthani Kumaran M M",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Varun Shetty",
+      "degree" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiac Surgery - Paediatric",
+    "schedules" : [ {
+      "doctor" : "Chinnaswamy Reddy H M",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Colin John",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Devi Prasad Shetty",
+      "degree" : "Founder, Chairman And Senior Consultant Cardiac Surgeon",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Julius Punnen",
+      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "P V Rao",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Raghu M G",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sudesh Prabhu",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Varun Shetty",
+      "degree" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiology - Adult",
+    "schedules" : [ {
+      "doctor" : "Bagirath Raghuraman",
+      "degree" : "Senior Consultant - Heart Transplant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Barendra Kumar Raut",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Bijay Kumar Mahala",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Darshan B N",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Deepak Padmanabhan",
+      "degree" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "George Cherian",
+      "degree" : "Professor",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Gurappa Shetty Gojanur",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "J. Kannan",
+      "degree" : "Assistant Professor",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kapil Kumawat",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "P V Suresh",
+      "degree" : "Consultant - Cardiologist",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Pradeep Kumar Shetty",
+      "degree" : "Professor & Hod - Department Of Cardiology",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Ramakrishnakumar S",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sanjay Mehrotra",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Satheesh S",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sathya Narayana D",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Satish C Govind",
+      "degree" : "Chief Of Non - Invasive Cardiology",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Srikanth K V",
+      "degree" : "Consultant, Cardiologist",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sunitha Abraham",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Uday B Khanolkar",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiology - Paediatric",
+    "schedules" : [ {
+      "doctor" : "Parrimala Nath",
+      "degree" : "Junior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Prakash R.",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Satheesh S",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Satish C Govind",
+      "degree" : "Chief Of Non - Invasive Cardiology",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shashiraj Subramanya H S",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shreesha Shankar Maiya",
+      "degree" : "Consultant, Hod For Paediatric Cardiology And Adult Congenital Heart Disease",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Clinical Nutrition & Dietetics",
+    "schedules" : [ {
+      "doctor" : "Suparna Mukherjee",
+      "degree" : "Senior Dietician",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Diabetology",
+    "schedules" : [ {
+      "doctor" : "Nidhi Garg",
+      "degree" : "Consultant - Diabetologist",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shalini Rajesh",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Electrophysiology",
+    "schedules" : [ {
+      "doctor" : "Deepak Padmanabhan",
+      "degree" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kapil Kumawat",
+      "degree" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Ramakrishnakumar S",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Basavaraj G S",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Heart Transplant",
+    "schedules" : [ {
+      "doctor" : "Bagirath Raghuraman",
+      "degree" : "Senior Consultant - Heart Transplant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Julius Punnen",
+      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shashiraj Subramanya H S",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Srikanth K V",
+      "degree" : "Consultant, Cardiologist",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Thiruthani Kumaran M M",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Lab",
+    "schedules" : [ {
+      "doctor" : "Girish C J",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Mallika Reddy K",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Prathip Kumar B R",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rekha P R",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shaesta Naseem Zaidi",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sudarshan Chougule",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Suman Roy",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Kiran V S",
+      "degree" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Physiotherapy & Rehabilitation",
+    "schedules" : [ {
+      "doctor" : "Dhanaraj N",
+      "degree" : "Incharge",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Madesh K",
+      "degree" : "Head Of Department",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vartharajan K",
+      "degree" : "Incharge",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}

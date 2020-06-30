@@ -1,0 +1,15 @@
+{
+"name":"Narayana Institute Cardiac Sciences, Bommasandra",
+"code":"NarayanaCardiac",
+"address":"258/A, Bommasandra Industrial Area, Anekal Taluk, Hosur Road, Bangalore, Karnataka 560099",
+"geoLocation":"12.8095079,77.695644?q=Narayana+Institute+of+Cardiac+Sciences",
+"emails":"info.nics@narayanahealth.org",
+"websites":"https://www.narayanahealth.org/hospitals/bangalore/narayana-institute-cardiac-sciences-bommasandra",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208",
+	"isOpd":true
+	}]
+}

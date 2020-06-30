@@ -1,0 +1,14 @@
+{
+"name":"Narayana Medical Centre, Langford Town",
+"code":"NarayanaLangfordTown",
+"address":"Building No.9, Langford Road, Civil Station, Hosur Road, Bengaluru, Karnataka 560025",
+"geoLocation":"12.9567376,77.6055349?q=Narayana+Medical+Center",
+"emails":"nmclangford@narayanahealth.org",
+"websites":"https://www.narayanahealth.org/hospitals/bangalore/narayana-medical-centre-langford-town",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208"
+	}]
+}
