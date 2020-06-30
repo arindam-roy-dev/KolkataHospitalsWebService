@@ -1,0 +1,426 @@
+{
+  "name" : "Narayana Multispeciality Hospital, Ahmedabad",
+  "specialties" : [ {
+    "name" : "Anaesthesia & Critical Care",
+    "schedules" : [ {
+      "doctor" : "Anish Joshi",
+      "degree" : "MD",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Faiyaz A. Sheth",
+      "degree" : "MBBS, DA (Anaesthesiology), DNB (Anaesthesiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Hetalkumar Dineshchandra S",
+      "degree" : "MD (Anaesthesiology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Tejas Motilal Kanzariya",
+      "degree" : "MD (Anaesthesiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Tejas Shah",
+      "degree" : "MD",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vivek Arvind Dave",
+      "degree" : "MD",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Breast Cancer",
+    "schedules" : [ {
+      "doctor" : "Bhavnaben Parikh",
+      "degree" : "MS (General Surgery), M.Ch (Onco Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiac Surgery - Adult",
+    "schedules" : [ {
+      "doctor" : "Alpesh Patel",
+      "degree" : "MS (General Surgery), DNB (Cardiothoracic Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Atul Anand Maslekar",
+      "degree" : "MS (General Surgery), MCh, CTVS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Priyank Bhatt",
+      "degree" : "MS, MCh",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiology - Adult",
+    "schedules" : [ {
+      "doctor" : "Manik Chopra",
+      "degree" : "MBBS, MD (General medicine), DM (cardiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Mohd Maqbool Sohil.",
+      "degree" : "MBBS, MD, DM (Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sumit Mohan Dheer",
+      "degree" : "MD (Medicine), DM (Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vishal Darji",
+      "degree" : "PGDCC",
+      "designation" : "Junior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiology - Paediatric",
+    "schedules" : [ {
+      "doctor" : "Vishal Changela",
+      "degree" : "DNB (Pediatrics), FNB (Pediatric Cardiology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Maxillo Facial Surgery",
+    "schedules" : [ {
+      "doctor" : "Nischal Naik",
+      "degree" : "MS (General Surgery), MCh (Plastic Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Dermatology And Cosmetology",
+    "schedules" : [ {
+      "doctor" : "Kandarp Pandya",
+      "degree" : "DVD",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Shamik P Mehta",
+      "degree" : "MS (ENT), Fellow in Laryngology",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gastroenterology - Medical",
+    "schedules" : [ {
+      "doctor" : "Vatsal Mehta",
+      "degree" : "MBBS, MD, DNB",
+      "designation" : "Visiting Consultation Gastroenterologist",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rajeev Kumar Bansal",
+      "degree" : "MBBS, MD (Medicine), DNB (Gastroenterology)",
+      "designation" : "Consultant - Gastroenterology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gastroenterology - Surgical",
+    "schedules" : [ {
+      "doctor" : "Ishan Shah",
+      "degree" : "MBBS, MS (General Surgery), DNB (Surgical Gastroenterology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Nirav Vakani",
+      "degree" : "MS, DNB",
+      "designation" : "Consultant - Surgical Gastroenterology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Vinod Madanlal Jain",
+      "degree" : "MS (General Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Head & Neck Surgery - Oncology",
+    "schedules" : [ {
+      "doctor" : "Shashikant Limbachiya",
+      "degree" : "MBBS, MS, MCH (Head & Neck Surgery , Oncology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Infection Medicines",
+    "schedules" : [ {
+      "doctor" : "Swati Gohel",
+      "degree" : "MD (Medicine), FNB (Infectious Diseases)",
+      "designation" : "Visiting Consultant Infectious Diseases",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Birjis Shaikh",
+      "degree" : "MBBS (Pramukh Swami Medical College, Karamsad), DNB (General medicine) (Venus Hospital , Surat)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Joozer Qaiyoom Rangwala",
+      "degree" : "MD (Medicine & Therapist)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Neeraj Bharti",
+      "degree" : "MBBS, MD (medicine), fellowship in noninvasive cardiology, Distant fellowship in diabetes management",
+      "designation" : "Consultant - Internal Medicine",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Interventional Radiology",
+    "schedules" : [ {
+      "doctor" : "Rozil Gandhi",
+      "degree" : "DMRD , DNB (Radiology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Itesh Khatwani",
+      "degree" : "DM (Medical Oncology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rushabh Kothari",
+      "degree" : "MBBS, MD (Medicine) (LTMMC, Mumbai) DM (Medical Oncology) (Tata Memorial Hospital, Mumbai), European Certified Medical Oncologist (ECMO)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vandana Joshi",
+      "degree" : "MD (Internal Medicine), DM (Oncology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Microbiology",
+    "schedules" : [ {
+      "doctor" : "Roopika Berry",
+      "degree" : "MD (Microbiology)",
+      "designation" : "Microbiologist",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Asit Rushikesh Mehta",
+      "degree" : "MD (General Medicine), DM (Nephrology - Adult), DNB (Nephrology - Adult)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Nikunj Godhani",
+      "degree" : "MS (General Surgery), MCH (NeuroSurgery), Fellowship (Spine Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Kamal Kumar Nagar",
+      "degree" : "MD (General Medicine), DM (Neurology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rakhil Sureshbhai Yadav",
+      "degree" : "MD, DM (Neurology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Anshu Rani",
+      "degree" : "MBBS, MD DGO",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "Bhavnaben Parikh",
+      "degree" : "MS (General Surgery), M.Ch (Onco Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Chandni Patel",
+      "degree" : "MBBS, MD, CCPPM, FIPM",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Itesh Khatwani",
+      "degree" : "DM (Medical Oncology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Mehulkumar Patel",
+      "degree" : "MS (General Surgery), MCH (Surgical Oncology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rushabh Kothari",
+      "degree" : "MBBS, MD (Medicine) (LTMMC, Mumbai) DM (Medical Oncology) (Tata Memorial Hospital, Mumbai), European Certified Medical Oncologist (ECMO)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shashikant Limbachiya",
+      "degree" : "MBBS, MS, MCH (Head & Neck Surgery , Oncology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vandana Joshi",
+      "degree" : "MD (Internal Medicine), DM (Oncology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Hrutvij Bhatt",
+      "degree" : "DNB (Ortopaedics), Felllow in Spine Surgery",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Jaimin Chaganlal Vashi",
+      "degree" : "MS (Orthopedics)",
+      "designation" : "Senior Consultant, Consultant - Orthopaedics",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kinner Avashia",
+      "degree" : "MBBS, D.Ortho, Fellowship in Trauma & Joint Replacement Surgery (Hongkong)",
+      "designation" : "Consultant - Orthopaedics",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Urvashi Rana",
+      "degree" : "MBBS and MD (Pediatrics) (B. J. Medical College, Civil Hospital, Ahmedabad)",
+      "designation" : "Consultant - Paediatrics",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Pain",
+    "schedules" : [ {
+      "doctor" : "Chandni Patel",
+      "degree" : "MBBS, MD, CCPPM, FIPM",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Pathology",
+    "schedules" : [ {
+      "doctor" : "Avinash Jadavbhai Patel",
+      "degree" : "MD (Pathology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Physiotherapy & Rehabilitation",
+    "schedules" : [ {
+      "doctor" : "Mo. Sohel Ansari",
+      "degree" : "BPT, MPT",
+      "designation" : "Physiotherapist",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Surajpratapsing Shardapratapsingh Kshatriya",
+      "degree" : "Diploma (Physiotherapy & Rehabilitation)",
+      "designation" : "Physiotherapist",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Twinkal Patel",
+      "degree" : "BPT, MPT",
+      "designation" : "Physiotherapist",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Harshvardhan Sahijwani",
+      "degree" : "MS, MCh (Plastic Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Psychiatry & Clinical Psychology",
+    "schedules" : [ {
+      "doctor" : "Gopal Bhatia",
+      "degree" : "MD (Psychiatry)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Shachi Dave",
+      "degree" : "MD (TB & Chest), IDCCM",
+      "designation" : "Junior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shweta Saraf",
+      "degree" : "Diploma (Tuberculous & Respiratory Diseases , Pulmonary Medicine)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Ejaz Ahmed Sheikh",
+      "degree" : "DNB (Radiology)",
+      "designation" : "Junior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Mehulkumar Patel",
+      "degree" : "MS (General Surgery), MCH (Surgical Oncology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Pramod S",
+      "degree" : "MS, MCH",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Raghvendra Kashyap",
+      "degree" : "MS (General Surgery), MCH (Urology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Priyank Bhatt",
+      "degree" : "MS, MCh",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vishal Sheth",
+      "degree" : "MS (General Surgery), DNB (Vascular Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}

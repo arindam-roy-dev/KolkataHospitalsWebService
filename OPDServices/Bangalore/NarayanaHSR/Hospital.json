@@ -1,0 +1,18 @@
+{
+"name":"Narayana Multispeciality Hospital, HSR Layout",
+"code":"NarayanaHSR",
+"address":"Basant Health Centre Building, No-1, 18th main (Opp.HSR Club), Sector 3, HSR Layout, Bangalore, Karnataka 560102",
+"geoLocation":"12.9079299,77.6438128?q=Narayana+Multispeciality+Hospital,+HSR+Layout",
+"emails":"info.hsr@narayanahealth.org",
+"websites":"https://www.narayanahealth.org/hospitals/bangalore/narayana-multispeciality-hospital-hsr-layout",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208",
+	"isOpd":true
+	},{
+	"name":"Emergency Number",
+	"phoneNumbers":"8071112244"
+	}]
+}

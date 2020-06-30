@@ -1,0 +1,18 @@
+{
+"name":"Dharamshila Narayana Superspeciality Hospital",
+"code":"DharamshilaNarayana",
+"address":"Vasundhara Enclave , Near New Ashok Nagar Metro Station, Dallupura, New Delhi 110096",
+"geoLocation":"28.6022317,77.3140231?q=Dharamshila+Narayana+Superspeciality+Hospital",
+"emails":"info.dnsh@narayanahealth.org",
+"websites":"https://delhi.apollohospitals.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208",
+	"isOpd":true
+	},{
+	"name":"Emergency Number",
+	"phoneNumbers":"7370073700"
+	}]
+}

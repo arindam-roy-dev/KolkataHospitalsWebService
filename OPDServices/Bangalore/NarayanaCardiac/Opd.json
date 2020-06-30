@@ -4,399 +4,489 @@
     "name" : "Anaesthesia & Critical Care",
     "schedules" : [ {
       "doctor" : "Ganesh Sambandamoorthy",
-      "degree" : "Consultant",
+      "degree" : "MBBS, MD, MRCPCh",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Hema C Nair",
-      "degree" : "Senior Consultant",
+      "degree" : "MD, PDCC",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Keshava Murthy Shankariah",
-      "degree" : "Senior Consultant",
+      "degree" : "MBBS, MD, DNB",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Kumaraswamy Manjunath",
-      "degree" : "Consultant",
+      "degree" : "MBBS, DA",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Kumarswamy G N",
-      "degree" : "Senior Consultant",
+      "degree" : "MBBS, MD",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Lakshmi R Patil",
-      "degree" : "Consultant",
+      "degree" : "MD, IDCCM",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Manjunath R",
-      "degree" : "Consultant",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Muralidhar Kanchi",
-      "degree" : "Senior Consultant & Professor",
+      "degree" : "MD",
+      "designation" : "Senior Consultant & Professor",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Neha Srivastava K M",
-      "degree" : "Associate Consultant",
+      "degree" : "MBBS, DA (Anaesthesia), DNB (Anaesthesia), DNB (Anaesthesia), IDCCM (Critical care)",
+      "designation" : "Associate Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Rajesh Govardhan Hegde",
-      "degree" : "Senior Consultant",
+      "degree" : "MD",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Ratankumar Thakuk Das Gupta",
-      "degree" : "Senior Consultant",
+      "degree" : "MD, DNB, PDCCA, MBA",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Riyan S. Shetty",
-      "degree" : "Consultant",
+      "degree" : "MD (Anesthesia)",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Sanjay Orathi Patangi",
-      "degree" : "Senior Consultant",
+      "degree" : "DA (Anesthesia), MD (Anesthesia), DNB (Anesthesia)",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Shiva Prasad",
-      "degree" : "Senior Consultant",
+      "degree" : "MD",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Shreedhar Joshi",
-      "degree" : "Consultant",
+      "degree" : "MD, DM",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Shriman Narayan K H",
-      "degree" : "Senior Consultant",
+      "degree" : "MD",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Sucharita Das",
-      "degree" : "Consultant",
+      "degree" : "DA, DNB, Fellowship",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Sunil Kumar V",
-      "degree" : "Consultant",
+      "degree" : "MBBS, MD (Anaes), FTEE, FNB (Cardiac Anaesthesia)",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Warkari Tejas Arun",
-      "degree" : "Senior Registrar",
+      "degree" : "MBBS, MD (Anaesthesia)",
+      "designation" : "Senior Registrar",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Cardiac Surgery - Adult",
     "schedules" : [ {
       "doctor" : "Avery Mathew",
-      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "degree" : "MS, MCh",
+      "designation" : "Senior Consultant - Cardiac Surgeon",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Devi Prasad Shetty",
-      "degree" : "Founder, Chairman And Senior Consultant Cardiac Surgeon",
+      "degree" : "MS, FRCS",
+      "designation" : "Founder, Chairman And Senior Consultant Cardiac Surgeon",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Dhaded Sanjay Basavaraj",
-      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "degree" : "MS, MCh",
+      "designation" : "Senior Consultant - Cardiac Surgeon",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Dibya Prakash Sahu",
-      "degree" : "Junior Consultant",
+      "degree" : "MBBS, DNB",
+      "designation" : "Junior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Julius Punnen",
-      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "degree" : "MS, MCh, FIACS",
+      "designation" : "Senior Consultant - Cardiac Surgeon",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Kiran K",
-      "degree" : "Consultant",
+      "degree" : "MS, MCh",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "P S Jairaj",
-      "degree" : "Professor",
+      "degree" : "MBBS, MS, FRACS",
+      "designation" : "Professor",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "P V Rao",
-      "degree" : "Senior Consultant",
+      "degree" : "FRCS (Glasgow), FRCS (C, Th)",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Praveen Kumar",
-      "degree" : "Medical Director & Senior Consultant",
+      "degree" : "MS (General Surgery), MCh",
+      "designation" : "Medical Director & Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Priyankar Sinha",
-      "degree" : "Senior Consultant",
+      "degree" : "MS (General Surgery), MCh (CTVS), DNB (Cardiothoracic Surgery), NBE",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Raghu M G",
-      "degree" : "Consultant",
+      "degree" : "MS, MCh",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Ramesh Seshadri",
-      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "degree" : "MS, DNB",
+      "designation" : "Senior Consultant - Cardiac Surgeon",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Ravindra Setty B R",
-      "degree" : "Consultant",
+      "degree" : "MBBS, DNB, MCh (CVTS)",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Thiruthani Kumaran M M",
-      "degree" : "Consultant",
+      "degree" : "MBBS, DNB (General Surgery), DNB (Cardiothoracic Surgery), MNAMS, FICS",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Varun Shetty",
-      "degree" : "Associate Consultant",
+      "degree" : "MBBS, DNB (Cardiothoracic Surgery), FRCA",
+      "designation" : "Associate Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Cardiac Surgery - Paediatric",
     "schedules" : [ {
       "doctor" : "Chinnaswamy Reddy H M",
-      "degree" : "Senior Consultant",
+      "degree" : "MS, MCh, DNB",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Colin John",
-      "degree" : "Senior Consultant",
+      "degree" : "MS, FRACS",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Devi Prasad Shetty",
-      "degree" : "Founder, Chairman And Senior Consultant Cardiac Surgeon",
+      "degree" : "MS, FRCS",
+      "designation" : "Founder, Chairman And Senior Consultant Cardiac Surgeon",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Julius Punnen",
-      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "degree" : "MS, MCh, FIACS",
+      "designation" : "Senior Consultant - Cardiac Surgeon",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "P V Rao",
-      "degree" : "Senior Consultant",
+      "degree" : "FRCS (Glasgow), FRCS (C, Th)",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Raghu M G",
-      "degree" : "Consultant",
+      "degree" : "MS, MCh",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Sudesh Prabhu",
-      "degree" : "Consultant",
+      "degree" : "MBBS, MS, DNB, MNAMS, MRCS, MCH, CTVS",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Varun Shetty",
-      "degree" : "Associate Consultant",
+      "degree" : "MBBS, DNB (Cardiothoracic Surgery), FRCA",
+      "designation" : "Associate Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Cardiology - Adult",
     "schedules" : [ {
       "doctor" : "Bagirath Raghuraman",
-      "degree" : "Senior Consultant - Heart Transplant",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology)",
+      "designation" : "Senior Consultant - Heart Transplant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Barendra Kumar Raut",
-      "degree" : "Consultant",
+      "degree" : "MD, DNB, Fellowship",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Bijay Kumar Mahala",
-      "degree" : "Senior Consultant",
+      "degree" : "MD, DM",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Darshan B N",
-      "degree" : "Consultant",
+      "degree" : "MBBS, MD, DNB",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Deepak Padmanabhan",
-      "degree" : "Visiting Consultant",
+      "degree" : "MD, DM, Fellowship (EP), Fellowship (Cardiology)",
+      "designation" : "Visiting Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "George Cherian",
-      "degree" : "Professor",
+      "degree" : "MBBS, MD, DM, Teaching Fellowship",
+      "designation" : "Professor",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Gurappa Shetty Gojanur",
-      "degree" : "Senior Consultant",
+      "degree" : "MD (General Medicine), DM (Cardiology), FICC, FCSI",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "J. Kannan",
-      "degree" : "Assistant Professor",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology), FNB (Interventional Cardiology)",
+      "designation" : "Assistant Professor",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Kapil Kumawat",
-      "degree" : "Senior Consultant",
+      "degree" : "MD, DM, Fellowship (Electrophysiology)",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "P V Suresh",
-      "degree" : "Consultant - Cardiologist",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Consultant - Cardiologist",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Pradeep Kumar Shetty",
-      "degree" : "Professor & Hod - Department Of Cardiology",
+      "degree" : "MBBS, MD, DM, Senior fellowship, FRCP",
+      "designation" : "Professor & Hod - Department Of Cardiology",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Ramakrishnakumar S",
-      "degree" : "Consultant",
+      "degree" : "MD, DM, Fellowship (Electrophysiology)",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Sanjay Mehrotra",
-      "degree" : "Senior Consultant",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Satheesh S",
-      "degree" : "Consultant",
+      "degree" : "MD, Fellowship in Paediatric Cardiology",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Sathya Narayana D",
-      "degree" : "Consultant",
+      "degree" : "MD, DNB",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Satish C Govind",
-      "degree" : "Chief Of Non - Invasive Cardiology",
+      "degree" : "Fellowship in Non Invasive Cardiology, PHD (Sweden), FASE",
+      "designation" : "Chief Of Non - Invasive Cardiology",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Srikanth K V",
-      "degree" : "Consultant, Cardiologist",
+      "degree" : "MD, DM",
+      "designation" : "Consultant, Cardiologist",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Sunitha Abraham",
-      "degree" : "Senior Consultant",
+      "degree" : "MBBS, MD, DNB (Cardiology)",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Uday B Khanolkar",
-      "degree" : "Senior Consultant",
+      "degree" : "MD, DM, FICC",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Cardiology - Paediatric",
     "schedules" : [ {
       "doctor" : "Parrimala Nath",
-      "degree" : "Junior Consultant",
+      "degree" : "DCH",
+      "designation" : "Junior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Prakash R.",
-      "degree" : "Consultant",
+      "degree" : "MBBS, MD (Pediatrics), FNB (Pediatric Cardiology)",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Satheesh S",
-      "degree" : "Consultant",
+      "degree" : "MD, Fellowship in Paediatric Cardiology",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Satish C Govind",
-      "degree" : "Chief Of Non - Invasive Cardiology",
+      "degree" : "Fellowship in Non Invasive Cardiology, PHD (Sweden), FASE",
+      "designation" : "Chief Of Non - Invasive Cardiology",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Shashiraj Subramanya H S",
-      "degree" : "Consultant",
+      "degree" : "MD, FAAP, FACC, ABP (USA)",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Shreesha Shankar Maiya",
-      "degree" : "Consultant, Hod For Paediatric Cardiology And Adult Congenital Heart Disease",
+      "degree" : "MBBS, DCH, MRCPCH",
+      "designation" : "Consultant, Hod For Paediatric Cardiology And Adult Congenital Heart Disease",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Clinical Nutrition & Dietetics",
     "schedules" : [ {
       "doctor" : "Suparna Mukherjee",
-      "degree" : "Senior Dietician",
+      "degree" : "BSc",
+      "designation" : "Senior Dietician",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Diabetology",
     "schedules" : [ {
       "doctor" : "Nidhi Garg",
-      "degree" : "Consultant - Diabetologist",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant - Diabetologist",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Shalini Rajesh",
-      "degree" : "Senior Consultant",
+      "degree" : "DNB",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Electrophysiology",
     "schedules" : [ {
       "doctor" : "Deepak Padmanabhan",
-      "degree" : "Visiting Consultant",
+      "degree" : "MD, DM, Fellowship (EP), Fellowship (Cardiology)",
+      "designation" : "Visiting Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Kapil Kumawat",
-      "degree" : "Senior Consultant",
+      "degree" : "MD, DM, Fellowship (Electrophysiology)",
+      "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Ramakrishnakumar S",
-      "degree" : "Consultant",
+      "degree" : "MD, DM, Fellowship (Electrophysiology)",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Endocrinology",
     "schedules" : [ {
       "doctor" : "Basavaraj G S",
-      "degree" : "Consultant",
+      "degree" : "MBBS, MD (Internal Medicine), DM",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Heart Transplant",
     "schedules" : [ {
       "doctor" : "Bagirath Raghuraman",
-      "degree" : "Senior Consultant - Heart Transplant",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology)",
+      "designation" : "Senior Consultant - Heart Transplant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Julius Punnen",
-      "degree" : "Senior Consultant - Cardiac Surgeon",
+      "degree" : "MS, MCh, FIACS",
+      "designation" : "Senior Consultant - Cardiac Surgeon",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Shashiraj Subramanya H S",
-      "degree" : "Consultant",
+      "degree" : "MD, FAAP, FACC, ABP (USA)",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Srikanth K V",
-      "degree" : "Consultant, Cardiologist",
+      "degree" : "MD, DM",
+      "designation" : "Consultant, Cardiologist",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Thiruthani Kumaran M M",
-      "degree" : "Consultant",
+      "degree" : "MBBS, DNB (General Surgery), DNB (Cardiothoracic Surgery), MNAMS, FICS",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Lab",
     "schedules" : [ {
       "doctor" : "Girish C J",
-      "degree" : "Consultant",
+      "degree" : "MD",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Mallika Reddy K",
-      "degree" : "Consultant",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Prathip Kumar B R",
-      "degree" : "Consultant",
+      "degree" : "MD",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Rekha P R",
-      "degree" : "Consultant",
+      "degree" : "MD",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Shaesta Naseem Zaidi",
-      "degree" : "Consultant",
+      "degree" : "MD",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Sudarshan Chougule",
-      "degree" : "Consultant",
+      "degree" : "MD",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Suman Roy",
-      "degree" : "Consultant",
+      "degree" : "DCP",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Paediatrics",
     "schedules" : [ {
       "doctor" : "Kiran V S",
-      "degree" : "Consultant",
+      "degree" : "DCh, DNB, Fellowship",
+      "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Physiotherapy & Rehabilitation",
     "schedules" : [ {
       "doctor" : "Dhanaraj N",
-      "degree" : "Incharge",
+      "degree" : "BPT, MPT",
+      "designation" : "Incharge",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Madesh K",
-      "degree" : "Head Of Department",
+      "degree" : "BPT, MPT",
+      "designation" : "Head Of Department",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Vartharajan K",
-      "degree" : "Incharge",
+      "degree" : "BPT, MPT",
+      "designation" : "Incharge",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
   } ]

@@ -14,6 +14,10 @@
 	"locality":"Jayanagar",
 	"code":"ApolloJayanagar"
 	},{
+	"name":"Mazumdar Shaw Medical Center, Bommasandra",
+	"locality":"Bommasandra",
+	"code":"MazumdarShaw"
+	},{
 	"name":"Narayana Institute Cardiac Sciences, Bommasandra",
 	"locality":"Bommasandra",
 	"code":"NarayanaCardiac"
@@ -21,5 +25,9 @@
 	"name":"Narayana Medical Centre, Langford Town",
 	"locality":"Langford Town",
 	"code":"NarayanaLangfordTown"
+	},{
+	"name":"Narayana Multispeciality Hospital, HSR Layout",
+	"locality":"HSR Layout",
+	"code":"NarayanaHSR"
 	}]
 } 

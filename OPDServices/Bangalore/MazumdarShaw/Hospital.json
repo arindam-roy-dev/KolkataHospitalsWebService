@@ -1,0 +1,18 @@
+{
+"name":"Mazumdar Shaw Medical Center, Bommasandra",
+"code":"MazumdarShaw",
+"address":"258/A, Bommasandra Industrial Area, Hosur Road, Anekal Taluk, Bangalore, Karnataka 560099",
+"geoLocation":"12.8066701,77.6948988?q=Mazumdar+Shaw+Medical+Center",
+"emails":"info.msmc@narayanahealth.org",
+"websites":"https://www.narayanahealth.org/hospitals/bangalore/mazumdar-shaw-medical-center-bommasandra",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208",
+	"isOpd":true
+	},{
+	"name":"Emergency Number",
+	"phoneNumbers":"180042504250"
+	}]
+}

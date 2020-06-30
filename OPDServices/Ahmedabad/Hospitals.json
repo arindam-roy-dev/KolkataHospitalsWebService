@@ -9,5 +9,9 @@
 	"name":"Apollo Hospitals, City Centre",
 	"locality":"Ambawadi",
 	"code":"ApolloCityCentre"
+	},{
+	"name":"Narayana Multispeciality Hospital, Ahmedabad",
+	"locality":"Rakhial",
+	"code":"NarayanaAhmedabad"
 	}]
 }

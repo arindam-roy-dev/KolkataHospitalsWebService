@@ -1,0 +1,18 @@
+{
+"name":"Narayana Multispeciality Hospital, Ahmedabad",
+"code":"NarayanaAhmedabad",
+"address":"Nr. Chakudiya Mahadev, Rakhial Cross Road , Opp. Rakhial Police Station, Rakhial, Ahmedabad, Gujarat 380023",
+"geoLocation":"23.0223102,72.6237368?q=Narayana+Multispeciality+Hospital",
+"emails":"info.ahd@narayanahealth.org",
+"websites":"https://www.narayanahealth.org/hospitals/ahmedabad/narayana-multispeciality-hospital-ahmedabad",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208",
+	"isOpd":true
+	},{
+	"name":"Emergency Number",
+	"phoneNumbers":"7878100900"
+	}]
+}

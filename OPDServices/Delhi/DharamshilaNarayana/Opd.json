@@ -1,0 +1,520 @@
+﻿{
+  "name" : "Dharamshila Narayana Superspeciality Hospital",
+  "specialties" : [ {
+    "name" : "Anaesthesia & Critical Care",
+    "schedules" : [ {
+      "doctor" : "Amit Jain",
+      "degree" : "Diploma (Anaesthesia)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Ashutosh Bhardwaj",
+      "degree" : "MD, IDCCM, EDIC, FCCS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Manish Tandon",
+      "degree" : "MD (Anaesthesia), PDCC (Cardiac Anaesthesia)",
+      "designation" : "Senior Consultant And Unit Head",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Neha Agrawal",
+      "degree" : "DA, DNB (Anaesthesiology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Bone Marrow Transplant",
+    "schedules" : [ {
+      "doctor" : "Sarita Rani Jaiswal",
+      "degree" : "MD, Fellowship (Critical care Medicine), Fellowship (BMT)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Suparno Chakrabarti",
+      "degree" : "MD, FRCPATH",
+      "designation" : "Senior Consultant & Hod",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiac Surgery - Adult",
+    "schedules" : [ {
+      "doctor" : "Mitesh B Sharma",
+      "degree" : "MS (General Surgery), MCh (Cardiothoracic and Vascular Surgery)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sandeep Singh",
+      "degree" : "MS (General Surgery), MCh (CTVS), FACCS, FICS",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiology - Adult",
+    "schedules" : [ {
+      "doctor" : "Amrendra Kumar Pandey",
+      "degree" : "MBBS, DNB (Internal Medicine), FNIC, DNB (Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Anand Kumar Pandey",
+      "degree" : "MBBS, MD (Medicine), DM (Cardiology)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Hemant Madan (Prof)",
+      "degree" : "MD (Medicine), DM (Cardiology), FRCPE, FSCAI",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Pradeep Nayak",
+      "degree" : "MD (Internal Medicine), DNB (Cardiology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sajal Gupta",
+      "degree" : "MBBS, MD (Internal medicine), DM (Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiology - Paediatric",
+    "schedules" : [ {
+      "doctor" : "Hemant Madan (Prof)",
+      "degree" : "MD (Medicine), DM (Cardiology), FRCPE, FSCAI",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Pradeep Nayak",
+      "degree" : "MD (Internal Medicine), DNB (Cardiology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Emergency Medicine",
+    "schedules" : [ {
+      "doctor" : "Salil Malik",
+      "degree" : "MBBS, MEM (USA)",
+      "designation" : "Consultant And Lead",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gastroenterology - Medical",
+    "schedules" : [ {
+      "doctor" : "Mahesh Gupta",
+      "degree" : "DM (Gastroenterology), MBBS, MD (General Medicine)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gastroenterology - Surgical",
+    "schedules" : [ {
+      "doctor" : "Abhishek Mitra",
+      "degree" : "MBBS, MS, DNB (GI Surgery), Postdoctoral (HBNI) Fellowship GI and HPB Oncology (Tata Memorial Hospital, Mumbai)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gynaecology - Oncology",
+    "schedules" : [ {
+      "doctor" : "Satinder Kaur",
+      "degree" : "MD, DNB, Fellowship (Gynecological Oncology), Diploma (Advanced Gynecological Endoscopy)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Haemato Oncology",
+    "schedules" : [ {
+      "doctor" : "Sarita Rani Jaiswal",
+      "degree" : "MD, Fellowship (Critical care Medicine), Fellowship (BMT)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Suparno Chakrabarti",
+      "degree" : "MD, FRCPATH",
+      "designation" : "Senior Consultant & Hod",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Gaurav Jain",
+      "degree" : "MBBS, MRCPI, Diploma Rheumatology (John Hopkins), Masters Endocrine Medicine",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Interventional Radiology",
+    "schedules" : [ {
+      "doctor" : "Vikas Rastogi (Col)",
+      "degree" : "MD",
+      "designation" : "Senior Consultant & Director",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Kidney Transplant - Adult",
+    "schedules" : [ {
+      "doctor" : "Abhinav Jain",
+      "degree" : "MS (General Surgery), DNB (General Surgery), DNB (Urology)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Suman Lata Nayak Prof",
+      "degree" : "DM (Nephrology) (AIIMS, New Delhi), ISN Scholar Renal Transplant (St Georges, London, UK)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vikas Jain",
+      "degree" : "MS, FACS, DNB (Genito Urinary Surgery), MNAMS, Diploma in Transplantation (Liverpool, UK), Fellowship, Renal Transplant (Barcelona, Spain)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Kidney Transplant Paediatric",
+    "schedules" : [ {
+      "doctor" : "Abhinav Jain",
+      "degree" : "MS (General Surgery), DNB (General Surgery), DNB (Urology)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vikas Jain",
+      "degree" : "MS, FACS, DNB (Genito Urinary Surgery), MNAMS, Diploma in Transplantation (Liverpool, UK), Fellowship, Renal Transplant (Barcelona, Spain)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Lab",
+    "schedules" : [ {
+      "doctor" : "Hema Malini Aiyer",
+      "degree" : "MBBS, MD (Path)",
+      "designation" : "Senior Consultant (Lab Medicine) & Clinical Lead (Histo/cyto/ihc)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Liver",
+    "schedules" : [ {
+      "doctor" : "Abhishek Mitra",
+      "degree" : "MBBS, MS, DNB (GI Surgery), Postdoctoral (HBNI) Fellowship GI and HPB Oncology (Tata Memorial Hospital, Mumbai)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Liver Transplant & Hpb Surgery",
+    "schedules" : [ {
+      "doctor" : "Sanjay Goja",
+      "degree" : "FACS, FEBS (Multiorgan and Liver Transplantation)",
+      "designation" : "Program Director And Clinical Lead – Liver Transplant, Hpb Surgery And Robotic Liver Surgery",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Neeraj Goel",
+      "degree" : "MBBS, MS, MCh (GI Surgery)",
+      "designation" : "Clinical Lead & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Deni Gupta",
+      "degree" : "DNB (General Medicineicine), DNB (Medical Oncology), ECMO",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "K. M. Parthasarathy",
+      "degree" : "MD, DM, ECMO",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Raajit Chanana",
+      "degree" : "MBBS, DM",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Microbiology",
+    "schedules" : [ {
+      "doctor" : "Gitali Bhagawati",
+      "degree" : "MBBS, MD (Microbiology), PGDHM (NIHFW)",
+      "designation" : "Consultant And Head, Department Of Microbiology And Infection Control",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Suman Lata Nayak Prof",
+      "degree" : "DM (Nephrology) (AIIMS, New Delhi), ISN Scholar Renal Transplant (St Georges, London, UK)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Tarun Kaushik",
+      "degree" : "MRCP (Internal Medicine) (UK), CCT (Nephrology) (London, UK), MRCP (Nephrology) (UK)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Yasir S. Rizvi",
+      "degree" : "MD (General Medicine), DM (Nephrology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Ashish Shrivastava",
+      "degree" : "MCh (Neuro Surgery)",
+      "designation" : "Hod & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Amit Shrivastava",
+      "degree" : "MBBS, MD (Medicine), DM (Neurology)",
+      "designation" : "Senior Consultant - Neurology",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Tariq Matin",
+      "degree" : "MD (Radiology), DNB",
+      "designation" : "Senior Consultant - Interventional Neurology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Nuclear Medicine",
+    "schedules" : [ {
+      "doctor" : "Arun Gera",
+      "degree" : "DRM (INMAS)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "Abhishek Mitra",
+      "degree" : "MBBS, MS, DNB (GI Surgery), Postdoctoral (HBNI) Fellowship GI and HPB Oncology (Tata Memorial Hospital, Mumbai)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Anshuman Kumar",
+      "degree" : "MS, MRCS, MCh (Onco Surgery)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Atul Srivastava",
+      "degree" : "MS (General Surgery)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Deni Gupta",
+      "degree" : "DNB (General Medicineicine), DNB (Medical Oncology), ECMO",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "K. M. Parthasarathy",
+      "degree" : "MD, DM, ECMO",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kanika Sood Sharma",
+      "degree" : "MD (Radiotherapy)",
+      "designation" : "Clinical Lead & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Pooja Khullar",
+      "degree" : "MBBS, DNB (Radiation oncology)",
+      "designation" : "Consultant - Radiology",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Raajit Chanana",
+      "degree" : "MBBS, DM",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rashmi Sharma",
+      "degree" : "MBBS, MS (General Surgery), Surgical Oncology (AIIMS, DELHI)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sarita Rani Jaiswal",
+      "degree" : "MD, Fellowship (Critical care Medicine), Fellowship (BMT)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Satinder Kaur",
+      "degree" : "MD, DNB, Fellowship (Gynecological Oncology), Diploma (Advanced Gynecological Endoscopy)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Suparno Chakrabarti",
+      "degree" : "MD, FRCPATH",
+      "designation" : "Senior Consultant & Hod",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "initial" : "Prof.",
+      "doctor" : "Amar Bhatnagar",
+      "degree" : "MS, MCh (Surgical Oncology)",
+      "designation" : "Director - Surgical Oncology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Lalit Kumar",
+      "degree" : "Ms (Orthopaedics), Fellowship in Arthroscopy & Spine",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Mohit Kumar Arora",
+      "degree" : "MS, DNB, MNAMS, MRCS (England), Dip SICOT (South Africa), FSS (UK), FPO (Ireland)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Monu Singh",
+      "degree" : "MS, FIAOF, FJR, FSS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rajesh Verma",
+      "degree" : "MS (Orthopaedics), FIAO (USA), Fellowship Trauma and Spine Surgery (USA)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Priyanka Jain",
+      "degree" : "MBBS (Sarojini Naidu Medical College, Agra), MD (Pediatrics) (Lala Lajpat Rai Memorial Medical College, Meerut) (Gold Medalist), PGPN (Boston), Honorary fellowship in Developmental Pediatrics",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Pathology",
+    "schedules" : [ {
+      "doctor" : "Ramesh Dawar",
+      "degree" : "DAB (Pathology), FICP",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sanjay Deb",
+      "degree" : "MD (Pathology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shamsuz Zaman",
+      "degree" : "MD (Pathology)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sumedha Ahel Kotwal",
+      "degree" : "DCP (Hons.), DNB (Pathology), MNAMS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Navneet Sood",
+      "degree" : "DNB (Pulmonology), Fellowship (Sleep Medicine)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Radiation Oncology",
+    "schedules" : [ {
+      "doctor" : "Kanika Sood Sharma",
+      "degree" : "MD (Radiotherapy)",
+      "designation" : "Clinical Lead & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Pooja Khullar",
+      "degree" : "MBBS, DNB (Radiation oncology)",
+      "designation" : "Consultant - Radiology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Anjana Chandra",
+      "degree" : "MD (Radio Diagnosis)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Navneet Sharma",
+      "degree" : "MD (Radio Diagnosis)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Satish Bansal",
+      "degree" : "MD (Radio Diagnosis)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sneh Bharagava (Prof.)",
+      "degree" : "DMRD, MD, FRCR, FICRI, FAMS, FNASc, D.Sc.",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vikas Rastogi (Col)",
+      "degree" : "MD",
+      "designation" : "Senior Consultant & Director",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Spine Surgery",
+    "schedules" : [ {
+      "doctor" : "Lalit Kumar",
+      "degree" : "Ms (Orthopaedics), Fellowship in Arthroscopy & Spine",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rajesh Verma",
+      "degree" : "MS (Orthopaedics), FIAO (USA), Fellowship Trauma and Spine Surgery (USA)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Abhishek Mitra",
+      "degree" : "MBBS, MS, DNB (GI Surgery), Postdoctoral (HBNI) Fellowship GI and HPB Oncology (Tata Memorial Hospital, Mumbai)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Anshuman Kumar",
+      "degree" : "MS, MRCS, MCh (Onco Surgery)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Atul Srivastava",
+      "degree" : "MS (General Surgery)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rashmi Sharma",
+      "degree" : "MBBS, MS (General Surgery), Surgical Oncology (AIIMS, DELHI)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "initial" : "Prof.",
+      "doctor" : "Amar Bhatnagar",
+      "degree" : "MS, MCh (Surgical Oncology)",
+      "designation" : "Director - Surgical Oncology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Abhinav Jain",
+      "degree" : "MS (General Surgery), DNB (General Surgery), DNB (Urology)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Paras Singhal",
+      "degree" : "MBBS (AIIMS), MS (General Surgery AIIMS), Endourology Research Fellowship (Prostate Cancer Research, New York, USA), MCh (Urology, PGIMER Chandigarh)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vikas Jain",
+      "degree" : "MS, FACS, DNB (Genito Urinary Surgery), MNAMS, Diploma in Transplantation (Liverpool, UK), Fellowship, Renal Transplant (Barcelona, Spain)",
+      "designation" : "Director & Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}

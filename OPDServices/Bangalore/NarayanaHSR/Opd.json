@@ -1,0 +1,415 @@
+﻿{
+  "name" : "Narayana Multispeciality Hospital, HSR Layout",
+  "specialties" : [ {
+    "name" : "Anaesthesia & Critical Care",
+    "schedules" : [ {
+      "doctor" : "Harishkrishna Reddy",
+      "degree" : "MBBS, MD, PDCCA, MRCA, TRCA",
+      "designation" : "Senior Consultant, Consultant - Critical Care",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "James Sundeep Samuel",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant - Anaesthesiologist",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Bone Marrow Transplant",
+    "schedules" : [ {
+      "doctor" : "Sharat Damodar",
+      "degree" : "DNB (General Medicine), MD, DM (Haematology)",
+      "designation" : "Vice Chairman - Oncology Services, Clinical Director - Msmc Senior Consultant & Head Of Adult Haematology And Bmt",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Breast Cancer",
+    "schedules" : [ {
+      "doctor" : "Akshita Singh",
+      "degree" : "MRCS, DNB (General Surgery), Fellowship (Breast Surgical)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiology - Adult",
+    "schedules" : [ {
+      "doctor" : "Babu Reddy T S",
+      "degree" : "MBBS, MD, DNB",
+      "designation" : "Visiting Consultant, Cardiologist",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Gundurao Harish Joshi",
+      "degree" : "DM (Cardiology), MD (General Medicine)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sanjay Mehrotra",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Maxillo Facial Surgery",
+    "schedules" : [ {
+      "doctor" : "Jayanth Kesave",
+      "degree" : "MBBS, MD, MDS, MOSRCS",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "K. Arati Rao",
+      "degree" : "MDS",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Farzana Mehboobunnisa",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Dhruva Kumar Meda",
+      "degree" : "MBBS, DLO, MS (ENT)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kalyan Chakravarthy",
+      "degree" : "MBBS, FRCS (UK), DLO, DOHNS (ENG)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Raghavendra K S",
+      "degree" : "DLO, DNB",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Suhel Hasan",
+      "degree" : "MBBS, DLO, MS (ENT), DLO RCS (ENG), FICS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Emergency Medicine",
+    "schedules" : [ {
+      "doctor" : "Muralidhara K",
+      "degree" : "MBBS, MEM , FRCEM",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Basavaraj G S",
+      "degree" : "MBBS, MD Internal Medicine, DM",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gastroenterology - Medical",
+    "schedules" : [ {
+      "doctor" : "Shivakumar Varakanahalli",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Gastroenterology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gastroenterology - Surgical",
+    "schedules" : [ {
+      "doctor" : "Mohamed Shies Sadat",
+      "degree" : "MBBS, MS, FMAS, Fellowship in Colorectal Surgery",
+      "designation" : "Junior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Nihkil",
+      "degree" : "MD, DM",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Niranjana K P",
+      "degree" : "MBBS, MRCS, MS (General Surgery)",
+      "designation" : "Consultant - Gastroenterology, Consultant - General Surgery",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sharath Kumar J G",
+      "degree" : "MBBS, MS (General Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shashidhara Gosikere Matta",
+      "degree" : "MS (General Surgery), FRCS (Glasgow), FRCS (Glasgow) (General Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gynaecology - Oncology",
+    "schedules" : [ {
+      "doctor" : "Rohit Raghunath Ranade",
+      "degree" : "MS, MCh",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Haemato Oncology",
+    "schedules" : [ {
+      "doctor" : "Sharat Damodar",
+      "degree" : "DNB (General Medicine), MD, DM (Haematology)",
+      "designation" : "Vice Chairman - Oncology Services, Clinical Director - Msmc Senior Consultant & Head Of Adult Haematology And Bmt",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Karthik S M",
+      "degree" : "DNB (General Medicine), Fellowship in Infectious Diseases",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sujith. M. S",
+      "degree" : "MBBS, DNB (Internal medicine, General Medicine)",
+      "designation" : "Consultant, Physician",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Kidney Transplant Paediatric",
+    "schedules" : [ {
+      "doctor" : "Ashley Lucien Joseph D’cruz",
+      "degree" : "MBBS, MS, MCh",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Lab",
+    "schedules" : [ {
+      "doctor" : "Seema Sivasankaran",
+      "degree" : "MD (Pathology), DNB (Pathology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Vijay Kumar .S",
+      "degree" : "MBBS, MD, DM (Medical Oncology), ECMO, PHD (Tumor Immunology) (Pursuing)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Microbiology",
+    "schedules" : [ {
+      "doctor" : "Vinutha J",
+      "degree" : "MD (Microbilogy)",
+      "designation" : "Pathologist",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "Shobhana Sankar",
+      "degree" : "MBBS, MD (Pediatric Medicine)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Suma Raju",
+      "degree" : "MD, DM, Diploma (Internal Medicine), Diploma (Nephrology - Adult)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Veena V",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vikram Huded",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology), FINR, Fellow of World Stroke Organisation",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neurology - Paediatric",
+    "schedules" : [ {
+      "doctor" : "Tarishi Nemani",
+      "degree" : "MBBS, MD (Pediatric), Fellowship (Pediatric Neurology)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Janani Saravanan",
+      "degree" : "MBBS, DNB (Obstetrics), MRCOG (UK)",
+      "designation" : "Consultant Obg",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Manjula H M",
+      "degree" : "MBBS, MS (Obstetrics)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "Akshita Singh",
+      "degree" : "MRCS, DNB (General Surgery), Fellowship (Breast Surgical)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Heeba Altaf Gurku",
+      "degree" : "MD",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rohit Raghunath Ranade",
+      "degree" : "MS, MCh",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sharat Damodar",
+      "degree" : "DNB (General Medicine), MD, DM (Haematology)",
+      "designation" : "Vice Chairman - Oncology Services, Clinical Director - Msmc Senior Consultant & Head Of Adult Haematology And Bmt",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vijay Kumar .S",
+      "degree" : "MBBS, MD, DM (Medical Oncology), ECMO, PHD (Tumor Immunology) (Pursuing)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Amarnath Reddy",
+      "degree" : "MBBS, MS (Orthopaedics), Fellow in Joint Replacement Surgery, Fellow in Spine Surgery",
+      "designation" : "Consultant - Orthopaedic & Joint Replacement Surgeon",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rajendra Reddy",
+      "degree" : "MS (Orthopaedics), CFPO (Paediatric Orthopaedics)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Saji M J",
+      "degree" : "MS (Orthopaedics)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric Liver Transplant",
+    "schedules" : [ {
+      "doctor" : "Ashley Lucien Joseph D’cruz",
+      "degree" : "MBBS, MS, MCh",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Ashley Lucien Joseph D’cruz",
+      "degree" : "MBBS, MS, MCh",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Chandrashekar",
+      "degree" : "MBBS MD (Pediatrics)",
+      "designation" : "Full Time Consultant - Pediatrician",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shobhana Sankar",
+      "degree" : "MBBS, MD (Pediatric Medicine)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Physiotherapy & Rehabilitation",
+    "schedules" : [ {
+      "doctor" : "Indumathi",
+      "degree" : "MPT, PGDCPR",
+      "designation" : "Incharge",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Jayanth Kesave",
+      "degree" : "MBBS, MD, MDS, MOSRCS",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vijaya Raghava Reddy",
+      "degree" : "MBBS, MS (General Surgery), MCh (Burns & Plastic Surgery), MCh (Plastic Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Psychiatry & Clinical Psychology",
+    "schedules" : [ {
+      "doctor" : "Swapna B",
+      "degree" : "MBBS, MD (Psychiatry)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Mini Garg",
+      "degree" : "MBBS, MD (Pulmonary Medicine)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Radiation Oncology",
+    "schedules" : [ {
+      "doctor" : "Heeba Altaf Gurku",
+      "degree" : "MD",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Sujit J",
+      "degree" : "MBBS, MD Radiology",
+      "designation" : "Junior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Robotic Surgery",
+    "schedules" : [ {
+      "doctor" : "Rohit Raghunath Ranade",
+      "degree" : "MS, MCh",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Mahesh Babu B",
+      "degree" : "MBBS, MS (General Surgery) MCh (Urology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rajeev Bashetty",
+      "degree" : "MBBS, MS (General Surgery), MCh (Urology)",
+      "designation" : "Consultant - Urology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Robbie George",
+      "degree" : "MS, PDCC, DNB, FRCS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}

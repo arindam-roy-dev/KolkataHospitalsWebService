@@ -3,11 +3,11 @@
 "cities":[{
 	"name":"Ahmedabad",
 	"state":"Gujarat",
-	"localities":["Ambawadi","Bhat"]
+	"localities":["Ambawadi","Bhat","Rakhial"]
 	},{
 	"name":"Bangalore",
 	"state":"Karnataka",
-	"localities":["Bommasandra","Jayanagar","Langford Town","Panduranga Nagar","Sheshadripuram"]
+	"localities":["Bommasandra","HSR Layout","Jayanagar","Langford Town","Panduranga Nagar","Sheshadripuram"]
 	},{
 	"name":"Chennai",
 	"state":"Tamil Nadu",
@@ -15,7 +15,7 @@
 	},{
 	"name":"Delhi",
 	"state":"Delhi",
-	"localities":["Sarita Vihar"]
+	"localities":["Dallupura","Sarita Vihar"]
 	},{
 	"name":"Durgapur",
 	"state":"West Bengal",
