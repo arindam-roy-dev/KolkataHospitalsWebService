@@ -1,0 +1,18 @@
+{
+"name":"SRCC Children\'s Hospital",
+"code":"SRCCChildrens",
+"address":"1-1A, Keshavrao Khadye Marg, Haji Ali, Haji Ali Government Colony, Mahalakshmi, Mumbai, Maharashtra 400034",
+"geoLocation":"18.9789627,72.8128828?q=NH+SRCC+Children\'s+Hospital",
+"emails":"info.srcc@narayanahealth.org",
+"websites":"https://www.narayanahealth.org/hospitals/mumbai/srcc-childrens-hospital",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"18602080208",
+	"isOpd":true
+	},{
+	"name":"Emergency Number",
+	"phoneNumbers":"2271222333"
+	}]
+}

@@ -9,5 +9,9 @@
 	"name":"Apollo Outpatient Centre, Vashi",
 	"locality":"Vashi",
 	"code":"ApolloVashi"
+	},{
+	"name":"SRCC Children\'s Hospital",
+	"locality":"Arya Nagar",
+	"code":"SRCCChildrens"
 	}]
 } 
