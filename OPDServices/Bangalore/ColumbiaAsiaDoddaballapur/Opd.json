@@ -1,0 +1,162 @@
+﻿{
+  "name" : "Columbia Asia Hospital, Doddaballapur",
+  "specialties" : [ {
+    "name" : "Anaesthesia",
+    "schedules" : [ {
+      "doctor" : "Madhu Kumar B S",
+      "degree" : "MBBS, Diploma in Anaesthesia (DA), DNB (Anaesthesia)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sateesh HL",
+      "degree" : "MBBS, Diploma in Anesthesiology",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Umesh Gupta",
+      "degree" : "MBBS, MD (Medicine)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Praveen S",
+      "degree" : "MBBS, MS (General Surgery), Fellowship in Minimal Access Surgery (FMAS)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sunil Sudarshan Hoskote",
+      "degree" : "MBBS, MS (General Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vinay A V",
+      "degree" : "MBBS, MS (General Surgery), FMAS (Fellowship in Minimally Invasive Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Aravinda Sathish",
+      "degree" : "MBBS, DGO, DRCOG, DFSRH",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Mutya Latha Koppula",
+      "degree" : "MBBS, MS (Obstetrics & Gynecology), Fellowship (Minimal Invasive Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Nagamani Pindikura",
+      "degree" : "MBBS, DNB (Obstetrics & Gynaecology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Nirmala Mohan",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology), Fellowship in reproductive Medicine, Basic abdominal and obstetric Ultrasound, Laparoscopic training, Urogynaec Surgeries",
+      "designation" : "Consultant – Obstetrics And Gynecology, Fertility Specialist",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Head & Neck Surgery",
+    "schedules" : [ {
+      "doctor" : "Santosh S",
+      "degree" : "MBBS, DLO, DNB (Otorhinolaryngology), Fellowship in Otology and Laryngology",
+      "designation" : "Consultant – Ent, Head Neck & Skull Base Surgery",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Rajini S",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sadanand C.d",
+      "degree" : "MBBS, MD (General Medicine)",
+      "designation" : "Consultant Physician",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Girish Namagondlu",
+      "degree" : "MBBS, MRCP(General Medicine), CSST (Nephrology), EDTM",
+      "designation" : "Consultant Nephrologist And Transplant Physician",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Anil Ramakrishna",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Orthopaedic Surgery",
+    "schedules" : [ {
+      "doctor" : "Mohamed Javid",
+      "degree" : "MBBS, Diploma in Orthopedic",
+      "designation" : "Full Time Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Devaraj Sannabommaji",
+      "degree" : "MBBS, Diploma in Orthopedics",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "B Kiran",
+      "degree" : "MBBS, MD (Pediatrics), PGDDN (Developmental Neurology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kushal Kumar K",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Muralidhar Neelati",
+      "degree" : "MBBS, DCH",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Nirupama Nagaraj",
+      "degree" : "MBBS, DPM",
+      "designation" : "Consultant Psychiatrist",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vyshak Ap",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "B Rahul Shetty",
+      "degree" : "MBBS, MS (General Surgery), MCh (Plastic Surgery), DNB (Plastic Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Moin Mohammed Bhavikatti",
+      "degree" : "MBBS, MS, MCh, DNB",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}
