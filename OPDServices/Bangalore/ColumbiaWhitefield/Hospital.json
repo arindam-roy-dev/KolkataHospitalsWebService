@@ -1,0 +1,21 @@
+{
+"name":"Columbia Asia Hospital, Whitefield",
+"code":"ColumbiaWhitefield",
+"address":"Survey No. 10P & 12P, Ramagondanahal, Varthur Kodi, Whitefield, Bangalore East 560066",
+"geoLocation":"12.9581299,77.7453801?q=Columbia+Asia+Hospital+Whitefield,+Bangalore",
+"emails":"customercare.whitefield@columbiaindiahospitals.com",
+"websites":"https://www.columbiaindiahospitals.com/hospitals/whitefield/overview",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Telephone",
+	"phoneNumbers":"8061656666,8033130333",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8067366795"
+	},{
+	"name":"WhatsApp",
+	"phoneNumbers":"8884444330"
+	}]
+}

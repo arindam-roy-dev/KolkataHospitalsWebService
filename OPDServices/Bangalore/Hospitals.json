@@ -16,11 +16,19 @@
 	},{
 	"name":"Columbia Asia Hospital, Doddaballapur",
 	"locality":"Doddaballapur",
-	"code":"ColumbiaAsiaDoddaballapur"
+	"code":"ColumbiaDoddaballapur"
 	},{
 	"name":"Columbia Asia Hospital, Hebbal",
 	"locality":"Hebbal",
-	"code":"ColumbiaAsiaHebbal"
+	"code":"ColumbiaHebbal"
+	},{
+	"name":"Columbia Asia Hospital, Sarjapur Road",
+	"locality":"HSR Layout",
+	"code":"ColumbiaSarjapurRoad"
+	},{
+	"name":"Columbia Asia Hospital, Whitefield",
+	"locality":"Whitefield",
+	"code":"ColumbiaWhitefield"
 	},{
 	"name":"Mazumdar Shaw Medical Center, Bommasandra",
 	"locality":"Bommasandra",

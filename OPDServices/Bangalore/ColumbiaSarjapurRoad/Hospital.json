@@ -1,0 +1,18 @@
+{
+"name":"Columbia Asia Hospital, Sarjapur Road",
+"code":"ColumbiaSarjapurRoad",
+"address":"Ward No – 150, Ambalipura, Sarjapura Main Road (Opposite Iblur), Bangalore 560102",
+"geoLocation":"12.9197188,77.6654182?q=Columbia+Asia+Hospital+Sarjapur+Road",
+"emails":"Onlinehelp.sarjapur@columbiaindiahospitals.com",
+"websites":"https://www.columbiaindiahospitals.com/hospitals/sarjapur-road/overview",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"General Line",
+	"phoneNumbers":"8066756565",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8066756565"
+	}]
+}

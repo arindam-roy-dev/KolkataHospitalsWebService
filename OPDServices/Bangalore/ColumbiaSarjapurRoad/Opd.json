@@ -1,0 +1,412 @@
+﻿{
+  "name" : "Columbia Asia Hospital, Sarjapur Road",
+  "specialties" : [ {
+    "name" : "Anaesthesia",
+    "schedules" : [ {
+      "doctor" : "Udaya Shankar",
+      "degree" : "MD (Anesthesia), DNB (Anesthesia)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Bariatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Sathish N",
+      "degree" : "MS (General Surgery), Fellowship in Minimal Access Surgery, Fellowship in Indian Association of Gastroenterology and Endoscopic Surgeons, Fellowship in Colorectal Surgery, Fellow of International college of Surgeons - Indian section, Fellowship in Advanced Laparoscopic Surgery - Bariatric, Fellowship of International Bariatric Club (IBC)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Arun V",
+      "degree" : "MBBS, MS (General Surgery), MCh (CTVS)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Joseph Xavier",
+      "degree" : "MBBS, MS (General Surgery), MCh (CTVS)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Sejal Shah",
+      "degree" : "MBBS, MD (Medicine), Pediatric Cardiology Fellowship, Fetal Echocardiology and Cardiac MRI Observership",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sriharidas K P",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Cardiology)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology - Interventional",
+    "schedules" : [ {
+      "doctor" : "Magesh Balakrishnan",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Thu, Sat: 10:00 AM - 02:00 PM\nTue, Wed, Fri: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Mohan Kumar H N",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Thu, Sat: 10:00 AM - 04:00 PM\nTue, Wed, Fri: 10:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Clinical Haematology",
+    "schedules" : [ {
+      "doctor" : "Joseph Rajendran",
+      "degree" : "MBBS, MD (Internal Medicine), Dip in Clinical Haematology (Adult)",
+      "designation" : "Consultant",
+      "schedule" : "Tue, Wed, Fri: 02:00 PM - 04:00 PM\nSat: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Clinical Psychology",
+    "schedules" : [ {
+      "doctor" : "Nishal Pinto",
+      "degree" : "BSc (Psychology), MSc (Psychology), MPhil (Clinical Psychology)",
+      "designation" : "Clinical Psychologist",
+      "schedule" : "Mon, Tue: 10:00 AM - 02:00 PM\nWed to Sat: 09:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Deepa Krishna Murthy",
+      "degree" : "MBBS, DNB (Dermatology), DDVL (Dermatology Venerology and Leprosy)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Sowmya M",
+      "degree" : "MBBS, MD (Dermatology, Venerology & Leprosy)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Radhika V Kumar",
+      "degree" : "MBBS, MRCP (Internal Medicine), MRCP (Diabetes & Endocrinology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 10:30 AM - 03:30 PM"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Jayaraj S P",
+      "degree" : "MBBS, MD (General Medicine), DM (Gastroenterology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Tue, Fri, Sat: 09:00 AM - 04:00 PM\nWed: 12:00 PM - 04:00 PM\nThu: 09:00 AM - 03:30 PM"
+    }, {
+      "doctor" : "Lorance Peter",
+      "degree" : "MBBS, MD (General Medicine), DM (Gastroenterology), DNB (Gastroenterology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon, Fri: 10:00 AM - 04:00 PM\nTue: 11:00 AM - 03:30 PM\nWed, Thu: 10:00 AM - 01:00 PM\nSat: 11:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Viswanath S",
+      "degree" : "MBBS, MS (General Surgery), FMAS, FALS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Beena Jeysingh",
+      "degree" : "MBBS, DNB (Obstetrics)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 03:00 PM"
+    }, {
+      "doctor" : "Jyoti Kala",
+      "degree" : "MBBS, MS (Obstetrics & Gynecology), MRCOG (PART 1)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 02:30 PM - 06:30 PM"
+    }, {
+      "doctor" : "Thejaswini J",
+      "degree" : "MBBS, MD (Obstetrics), MRCOG",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 09:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Head & Neck Surgery",
+    "schedules" : [ {
+      "doctor" : "Geeta N Shapur",
+      "degree" : "MBBS, MS (ENT), MD, Fellowship in Otology & Cochlear Implantation",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 04:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Sampath Chandra Prasad Rao",
+      "degree" : "MBBS, MS (Otorhinolaryngology), DNB (Otorhinolaryngology), Fellow of the European Board of Otolaryngology - Head & Neck Surgery (FEB -ORLHNS), Clinical Fellowship in Skull Base Surgery (G. d'Annunzio University of Chieti, Pescara, Italy), Otology, Neurotology & Skull Base Surgery, Joint European Diploma in Endoscopic Skull Base Surgery",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Satish Babu K",
+      "degree" : "MBBS, DLO, MS (ENT)",
+      "designation" : "Ent Consultant",
+      "schedule" : "Mon, Wed, Fri: 09:00 AM - 01:00 PM\nTue, Thu, Sat: 09:00 AM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Amita Bhandarkar",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Jayakanth M J",
+      "degree" : "MD (Internal Medicine)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 01:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Soumya Yeturi",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sunil Havannavar",
+      "degree" : "MBBS, DNB (Internal Medicine)",
+      "designation" : "Sr Consultant",
+      "schedule" : "Mon to Sat: 09:30 AM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "Maxillo Facial Surgery",
+    "schedules" : [ {
+      "doctor" : "Krishna Shama Rao",
+      "degree" : "BDS, MDS, FDSRCS, MBBS, FRCS",
+      "designation" : "Consultant",
+      "schedule" : "Tue, Thu: 04:00 PM - 06:00 PM\nSat: 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Lokeshbabu K T",
+      "degree" : "",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Baswant Rao Malipatil",
+      "degree" : "MD, DM (Medical Oncology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Pallavi Patri",
+      "degree" : "MD (Nephrology), ABIM (Internal Medicine Residency), ABIM (Nephrology, Hypertension and Transplantation Fellowship)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Fri: 10:00 AM - 03:00 PM\nSat: 09:30 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Abdul Aziz Riyaz",
+      "degree" : "MBBS, MS (General Surgery), MCh (Neuro Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Kishor Rao",
+      "degree" : "MBBS, MS, MCh (Neuro Surgery)",
+      "designation" : "Consultant Neurosurgeon, Functional Neurosurgery And Spine Surgeon",
+      "schedule" : "Mon: 11:00 AM - 02:45 PM\nTue: 11:00 AM - 02:30 PM\nWed: 10:30 AM - 02:30 PM\nThu: 11:00 AM - 03:00 PM\nFri, Sat: 12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Tejus M N Rao",
+      "degree" : "DNB (General Surgery), MCh (Neuro Surgery), Fellowship in Endovascular Neuro Intervention",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Advait Prakash Kulkarni",
+      "degree" : "MBBS, DM (Neurology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 09:30 AM - 02:30 PM"
+    }, {
+      "doctor" : "Shivam O M Mittal",
+      "degree" : "MBBS, MD (Neurology, ABPN), Movement Disorders specialist",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vishakhadatta Mathur Kumaraswamy",
+      "degree" : "MBBS, Neurology Residency, Neuromuscular Disorders Fellowship",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 01:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Ophthalmology",
+    "schedules" : [ {
+      "doctor" : "Dipali Ghanshyam Prabhu",
+      "degree" : "MBBS, MS (Ophthalmology)",
+      "designation" : "Consultant",
+      "schedule" : "Tue: 03:30 PM - 05:00 PM\nWed, Fri, Sat: 03:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Poonam Yadav",
+      "degree" : "MBBS, M.Phil (Hospital and Health System Management), DNB (Ophthalmology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon: 10:00 AM - 05:00 PM\nTue to Sat: 10:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Balamurali Krishnan",
+      "degree" : "MBBS, Diploma in Orthopaedics, MRCS, MCh (Orthopaedics), Fellowship in Joint Replacement Surgery, Fellowship in Lower Limb Arthroplasty",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 09:30 AM - 02:00 PM"
+    }, {
+      "doctor" : "Codanda Belliappa Poovaiay",
+      "degree" : "MBBS, DNB (Orthopaedics)",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 02:30 PM - 06:30 PM\nWed: 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Lakshmikanth J",
+      "degree" : "MBBS, MS (Orthopedics), Inter Collegiate Board Certification In Trauma & Orthopaedicsopaedics, Spinal Fellow",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon, Wed, Fri, Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Nataraj H M",
+      "degree" : "MCh (Orthopaedics), Fellowship in Arthoscopy and Sports Medicine, Fellowship in Shoulder and Knee, Fellowship in Joint Replacement",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM, 01:00 PM - 03:10 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Antony Robert Charles",
+      "degree" : "MBBS, MS (General Surgery), MS (Paediatrics Surgery)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vedarth Dash",
+      "degree" : "MBBS, MS (General Surgery), MCh (Pediatric Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Shirish D",
+      "degree" : "MBBS, MS (General Surgery), MCH (Pediatric Surgery), International Fellow",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Akshay Ballal",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "designation" : "Consultant",
+      "schedule" : "Tue to Fri: 01:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Avinash S",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Thu, Fri, Sat: 02:30 PM - 06:30 PM"
+    }, {
+      "doctor" : "Kritika Agarwal",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon, Tue, Fri, Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Padma Subbaramu",
+      "degree" : "MBBS, MRCPCH",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sagar Sharma",
+      "degree" : "Diploma in Child Health",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Wed, Thu, Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Sarita Ann Bosco",
+      "degree" : "MBBS, DCH, DNB (Paediatrics), Fellowship in Pediatric and Adolescent Endocrinology, MRCPCH",
+      "designation" : "Consultant Pediatrics And Pediatric Endocrinology",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Bharath S P",
+      "degree" : "MBBS, DNB (General Surgery), MRCS (EdInburgh), MCh (Plastic Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Sandhya B",
+      "degree" : "MBBS, MS (General Surgery), MCh (Plastic and Reconstructive Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Wed, Fri: 08:30 AM - 10:00 AM"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Sabina Rao",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Wed, Thu, Fri: 09:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Gangi Reddy T K",
+      "degree" : "MBBS, DNB (Pulmonary Medicine)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 09:30 AM - 02:00 PM"
+    }, {
+      "doctor" : "Mini Garg",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 03:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Renal Transplant",
+    "schedules" : [ {
+      "doctor" : "Arun Wesley David",
+      "degree" : "MS (General Surgery), DNB (General Surgery), Fellowship - General Surgery and GI, Fellowship - Renal Transplantation and Access Surgery, Fellowship - Transplantation of Liver and Kidney",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Govind Nandakumar",
+      "degree" : "MD (Medicine), Resident, American Board of Colon and Rectal Surgery, Advance Training",
+      "designation" : "Chief Of Gastrointestinal Surgery",
+      "schedule" : "Tue: 08:30 AM - 10:00 AM\nThu: 10:30 AM - 11:30 AM"
+    }, {
+      "doctor" : "Lohith U",
+      "degree" : "MBBS, MS, DNB (Surgical Gastroenterology), Advance Laparoscopy certificate course, Fellowship in minimal access Surgery (FMAS)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Aravind Ramkumar",
+      "degree" : "MBBS, DNB (General Surgery), MRCS (Edinbrough), MCh (Surgical Oncology), FMAS, Certified Training in Thoracic Surgical Oncology",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Manohar Bhadrappa",
+      "degree" : "MBBS, MS (General Surgery), MCH (Urology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 10:30 AM - 03:30 PM"
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Narendra Kumar Reddy G",
+      "degree" : "MBBS, MS (General Surgery), Fellowship (Vascular Surgery)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sunil Subhash Joshi",
+      "degree" : "MS (General Surgery), FAIS (Fellow Association of Indian Surgeons), FVES (Vascular & Endovascular Surgery), Clinical Fellow, Clinical Fellow",
+      "designation" : "Senior Consultant",
+      "schedule" : "Tue, Sat: 02:00 PM - 04:00 PM\nThu: 10:00 AM - 12:00 PM"
+    } ]
+  } ]
+}
