@@ -1,0 +1,18 @@
+{
+"name":"Columbia Asia Hospital, Hebbal",
+"code":"ColumbiaAsiaHebbal",
+"address":"Kirloskar Business Park, Bellary Road, Hebbal, Bangalore 560024",
+"geoLocation":"13.0507099,77.5938191?q=Columbia+Asia+Hospital+Hebbal,+Bangalore",
+"emails":"ccsupervisor.hebbal@columbiaindiahospitals.com",
+"websites":"https://www.columbiaindiahospitals.com/hospitals/hebbal/overview",
+"faxNumbers":"8041791002",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"General Line",
+	"phoneNumbers":"8066600666,8041791000",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8041791777"
+	}]
+}
