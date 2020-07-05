@@ -1,0 +1,24 @@
+{
+"name":"Columbia Asia Referral Hospital, Yeshwanthpur",
+"code":"ColumbiaYeshwanthpur",
+"address":"26/4, Brigade Gateway, Beside Metro, Malleswaram West, Bangalore 560055",
+"geoLocation":"13.0138378,77.55614?q=Columbia+Asia+Referral+Hospital+Bangalore",
+"emails":"customercare.yeshwanthpur@columbiaindiahospitals.com",
+"websites":"https://www.columbiaindiahospitals.com/hospitals/yeshwanthpur/overview",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"General Line",
+	"phoneNumbers":"8061656262",
+	"isOpd":true
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"9620226481"
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8067416262"
+	},{
+	"name":"Call Center",
+	"phoneNumbers":"7676500900"
+	}]
+}
