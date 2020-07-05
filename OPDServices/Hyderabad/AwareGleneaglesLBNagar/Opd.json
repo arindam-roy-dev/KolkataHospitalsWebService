@@ -1,0 +1,310 @@
+﻿{
+  "name" : "Aware Gleneagles Global Hospitals, L. B. Nagar",
+  "specialties" : [ {
+    "name" : "Bariatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Pradeep Panigrahi",
+      "degree" : "MS, DLS (France), FIAGES",
+      "designation" : "Senior Consultant",
+      "language" : "Hindi, English, Odiya, Bengali, Telugu (Spoken Only)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "V Mukesh Rao",
+      "degree" : "MBBS, DM (Cardiology), MD (Internal Medicine) FSCAI, FESC",
+      "designation" : "Senior Consultant (Interventional Cardiologist)",
+      "schedule" : ""
+    }, {
+      "doctor" : "S Srinivasa Reddy",
+      "degree" : "MBBS, MS, MD (Internal Medicine), DM",
+      "designation" : "Senior Consultant (Interventional Cardiologist)",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rajeev Garg",
+      "degree" : "MBBS, MD (Medicine), DNB (Cardiology), Dip. Card (NIMS) MNAMS, FSCAI, FESC",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sudharshan Rao",
+      "degree" : "MBBS, Diploma",
+      "designation" : "Senior Consultant (Anaesthesiologist)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Mallindra Swamy",
+      "degree" : "MBBS, MD (General Medicine), DNB (Cardiology)",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English, Kannada",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Critical Care",
+    "schedules" : [ {
+      "doctor" : "Sudhir Prasad",
+      "degree" : "MBBS, MD, EDARM (Europe), FCCP (USA)",
+      "designation" : "Senior Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vajrapu Rajendra",
+      "degree" : "MD (NIMS), FNB (SGRH, New Delhi), EDIC (UK)",
+      "designation" : "HOD & Senior Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "N Vivekananda Reddy",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ahmer Ali Khan",
+      "degree" : "MBBS, MRCP (UK), FICM, FACP (USA)",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English, Urdu",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Diabetology",
+    "schedules" : [ {
+      "doctor" : "Srinivas Chary",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "N Vivekananda Reddy",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ahmer Ali Khan",
+      "degree" : "MBBS, MRCP (UK), FICM, FACP (USA)",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English, Urdu",
+      "schedule" : ""
+    }, {
+      "doctor" : "V Visweswara Rao",
+      "degree" : "MBBS, MD (General Medicine), Civil Surgeon Specialist, Senior Physician & Diabetologist",
+      "designation" : "Senior Physician & Diabetologist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Emergency Medicine & Trauma",
+    "schedules" : [ {
+      "doctor" : "Sudhir Prasad",
+      "degree" : "MBBS, MD, EDARM (Europe), FCCP (USA)",
+      "designation" : "Senior Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vajrapu Rajendra",
+      "degree" : "MD (NIMS), FNB (SGRH, New Delhi), EDIC (UK)",
+      "designation" : "HOD & Senior Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Mervin Leo",
+      "degree" : "MBBS, MEM, FICM, MA, MBA",
+      "designation" : "Regional Hod",
+      "language" : "English, Hindi, Telugu, Tamil, French",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Ravishankar Reddy",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Srinivas Chary",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant Physician",
+      "schedule" : ""
+    }, {
+      "doctor" : "N Vivekananda Reddy",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ahmer Ali Khan",
+      "degree" : "MBBS, MRCP (UK), FICM, FACP (USA)",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English, Urdu",
+      "schedule" : ""
+    }, {
+      "doctor" : "V Visweswara Rao",
+      "degree" : "MBBS, MD (General Medicine), Civil Surgeon Specialist, Senior Physician & Diabetologist",
+      "designation" : "Senior Physician & Diabetologist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "G Santhoshini",
+      "degree" : "MBBS, MS (Obstetrics & Gynecology), FMAS",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Kidney",
+    "schedules" : [ {
+      "doctor" : "Sandeep Reddy Y",
+      "degree" : "MBBS, MD, DM (Nephrology)",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Gandhe Sridhar",
+      "degree" : "MBBS, MD, DM (Nephrology)",
+      "designation" : "HOD & Senior Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Minimal Invasive Surgery",
+    "schedules" : [ {
+      "doctor" : "Pradeep Panigrahi",
+      "degree" : "MS, DLS (France), FIAGES",
+      "designation" : "Senior Consultant",
+      "language" : "Hindi, English, Odiya, Bengali, Telugu (Spoken Only)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Y K Siva Kumar Reddy",
+      "degree" : "MS, PDCC (Surgical Oncology, SVIMS)",
+      "designation" : "Consultant",
+      "language" : "Telugu, English, Hindi, Tamil",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Sandeep Reddy Y",
+      "degree" : "MBBS, MD, DM (Nephrology)",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Gandhe Sridhar",
+      "degree" : "MBBS, MD, DM (Nephrology)",
+      "designation" : "HOD & Senior Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "J Gauri Shankar",
+      "degree" : "MS, MCh (Neuro Surgery)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rama Krishna Chowdary",
+      "degree" : "MS (Neuro Surgery)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Suresh Reddy",
+      "degree" : "MD (General Medicine), DM (Neurology) (NIMS)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Obstetrics",
+    "schedules" : [ {
+      "doctor" : "G Santhoshini",
+      "degree" : "MBBS, MS (Obstetrics & Gynecology), FMAS",
+      "designation" : "Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Orthopaedics & Joint Replacement",
+    "schedules" : [ {
+      "doctor" : "Mitta Ashwin Kumar",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Consultant (Orthopaedic Surgeon)",
+      "schedule" : ""
+    }, {
+      "doctor" : "V V Satyanarayana E",
+      "degree" : "MBBS, MS (Orthopaedics), MCh Trauma (UK), AO Fellow Trauma & Arthroplasty (Greece), MS Ortho",
+      "designation" : "Consultant (Orthopaedic Surgeon)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Jyothsna B",
+      "degree" : "MBBS, MD (Paediatrics)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Kalyan Chakravarthy",
+      "degree" : "MBBS, MS, MCh, Fellow In Microvascular Surgery",
+      "designation" : "Consultant (Plastic Reconstructive & Aesthetic Surgeon)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Sudhir Prasad",
+      "degree" : "MBBS, MD, EDARM (Europe), FCCP (USA)",
+      "designation" : "Senior Consultant",
+      "language" : "Telugu, Hindi, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Spinal Surgery",
+    "schedules" : [ {
+      "doctor" : "J Gauri Shankar",
+      "degree" : "MS, MCh (Neuro Surgery)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Pradeep Panigrahi",
+      "degree" : "MS, DLS (France), FIAGES",
+      "designation" : "Senior Consultant",
+      "language" : "Hindi, English, Odiya, Bengali, Telugu (Spoken Only)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Y K Siva Kumar Reddy",
+      "degree" : "MS, PDCC (Surgical Oncology, SVIMS)",
+      "designation" : "Consultant",
+      "language" : "Telugu, English, Hindi, Tamil",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Transfusion Medicine",
+    "schedules" : [ {
+      "doctor" : "B Y Sukesh Kumar",
+      "degree" : "MBBS, MD (Microbiology)",
+      "designation" : "Consultant Microbilogist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Laxman Bellamkonda",
+      "degree" : "MS, MCh (Urology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  } ]
+}

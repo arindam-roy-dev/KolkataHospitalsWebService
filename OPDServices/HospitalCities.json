@@ -11,7 +11,7 @@
 	},{
 	"name":"Chennai",
 	"state":"Tamil Nadu",
-	"localities":["Karapakkam","Kilpauk","MRC Nagar","Perungudi","Sowcarpet","Taramani","Teynampet","Thousand Lights","Tondiarpet","Vanagaram"]
+	"localities":["Karapakkam","Kilpauk","MRC Nagar","Perumbakkam","Perungudi","Sowcarpet","Taramani","Teynampet","Thousand Lights","Tondiarpet","Vanagaram"]
 	},{
 	"name":"Delhi",
 	"state":"Delhi",
@@ -27,7 +27,7 @@
 	},{
 	"name":"Hyderabad",
 	"state":"Telangana",
-	"localities":["Jubilee Hills","HITech City","Hyderguda","Kanchan Bagh","Secunderabad"]
+	"localities":["Jubilee Hills","HITech City","Hyderguda","Kanchan Bagh","L. B. Nagar","Lakdikapul","Secunderabad"]
 	},{
 	"name":"Kolkata",
 	"state":"West Bengal",

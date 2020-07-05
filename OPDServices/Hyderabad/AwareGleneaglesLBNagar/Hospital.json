@@ -1,0 +1,21 @@
+{
+"name":"Aware Gleneagles Global Hospitals, L. B. Nagar",
+"code":"AwareGleneaglesLBNagar",
+"address":"Sagar Road, LB Nagar, Hyderabad 500035, Telangana",
+"geoLocation":"17.3457769,78.540076?q=Aware+Gleneagles+Global+Hospitals",
+"emails":"",
+"websites":"https://www.gleneaglesglobalhospitals.com/best-hospital-in-hyderabad/lbn-about-us",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4024111111,9100606111",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8297222222"
+	},{
+	"name":"whatsApp",
+	"phoneNumbers":"9100606111"
+	}]
+}

@@ -1,0 +1,458 @@
+﻿{
+  "name" : "Gleneagles Global Health City",
+  "specialties" : [ {
+    "name" : "Bone Marrow Transplantation",
+    "schedules" : [ {
+      "doctor" : "Ponni Sivaprakasam",
+      "degree" : "MBBS, MRCPCH",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Breast Oncology",
+    "schedules" : [ {
+      "doctor" : "Rajasundaram",
+      "degree" : "MBBS, MS, MCH, DNB, FAIS, FAMS",
+      "designation" : "Director",
+      "schedule" : ""
+    }, {
+      "doctor" : "Deepa Chegu",
+      "degree" : "MBBS, DMRD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Govini Balasubramani",
+      "degree" : "MS, MCh, FIACS, FIAGES",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Gobu P",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Bharath Kumar G",
+      "degree" : "MD, DNB, C.Diab (Certification in Diabetology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Karthick Anjaneyan",
+      "degree" : "MD (General medicine), DM (Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Critical Care",
+    "schedules" : [ {
+      "doctor" : "Rajavel V P",
+      "degree" : "MBBS, MD (Anesthesiology), DM (Critical Care Medicine), FAGE",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vijil Rahulan K",
+      "degree" : "MBBS, MD, FACP, FCCP (USA), AB (Internal Medicine, Pulmonary & Critical Care Medicine)",
+      "designation" : "HOD & Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Dentistry",
+    "schedules" : [ {
+      "doctor" : "Abhilash Bhaskaran",
+      "degree" : "MDS, FFD RCSI (IRE), MFDS RCS,",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Tariq Salam",
+      "degree" : "BDS (Dental Surgery), MDS (Dental Surgery)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Nidhi Singh",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Diabetology",
+    "schedules" : [ {
+      "doctor" : "Ashwin Karuppan",
+      "degree" : "MBBS, MD, PG Dip (Diabetology) (US), PG Dip (Cardiology) (UK)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "A Muraleedharan",
+      "degree" : "MBBS, MS (ENT), DLO, FABMS",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "J Praveen Kumar",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Emergency Medicine & Trauma",
+    "schedules" : [ {
+      "doctor" : "Meena K",
+      "degree" : "MBBS, FEM (UK), PGDEM, FICM, MEM",
+      "designation" : "Sr Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Mahadevan B",
+      "degree" : "MBBS, MD (Paediatrics), DM (Gastroenterology)",
+      "designation" : "HOD & Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Srinivas M",
+      "degree" : "MBBS, MRCP (UK)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Ashwin Karuppan",
+      "degree" : "MBBS, MD, PG Dip (Diabetology) (US), PG Dip (Cardiology) (UK)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Padmapriya Vivek",
+      "degree" : "MBBS, MS (Obstetrics), DRM (Germany)",
+      "designation" : "HOD",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sura Pushpalatha",
+      "degree" : "MBBS, DGO, DNB",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sharada S",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Heart Transplantation",
+    "schedules" : [ {
+      "doctor" : "Govini Balasubramani",
+      "degree" : "MS, MCh, FIACS, FIAGES",
+      "designation" : "Senior Consultant, Heart And Lung Transplantation",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Infection Medicines",
+    "schedules" : [ {
+      "doctor" : "Subramanian Swaminathan",
+      "degree" : "MBBS, MD, DNB, MNAMS, American Board (Internal Medicine, Infectious Diseases)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Interventional Radiology",
+    "schedules" : [ {
+      "doctor" : "Mohnish P",
+      "degree" : "MBBS, MD (Radiodiagnosis)",
+      "designation" : "Fellowship (Vascular Interventional Radiology & Interventional Oncology)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Kidney",
+    "schedules" : [ {
+      "doctor" : "Muthu Kumar P",
+      "degree" : "MBBS, MD (General Medicine), DM (Nephrology)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Liver",
+    "schedules" : [ {
+      "doctor" : "Joy Varghese",
+      "degree" : "MBBS, MD (General Medicine), DM (Med Gastro), Fellowship in Liver Tx (Germany)",
+      "designation" : "Director",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vivek Vij",
+      "degree" : "MBBS, MS (General Surgery), MRCS (Edin), DNB",
+      "designation" : "Director",
+      "language" : "English, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rajanikanth Patcha V",
+      "degree" : "MBBS, MS (General Surgery), MRCS (Edin), MRCS (Ireland), Dip (Laproscopic Surgery), FEBS (Liver Transplantation), FEBS (HPB)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Hari Kumar Nair",
+      "degree" : "MBBS, MD, MRCP (UK), OM, FRCP (Edin)",
+      "designation" : "Senior Consultant Hepatology Liver Transplant Medicine",
+      "schedule" : ""
+    }, {
+      "doctor" : "Puneet Dargan",
+      "degree" : "MBBS, MS (General Surgery) Master's in Hepatobiliary & Pancreatic Surgery (Henri Bismuth Hepatobiliary Institute) European Diploma in HPB Onco Surgery (Hospital Paul Brousse, France)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Magnus Jayaraj Mansard",
+      "degree" : "MBBS, MS, DM, GCSRT",
+      "designation" : "Senior Consultant And Gi Surgeon",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Lung Transplantation",
+    "schedules" : [ {
+      "doctor" : "Govini Balasubramani",
+      "degree" : "MS, MCh, FIACS, FIAGES",
+      "designation" : "Senior Consultant, Heart And Lung Transplantation",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Bellarmine Vincent Lawrence",
+      "degree" : "MBBS, MD (General Medicine)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "M P Ram Prabu",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Muthu Kumar P",
+      "degree" : "MBBS, MD (General Medicine), DM (Nephrology)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Nigel Symss",
+      "degree" : "MBBS, DNB (NeuroSurgery), Fellowship Paediatric Neuro Surgery (Japan), Fellowship Spine and Functional Neuro Surgery (Australia)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Dinesh Nayak",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology)",
+      "designation" : "Director, Neurology Senior Consultant Neurologist And Epileptologists",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sathish Kumar V",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "K Lakshminarayanan",
+      "degree" : "MBBS, MD Pediatrics, DM (Pediatric  Neurology), Fellowship in Epilepsy",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Praveen Chander",
+      "degree" : "MBBS, MD, DM (Neurology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Obstetrics",
+    "schedules" : [ {
+      "doctor" : "Padmapriya Vivek",
+      "degree" : "MBBS, MS (Obstetrics), DRM (Germany)",
+      "designation" : "HOD",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sura Pushpalatha",
+      "degree" : "MBBS, DGO, DNB",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sharada S",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Ophthalmology",
+    "schedules" : [ {
+      "doctor" : "Ravindramohan E",
+      "degree" : "MBBS, DM, FRCS (Ed)",
+      "designation" : "Visiting Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Gitanjali Fernandez",
+      "degree" : "MBBS, DO, DNB",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Orthopaedics & Joint Replacement",
+    "schedules" : [ {
+      "doctor" : "Ajit Yadav",
+      "degree" : "MBBS, MS (Orthopaedics), MCH (UK)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kesavan Rajagopalan Amruthur",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Senior Consultant",
+      "language" : "English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Jayanthi Vishwanathan",
+      "degree" : "MBBS, DCH, MRCP (Paediatrics)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Moorthy G",
+      "degree" : "MBBS, MRCS (UK), MCH (AIIMS), DNB (Paediatric Surgery), MNAMS",
+      "designation" : "Visiting Consultant",
+      "language" : "English",
+      "schedule" : ""
+    }, {
+      "doctor" : "R Venkateswaran",
+      "degree" : "MBBS, MD",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Karnan",
+      "degree" : "- -",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Raj Kumar Radhakrishnan",
+      "degree" : "MBBS, MD (Paediatrics & Neonatology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Selva Seetharaman S",
+      "degree" : "MBBS, MS (General Surgery), MCh (Plastic Surgery), MRCS, Dip NB (Plastic Surgery)",
+      "designation" : "Senior Consultant & HOD",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Vasantha Jayaraman",
+      "degree" : "MBBS, DPM, DNB",
+      "designation" : "Senior Consultant",
+      "language" : "Tamil and Telugu",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Vijil Rahulan K",
+      "degree" : "MBBS, MD, FACP, FCCP (USA), AB (Internal Medicine, Pulmonary & Critical Care Medicine)",
+      "designation" : "HOD & Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Radiation Oncology",
+    "schedules" : [ {
+      "doctor" : "Balaji Subramanian",
+      "degree" : "MBBS, DMRT, DNB",
+      "designation" : "Consultant Radiation Oncologist",
+      "language" : "Tamil",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sathiya K",
+      "degree" : "MBBS, DNB",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Sham S",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Consultant",
+      "language" : "English, Tamil, Hindi, Kannada",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Spinal Surgery",
+    "schedules" : [ {
+      "doctor" : "Karunakaran S",
+      "degree" : "MBBS, MS, DNB",
+      "designation" : "Director",
+      "schedule" : ""
+    }, {
+      "doctor" : "Krishnakumar Rangasamy",
+      "degree" : "MBBS, DOrth, DNB, MCh, PDF (Spine)",
+      "designation" : "Visiting Consultant",
+      "language" : "English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Phani Kiran S",
+      "degree" : "MBBS, MS (Orthopaedics), DNB (Orthopedic Surgery), FNB (Spine Surgery), MNAMS, Fellowship in Spine Surgery (Hong Kong, Germany)",
+      "designation" : "Senior Consultant",
+      "language" : "English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Balashanmugam T S",
+      "degree" : "MBBS, MS (General Surgery), Fellowship (Minimal Access Surgery)",
+      "designation" : "HOD And Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Magnus Jayaraj Mansard",
+      "degree" : "MBBS, MS, DM, GCSRT",
+      "designation" : "Senior Consultant And GI Surgeon",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Rajasundaram",
+      "degree" : "MBBS, MS, MCH, DNB, FAIS, FAMS",
+      "designation" : "Director",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Muruganandham K",
+      "degree" : "MBBS, MS, DNB, MCh, FMAS",
+      "designation" : "HOD And Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "I Rajkumar",
+      "degree" : "MBBS, MRCSEd, DNB (General Surgeryg), FVAS (UK)",
+      "designation" : "Consultant Vascular Surgeon",
+      "schedule" : ""
+    } ]
+  } ]
+}

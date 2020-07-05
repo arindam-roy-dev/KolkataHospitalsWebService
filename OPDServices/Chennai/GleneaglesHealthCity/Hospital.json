@@ -1,0 +1,18 @@
+{
+"name":"Gleneagles Global Health City",
+"code":"GleneaglesHealthCity",
+"address":"439, Cheran Nagar, Perumbakkam, Chennai 600100, Tamil Nadu",
+"geoLocation":"12.8983178,80.2068243?q=Gleneagles+Global+Health+City",
+"emails":"",
+"websites":"https://www.gleneaglesglobalhospitals.com/best-hospital-in-chennai/perumbakkam-about-us",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4444777000",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"4446242424"
+	}]
+}

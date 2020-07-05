@@ -1,0 +1,377 @@
+﻿{
+  "name" : "Gleneagles Global Hospitals",
+  "specialties" : [ {
+    "name" : "Bariatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Kona S Lakshmi Kumari",
+      "degree" : "MS, FICS",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "M Sai Sudhakar",
+      "degree" : "MDDM FRCP (Edin), FACC (USA)",
+      "designation" : "Director",
+      "schedule" : ""
+    }, {
+      "doctor" : "S K Narayan Dash",
+      "degree" : "MD (General Medicine), DM (Cardiology)",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Telugu, Oriya",
+      "schedule" : ""
+    }, {
+      "doctor" : "Venkatesh Y",
+      "degree" : "MRCP",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Krishna Sehkar Patri",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Sarat S",
+      "degree" : "MS, MCh",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "A Nagesh",
+      "degree" : "MD, DM, MRCP (UK)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ajeya Joshi",
+      "degree" : "MBBS, MS (General Surgery), MCh (CTVS)",
+      "designation" : "Consultant",
+      "language" : "Kannada",
+      "schedule" : ""
+    }, {
+      "doctor" : "Prem Kumar",
+      "degree" : "MD (Anaesthesiology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sushanta Panda",
+      "degree" : "MD (Anaesthesiology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "K Chaitanya Velagapudi",
+      "degree" : "MD (Anaesthesiology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Critical Care",
+    "schedules" : [ {
+      "doctor" : "Maneendra",
+      "degree" : "MD FNB, EDIC",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vinay Raj Gajula",
+      "degree" : "MD, FNB",
+      "designation" : "Consultant (Critical Care)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Gunda Praneeth Kumar",
+      "degree" : "MD (Dermatology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Diabetology",
+    "schedules" : [ {
+      "doctor" : "Khaja Ahmed Khan Imtiyaz",
+      "degree" : "MBBS, MD (General Medicine & Diabetology)",
+      "designation" : "Consulant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "P Nalini Kanth",
+      "degree" : "DLO (ENGLand)",
+      "designation" : "Visiting",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "G V Chanukya",
+      "degree" : "MBBS, MD, DM Endocrinology",
+      "designation" : "Senior Endocrinologist",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jayanthi S Thumsi",
+      "degree" : "MBBS, MS (General Surgery)",
+      "designation" : "Consultant (Oncology)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Rakesh Kumar Adi",
+      "degree" : "MD, DM, Fellowship in Advanced Endoscopy",
+      "designation" : "Consultant Gastroenterologist & Hepatologist",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vamsidhar Reddy",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Gastroenterology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anil Kumar C H",
+      "degree" : "MRCP",
+      "designation" : "Visiting",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "M Sheetal Kumar",
+      "degree" : "MBBS, DNB",
+      "designation" : "Consultant Head Of Department, Internal Medicine",
+      "schedule" : ""
+    }, {
+      "doctor" : "Animesh Gupta",
+      "degree" : "MD, MRCP (UK)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Talacheru Srinivas",
+      "degree" : "MD",
+      "designation" : "Consultant General Physician & Diabetologist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Santhi A",
+      "degree" : "MBBS, Master Degree (Obstetrics & Gynecology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Kidney",
+    "schedules" : [ {
+      "doctor" : "G Sridhar",
+      "degree" : "MD, DM",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jella Ramashankar",
+      "degree" : "MD (General Medicine), DM (Nephrology)",
+      "designation" : "Senior Consultant",
+      "language" : "English, Hindi, Telugu",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Ravi Kumar",
+      "degree" : "MBBS, DNB, ECMO, FCCP, FCGP",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vishesh Gumdal",
+      "degree" : "MBBS, MD, DM, ECMO, PDCR",
+      "designation" : "Consultant Medical Oncologist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Minimal Invasive Surgery",
+    "schedules" : [ {
+      "doctor" : "Venkatesh Y",
+      "degree" : "MS, MCh",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kona S Lakshmi Kumari",
+      "degree" : "MS, FICS",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Bharath Kumar Nara",
+      "degree" : "MS, MCh (Surgical Gastro)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "G Sridhar",
+      "degree" : "MD, DM",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jella Ramashankar",
+      "degree" : "MD (General Medicine), DM (Nephrology)",
+      "designation" : "Senior Consultant",
+      "language" : "English, Hindi, Telugu",
+      "schedule" : ""
+    }, {
+      "doctor" : "Pradeep Deshpande",
+      "degree" : "MD, DNB",
+      "designation" : "Visitng",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Y Rama Krishna Chowdary",
+      "degree" : "MS, M.Ch (NeuroSurgery)",
+      "designation" : "Consultant Neuro & Spine Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sireesh Reddy",
+      "degree" : "MS, M.Ch",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "B Jyothi",
+      "degree" : "MBBS, MD (GM), DNB (Neurology) (AIMS, Kochi)",
+      "designation" : "Sr Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Obstetrics",
+    "schedules" : [ {
+      "doctor" : "Santhi A",
+      "degree" : "MBBS, Master Degree (Obstetrics & Gynecology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Orthopaedics & Joint Replacement",
+    "schedules" : [ {
+      "doctor" : "M Naveen Chandar Reddy",
+      "degree" : "DOrtho, DNB (Orthopaedics), Fellowship in Hip & Knee Arthoplasty (Italy)",
+      "designation" : "Consultant Orthopaedic Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vishnu Manyam",
+      "degree" : "MS (Orthopaedics), Fellowship in spine Surgery",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "M V Naveen Reddy",
+      "degree" : "MS (General Surgery)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Gnaneswar",
+      "degree" : "MS, MCh",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Aftab Ali Khan",
+      "degree" : "MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Tapaswini Krishna",
+      "degree" : "MD",
+      "designation" : "Consultant",
+      "language" : "English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ravipati Srinivasa Kumar",
+      "degree" : "MBBS, MD (Respiratory Diseases), MRCP (UK)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Spinal Surgery",
+    "schedules" : [ {
+      "doctor" : "Vishnu Manyam",
+      "degree" : "MS (Orthopaedics), Fellowship in Spine Surgery",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "K Ravindranath",
+      "degree" : "MS, FRCS (Edin) FRCS (Glasg)",
+      "designation" : "HOD & Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kona S Lakshmi Kumari",
+      "degree" : "MS, FICS",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Bharath Kumar Nara",
+      "degree" : "MS, MCh (Surgical Gastroenterology)",
+      "designation" : "Consultant",
+      "language" : "English, Telugu, Kannada, Hindi, Tamil",
+      "schedule" : ""
+    }, {
+      "doctor" : "Praveen Shrinivas Kammar",
+      "degree" : "MS (General Surgery), MCh (Surgical Oncology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "T V Aditya Chowdhary",
+      "degree" : "MS, MCh (Surgical Gastroenterology)",
+      "designation" : "Consultant",
+      "language" : "English, Telugu, Hindi, Tamil",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Transfusion Medicine",
+    "schedules" : [ {
+      "doctor" : "A Surekha Devi",
+      "degree" : "DCP, BBIH",
+      "designation" : "HOD & Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "G C Malakondaiah",
+      "degree" : "MS, FRCS",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Bheem Rao Sangars",
+      "degree" : "MBBS, MS, MRCS, FRCS",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sailesh",
+      "degree" : "MS",
+      "designation" : "Visiting",
+      "schedule" : ""
+    }, {
+      "doctor" : "Lakshmidharan",
+      "degree" : "MBBS, MS, M.Ch",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  } ]
+}

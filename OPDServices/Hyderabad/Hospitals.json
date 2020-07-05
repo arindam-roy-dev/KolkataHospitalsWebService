@@ -21,5 +21,13 @@
 	"name":"Apollo Teleclinic",
 	"locality":"HITech City",
 	"code":"ApolloTeleclinic"
+	},{
+	"name":"Aware Gleneagles Global Hospitals, L. B. Nagar",
+	"locality":"L. B. Nagar",
+	"code":"AwareGleneaglesLBNagar"
+	},{
+	"name":"Gleneagles Global Hospitals",
+	"locality":"Lakdikapul",
+	"code":"GleneaglesLakdikapul"
 	}]
 } 
