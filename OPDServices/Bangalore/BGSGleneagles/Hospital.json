@@ -1,0 +1,18 @@
+{
+"name":"BGS Gleneagles Global Hospital",
+"code":"BGSGleneagles",
+"address":"Uttarahalli Main Road, Kengeri, Bengaluru, Karnataka 560060",
+"geoLocation":"12.9027209,77.4976916?q=BGS+Gleneagles+Global+Hospitals",
+"emails":"queries.blr@globalhospitalsindia.com",
+"websites":"https://www.gleneaglesglobalhospitals.com/best-hospital-in-bengaluru/kengeri-about-us",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"8026255555",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8024242424"
+	}]
+}

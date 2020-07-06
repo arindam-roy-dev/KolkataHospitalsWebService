@@ -1,0 +1,18 @@
+{
+"name":"Gleneagles Global Clinic",
+"code":"GleneaglesClinic",
+"address":"Old No.62, New no 56, 4th Main Road, Gandhi Nagar, Adyar, Chennai - 600020",
+"geoLocation":"13.0095369,80.2515723?q=Gleneagles+Global+Clinics",
+"emails":"adyar.clinic@gleneaglesglobal.com",
+"websites":"https://www.gleneaglesglobalhospitals.com/best-hospital-in-chennai/adyar-about-us",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"4433242424",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"4446242424"
+	}]
+}

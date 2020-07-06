@@ -1,0 +1,163 @@
+﻿{
+  "name" : "Gleneagles Global Clinic",
+  "specialties" : [ {
+    "name" : "Breast Oncology",
+    "schedules" : [ {
+      "doctor" : "Rajasundaram",
+      "degree" : "MBBS, MS, MCH, DNB, FAIS, FAMS",
+      "designation" : "Director",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Srinivas M",
+      "degree" : "MBBS, MRCP (UK)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Pavithra T",
+      "degree" : "MBBS, MD",
+      "designation" : "Junior Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Sura Pushpalatha",
+      "degree" : "MBBS, DGO, DNB",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sharada S",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anbu Gowtham",
+      "degree" : "MBBS, MD (OG), AFIH",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Bellarmine Vincent Lawrence",
+      "degree" : "MBBS, MD (General Medicine)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "M P Ram Prabu",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sathiya K",
+      "degree" : "MBBS, DNB",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Muthu Kumar P",
+      "degree" : "MBBS, MD (General Medicine), DM (Nephrology)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Dinesh Nayak",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology)",
+      "designation" : "Director, Senior Consultant - Neurologist And Epileptologists",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sathish Kumar V",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology)",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "K Lakshminarayanan",
+      "degree" : "MBBS, MD (Pediatrics), DM (Pediatric Neurology), Fellowship in Epilepsy",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Obstetrics",
+    "schedules" : [ {
+      "doctor" : "Sura Pushpalatha",
+      "degree" : "MBBS, DGO, DNB",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sharada S",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anbu Gowtham",
+      "degree" : "MBBS, MD (OG), AFIH",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Orthopaedics & Joint Replacement",
+    "schedules" : [ {
+      "doctor" : "Kesavan Rajagopalan Amruthur",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Senior Consultant",
+      "language" : "English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ajit Yadav",
+      "degree" : "MBBS, MS (Orthopaedics), MCH (UK)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "A P Sivakumar",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Junior Consultant",
+      "language" : "Tamil",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shiva Reddy",
+      "degree" : "MBBS, MD, DNB",
+      "designation" : "Senior Registrar",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Sham S",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Spinal Surgery",
+    "schedules" : [ {
+      "doctor" : "Krishnakumar Rangasamy",
+      "degree" : "MBBS, DOrth, DNB, MCh, PDF (Spine)",
+      "designation" : "Visiting Consultant",
+      "language" : "English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Phani Kiran S",
+      "degree" : "MBBS, MS (Orthopaedics), DNB (Orthopedic Surgery), FNB (Spine Surgery), MNAMS, Fellowship in Spine Surgery (Hong Kong & Germany)",
+      "designation" : "Consultant",
+      "language" : "English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Rajasundaram",
+      "degree" : "MBBS, MS, MCH, DNB, FAIS, FAMS",
+      "designation" : "Director",
+      "schedule" : ""
+    } ]
+  } ]
+}

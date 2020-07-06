@@ -7,11 +7,11 @@
 	},{
 	"name":"Bangalore",
 	"state":"Karnataka",
-	"localities":["Bommasandra","Doddaballapur","Hebbal","HSR Layout","Jayanagar","Langford Town","Panduranga Nagar","Sheshadripuram","Whitefield","Yeshwanthpur"]
+	"localities":["Bommasandra","Doddaballapur","Hebbal","HSR Layout","Jayanagar","Kengeri","Langford Town","Panduranga Nagar","Sheshadripuram","Whitefield","Yeshwanthpur"]
 	},{
 	"name":"Chennai",
 	"state":"Tamil Nadu",
-	"localities":["Karapakkam","Kilpauk","MRC Nagar","Perumbakkam","Perungudi","Sowcarpet","Taramani","Teynampet","Thousand Lights","Tondiarpet","Vanagaram"]
+	"localities":["Adyar","Karapakkam","Kilpauk","MRC Nagar","Perumbakkam","Perungudi","Sowcarpet","Taramani","Teynampet","Thousand Lights","Tondiarpet","Vanagaram"]
 	},{
 	"name":"Delhi",
 	"state":"Delhi",

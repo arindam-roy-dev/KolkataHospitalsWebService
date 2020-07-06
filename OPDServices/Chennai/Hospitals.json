@@ -57,5 +57,9 @@
 	"name":"Gleneagles Global Health City",
 	"locality":"Perumbakkam",
 	"code":"GleneaglesHealthCity"
+	},{
+	"name":"Gleneagles Global Clinic",
+	"locality":"Adyar",
+	"code":"GleneaglesClinic"
 	}]
 } 
