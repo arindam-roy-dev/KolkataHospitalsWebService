@@ -1,0 +1,18 @@
+{
+"name":"Gleneagles Global Hospitals",
+"code":"GleneaglesGlobal",
+"address":"5/5, Richmond Road, Bengaluru 560025, Karnataka",
+"geoLocation":"12.9653093,77.6001263?q=Gleneagles+Global+Hospitals,+Richmond+Road,+Bengaluru",
+"emails":"",
+"websites":"https://www.gleneaglesglobalhospitals.com/best-hospital-in-bengaluru/richmond-road-about-us",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"8046694333",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8046694345"
+	}]
+}

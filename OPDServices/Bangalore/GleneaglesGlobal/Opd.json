@@ -1,0 +1,236 @@
+﻿{
+  "name" : "Gleneagles Global Hospitals",
+  "specialties" : [ {
+    "name" : "Bariatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Moinuddin",
+      "degree" : "MS, FMAS, FALBS (Mumbai), FBS (AHMD), FENDO, FRLCRS (South Korea)",
+      "designation" : "Consultant, Advanced Laparoscopic & Bariatric Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Manish Joshi",
+      "degree" : "MBBS, MS, DNB (General Surgery), DNB (Surgical Gastroenterology), MRCS (Edn), Fellow in HPB & Liver Transplantation, FACRSI (Colorectal Fellowship)",
+      "designation" : "Senior Consultant & Incharge",
+      "language" : "English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Breast Oncology",
+    "schedules" : [ {
+      "doctor" : "Monika Pansari",
+      "degree" : "MS, DNB (Surgical Oncology)",
+      "designation" : "Consultant, Surgical Oncologist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Prasad M Bhat",
+      "degree" : "MBBS, DNB (Medicine), DNB (Cardiology)",
+      "designation" : "Consultant, Interventional Cardiologist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Prashanth R Reddy",
+      "degree" : "MBBS, MS (ENT)",
+      "designation" : "Consultant",
+      "language" : "English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Satish Babu K N",
+      "degree" : "MBBS, MD (General Medicine), MRCP (UK)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Adarsh C K",
+      "degree" : "MBBS, MD (General Medicine), DNB (Gastroenterology)",
+      "designation" : "Consultant",
+      "language" : "Kannada, English, Hindi, Telugu, Tamil",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "L Sreenivasa Murthy",
+      "degree" : "MD, PDCR",
+      "designation" : "Consultant (Internal Medicine)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Shanthala",
+      "degree" : "MBBS, MS",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Interventional Radiology",
+    "schedules" : [ {
+      "doctor" : "M C Uthappa",
+      "degree" : "MBBS, FRCS, FRCR",
+      "designation" : "Senior Consultant",
+      "language" : "Coorgi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Liver",
+    "schedules" : [ {
+      "doctor" : "Nagesh",
+      "degree" : "MBBS, MS, FSGE, Fellowhip in liver transplant (Hong Kong)",
+      "designation" : "Consultant, GI And HPB Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sushruth",
+      "degree" : "MBBS, MS, FSGE, Fellowship in liver transplant",
+      "designation" : "Consultant, GI And HPB Surgeon",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Rajeev Vijayakumar",
+      "degree" : "DNB (Medical Oncology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Mangesh P Kamath",
+      "degree" : "DNB, DM, MRCP, ECMO (Medical Oncology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Minimal Invasive Surgery",
+    "schedules" : [ {
+      "doctor" : "Manish Joshi",
+      "degree" : "MBBS, MS, DNB (General Surgery), DNB (Surgical Gastroenterology), MRCS (Edn), Fellow in HPB & Liver Transplantation, FACRSI (Colorectal Fellowship)",
+      "designation" : "Senior Consultant & Incharge",
+      "language" : "English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Suryanarayana Sharma",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Neurology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Madhusudhan B K",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology), Eplilepsy (UHN, Canada)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Orthopaedics & Joint Replacement",
+    "schedules" : [ {
+      "doctor" : "Kishore Subbaiah",
+      "degree" : "MBBS, MS, MCh (Dundee University, UK), AOAA (Swiss) (Leeds University, UK)",
+      "designation" : "Orthopedic Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Harshavardhana Nalwad",
+      "degree" : "MBBS, MS, MRCS, Fellowship in Arthroplasty",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kiran Nagaraj",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Madhusudan G",
+      "degree" : "MBBS, MS (ENT), DNB (ENT), MCh (Plastic Surgery)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shubha Dharmana",
+      "degree" : "MBBS, DFFP, DPD (UK)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Naveen Kumar H R",
+      "degree" : "MS, MCh (Plastic Surgery), Fellowship in Reconstructive Head Neck & Micro Surgery, DAFPRS, Cosmetic Surgery fellowship",
+      "designation" : "Consultant (Department of Plastic And Reconstruction Surgery)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Vishwanath V Bellad",
+      "degree" : "MBBS, DNB (Respiratory Diseases)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sandeep S",
+      "degree" : "MBBS, MD, DM (Pulmonology)",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Telugu, Marati, Kannada",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Sports Medicine",
+    "schedules" : [ {
+      "doctor" : "H P C Khincha",
+      "degree" : "MBBS, FRCS (Edinburgh, UK), MCh (Liverpool, UK), FASIF",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Hemanth Kumar A",
+      "degree" : "MBBS, MS (Orthopaedics), Fellowship in Arthroscopy and Sports Medicine",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Harshavardhana Nalwad",
+      "degree" : "MBBS, MS, MRCS, Fellowship in Arthroplasty",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Moinuddin",
+      "degree" : "MS, FMAS, FALBS (Mumbai), FBS (AHMD), FENDO, FRLCRS (South Korea)",
+      "designation" : "Consultant, Advanced Laparoscopic & Bariatric Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Manish Joshi",
+      "degree" : "MBBS, MS, DNB (General Surgery), DNB (Surgical Gastroenterology), MRCS (Edn), Fellow in HPB & Liver Transplantation, FACRSI (Colorectal Fellowship)",
+      "designation" : "Senior Consultant & Incharge",
+      "language" : "English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Neelshetty",
+      "degree" : "MBBS, MS",
+      "designation" : "Consultant, General And Laparoscopic Surgeon",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Monika Pansari",
+      "degree" : "MS, DNB (Surgical Oncology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Rahul N S",
+      "degree" : "MS, MCh, FVES (Austria)",
+      "designation" : "Consultant, Vascular & Endovascular Surgeon",
+      "schedule" : ""
+    } ]
+  } ]
+}
