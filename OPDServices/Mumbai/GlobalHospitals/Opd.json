@@ -1,0 +1,948 @@
+﻿{
+  "name" : "Global Hospitals",
+  "specialties" : [ {
+    "name" : "Bariatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Aparna Govil Bhasker",
+      "degree" : "MBBS, MS, Fellowship in advanced laparoscopy and bariatric Surgery, Diploma in Clinical Research (Harvard Medical School)",
+      "designation" : "Consultant Bariatric Surgeon",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Bone Marrow Transplantation",
+    "schedules" : [ {
+      "doctor" : "Shrinath Kshirsagar",
+      "degree" : "MD, PDF (Hematology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Akanksha Chichra",
+      "degree" : "MBBS, DNB (Pediatrics), National Board Fellowship in Pediatric Hematologist, Oncologist",
+      "designation" : "Consultant Pediatric Hematologist Oncologist",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shyam Rathi",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Zainulabedin Hamdulay",
+      "degree" : "MBBS, MS, MCh, DNB (CTVS)",
+      "designation" : "Head of Department, Senior Consultant",
+      "language" : "English, Hindi, Marathi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Amjad M Shaikh",
+      "degree" : "MBBS, FMAS, MS (Surgery), MCh (CVTS)",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Marathi, Urdu",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Praveen Kulkarni",
+      "degree" : "MBBS, MD (Medicine), DM (Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Milind Phadke",
+      "degree" : "MD, DM (Cardiology)",
+      "designation" : "Consultant Interventional Cardiologist",
+      "schedule" : ""
+    }, {
+      "doctor" : "Chetan Shah",
+      "degree" : "MBBS, MD (TB & Chest Diseases)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Chhaya Vaja",
+      "degree" : "MBBS, MD (General Medicine)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "V K Shah",
+      "degree" : "MBBS, DM (Cardiology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Saurabh Goel",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ashok Punjabi",
+      "degree" : "",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Charan P Lanjewar",
+      "degree" : "MD, DM FACC FESC, Interventional Cardiology Fellowship (Canada)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nazir I Juvale",
+      "degree" : "",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Critical Care",
+    "schedules" : [ {
+      "doctor" : "Ajit Baviskar",
+      "degree" : "MBBS, MD (Anaes), PGDHHM, F (Pain Management), FACEE",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Harish Chafle",
+      "degree" : "MBBS, DTCD, IDCC, DICC, DNB (Respiratory Medicine)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kamlesh Joshi",
+      "degree" : "MBBS, MD (Anaesthesia)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ruhi Kohli",
+      "degree" : "MBBS, MD (Medicine)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vaishail Solao",
+      "degree" : "MBBS, MD (Medicine), FNB (Critical care)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Dentistry",
+    "schedules" : [ {
+      "doctor" : "Mukul N Padhye",
+      "degree" : "BDS , MDS (Maxilofacial)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anisha Maydeo",
+      "degree" : "Bachelor of Dental Surgery , Certificate course in Periodontology, Certificate Course in Cosmetic Dentistry",
+      "designation" : "Dental Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Karanjit Choudhary",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vivek Soni",
+      "degree" : "MDS, PG Diploma in Hospital Administration, LLM PhD in Law",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Diabetology",
+    "schedules" : [ {
+      "doctor" : "Mita Shah",
+      "degree" : "MBBS, ECFMG",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Aarti Ullal",
+      "degree" : "MBBS, DNB (Family Medicine), Fellowship in Diabetology",
+      "designation" : "Consultant Diabetologist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Maqsood Ali",
+      "degree" : "MBBS, MS (Otorhinolaryngology), DORL",
+      "schedule" : ""
+    }, {
+      "doctor" : "Dipak L Desai",
+      "degree" : "MBBS, Diploma of OTO (Rhinolaryngology), MS (ENT)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Prarthana Jagtap",
+      "degree" : "MBBS, MS (ENT)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Milind Navalakhe",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Pushkar Dilip Kasat",
+      "degree" : "MBBS, DNB (Otorhinolaryngology), MNAMS (ENT)",
+      "designation" : "Consultant (Ent & Neurotologist)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Sneha Kothari",
+      "degree" : "MBBS, MD (Internal Medicine), DNB (Endocrinology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Aarti Ullal",
+      "degree" : "MBBS, DNB (Family Medicine), Fellowship in Diabetology",
+      "designation" : "Consultant Diabetologist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Amit Maydeo",
+      "degree" : "MS (Master of Surgery), FASGE (Fellow of American Society for GI Endoscopy)",
+      "designation" : "Chairman & Chief of Gastroenterology & Therapeutic Endoscopy",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ankit Dalal",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Kiran B Jain",
+      "degree" : "MBBS, MD",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nikhil Kulkarni",
+      "degree" : "MBBS, MD (Medicine)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Raj Kishore Agarwal",
+      "degree" : "MD (General Medicine), DNB (General Medicine), FCPS (General Medicine)",
+      "designation" : "Consultant Physician",
+      "language" : "Marati",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rajesh Uchil",
+      "degree" : "MBBS, MD",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Suresh Kumar Jain",
+      "degree" : "MBBS, MD",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Manjusha Agarwal",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Baburaj Hegde",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Adwait Patil",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Brajesh Gupta",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Vinita Salvi",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology), DNB (Obstetrics & Gynecology), FCPS, DGO, DFP",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Saroj Desai",
+      "degree" : "MBBS, DGO, MD (Obstetrics & Gynaecology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Dharmesh S Kapoor",
+      "degree" : "MBBS, MD, FRCOG",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shubhada Khandeparkar",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology), FICS , Fellow ship of Indian College of Obstetrics & Gynecology (FICOG) Infertility Specialist , Gynecologist , Laparoscopic Surgeon",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Swati G Allahbadia",
+      "degree" : "MD (Obstetrics & Gynaecology), DGO, Diploma in Gynecological Endoscopic Surgery, Diploma in Reproductive Medicine (Germany)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sujata Dalvi",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology), DGO , FCPS (Mid. & Gynaecology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sudheer Gokral",
+      "degree" : "MBBS, DGO, MD (Obstetrics & Gynaecology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Minu Shah",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shilpa Shah Gohil",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology), DNB (Obstetrics & Gynecology), DGO, FCPS (Gynaecology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Roshu Shetty",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shruti Ravi Mohanka",
+      "degree" : "MBBS, DNB (Obstetrics & Gynecology), MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Angha Chhatrapati",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Payal Lakhani",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology), DNB (Obstetrics & Gynecology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Laila Dave",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Pooja Gupta",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Punit S Bhojani",
+      "degree" : "MBBS, MS (Obstetrics & Gynaecology) , FCPS (Gynaecology), DGO, Diploma of the Faculty of Family Planning (DFFP), DNB (Obstetrics & Gynecology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Swapnali Malkar",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Asha Rajadhyaksha",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Heart Transplantation",
+    "schedules" : [ {
+      "doctor" : "Zainulabedin Hamdulay",
+      "degree" : "MBBS, MS, MCh, DNB (CTVS)",
+      "designation" : "Head of Department, Senior Consultant",
+      "language" : "English, Hindi, Marathi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Kidney",
+    "schedules" : [ {
+      "doctor" : "Bharat V Shah",
+      "degree" : "MD (Internal Medicine), DNB (Nephrology)",
+      "designation" : "Director",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kamini Mehta",
+      "degree" : "MBBS, MD, DCH, FCPS, DNB, DNB",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Prashant Rajput",
+      "degree" : "MBBS, DNB, DNB (General Medicine), DNB (Nephrology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Zaheer Amin Virani",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Hepal Vora",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shruti Tapiawala",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Liver",
+    "schedules" : [ {
+      "doctor" : "Samir Shah",
+      "degree" : "MBBS, MD (General Medicine), DM (Gastroenterology), MRCP (UK)",
+      "designation" : "Consultant & Head of The Department",
+      "language" : "English, Hindi, Gujarati, Marathi, Sanskrit",
+      "schedule" : ""
+    }, {
+      "doctor" : "Akash Shukla",
+      "degree" : "MD, DM (Gastroenterology)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Chetan Ramesh Kalal",
+      "degree" : "MBBS, MD (General Medicine) (KEM, Mumbai), DM (Hepatology) (ILBS, Delhi)",
+      "designation" : "Consultant Hepatologist And Liver Transplant Physician",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vibhor V Borkar",
+      "degree" : "MBBS, MD (Pediatric), PDCC (Pediatric Gastroentology), DM (Pediatric Gastroentology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Mihir Vora",
+      "degree" : "MBBS, DNB (Medicine), Fellowship in Hepatology, Liver Intensive Care and Liver Transplantation",
+      "designation" : "Associate Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ravi Mohanka",
+      "degree" : "MBBS, MS, DNB (General Surgery), ASTS Fellowship (Liver Transplant), Training (Regenerative Medicine)",
+      "designation" : "Head of The Department",
+      "language" : "English, Hindi, Marathi, Punjabi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Prashantha Rao",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vinayak Nikam",
+      "degree" : "MBBS, MS, DNB, Liver Transplant Fellowship",
+      "designation" : "Associate Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Chetan Kantharia",
+      "degree" : "MBBS, MS, MNAMS, FICS",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sharvari Pujari",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Swapnil Sharma",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Akshay D Shah",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shrinath Kshirsagar",
+      "degree" : "MD, PDF (Hematology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Minimal Invasive Surgery",
+    "schedules" : [ {
+      "doctor" : "Prashanth Rao",
+      "degree" : "MBBS, MS (Bombay), FRCS (Ed), DNB, FCPS, MNAMS, DLS (France), FIAGES, FMAS, Hons. FALS, FICS",
+      "designation" : "Chief of Gastrointestinal Surgery And Minimal Access Surgery",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Bharat V Shah",
+      "degree" : "MD (Internal Medicine), DNB (Nephrology)",
+      "designation" : "Director",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kamini Mehta",
+      "degree" : "MBBS, MD, DCH, FCPS, DNB, DNB",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Prashant Rajput",
+      "degree" : "MBBS, DNB, DNB (General Medicine), DNB (Nephrology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Momin Mohd Majid Ayyub",
+      "degree" : "MBBS, DNB (Nephrology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Zaheer Amin Virani",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Hepal Vora",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shruti Tapiawala",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Dattatraya Muzumdar",
+      "degree" : "MCh (Neuro Surgery), FRCSI , FACS (USA)",
+      "language" : "Hindi, Marathi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nitin Dange",
+      "degree" : "MBBS, MS, MCh",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Suresh Sankhla",
+      "degree" : "DNB (Neuro Surgery), FICS, Fellowship in Skull Base Surgery, Fellowship in Neuro Oncological Surgery",
+      "designation" : "Head of Department",
+      "schedule" : ""
+    }, {
+      "doctor" : "Gulam Muqtada Khan",
+      "degree" : "MCh (Neuro Surgery), D.Ortho, MS (General Surgery)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Amit Mahore",
+      "degree" : "",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Ophthalmology",
+    "schedules" : [ {
+      "doctor" : "Gul Nankani",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sonia Nankani",
+      "degree" : "",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Orthopaedics & Joint Replacement",
+    "schedules" : [ {
+      "doctor" : "Abhay Narvekar",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anup Khatri",
+      "degree" : "MBBS, DNB (Orthopaedics), Fellowship (JR)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Arvind B Goregaonkar",
+      "degree" : "MBBS, D.Ortho, MS (Orthopaedics)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ashutosh Chaudhari",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Visiting Consultant",
+      "language" : "English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jamshed Jal Bunshah",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Neelkanth Dhamnaskar",
+      "degree" : "MBBS, MS",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nilen Shah",
+      "degree" : "MBBS, MS",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rohan A Habbu",
+      "degree" : "MBBS, MS (Orthopaedics), Fellowship in Orthopaedics",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sandeep Sonone",
+      "degree" : "MBBS, MS, DNB, Diploma Orthopaedics",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sandeep Vaidya",
+      "degree" : "MBBS, DNB, MS",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shrinand V Vaidya",
+      "degree" : "MS (Orthopaedics), FACS (USA)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Surjit Korday",
+      "degree" : "MBBS, MS, FRCS, MCh",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Tushar Ubale",
+      "degree" : "MBBS, MS",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vishal Shinde",
+      "degree" : "MBBS, MCh, D.Ortho",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Roshan Wade",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nirad Vegsarkar",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Manoj Jain",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Bhushan M Sabnis",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Hitesh Kubadia",
+      "degree" : "",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shreedhar Archik",
+      "degree" : "",
+      "designation" : "Orthopaedics Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Chirag Borana",
+      "degree" : "",
+      "designation" : "Orthopaedics Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Atul Bhaskar",
+      "degree" : "",
+      "designation" : "Pediatric Orthopaedics Visiting Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Suresh F Shah",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shashank Parekhji",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Chetan Shetty",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Amit Jagtap",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Bharat Parmar",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sushmita Bhatnagar",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Kiran Naik",
+      "degree" : "MBBS, MS , MCH",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nilesh G Satbhai",
+      "degree" : "MBBS, MCh, MS",
+      "designation" : "Visiting Consultant",
+      "language" : "Marathi, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vispi D R Iver",
+      "degree" : "MBBS, MS, MCH, DNB (Plastic Surgery)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Kamljit Singh",
+      "degree" : "MBBS, DPM",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Neena S Sawant",
+      "degree" : "MD (Psychiatry), DPM, PGDHHM, PGDMLS",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rahul Ghadge",
+      "degree" : "",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Hozefa A Bhinderwala",
+      "degree" : "",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jalpa Bhuta",
+      "degree" : "",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Urvashi Shah",
+      "degree" : "",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Sameer Nanaware",
+      "degree" : "MBBS, MD (Chest)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Samir D Garde",
+      "degree" : "MBBS, MD (Tuberculosis), TDD (CPS)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rahul Wakankar",
+      "degree" : "",
+      "designation" : "Visitng Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Unmil Shah",
+      "degree" : "",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vikas Punamiya",
+      "degree" : "MBBS, MD, MRCP (UK), FCCP (USA)",
+      "designation" : "Consultant Interventional Pulmonologist & Sleep Physician",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Samir Rajadhyaksha",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Spinal Surgery",
+    "schedules" : [ {
+      "doctor" : "Uday Pawar",
+      "degree" : "MBBS, DM (Orthopaedics), DNB",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Devesh Dholakia",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sameer Ruparel",
+      "degree" : "MS (Orthopaedics), DNB (Orthopaedics), FASSI, FMISS, FAIMS",
+      "designation" : "Consultant Spine Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ram Chaddha",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Consultant Spine Surgeon",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Sports Medicine",
+    "schedules" : [ {
+      "doctor" : "Abhay Narvekar",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Chintan Desai",
+      "degree" : "MBBS, MS (Orthopaedics), Fellowship in Sports Medicine & Shoulder Surgery, Scholarship in Sports Medicine & Knee Surgery",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nagraj Shetty",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nikhil Iyer",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Prashanth Rao",
+      "degree" : "MBBS, MS (Bombay), FRCS (Ed), DNB, FCPS, MNAMS, DLS (France), FIAGES, FMAS, Hons. FALS, FICS",
+      "designation" : "Chief of Gastrointestinal Surgery And Minimal Access Surgery, GI Oncosurgeon And Bariatric Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sonali Bhagwat",
+      "degree" : "MS (Bombay), FRCS (Edin), FICS (USA), FMAS",
+      "schedule" : ""
+    }, {
+      "doctor" : "Abhay Dalvi",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nimesh Shah",
+      "degree" : "MBBS, MS",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sandeep Baliga",
+      "degree" : "MS, DNB, MNAMS, FICS (General Surgery)",
+      "designation" : "Consultant General & Laparoscopic Surgeon",
+      "schedule" : ""
+    }, {
+      "doctor" : "Prashant Purandare",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Tilakdas Shetty",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Prajesh Bhuta",
+      "degree" : "MS, FRCS (UK), CCT (Coloproctology) (UK)",
+      "designation" : "Consultant Surgical Gastroenterology, Minimal Invasive Surgery, Colorectal Surgery",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jignesh Gandhi",
+      "degree" : "MS, DNB, FMAS , FIAGES , FALS, DLS (France), Robotic Surgery (USA)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Narendra Nikam",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Sanket Shah",
+      "degree" : "MS (General Surgery), MCh (Surgical Oncology)",
+      "designation" : "Consultant Surgical Oncology",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rakesh Badhe",
+      "degree" : "MBBS, FCPS, DNB, MS, MRCS, DNB",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ninad Katdare",
+      "degree" : "MBBS, MS, DNB (General Surgeryery), MSc (Advance Oncology, Surgical Oncology, DU Surgical Endoscopy), Fellowship in Gynecologic Oncology, Fellowship in Abdominopelvic Oncology, Fellowship in Advanced Laparoscopy and Robotics",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Prashant Pawar",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Pradeep Rao",
+      "degree" : "",
+      "designation" : "Head of Department & Chief Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jitendra Jagtap",
+      "degree" : "MBBS, MS",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Dharmesh S Kapoor",
+      "degree" : "MBBS, MD, FRCOG",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Lokesh Sinha",
+      "degree" : "MBBS, MS , DNB",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anil Bradoo",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Mukesh Shah",
+      "degree" : "MBBS, MS (Urology), DNB",
+      "designation" : "Visiting Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anita Patel",
+      "degree" : "",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Paresh R Pai",
+      "degree" : "MBBS, MS",
+      "designation" : "Consultant & Head of The Department",
+      "schedule" : ""
+    }, {
+      "doctor" : "Pankaj Patel",
+      "degree" : "",
+      "schedule" : ""
+    }, {
+      "doctor" : "Amjad Sheikh",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  } ]
+}

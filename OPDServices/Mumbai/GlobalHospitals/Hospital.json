@@ -1,0 +1,18 @@
+{
+"name":"Global Hospitals",
+"code":"GlobalHospitals",
+"address":"35, Dr. E Borges Road, Hospital Avenue, Opp Shirodkar High School, Parel, Mumbai 400012",
+"geoLocation":"18.9991442,72.8410838?q=Global+Hospitals,+Mumbai",
+"emails":"",
+"websites":"https://www.gleneaglesglobalhospitals.com/best-hospital-in-mumbai/parel-about-us",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"2267670101",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"2267670202"
+	}]
+}

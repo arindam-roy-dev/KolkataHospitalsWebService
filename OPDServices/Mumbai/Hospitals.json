@@ -10,6 +10,10 @@
 	"locality":"Vashi",
 	"code":"ApolloVashi"
 	},{
+	"name":"Global Hospitals",
+	"locality":"Parel",
+	"code":"GlobalHospitals"
+	},{
 	"name":"SRCC Children\'s Hospital",
 	"locality":"Arya Nagar",
 	"code":"SRCCChildrens"
