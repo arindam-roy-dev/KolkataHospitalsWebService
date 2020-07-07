@@ -1,0 +1,21 @@
+{
+"name":"Primus Super Speciality Hospital",
+"code":"Primus",
+"address":"Chandragupta Marg, Chanakyapuri, New Delhi 110021",
+"geoLocation":"28.5926524,77.1814109?q=Primus+Super+Speciality+Hospital",
+"emails":"info@primushospital.com",
+"websites":"http://www.primushospital.com",
+"faxNumbers":"1166206650",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"1166206630,1166206640",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"1166206620"
+	},{
+	"name":"Air Ambulance",
+	"phoneNumbers":"9958290198"
+	}]
+} 

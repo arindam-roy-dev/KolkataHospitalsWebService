@@ -1,0 +1,242 @@
+﻿{
+  "name" : "Primus Super Speciality Hospital",
+  "specialties" : [ {
+    "name" : "Anaesthesiology",
+    "schedules" : [ {
+      "doctor" : "Ajay Singhal",
+      "degree" : "MBBS, Post Graduate Diploma in Anaesthesiology, MD (Anaesthesiology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Sunil Agarwal",
+      "degree" : "MBBS, MD (anaesthesiology), Post Graduate Diploma in Hospital and Healthcare Management (PGDHHM), Post Graduate Diploma in Quality Management from Hospital and Healthcare organization (PGDQMHHO)",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Gyanesh Jain",
+      "degree" : "MBBS, MD (Anaesthesiology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Bariatrics Surgery",
+    "schedules" : [ {
+      "doctor" : "Rajat Goel",
+      "degree" : "MBBS, MS, Advanced laparoscopic training (Taiwan, Singapore and USA)",
+      "designation" : "HOD",
+      "schedule" : "Mon to Sat: 10:30 AM - 04:00 PM"
+    }, {
+      "doctor" : "Rahul Sinha",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 10:30 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Sameer Mehrotra",
+      "degree" : "MBBS, MD (Medicine), DM (Cardiology)",
+      "schedule" : "Mon to Sat: 10:30 AM - 04:00 PM"
+    }, {
+      "doctor" : "Tushar Goyal",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 10:30 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Diabetology",
+    "schedules" : [ {
+      "doctor" : "Deepak Gargi Pande",
+      "degree" : "MBBS, MD (Internal Medicine), Fellowship in Endocrinology from American College of Endocrinology",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Ashok Jhingan",
+      "degree" : "MBBS, MD, FIAMS",
+      "schedule" : "Tue, Thu, Sat: 03:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Ankush Sayal",
+      "degree" : "MBBS, MS (ENT & Head & Neck Surgery), Fellowship in Sunis & Skull surgery (Austria)",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Shweta Nangia",
+      "degree" : "BBS, DNB (Otorhinolaryngology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Sawan Bopanna",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 11:00 AM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Nisha Ohri",
+      "degree" : "",
+      "schedule" : "Tue, Thu, Sat: 10:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Shelly Singh",
+      "degree" : "",
+      "schedule" : "Tue, Thu, Sat: 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Anurag Saxena",
+      "degree" : "MBBS, MD (Medicine), FICP",
+      "designation" : "HOD, Department of Internal medicine",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "IVF",
+    "schedules" : [ {
+      "initial" : "Prof",
+      "doctor" : "Raj Kumar Sharma",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology), Trained IVF (Bombay)",
+      "schedule" : "Mon to Sat: 10:30 AM - 04:00 PM"
+    }, {
+      "doctor" : "Shashi Sareen",
+      "degree" : "MBBS",
+      "schedule" : "Mon to Sat: 10:30 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Manav Rakshak",
+      "degree" : "MBBS, BDS (PGIMS, Rohtak), MD (Radiation Oncology) (PGIMS, Rohtak)",
+      "schedule" : "Tue: 12:00 PM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Vijay Chandra",
+      "degree" : "MBBS, Ph.D (Baltimore, USA)",
+      "schedule" : "Mon, Tue, Thu, Fri: 02:00 PM -  04:00 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Krishna Kumar Choudhary",
+      "degree" : "MBBS, MS (General Surgery), DNB (Neuro Surgery), Visiting Fellow (NHNN, Queen Square, London, UK)",
+      "designation" : "HOD, Department of Neurosurgery",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Ophthalmology",
+    "schedules" : [ {
+      "doctor" : "Mridula Mehta",
+      "degree" : "MBBS, MS (Ophthalmology), DNB (Ophthalmology)",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Saurabh Varshney",
+      "degree" : "MBBS, DNB (Ophthalmology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedic & Joint",
+    "schedules" : [ {
+      "initial" : "Prof.",
+      "doctor" : "Surya Bhan",
+      "degree" : "MBBS, D.Ortho, MS (Orthopaedics), FRCS (Edinburgh, UK)",
+      "designation" : "HOD, Department of Orthopedics",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 02:00 PM -  04:00 PM"
+    }, {
+      "doctor" : "Deepak Thakur",
+      "degree" : "MS, MCh (Orthopaedics), Fellowship Joint Replacement (Endoklinik Hamburg, Germany), Fellowships in joint replacement (DITO Sant Parmanand Hospital New Delhi)",
+      "schedule" : "Mon to Sat: 02:00 PM -  04:00 PM"
+    }, {
+      "doctor" : "Dattatreya Mohapatra",
+      "degree" : "MBBS, MS (Orthopedics)",
+      "schedule" : "Mon to Sat: 02:00 PM -  04:00 PM"
+    }, {
+      "doctor" : "Vaibhav Jain",
+      "degree" : "MBBS, MS (Orthopedics), Diploma in Tissue Banking (Singapore), Clinical Fellowship in Hip and Knee (Singapore)",
+      "schedule" : "Mon to Sat: 02:00 PM -  04:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedic & Trauma",
+    "schedules" : [ {
+      "doctor" : "Aditya Sharma",
+      "degree" : "MBBS, MS, Fellowship In Computer Navigation Assisted Joint Arthroplasty, Fellowship In Sports Injuries",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:30 PM, 03:30 PM - 04:30 PM"
+    }, {
+      "doctor" : "Kaushal Kant Mishra",
+      "degree" : "MBBS, MS (Orthopedics), Fellowship, Joint Replacement (AIIMS) (New Delhi), M.Ch (Orthopedics) (American Institute of Medicine, Seychelles)",
+      "schedule" : "Mon to Sat: 12:30 PM - 02:30 PM, 04:30 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Ashish Gupta",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Parinita Tiwari",
+      "degree" : "MBBS, MD (Pediatrics), DCH (Pediatrics) (Australia)",
+      "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Pain",
+    "schedules" : [ {
+      "doctor" : "Sorabh Garg",
+      "degree" : "MBBS, DNB, MNAMS, FIPM, CCPPM",
+      "schedule" : "Mon to Sat: 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Physiotherapy",
+    "schedules" : [ {
+      "doctor" : "Nishant Gemini",
+      "degree" : "BPT, MPT (Sports), MD (Acupuncture) D.Pharma",
+      "designation" : "HOD",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Psychology",
+    "schedules" : [ {
+      "doctor" : "Sanju Gambhir",
+      "degree" : "MBBS, MS (Psychotherapy)",
+      "schedule" : "Tue, Fri: 11:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "initial" : "Prof.",
+      "doctor" : "Sunil Kumar Chhabra",
+      "degree" : "MD (Pulmonary Medicine)",
+      "designation" : "HOD, Department of Pulmonary",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Pawan Gupta",
+      "degree" : "MBBS, MD (Medicine), DM (Pulmonary & Critical Care), MD (Respiratory Medicine)",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Rahul Roshan",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Spine Surgery",
+    "schedules" : [ {
+      "doctor" : "Arvind Jayaswal",
+      "degree" : "MBBS, MS (Orthopedic Surgery)",
+      "designation" : "HOD",
+      "schedule" : "Mon to Sat: 10:30 AM - 02:00 PM"
+    }, {
+      "doctor" : "Abhishek Srivastava",
+      "degree" : "MBBS, MS (Orthopedics), Senior Spinal Fellow (Nottingham, UK)",
+      "schedule" : "Mon to Sat: 10:30 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Ashish Kumar Saini",
+      "degree" : "MBBS, MS (Surgery), MCh (Urology), DNB (Urology)",
+      "designation" : "HOD, Department of Urology",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Harbinder Singh",
+      "degree" : "MBBS, MS (General Surgery), DNB (Urology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    } ]
+  } ]
+}
