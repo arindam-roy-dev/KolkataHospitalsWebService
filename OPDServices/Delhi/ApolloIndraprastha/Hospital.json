@@ -1,0 +1,21 @@
+{
+"name":"Indraprastha Apollo Hospital",
+"code":"ApolloIndraprastha",
+"address":"Sarita Vihar, Delhi Mathura Road, New Delhi, Delhi 110076",
+"geoLocation":"28.540784,77.2837622?q=Indraprastha+Apollo+Hospital",
+"emails":"infodelhi@apollohospitals.com",
+"websites":"https://delhi.apollohospitals.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Call Centre(24X7)",
+	"phoneNumbers":"1129871090,1129871091",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"1066"
+	},{
+	"name":"Air Ambulance",
+	"phoneNumbers":"9958290198"
+	}]
+} 
