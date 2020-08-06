@@ -1,0 +1,33 @@
+{
+"app":"India Hospitals",
+"city":"Hyderabad",
+"hospitals":[{
+	"name":"Apollo Health City, Jubilee Hills",
+	"locality":"Jubilee Hills",
+	"code":"ApolloJubileeHills"
+	},{
+	"name":"Apollo Hospitals DRDO",
+	"locality":"Kanchan Bagh",
+	"code":"ApolloDRDO"
+	},{
+	"name":"Apollo Hospitals, Hyderguda",
+	"locality":"Hyderguda",
+	"code":"ApolloHyderguda"
+	},{
+	"name":"Apollo Hospitals, Secunderabad",
+	"locality":"Secunderabad",
+	"code":"ApolloSecunderabad"
+	},{
+	"name":"Apollo Teleclinic",
+	"locality":"HITech City",
+	"code":"ApolloTeleclinic"
+	},{
+	"name":"Aware Gleneagles Global Hospitals, L. B. Nagar",
+	"locality":"L. B. Nagar",
+	"code":"AwareGleneaglesLBNagar"
+	},{
+	"name":"Gleneagles Global Hospitals",
+	"locality":"Lakdikapul",
+	"code":"GleneaglesLakdikapul"
+	}]
+} 

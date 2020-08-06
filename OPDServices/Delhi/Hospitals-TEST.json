@@ -1,0 +1,17 @@
+{
+"app":"India Hospitals",
+"city":"Delhi",
+"hospitals":[{
+	"name":"Indraprastha Apollo Hospital",
+	"locality":"Sarita Vihar",
+	"code":"ApolloIndraprastha"
+	},{
+	"name":"Dharamshila Narayana Superspeciality Hospital",
+	"locality":"Dallupura",
+	"code":"DharamshilaNarayana"
+	},{
+	"name":"Primus Super Speciality Hospital",
+	"locality":"Chanakyapuri",
+	"code":"Primus"
+	}]
+} 

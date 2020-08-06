@@ -1,0 +1,9 @@
+{
+"app":"India Hospitals",
+"city":"Raiganj",
+"hospitals":[{
+	"name":"Jeevan Rekha Diagnostic",
+	"locality":"Ukilpara",
+	"code":"JeevanRekha"
+	}]
+} 

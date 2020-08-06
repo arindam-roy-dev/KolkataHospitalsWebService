@@ -1,0 +1,17 @@
+{
+"app":"India Hospitals",
+"city":"Ahmedabad",
+"hospitals":[{
+	"name":"Apollo Hospitals International Limited",
+	"locality":"Bhat",
+	"code":"ApolloInternational"
+	},{
+	"name":"Apollo Hospitals, City Centre",
+	"locality":"Ambawadi",
+	"code":"ApolloCityCentre"
+	},{
+	"name":"Narayana Multispeciality Hospital, Ahmedabad",
+	"locality":"Rakhial",
+	"code":"NarayanaAhmedabad"
+	}]
+}

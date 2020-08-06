@@ -1,0 +1,161 @@
+{
+"app":"India Hospitals",
+"city":"Kolkata",
+"hospitals":[{
+	"name":"Aditya Birla Sankara Nethralaya",
+	"locality":"Mukundapur",
+	"code":"AdityaBirlaSankaraNethralaya"
+	},{
+	"name":"AMRI Hospitals, Dhakuria",
+	"locality":"Dhakuria",
+	"code":"AMRIDhakuria"
+	},{
+	"name":"AMRI Hospitals, Mukundapur",
+	"locality":"Mukundapur",
+	"code":"AMRIMukundapur"
+	},{
+	"name":"AMRI Hospitals, Salt Lake",
+	"locality":"Salt Lake",
+	"code":"AMRISaltLake"
+	},{
+	"name":"AMRI Medical Centre, Southern Avenue",
+	"locality":"Southern Avenue",
+	"code":"AMRISouthernAvenue"
+	},{
+	"name":"Apex Institute of Medical Sciences",
+	"locality":"Survey Park",
+	"code":"ApexInstitute"
+	},{
+	"name":"Apollo Gleneagles Hospital",
+	"locality":"Kankurgachi",
+	"code":"ApolloGleneagles"
+	},{
+	"name":"Apollo Gleneagles Cancer Hospital",
+	"locality":"Kankurgachi",
+	"code":"ApolloGleneaglesCancer"
+	},{
+	"name":"Belle Vue Clinic",
+	"locality":"Minto Park",
+	"code":"BelleVue"
+	},{
+	"name":"Bhagirathi Neotia Woman & Child Care Centre",
+	"locality":"Park Street",
+	"code":"BhagirathiNeotia"
+	},{
+	"name":"Calcutta Medical Research Institute (CMRI)",
+	"locality":"New Alipore",
+	"code":"CalcuttaMedical"
+	},{
+	"name":"Charnock Hospital",
+	"locality":"Tegharia",
+	"code":"Charnock"
+	},{
+	"name":"Chittaranjan National Cancer Institute",
+	"locality":"Kalighat",
+	"code":"ChittaranjanNationalCancer"
+	},{
+	"name":"Columbia Asia Hospital",
+	"locality":"Salt Lake",
+	"code":"ColumbiaAsia"
+	},{
+	"name":"DESUN Hospital And Heart Institute",
+	"locality":"Ruby More",
+	"code":"DESUN"
+	},{
+	"name":"Fortis Hospital, Anandapur",
+	"locality":"Anandapur",
+	"code":"FortisAnandapur"
+	},{
+	"name":"Fortis Hospital & Kidney Institute",
+	"locality":"Gariahat",
+	"code":"FortisKidneyInstitute"
+	},{
+	"name":"Fortis Medical Centre",
+	"locality":"Minto Park",
+	"code":"FortisMedicalCentre"
+	},{
+	"name":"GD Hospital & Diabetes Institute",
+	"locality":"Bowbazar",
+	"code":"GDHospitalDiabetes"
+	},{
+	"name":"ILS Hospitals, Dumdum",
+	"locality":"Dumdum",
+	"code":"ILSDumdum"
+	},{
+	"name":"ILS Hospitals, Salt Lake",
+	"locality":"Salt Lake",
+	"code":"ILSSaltLake"
+	},{
+	"name":"Institute of Post Graduate Medical Education & Research (IPGMER)/(PG)",
+	"locality":"Bhowanipore",
+	"code":"IPGMER"
+	},{
+	"name":"IRIS Multispeciality Hospital",
+	"locality":"Ganguly Bagan",
+	"code":"IRISMultispeciality"
+	},{
+	"name":"Kothari Medical Centre",
+	"locality":"Alipore",
+	"code":"Kothari"
+	},{
+	"name":"Medica Superspecialty Hospital",
+	"locality":"Mukundapur",
+	"code":"Medica"
+	},{
+	"name":"Narayana Multispeciality Hospital, Barasat",
+	"locality":"Barasat",
+	"code":"NarayanaBarasat"
+	},{
+	"name":"Nightingale Hospital",
+	"locality":"Park Street",
+	"code":"Nightingale"
+	},{
+	"name":"Nil Ratan Sircar Medical College & Hospital (NRS)",
+	"locality":"Raja Bazar",
+	"code":"NRS"
+	},{
+	"name":"Peerless Hospital",
+	"locality":"Pancha Sayar",
+	"code":"Peerless"
+	},{
+	"name":"Priyamvada Birla Aravind Eye Hospital",
+	"locality":"Minto Park",
+	"code":"PriyamvadaBirlaAravindEye"
+	},{
+	"name":"Rabindranath Tagore International Institute of Cardiac Sciences",
+	"locality":"Mukundapur",
+	"code":"RabindranathTagoreCardiacSciences"
+	},{
+	"name":"R. G. Kar Medical College & Hospital",
+	"locality":"Shyam Bazar",
+	"code":"RGKar"
+	},{
+	"name":"Rotary Narayana Eye Hospital, Salt Lake",
+	"locality":"Salt Lake",
+	"code":"RotaryNarayanaEye"
+	},{
+	"name":"Ruby General Hospital",
+	"locality":"Ruby More",
+	"code":"RubyGeneral"
+	},{
+	"name":"Saroj Gupta Cancer Centre & Research Institute",
+	"locality":"Thakurpukur",
+	"code":"SarojGupta"
+	},{
+	"name":"Sri Aurobindo Seva Kendra (EDF)",
+	"locality":"Jodhpur Park",
+	"code":"EDF"
+	},{
+	"name":"Susrut Eye Foundation & Research Centre",
+	"locality":"Salt Lake",
+	"code":"SusrutSaltlake"
+	},{
+	"name":"Tata Medical Center",
+	"locality":"New Town",
+	"code":"TataMedical"
+	},{
+	"name":"Woodlands Hospital",
+	"locality":"Alipore",
+	"code":"Woodlands"
+	}]
+} 

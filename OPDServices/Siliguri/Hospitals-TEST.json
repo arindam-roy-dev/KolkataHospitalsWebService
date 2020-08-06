@@ -1,0 +1,9 @@
+{
+"app":"India Hospitals",
+"city":"Siliguri",
+"hospitals":[{
+	"name":"Desun Hospital, Siliguri",
+	"locality":"Kawakhali",
+	"code":"DesunSiliguri"
+	}]
+} 

@@ -1,0 +1,9 @@
+{
+"app":"India Hospitals",
+"city":"Durgapur",
+"hospitals":[{
+	"name":"The Mission Hospital, Durgapur",
+	"locality":"Bidhannagar",
+	"code":"TheMissionHospital"
+	}]
+} 

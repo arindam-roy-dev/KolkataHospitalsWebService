@@ -1,0 +1,61 @@
+{
+"app":"India Hospitals",
+"city":"Bangalore",
+"hospitals":[{
+	"name":"Apollo Hospitals, Bannerghatta Road",
+	"locality":"Panduranga Nagar",
+	"code":"ApolloBannerghatta"
+	},{
+	"name":"Apollo Hospitals, Sheshadripuram",
+	"locality":"Sheshadripuram",
+	"code":"ApolloSheshadripuram"
+	},{
+	"name":"Apollo Speciality Hospitals, Jayanagar",
+	"locality":"Jayanagar",
+	"code":"ApolloJayanagar"
+	},{
+	"name":"BGS Gleneagles Global Hospital",
+	"locality":"Kengeri",
+	"code":"BGSGleneagles"
+	},{
+	"name":"Columbia Asia Hospital, Doddaballapur",
+	"locality":"Doddaballapur",
+	"code":"ColumbiaDoddaballapur"
+	},{
+	"name":"Columbia Asia Hospital, Hebbal",
+	"locality":"Hebbal",
+	"code":"ColumbiaHebbal"
+	},{
+	"name":"Columbia Asia Hospital, Sarjapur Road",
+	"locality":"HSR Layout",
+	"code":"ColumbiaSarjapurRoad"
+	},{
+	"name":"Columbia Asia Hospital, Whitefield",
+	"locality":"Whitefield",
+	"code":"ColumbiaWhitefield"
+	},{
+	"name":"Columbia Asia Referral Hospital, Yeshwanthpur",
+	"locality":"Yeshwanthpur",
+	"code":"ColumbiaYeshwanthpur"
+	},{
+	"name":"Gleneagles Global Hospitals",
+	"locality":"Ashok Nagar",
+	"code":"GleneaglesGlobal"
+	},{
+	"name":"Mazumdar Shaw Medical Center, Bommasandra",
+	"locality":"Bommasandra",
+	"code":"MazumdarShaw"
+	},{
+	"name":"Narayana Institute Cardiac Sciences, Bommasandra",
+	"locality":"Bommasandra",
+	"code":"NarayanaCardiac"
+	},{
+	"name":"Narayana Medical Centre, Langford Town",
+	"locality":"Langford Town",
+	"code":"NarayanaLangfordTown"
+	},{
+	"name":"Narayana Multispeciality Hospital, HSR Layout",
+	"locality":"HSR Layout",
+	"code":"NarayanaHSR"
+	}]
+} 

@@ -1,0 +1,13 @@
+{
+"app":"India Hospitals",
+"city":"Howrah",
+"hospitals":[{
+	"name":"Narayana Multispeciality Hospital",
+	"locality":"Chunabati",
+	"code":"NarayanaMultispeciality"
+	},{
+	"name":"Narayana Superspeciality Hospital",
+	"locality":"Nabanna",
+	"code":"NarayanaSuperspeciality"
+	}]
+} 
