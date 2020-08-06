@@ -13,7 +13,7 @@
 ],
 "messagesOneTime":[
 ],
-"messagesAlways":[
+"messagesAlways":[{
 	"appVersion":"1.6",
 	"message":"Due to Coronavirus Pandemic, some of the hospitals\' OPD service may not be operational.\n\nFor current operational status, please call hospital from this app.\n\nPlease stay home and stay safe."
 	}]
