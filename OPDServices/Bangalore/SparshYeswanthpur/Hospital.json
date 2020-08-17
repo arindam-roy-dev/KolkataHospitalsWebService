@@ -1,0 +1,18 @@
+{
+"name":"Sparsh Super Speciality Hospital, Yeswanthpur",
+"code":"SparshYeswanthpur",
+"address":"4/1, Tumkur Road, Yeshwantpur, Bengaluru 560022",
+"geoLocation":"13.0273509,77.5426515?q=Sparsh+Hospital",
+"emails":"enquiry@sparshhospital.com",
+"websites":"https://www.sparshhospital.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Enquiry",
+	"phoneNumbers":"8049108000"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"8049108111",
+	"isOpd":true
+	}]
+}
