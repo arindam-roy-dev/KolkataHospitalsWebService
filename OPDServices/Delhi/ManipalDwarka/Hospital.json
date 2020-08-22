@@ -1,0 +1,21 @@
+{
+"name":"Manipal Hospital",
+"code":"ManipalDwarka",
+"address":"Human Care Medical Charitable Trust, Manipal Hospitals, Palam Vihar, Sector 6, Dwarka, New Delhi 110075",
+"geoLocation":"28.5944203,77.0695617?q=Manipal+Hospital+Delhi",
+"emails":"info@manipalhospitals.com",
+"websites":"https://www.manipalhospitals.com/delhi",
+"faxNumbers":"8025266757",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appintment",
+	"phoneNumbers":"1149674967",
+	"isOpd":true
+	},{
+	"name":"Helpline",
+	"phoneNumbers":"1149674967"
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"1140407070"
+	}]
+}
