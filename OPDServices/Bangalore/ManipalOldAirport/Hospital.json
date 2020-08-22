@@ -1,0 +1,18 @@
+{
+"name":"Manipal Hospital, Old Airport Road",
+"code":"ManipalOldAirport",
+"address":"98, HAL Airport road, Bangalore 560017",
+"geoLocation":"12.9584709,77.6492255?q=Manipal+Hospitals+-+Old+Airport+Road+Bangalore",
+"emails":"info@manipalhospitals.com",
+"websites":"https://www.manipalhospitals.com/oldairportroad/",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"8025023233,18001025555",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8022221111"
+	}]
+}
