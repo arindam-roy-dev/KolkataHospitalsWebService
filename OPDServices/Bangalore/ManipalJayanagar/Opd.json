@@ -1,0 +1,571 @@
+﻿{
+  "name" : "Manipal Hospital, Jayanagar",
+  "specialties" : [ {
+    "name" : "Anesthesia",
+    "schedules" : [ {
+      "doctor" : "Deepa",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shaffi",
+      "degree" : "",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Balaraju D",
+      "degree" : "MBBS, MD, DNB (Cardiology_",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Yeriswamy M C",
+      "degree" : "MBBS, MD (General Medicine), DNB (General Medicine), DM (Cardiology)",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Kannada",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kavya Mallikarjun",
+      "degree" : "MBBS (JSS Medical College, Mysore), MD (Paediatrics) (JSS Medical College, Mysore), DNB (Paediatric Cardiology) (Narayana Hrudayalaya, Bangalore)",
+      "designation" : "Consultant",
+      "language" : "Kannada, Hindi, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sinam Inaoton Singha",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Cardiology)",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Assamese, Bengali, Manipuri",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Dentistry",
+    "schedules" : [ {
+      "doctor" : "Mir Shujath Ali",
+      "degree" : "BDS, MDS (Implantology) (UK)",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Dermatologist",
+    "schedules" : [ {
+      "doctor" : "Deepak Devakar",
+      "degree" : "MBBS, DDVL",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Neelima Sharma",
+      "degree" : "MBBS, DVD, DNB, Fellowship in Dermatopathology",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Ninon Patrao",
+      "degree" : "MBBS, MD (Dermatology Venereology & Leprosy)",
+      "designation" : "Associate Consultant",
+      "language" : "English, Hindi, Konkani, Kannada",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Dietitian",
+    "schedules" : [ {
+      "initial" : "Ms.",
+      "doctor" : "Sandeepa",
+      "degree" : "B.Sc (Clinical Nutrition and Dietetics, Lactation), Post Natal Diet Care",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "initial" : "Ms.",
+      "doctor" : "Yashshwini N R",
+      "degree" : "M.Sc (Food and Nutrition)",
+      "designation" : "Consultant",
+      "language" : "Kannada, English, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Ruchi Verma",
+      "degree" : "MBBS, MS",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shanthala M N",
+      "degree" : "MBBS, DLO, DNB, Fellow Otology",
+      "designation" : "Senior Consultant",
+      "language" : "English, Kannada, Telugu, Tamil",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Emergency Medicine",
+    "schedules" : [ {
+      "doctor" : "Anjana Ravindranath",
+      "degree" : "MBBS, MRCEM",
+      "designation" : "Consltant",
+      "language" : "English, Hindi, Kanada, Tamil, Malyalam",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "H S Santosh",
+      "degree" : "MBBS, MRCP, FRCP, CCST (D & E)",
+      "designation" : "Consultant",
+      "language" : "Kannada, English, Telugu, Hindi, Tamil",
+      "schedule" : ""
+    }, {
+      "doctor" : "Mohan Y Badgandi",
+      "degree" : "MBBS, MD, MRCP, FRCP",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Gujarati, Arabic",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gastroenterologist",
+    "schedules" : [ {
+      "doctor" : "Amarkishen Shetty H",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Harish Babu Reddy N A",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Consultant",
+      "language" : "Kannada, Telugu, Hindi, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Asha R",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Thomas Nirmal Kumar",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Aravinda G M",
+      "degree" : "MBBS, MD (General Medicine)",
+      "designation" : "Internal Medicine",
+      "language" : "English, Kannada, Hindi, Malayalam",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Madan M",
+      "degree" : "MBBS, MS",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Uday M Muddebihal",
+      "degree" : "MBBS, MS (Bombay), FRSC (Edin), FRCS (Eng), FRCS (Glasg), FAIS, FICS, FMAS",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Arabic",
+      "schedule" : ""
+    }, {
+      "doctor" : "V M Prabhu",
+      "degree" : "MBBS, FRCS",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Arwa Mohsin E",
+      "degree" : "MBBS, MD (Obstetrics & Gynecology), Advanced Course in Endoscopy & Obstetrics & Gynecology, Ultrasonography",
+      "designation" : "Senior Consultant",
+      "language" : "English, Hindi, Kannada, Urdu, Gujarati",
+      "schedule" : ""
+    }, {
+      "doctor" : "Chaya Patil",
+      "degree" : "MBBS, MD, FMAS",
+      "designation" : "Senior Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jyothsna Madan",
+      "degree" : "MBBS, MD (Obstetrics)",
+      "designation" : "Senior Consultant",
+      "language" : "English, Kannada, Hindi, Tamil, Telugu",
+      "schedule" : ""
+    }, {
+      "doctor" : "Meena Muthiah",
+      "degree" : "MBBS, DNB",
+      "designation" : "Consultant",
+      "language" : "Kannada, English, Hindi, Tamil",
+      "schedule" : ""
+    }, {
+      "doctor" : "Pradeepa",
+      "degree" : "MBBS, DGO, DNB (Obstetrics & Gynecology), MRCOG (UK)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Roopa Vernekar",
+      "degree" : "MBBS, DGO",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Kannada, Marathi, Konkani",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shobha N Gudi",
+      "degree" : "MBBS, MD, DNB, FICOG, CIMP",
+      "designation" : "Senior Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Kamal Bhalla",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Telugu, Tamil",
+      "schedule" : ""
+    }, {
+      "doctor" : "R Manjunath",
+      "degree" : "MBBS, MD Internal Medicine",
+      "language" : "Kannada, Hindi, English, Tamil, Telugu, Malayalam, Marathi, Dhevi, Arabic, Urdu",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Interventional Cardiology",
+    "schedules" : [ {
+      "doctor" : "K P Srihari Das",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology)",
+      "designation" : "Senior Consultant",
+      "language" : "English, Hindi, Kannada, Tamil",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Laproscopic Surgery",
+    "schedules" : [ {
+      "doctor" : "Abdul Razack G S",
+      "degree" : "MBBS, MS (General Surgery), FIAGES, FMAS",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Telugu",
+      "schedule" : ""
+    }, {
+      "doctor" : "Girish Ram Kamat",
+      "degree" : "MBBS, MS (General Surgery)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Marathi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Kushal Gupta",
+      "degree" : "MBBS (Vardhman Mahavir Medical College and Safdarjung Hospital) (New Delhi), MD (Medicine) (PGIMER and Dr. RML Hospital) (New Delhi), DM (Medical Oncology) (Tata Memorial Hospital) (Mumbai), ECMO (ESMO Certified Medical Oncologist) (European Society of Medical Oncology)",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Bengali",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Minimal Access Surgery",
+    "schedules" : [ {
+      "doctor" : "Ramesh T S",
+      "degree" : "MBBS, DNB (General Surgery), MRCS (UK), FMAS, FICS",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Kannada, Tamil, Telugu, Malayalam",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "R Sanjay Rampure",
+      "degree" : "MBBS, MD (General Medicine), DNB",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Nagarjun Maulyavantham Nagaraj",
+      "degree" : "MBBS, MCh",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neurologist",
+    "schedules" : [ {
+      "doctor" : "Praveen Kumar S",
+      "degree" : "MBBS, DM",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sudhindra Aroor",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Ophthamology",
+    "schedules" : [ {
+      "doctor" : "Trishala M B",
+      "degree" : "MBBS, MS",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Gopal Krishna B A",
+      "degree" : "MBBS, DNB, FAA (UK), FARCS (AUS)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sandeep Dixit",
+      "degree" : "MBBS, D.Ortho, DNB (Orthopaedics), Depuy Fellowship in Arthroplasty, Fellowship in Joint Replacements (Puettlingen, Germany)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sudheendra T R",
+      "degree" : "MBBS, D.Ortho, DNAMS",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Orthopaedic Surgery",
+    "schedules" : [ {
+      "doctor" : "Yogish Vijaya Kumar",
+      "degree" : "MBBS, MS (Orthopaedics), MCh (Orthopaedics), (UK), ARCS (Eng)",
+      "designation" : "Senior Consultant",
+      "language" : "English, Kannada, Hindi, Tamil, Telugu",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vamsi Krishna",
+      "degree" : "MBBS, MS (Orthopaedics), FHS, Fellowship in Hand and Reconstructive MicroSurgery, Fellowship in Hand and Upper Limb Surgery",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Teugu, Tamil",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Venkataraman Krishnan",
+      "degree" : "MBBS, DCH, FRCPCH (UK), Diplomate American Board of Paediatrics",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Tamil, Bengali",
+      "schedule" : ""
+    }, {
+      "doctor" : "P Sameera",
+      "degree" : "MBBS, DNB (Paediatrics), Fellowship in Neonatology",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Kannada, Telugu, Malayalam, Tamil",
+      "schedule" : ""
+    }, {
+      "doctor" : "Subba Rao",
+      "degree" : "MBBS, DCH, DNB, C.NUTR (NIN)",
+      "designation" : "Consultant",
+      "language" : "Kannada, English, Tamil, Telugu, Malayalam, Marathi, Konkani",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sushma V",
+      "degree" : "MBBS, DNB (Paediatrics)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Telugu",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatric Dermatology",
+    "schedules" : [ {
+      "doctor" : "Divya Gupta",
+      "degree" : "MBBS (Jawaharlal Institute of Postgraduate Medical Education & Research) (JIPMER) (Puducherry), MD (Dermatology) (Jawaharlal Institute of Postgraduate Medical Education & Research) (JIPMER) (Puducherry), DNB (Dermatology) (National Board of Examinations, New Delhi), Fellowship in Paediatric Dermatology (Christian Medical College, Vellore)",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Tamil, Bengali, Kannada",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Veerabhadra R",
+      "degree" : "MBBS, MS, MCh, DNB, FMAS, KMC",
+      "designation" : "Consultant",
+      "language" : "Kannada, English, Hindi, Tamil, Telugu, Malayalam",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Pathologist",
+    "schedules" : [ {
+      "doctor" : "Rajeev Giri",
+      "degree" : "BPTh, BPT",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Kannada",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Psychology",
+    "schedules" : [ {
+      "initial" : "Ms.",
+      "doctor" : "Omisha Gupta",
+      "degree" : "BPTh, BPT",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Kannada",
+      "schedule" : ""
+    }, {
+      "initial" : "Mr.",
+      "doctor" : "S Sailesh",
+      "degree" : "BPTh, BPT",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Kannada",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Pinky Devi",
+      "degree" : "MCh (Plastic Surgery), MS (General Surgeryg), DNB (General Surgery), FDAFPRS (Cosmetic Surgery) (Belgium)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Malayalam",
+      "schedule" : ""
+    }, {
+      "doctor" : "Srikanth V",
+      "degree" : "MBBS, MS, DNB, FRCS, MCh",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Tamil, Hindi, Telugu",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "N Chandrashekar",
+      "degree" : "MBBS, MD (Psychiatry)",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Tamil",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Psychologist",
+    "schedules" : [ {
+      "doctor" : "Mala Murlidhar",
+      "degree" : "MS (Counselling and Psychotherapy), PhD (Psychology)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Raghavendra M K",
+      "degree" : "MBBS, MD (Pulmonary Medicine)",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Kanada",
+      "schedule" : ""
+    }, {
+      "doctor" : "Raghu B P",
+      "degree" : "MBBS, MD (Pulmonary Medicine)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Kiran Raj Puvvadi",
+      "degree" : "",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Tamil, Telugu",
+      "schedule" : ""
+    }, {
+      "doctor" : "Prem Sai Reddy",
+      "degree" : "MBBS, MDRD",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Tamil, Telugu",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Abhishek Patil",
+      "degree" : "MBBS (KIMS, Hubli), MD (Medicine) (UCMS & GTBH, New Delhi), DNB (Rheumatology) (IAH, New Delhi), PG Diploma (MSK USG UCAM, Spain)",
+      "designation" : "Consultant",
+      "language" : "Kannada, English, Hindi, Tamil, Bengali",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Spine Care",
+    "schedules" : [ {
+      "doctor" : "Dhiyanesh Krishnamoorthy",
+      "degree" : "MBBS, MS (Orthopaedics), Fellow in Spine Surgery",
+      "designation" : "Consultant",
+      "language" : "Hindi, English, Tamil, Kannada",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Sports Medicine",
+    "schedules" : [ {
+      "doctor" : "Ayyappan V Nair",
+      "degree" : "MBBS, DNB (Orthopaedics), D.Ortho (Shoulder, Sports Medicine), Fellow in Shoulder Surgery, Fellowship in Shoulder and Sports Trauma",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Tamil, Hindi, Malayalam",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Rajshekhar C Jaka",
+      "degree" : "MBBS, MS, DNB (GS), DNB (Surgical Oncology), FRCS, Robotic Fellowship",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Telugu, Marathi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Mahendra Jain",
+      "degree" : "MBBS, MS, MCh, DNB",
+      "designation" : "Consultant",
+      "language" : "English, Hindi, Kannada",
+      "schedule" : ""
+    }, {
+      "doctor" : "Uday Bhaskar",
+      "degree" : "MBBS, MS (General Surgery), MCH (Urology)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nagasubramanyam S",
+      "degree" : "MS, DNB, MCh (Urology)",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi, Tamil, Telugu",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "U Vasudeva Rao",
+      "degree" : "MBBS, MS (General Surgery), FRCS (Glasgow), FRCS (Eng), FICS, FAIS",
+      "designation" : "Consultant",
+      "language" : "English, Kannada, Hindi",
+      "schedule" : ""
+    } ]
+  } ]
+}

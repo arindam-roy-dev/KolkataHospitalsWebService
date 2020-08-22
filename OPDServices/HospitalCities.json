@@ -1,9 +1,13 @@
 {
 "app":"India Hospitals",
 "cities":[{
+	"name":"Bangalore",
+	"state":"Karnataka",
+	"localities":["Ashok Nagar","Bommasandra","Doddaballapur","Hebbal","HSR Layout","Jayanagar","Kengeri","Kodihalli","Langford Town","Malleshwaram","Panduranga Nagar","Sheshadripuram","Whitefield","Yeshwanthpur"]
+	},{
 	"name":"Chennai",
 	"state":"Tamil Nadu",
-	"localities":["Thousand Lights"]
+	"localities":["Adyar","Karapakkam","Kilpauk","MRC Nagar","Perumbakkam","Perungudi","Sowcarpet","Taramani","Teynampet","Thousand Lights","Tondiarpet","Vanagaram"]
 	},{
 	"name":"Howrah",
 	"state":"West Bengal",

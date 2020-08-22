@@ -1,0 +1,18 @@
+{
+"name":"Manipal Hospital, Malleshwaram",
+"code":"ManipalMalleshwaram",
+"address":"No. 71, 11th Main Road, Opp Railway Station, Malleswaram, Bengaluru 560003",
+"geoLocation":"13.0006141,77.5639865?q=Manipal+Hospital+Malleshwaram",
+"emails":"info@manipalhospitals.com",
+"websites":"https://www.manipalhospitals.com/malleshwaram/",
+"faxNumbers":"8025266757",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"8022221111,18001025555",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8022221111"
+	}]
+}

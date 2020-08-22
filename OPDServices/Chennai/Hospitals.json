@@ -5,5 +5,61 @@
 	"name":"Apollo Hospitals, Greams Road",
 	"locality":"Thousand Lights",
 	"code":"ApolloGreamsRoad"
+	},{
+	"name":"Apollo Cancer Institutes",
+	"locality":"Teynampet",
+	"code":"ApolloCancer"
+	},{
+	"name":"Apollo Children\'s Hospital",
+	"locality":"Thousand Lights",
+	"code":"ApolloChildrens"
+	},{
+	"name":"Apollo City Center Hospital, Sowcarpet",
+	"locality":"Sowcarpet",
+	"code":"ApolloSowcarpet"
+	},{
+	"name":"Apollo Firstmed Hospital",
+	"locality":"Kilpauk",
+	"code":"ApolloFirstmed"
+	},{
+	"name":"Apollo Heart Centre",
+	"locality":"Thousand Lights",
+	"code":"ApolloHeartCentre"
+	},{
+	"name":"Apollo Hospitals, Tondiarpet",
+	"locality":"Tondiarpet",
+	"code":"ApolloTondiarpet"
+	},{
+	"name":"Apollo Medical Centre, Karapakkam",
+	"locality":"Karapakkam",
+	"code":"ApolloKarapakkam"
+	},{
+	"name":"Apollo Proton Cancer Centre",
+	"locality":"Taramani",
+	"code":"ApolloProton"
+	},{
+	"name":"Apollo Speciality Hospitals, OMR",
+	"locality":"Perungudi",
+	"code":"ApolloOMR"
+	},{
+	"name":"Apollo Speciality Hospitals, Vanagaram",
+	"locality":"Vanagaram",
+	"code":"ApolloVanagaram"
+	},{
+	"name":"Apollo Women\'s Hospital",
+	"locality":"Thousand Lights",
+	"code":"ApolloWomens"
+	},{
+	"name":"Apollo Cosmetic Clinics, MRC Nagar",
+	"locality":"MRC Nagar",
+	"code":"ApolloCosmetic"
+	},{
+	"name":"Gleneagles Global Health City",
+	"locality":"Perumbakkam",
+	"code":"GleneaglesHealthCity"
+	},{
+	"name":"Gleneagles Global Clinic",
+	"locality":"Adyar",
+	"code":"GleneaglesClinic"
 	}]
 } 

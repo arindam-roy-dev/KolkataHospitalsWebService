@@ -1,0 +1,18 @@
+{
+"name":"Manipal Hospital, Jayanagar",
+"code":"ManipalJayanagar",
+"address":"45/1, 45th Cross, Jayanagara 9th Block, Jayanagar, Bengaluru 560069",
+"geoLocation":"12.9160145,77.5921516?q=Manipal+Hospitals+Jayanagar",
+"emails":"customercare.malathi@manipalhospitals.com",
+"websites":"https://www.manipalhospitals.com/jayanagar/",
+"faxNumbers":"8025266757",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"8022221111,18001025555",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8022221111"
+	}]
+}

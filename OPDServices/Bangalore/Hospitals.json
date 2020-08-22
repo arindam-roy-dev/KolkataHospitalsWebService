@@ -46,6 +46,18 @@
 	"locality":"Kodihalli",
 	"code":"ManipalOldAirport"
 	},{
+	"name":"Manipal Hospital, Jayanagar",
+	"locality":"Jayanagar",
+	"code":"ManipalJayanagar"
+	},{
+	"name":"Manipal Hospital, Malleshwaram",
+	"locality":"Malleshwaram",
+	"code":"ManipalMalleshwaram"
+	},{
+	"name":"Manipal Hospital, Whitefield",
+	"locality":"Whitefield",
+	"code":"ManipalWhitefield"
+	},{
 	"name":"Mazumdar Shaw Medical Center, Bommasandra",
 	"locality":"Bommasandra",
 	"code":"MazumdarShaw"

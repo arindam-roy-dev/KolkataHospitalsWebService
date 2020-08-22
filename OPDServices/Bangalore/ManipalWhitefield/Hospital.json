@@ -1,0 +1,18 @@
+{
+"name":"Manipal Hospital, Whitefield",
+"code":"ManipalWhitefield",
+"address":"143, 212-2015, EPIP Industrial Area, Off Hoodi Village, KR Puram Hobli Bangalore - 560066",
+"geoLocation":"12.987528,77.7285446?q=Manipal+Hospital+Whitefield",
+"emails":"info.mhw@manipalhospitals.com",
+"websites":"https://www.narayanahealth.org/hospitals/bangalore/mazumdar-shaw-medical-center-bommasandra",
+"faxNumbers":"8025266757",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"8025027000,18001025555",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8022221111"
+	}]
+}

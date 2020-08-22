@@ -8,7 +8,7 @@
 "faxNumbers":"",
 "hasOpd":true,
 "contactTypes":[{
-	"name":"Helpline",
+	"name":"Appointment",
 	"phoneNumbers":"8025023233,18001025555",
 	"isOpd":true
 	},{
