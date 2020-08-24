@@ -18,6 +18,10 @@
 	"locality":"Hebbal",
 	"code":"AsterCMI"
 	},{
+	"name":"Aster RV Hospital",
+	"locality":"JP Nagar",
+	"code":"AsterRV"
+	},{
 	"name":"BGS Gleneagles Global Hospital",
 	"locality":"Kengeri",
 	"code":"BGSGleneagles"

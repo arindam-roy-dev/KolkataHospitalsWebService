@@ -1,0 +1,182 @@
+﻿{
+  "name" : "Aster RV Hospital",
+  "specialties" : [ {
+    "name" : "Anesthesia",
+    "schedules" : [ {
+      "doctor" : "Adarsha K N",
+      "degree" : "MBBS, MD (Anaesthesiology), PDCC (Neuro Anaesthesiology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Syed Shujauddin",
+      "degree" : "MBBS, DA, DNB",
+      "schedule" : ""
+    }, {
+      "doctor" : "V Arun",
+      "degree" : "MBBS, MD, FRCA, FFMRCA, CCT",
+      "designation" : "Lead Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Subramanyam S Mahankali",
+      "degree" : "MBBS, MD, DNB, MNAMS, FRCA, CCT",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Deepak K M",
+      "degree" : "MBBS, MD, DNB",
+      "designation" : "Senior Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Manjunath M",
+      "degree" : "MBBS, DA, DNB(Anaesthesia), PDCC (Neuro Anaesthesia)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vivek Rayadurg",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Ganesh Krishnan Iyer",
+      "degree" : "MBBS, MS, MCh",
+      "designation" : "Lead Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Dwarakanath Thayur Raghavendra",
+      "degree" : "MBBS, MS (General Surgery), DNB (General Surgery), DNB (CTVS)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "S Venkatesh",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Lead Consultant",
+      "schedule" : "Mon, Tue: 09:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "R. S. Karthik",
+      "degree" : "MBBS, MD (General Medicine), DNB (Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Divya Marina Fernandes",
+      "degree" : "MBBS, MD (Medicine), DNB (Cardiology)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Critical Care",
+    "schedules" : [ {
+      "doctor" : "Chinnadurai R",
+      "degree" : "MBBS, DA, DNB, MD",
+      "designation" : "Lead Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rajendra Kumar K P",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kushal M",
+      "degree" : "MBBS, MD, FNB",
+      "designation" : "Senior Specialist",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Manjunath Malige",
+      "degree" : "MBBS, MD, MRCP (UK), MRCP (Endo), CCT, FRSM, FACE",
+      "designation" : "Lead Consultant",
+      "schedule" : "Mon, Wed, Fri: 10:30 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Rohit Udaya Prasad",
+      "degree" : "MBBS, MS",
+      "designation" : "Consultant - ENT & Cochlear Implant Surgery",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Veerendra Sandur",
+      "degree" : "MBBS, MD, DM, DNB, Fellowship in Hepatology & Transplant",
+      "designation" : "Lead Consultant",
+      "schedule" : "Mon: 10:00 AM - 11:30 AM"
+    }, {
+      "doctor" : "Madhu M P",
+      "degree" : "MBBS, MD, DM",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Thu, Fri, Sat: 09:00 AM - 03:00 PM"
+    }, {
+      "doctor" : "Niharika",
+      "degree" : "MBBS, DNB (Internal Medicine), DNB (Gastroenterology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Mohammed Imran Soherwardi",
+      "degree" : "MBBS, DEM, MEM",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "K S Harshith",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Liver",
+    "schedules" : [ {
+      "doctor" : "Rajiv Lochan J",
+      "degree" : "MBBS, MS, MD, FRCS(Ed), FRCS(HPB), CCT(UK), European Transplant Diploma",
+      "designation" : "Lead Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Arvind Kidambi Seshadri",
+      "degree" : "MBBS, MCh",
+      "designation" : "Consultant - HPB Surgery",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sonal Asthana",
+      "degree" : "MSc (University of Alberta, Canada)",
+      "designation" : "Associate Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Mallikarjun Sakpal",
+      "degree" : "DM (Hepatology)",
+      "designation" : "Associate Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Mathew Jacob",
+      "degree" : "MBBS, HESPERIS Fellowship",
+      "designation" : "Associate Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Kaiser Raja",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Gastroenterology)",
+      "designation" : "Associate Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Charles Panackel",
+      "degree" : "MBBS, MD (General Medicine), DNB (General Medicine), DM (Gastroenterology)",
+      "designation" : "Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Apurva Pande",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  } ]
+}

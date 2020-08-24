@@ -1,0 +1,21 @@
+{
+"name":"Aster RV Hospital",
+"code":"AsterRV",
+"address":"CA-37, 24th Main, 1st Phase, J.P.Nagar, Bengaluru 560078",
+"geoLocation":"12.9100678,77.5854248?q=Aster+RV+Hospital,+JP+Nagar+Bangalore",
+"emails":"customercare.asterrv@asterhospital.com",
+"websites":"https://www.asterbangalore.com/aster-rv-jp-nagar/",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Helpline",
+	"phoneNumbers":"8022040400",
+	"isOpd":true
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"8046474647"
+	},{
+	"name":"WhatsApp",
+	"phoneNumbers":"6366225027"
+	}]
+}
