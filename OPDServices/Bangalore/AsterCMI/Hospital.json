@@ -1,0 +1,21 @@
+{
+"name":"Aster CMI Hospital",
+"code":"AsterCMI",
+"address":"#43/2, New Airport Road, NH-7, Sahakara Nagar, Hebbal, Bengaluru 560092",
+"geoLocation":"13.0542916,77.5917673?q=Aster+CMI+Hospital,+Hebbal+Bangalore",
+"emails":"customercare.aster@asterhospital.com",
+"websites":"https://www.asterbangalore.com/aster-cmi-hebbal",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"8043420100",
+	"isOpd":true
+	},{
+	"name":"Helpline",
+	"phoneNumbers":"8043420100,8022147147",
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8046474647",
+	}]
+}
