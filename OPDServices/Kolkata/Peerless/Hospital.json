@@ -5,22 +5,33 @@
 "geoLocation":"22.4801419,88.39402?q=Peerless+Hospital",
 "emails":"ph.enquiry@peerlesshospital.com,corporate@peerlesshospital.com",
 "websites":"http://www.peerlesshospital.com",
+"faxNumbers":"3324620692",
 "hasOpd":true,
 "contactTypes":[{
-	"name":"Peerless Hospital",
-	"phoneNumbers":"03340111222,03324320075,03324324989,03324622394",
+	"name":"Appointment",
+	"phoneNumbers":"3340333333",
+	"isOpd":true
+	},{
+	"name":"Helpline",
+	"phoneNumbers":"3340111222,3324320075,3324324989,3324622394",
 	"isOpd":true
 	},{
 	"name":"Emergency Helpline",
 	"phoneNumbers":"8981080008"
 	},{
 	"name":"Ambulance",
-	"phoneNumbers":"9038224000"
+	"phoneNumbers":"9038224000,9038225000"
 	},{
-	"name":"Ambulance",
-	"phoneNumbers":"9038225000"
+	"name":"Blood Bank",
+	"phoneNumbers":"8981068310"
 	},{
-	"name":"Appointment Cell",
-	"phoneNumbers":"03340333333"
+	"name":"Operation Estimate",
+	"phoneNumbers":"9433129040"
+	},{
+	"name":"TPA & Insurance Queries",
+	"phoneNumbers":"9830961464"
+	},{
+	"name":"Corporate Queries",
+	"phoneNumbers":"8017554024"
 	}]
 }
