@@ -50,7 +50,7 @@
     }, {
       "doctor" : "Sumanta Chatterjee",
       "degree" : "MD, DM",
-      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM,                4:00 PM - 5:00 PM"
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM, 4:00 PM - 5:00 PM"
     }, {
       "doctor" : "Vijay Shankar Sharma",
       "degree" : "MD, DM",
@@ -247,7 +247,7 @@
       "doctor" : "Gautam Das",
       "degree" : "MD, DM",
       "designation" : "Gastro Medicine",
-      "schedule" : "Mon, Wed: 11:00 AM - 3:00 PM\nTue, Thu: 3:00 PM - 5:00 PM\nFri: 11:00 AM - 12:00 PM,                 3:00 PM - 5:00 PM"
+      "schedule" : "Mon, Wed: 11:00 AM - 3:00 PM\nTue, Thu: 3:00 PM - 5:00 PM\nFri: 11:00 AM - 12:00 PM, 3:00 PM - 5:00 PM"
     }, {
       "doctor" : "Sibnath Mandal",
       "degree" : "MS (Cal), MRCS (Edinburgh), AFRCS (Ireland), FRCS (UK), CCST (General Surgery)",
@@ -696,7 +696,7 @@
     }, {
       "doctor" : "Sanjoy Bagchi",
       "degree" : "MS (Ortho) (Orthopaedics)",
-      "schedule" : "Mon, Tue, Wed, Fri: 3:00 PM - 5:00 PM\nThu: 9:30 AM - 11:00 AM\nSat: 9:30 AM - 11:00 AM,                5:00 PM - 7:00 PM"
+      "schedule" : "Mon, Tue, Wed, Fri: 3:00 PM - 5:00 PM\nThu: 9:30 AM - 11:00 AM\nSat: 9:30 AM - 11:00 AM, 5:00 PM - 7:00 PM"
     }, {
       "doctor" : "Sujoy Kundu",
       "degree" : "D Ortho, MS, MCH",
