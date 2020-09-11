@@ -1,0 +1,374 @@
+{
+  "name" : "Bhagirathi Neotia Woman & Child Care Centre, Rawdon Street",
+  "specialties" : [ {
+    "name" : "Breast care Clinic",
+    "schedules" : [ {
+      "doctor" : "Tapti Sen",
+      "degree" : "",
+      "schedule" : "Tue, Thu: 5:00 PM - 6:00 PM"
+    } ]
+  }, {
+    "name" : "Child & Adolescent Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Gargi Bandyopadhyay",
+      "degree" : "",
+      "schedule" : "Thu, Sat: 1:00 PM - 3:00 PM"
+    } ]
+  }, {
+    "name" : "Dentistry",
+    "schedules" : [ {
+      "doctor" : "Aditya Burman",
+      "degree" : "",
+      "schedule" : "Tue, Sat: 4:00 PM - 6:00 PM\nSun: 3:00 PM - 5:00 PM"
+    }, {
+      "doctor" : "Nitish Pathak",
+      "degree" : "",
+      "schedule" : "Everyday: 10:00 AM - 4:00 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Madhumita Bhattacharaya",
+      "degree" : "",
+      "schedule" : "Mon: 11:00 AM - 1:00 PM\nFri: 9:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Madhurima Vidyarthi",
+      "degree" : "",
+      "schedule" : "Wed: 1:00 PM - 2:00 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Sarmishtha Bandyopadhyay",
+      "degree" : "",
+      "schedule" : "Tue, Thu: 5:00 PM - 7:00 PM\nSun: 12:00 PM - 2:00 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Badri Prasad Sah",
+      "degree" : "",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 5:00 PM - 6:00 PM"
+    }, {
+      "doctor" : "Mahesh Kumar Maskara",
+      "degree" : "",
+      "schedule" : "Everyday: By Appointment"
+    }, {
+      "doctor" : "Mukesh Kochar",
+      "degree" : "",
+      "schedule" : "Tue, Thu: 3:00 PM - 5:00 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Sumit Chaudhuri",
+      "degree" : "",
+      "schedule" : "Mon: By Appointment"
+    } ]
+  }, {
+    "name" : "Health Check-up",
+    "schedules" : [ {
+      "doctor" : "Md. Javed",
+      "degree" : "",
+      "schedule" : "Mon to Sat"
+    }, {
+      "doctor" : "Shalini Butta",
+      "degree" : "",
+      "schedule" : "Mon to Sat"
+    } ]
+  }, {
+    "name" : "Nutrition",
+    "schedules" : [ {
+      "initial" : "Ms.",
+      "doctor" : "Anu Jhunjhunwala",
+      "degree" : "",
+      "schedule" : "Wed, Fri, Sat: 3:00 PM - 5:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics and Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Abhijit Ghosh",
+      "degree" : "",
+      "schedule" : "Mon, Thu: 1:00 PM - 3:00 PM"
+    }, {
+      "doctor" : "Abhinibesh Chatterjee",
+      "degree" : "",
+      "schedule" : "Fri: By Appointment"
+    }, {
+      "doctor" : "Arghya Maitra",
+      "degree" : "",
+      "schedule" : "Mon: 3:00 PM - 5:00 PM"
+    }, {
+      "doctor" : "Ayesha Khan",
+      "degree" : "",
+      "schedule" : "Fri: 2:00 PM - 4:00 PM"
+    }, {
+      "doctor" : "Barun Chakraborty",
+      "degree" : "",
+      "schedule" : "Fri: 3:00 PM - 5:00 PM"
+    }, {
+      "doctor" : "Bhaskar Pal",
+      "degree" : "",
+      "schedule" : "Mon, Wed: 6:00 PM - 7:00 PM"
+    }, {
+      "doctor" : "Gargi Banerjee",
+      "degree" : "",
+      "schedule" : "Tue, Fri: 11:00 AM - 1:00 PM"
+    }, {
+      "doctor" : "Gitasree Mukherji",
+      "degree" : "",
+      "schedule" : "Tue: 9:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Gouri Kumari Kumra",
+      "degree" : "",
+      "schedule" : "Mon, Fri: 5:00 PM - 6:00 PM"
+    }, {
+      "doctor" : "Indranil Saha",
+      "degree" : "MD, MRCOG, POST CCT",
+      "schedule" : "Thu: 6:00 PM - 7:00 PM"
+    }, {
+      "doctor" : "Kalpana Sarkar",
+      "degree" : "",
+      "schedule" : "Wed: By Appointment"
+    }, {
+      "doctor" : "Kasturi Bhaumik",
+      "degree" : "",
+      "schedule" : "Wed: 3:00 PM - 5:00 PM"
+    }, {
+      "doctor" : "Kushagradhi Ghosh",
+      "degree" : "",
+      "schedule" : "Sat: 3:00 PM - 5:00 PM"
+    }, {
+      "doctor" : "Laxmi Agarwal",
+      "degree" : "",
+      "schedule" : "Wed: 1:00 PM - 3:00 PM"
+    }, {
+      "doctor" : "Mahuya Chanda",
+      "degree" : "",
+      "schedule" : "Mon, Thu: 9:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Madhumita Bhattacharyya",
+      "degree" : "",
+      "schedule" : "Sun: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Mridula Vohra",
+      "degree" : "",
+      "schedule" : "Mon: 3:00 PM - 5:00 PM\nWed: 9:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Naheed F Khan",
+      "degree" : "",
+      "schedule" : "Mon, Wed: 8:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Pallavi Daga",
+      "degree" : "",
+      "schedule" : "Mon: 3:00 PM - 5:00 PM"
+    }, {
+      "doctor" : "Pronab Dasgupta",
+      "degree" : "",
+      "schedule" : "Everyday: By Appointment"
+    }, {
+      "doctor" : "Prosenjit Sarkar",
+      "degree" : "",
+      "schedule" : "Sun: 1:00 PM - 2:00 PM"
+    }, {
+      "doctor" : "Rahul Sen",
+      "degree" : "",
+      "schedule" : "Mon: 11:00 AM - 1:00 PM\nFri: 9:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Ranjit Chakraborti",
+      "degree" : "",
+      "schedule" : "Tue, Thu, Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sakuntala Mitra",
+      "degree" : "",
+      "schedule" : "Fri: 11:00 AM - 1:00 PM"
+    }, {
+      "doctor" : "Samir Kumar Ray",
+      "degree" : "",
+      "schedule" : "Wed: 3:00 PM - 5:00 PM\nSun: 9:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Sandip Biswas",
+      "degree" : "",
+      "schedule" : "Mon: 9:00 AM - 11:00 AM\nTue: 6:00 PM - 7:00 PM\nFri: 7:00 PM - 9:00 PM"
+    }, {
+      "doctor" : "Sanjoy Sen",
+      "degree" : "",
+      "schedule" : "Fri: By Appointment"
+    }, {
+      "doctor" : "Sankar Prasad Ghosh",
+      "degree" : "",
+      "schedule" : "Sat: 7:00 PM - 9:00 PM"
+    }, {
+      "doctor" : "Sarbani Ghosh",
+      "degree" : "",
+      "schedule" : "Wed: 5:00 PM - 7:00 PM\nSat: 11:00 AM - 1:00 PM"
+    }, {
+      "doctor" : "Shashi Jindel",
+      "degree" : "",
+      "schedule" : "Thu, Sat: 4:00 PM - 5:00 PM"
+    }, {
+      "doctor" : "Somajita Chakraborty",
+      "degree" : "",
+      "schedule" : "Mon, Wed: 5:00 PM - 6:00 PM"
+    }, {
+      "doctor" : "Subhra Ghosh Paul",
+      "degree" : "",
+      "schedule" : "Mon, Fri: 1:00 PM - 3:00 PM\nWed: 9:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Subrata Chatterjee",
+      "degree" : "",
+      "schedule" : "Thu: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Suchitra Jain",
+      "degree" : "",
+      "schedule" : "Tue, Thu: 3:00 PM - 5:00 PM\nSat: 2:00 PM - 3:00 PM"
+    }, {
+      "doctor" : "Sujata Datta",
+      "degree" : "MBBS, MRCOG (UK),  FRCOG (UK), CCT",
+      "schedule" : "Fri: 11:00 AM - 1:00 PM"
+    }, {
+      "doctor" : "Suparna Chowdhury",
+      "degree" : "",
+      "schedule" : "Mon: 9:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Suraiya Rahman",
+      "degree" : "",
+      "schedule" : "Tue: 5:00 PM - 7:00 PM"
+    }, {
+      "doctor" : "Thongram Biju Singh",
+      "degree" : "",
+      "schedule" : "Mon, Wed: 5:00 PM - 8:00 PM\nSat: 3:00 PM - 5:00 PM"
+    } ]
+  }, {
+    "name" : "Opthalmology",
+    "schedules" : [ {
+      "doctor" : "O. P. Agarwal",
+      "degree" : "",
+      "schedule" : "Everyday: By Appointment"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Subash Ravalnath Kamath",
+      "degree" : "",
+      "schedule" : "Mon: 9:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Ashok Kumar Modi",
+      "degree" : "",
+      "schedule" : "Mon: 11:00 AM - 3:00 PM\nTue: 1:00 PM - 4:00 PM\nWed, Thu, Sun: 11:00 AM - 1:00 PM\nFri, Sat: 11:00 AM - 1:00 PM, 2:00 PM - 4:00 PM"
+    }, {
+      "doctor" : "Chandan Ray",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 11:00 AM - 1:00 PM"
+    }, {
+      "doctor" : "Kishore K. Gandhi",
+      "degree" : "",
+      "schedule" : "Sun: By Appointment"
+    }, {
+      "doctor" : "Lokesh Pandey",
+      "degree" : "",
+      "schedule" : "Fri: 2:00 PM - 3:00 PM"
+    }, {
+      "doctor" : "Pushpa Lodha",
+      "degree" : "",
+      "schedule" : "Wed, Fri: 6:00 PM - 7:00 PM"
+    }, {
+      "doctor" : "Pulak Kole",
+      "degree" : "",
+      "schedule" : "Tue, Thu, Fri: 5:00 PM - 7:00 PM"
+    }, {
+      "doctor" : "Randheer Lodha",
+      "degree" : "",
+      "schedule" : "Mon, Wed, Fri: 7:00 PM - 9:00 PM"
+    }, {
+      "doctor" : "Ruma Ray",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 1:00 PM - 5:00 PM"
+    }, {
+      "doctor" : "Runa Majumdar",
+      "degree" : "",
+      "schedule" : "Wed: 3:00 PM - 4:00 PM"
+    }, {
+      "doctor" : "Santanu Ray",
+      "degree" : "",
+      "schedule" : "Thu: 11:00 AM - 1:00 PM\nSun: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Saugata Acharyya",
+      "degree" : "",
+      "schedule" : "Everyday: 9:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Saumen De",
+      "degree" : "",
+      "schedule" : "Sun: 1:00 PM - 3:00 PM"
+    }, {
+      "doctor" : "Surajit Santra",
+      "degree" : "",
+      "schedule" : "Sun: 9 AM - 11 AM"
+    }, {
+      "doctor" : "Tridib Kumar Banerjee",
+      "degree" : "",
+      "schedule" : "Sun: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric Cardiology",
+    "schedules" : [ {
+      "doctor" : "Debadatta Mukhopadhyay",
+      "degree" : "",
+      "schedule" : "Mon, Fri: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Subrata Dey",
+      "degree" : "",
+      "schedule" : "Thu: 3:00 PM - 5:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Neurology",
+    "schedules" : [ {
+      "doctor" : "Arijit Chattopadhyay",
+      "degree" : "",
+      "schedule" : "Tue, Thu: 1:00 PM - 3:00 PM"
+    }, {
+      "doctor" : "Arundhati Banerjee",
+      "degree" : "",
+      "schedule" : "Wed: 4:00 PM - 5:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Parthapratim Gupta",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sharon. I Ghose",
+      "degree" : "",
+      "schedule" : "Wed: 9:00 AM - 11:00 AM\nFri: 5:00 PM - 7:00 PM"
+    }, {
+      "doctor" : "Subhasis Saha",
+      "degree" : "",
+      "schedule" : "Fri: 9:00 AM - 10:00 PM\nSun: 9:00 AM - 10:00 AM"
+    } ]
+  }, {
+    "name" : "Physiotheraphy",
+    "schedules" : [ {
+      "initial" : "Ms.",
+      "doctor" : "Arpita Chakrabarti",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 12:00 PM - 6:00 PM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Arun Ganguli",
+      "degree" : "",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat, Sun: 8:00 AM - 9:00 AM\nThu: 3:00 PM - 5:00 PM"
+    } ]
+  } ]
+}
