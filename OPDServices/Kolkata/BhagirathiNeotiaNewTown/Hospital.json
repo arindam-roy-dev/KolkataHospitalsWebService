@@ -1,0 +1,18 @@
+{
+"name":"Bhagirathi Neotia Woman & Child Care Centre, New Town",
+"code":"BhagirathiNeotiaNewTown",
+"address":"Premises No. 27- 0327, Street No. 327, Action Area 1d, New Town, Kolkata 700 156",
+"geoLocation":"22.5796607,88.475934?q=Bhagirathi+Neotia+Woman+and+Child+Care+Centre,+New+Town",
+"emails":"connect.bnwccc@neotiahealthcare.com",
+"websites":"https://www.neotiahospital.com/newtown/",
+"fax":"03340405007",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"03333235012,03333235013",
+	"isOpd":true
+	},{
+	"name":"Helpline",
+	"phoneNumbers":"03366405000,03333235000,8335050130,7595052954"
+	}]
+}
