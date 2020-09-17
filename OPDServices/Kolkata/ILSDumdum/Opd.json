@@ -177,7 +177,7 @@
     }, {
       "doctor" : "Rakesh Khan",
       "degree" : "MBBS, MS",
-      "schedule" : "Tue: 0.8333333333333334\nFri: 6:00 PM - 8:00 PM"
+      "schedule" : "Tue: 8:00 PM\nFri: 6:00 PM - 8:00 PM"
     }, {
       "doctor" : "Sudha Chowdhury",
       "degree" : "MBBS, MS, FAIS",
@@ -229,7 +229,7 @@
     "schedules" : [ {
       "doctor" : "Aditya Roy Choudhury",
       "degree" : "MD, DM (Neurology)",
-      "schedule" : "Mon: 0.3333333333333333\nThu: 0.375"
+      "schedule" : "Mon: 8:00 AM\nThu: 9:00 AM"
     }, {
       "doctor" : "Moumita Bagchi",
       "degree" : "MBBS, MD, DM",
@@ -311,7 +311,7 @@
     }, {
       "doctor" : "Satya Kinkar Ghosh",
       "degree" : "MBBS, MS",
-      "schedule" : "Wed: 0.8333333333333334"
+      "schedule" : "Wed: 8:00 PM"
     }, {
       "doctor" : "Sudip Kumar Saha",
       "degree" : "MBBS, DGO, MD, DMD",
@@ -345,7 +345,7 @@
     "schedules" : [ {
       "doctor" : "Dibya Prakash Bathwal",
       "degree" : "MD (Ophthalmology) (AIIMS, New Delhi), Fellow Shankar Netralaya (Chennai)",
-      "schedule" : "Tue, Fri: 0.6666666666666666"
+      "schedule" : "Tue, Fri: 4:00 PM"
     }, {
       "doctor" : "Dipa Saha",
       "degree" : "MBBS, DO, MD",
@@ -417,7 +417,7 @@
     }, {
       "doctor" : "Moupia Chakraborty",
       "degree" : "MBBS, DCH",
-      "schedule" : "Tue, Thu, Sat: 6:00 PM - 8:00 PM\nWed: 0.375"
+      "schedule" : "Tue, Thu, Sat: 6:00 PM - 8:00 PM\nWed: 9:00 AM"
     }, {
       "doctor" : "Pavitra Chakravarty",
       "degree" : "MBBS, FRCP, DCH, MRCOG, DFFP",
@@ -437,7 +437,7 @@
     }, {
       "doctor" : "Vimlesh Ji Vimal",
       "degree" : "MBBS, MD (Paediatrics), DMRD",
-      "schedule" : "Wed, Fri: 0.8333333333333334"
+      "schedule" : "Wed, Fri: 8:00 PM"
     } ]
   }, {
     "name" : "Paediatric Surgery",
@@ -463,7 +463,7 @@
     }, {
       "doctor" : "Vikram Singh Rathore",
       "degree" : "MBBS, MS, MCH (Plastic Surgery)",
-      "schedule" : "Mon: 8:00 AM - 10:00 AM\nWed, Fri: 0.8333333333333334"
+      "schedule" : "Mon: 8:00 AM - 10:00 AM\nWed, Fri: 8:00 PM"
     } ]
   }, {
     "name" : "Psychiatry",
