@@ -302,7 +302,7 @@
     }, {
       "doctor" : "Subhasis Deb",
       "degree" : "MBBS, FRCS",
-      "schedule" : "Mon to Thu: 11:00 AM\nFri: 0.5833333333333334"
+      "schedule" : "Mon to Thu: 11:00 AM\nFri: 2:00 PM"
     } ]
   }, {
     "name" : "Paediatrics",
@@ -339,7 +339,7 @@
     "schedules" : [ {
       "doctor" : "Arnab Ghosh Hazra",
       "degree" : "MD (Psychiatry)",
-      "schedule" : "Sun: 0.5833333333333334"
+      "schedule" : "Sun: 2:00 PM"
     }, {
       "doctor" : "Saurabh Sankar Kundu",
       "degree" : "MD, FIPS",
