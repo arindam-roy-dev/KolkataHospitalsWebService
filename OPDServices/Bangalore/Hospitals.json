@@ -82,6 +82,10 @@
 	"locality":"HSR Layout",
 	"code":"NarayanaHSR"
 	},{
+	"name":"Sakra World Hospital",
+	"locality":"Marathahalli",
+	"code":"SakraWorld"
+	},{
 	"name":"Sparsh Super Speciality Hospital, Yeshwanthpur",
 	"locality":"Yeshwanthpur",
 	"code":"SparshYeshwanthpur"
