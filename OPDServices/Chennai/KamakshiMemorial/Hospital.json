@@ -1,0 +1,27 @@
+{
+"name":"Kamakshi Memorial Hospital",
+"code":"KamakshiMemorial",
+"address":"#1, Radial Road, Pallikaranai, Chennai 600100, Tamil Nadu",
+"geoLocation":"12.9485732,80.2096308?q=DR.KAMAKSHI+MEMORIAL+HOSPITALS",
+"emails":"info@drkmh.com",
+"websites":"https://drkmh.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"7358356333,7358317333",
+	"isOpd":true
+	},{
+	"name":"Ambulance",
+	"phoneNumbers":"4471200200,4466300300"
+	},{
+	"name":"Home Sample collection",
+	"phoneNumbers":"7358321666"
+	},{
+	"name":"Child Care",
+	"phoneNumbers":"4466300333"
+	},{
+	"name":"Whatsapp",
+	"phoneNumbers":"8939900500"
+	}]
+}

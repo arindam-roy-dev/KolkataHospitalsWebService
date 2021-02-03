@@ -1,0 +1,509 @@
+﻿{
+  "name" : "Kamakshi Memorial Hospital",
+  "specialties" : [ {
+    "name" : "Anaesthesiology",
+    "schedules" : [ {
+      "doctor" : "Vidya R",
+      "degree" : "MBBS, MD (Anaesthesia), PDCC, FIPP, PGDGM",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:30 AM"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Ashok Kumar",
+      "degree" : "MBBS, MD (Medicine), DM (Cardiology)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 11:30 AM - 03:30 PM"
+    }, {
+      "doctor" : "Bino John Sahayo J",
+      "degree" : "MBBS, MD (General Medicine), DNB, DM (CardIology), DNB (CardIology)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM, 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Thirumalai P",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Thejaswi N. Marla",
+      "degree" : "MBBS, PGDCC, MS, M.Ch, DNB (CVTS), MBA",
+      "language" : "Tamil, English",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 11:30 AM - 01:30 PM"
+    } ]
+  }, {
+    "name" : "Dentistry",
+    "schedules" : [ {
+      "doctor" : "S. B. Bargavi Shri",
+      "degree" : "BDS",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 08:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Lavanya Illangudi",
+      "degree" : "BDS",
+      "language" : "Tamil , English",
+      "schedule" : "Mon to Sat: 12:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Saravanan B. N.",
+      "degree" : "MBBS, DDVL",
+      "language" : "Tamil, English",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Parthibanraj Ragunathan",
+      "degree" : "MBBS, MD",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Diabetology",
+    "schedules" : [ {
+      "doctor" : "Kumar Thulasidass",
+      "degree" : "MBBS, MD (General Medicine), MRCP (UK) (Endocrinology & Diabetology)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Pillai C. V.",
+      "degree" : "MBBS, MD (General Medicine), Diplomate in Diabetology",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 08:00 AM - 10:00 AM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Geetha Lakshmi",
+      "degree" : "MBBS, MD, DM (Endocrinology)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 09:30 AM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Major G Vasanth Kumar",
+      "degree" : "MS (ENT), DNB (ENT), Fellow Head & Neck Surgery Oncology",
+      "language" : "Tamil, Hindi, English, Kannada, Malayalam",
+      "schedule" : "Mon to Sat: 03:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "Udaya Kumar M",
+      "degree" : "MBBS, MS (ENT)",
+      "language" : "English, Tamil",
+      "schedule" : "Mon to Sat: 09:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Family Medicine",
+    "schedules" : [ {
+      "doctor" : "Ramya R.",
+      "degree" : "MBBS, DNB (Family Medicine)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 03:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Babu Kumar S",
+      "degree" : "MBBS, MD (General Medicine), DM (Medical Gastroenterology)",
+      "schedule" : "Mon to Sat: 03:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Mahesh Sundaram",
+      "degree" : "MBBS, DNB (General Surgery), DNB (Surgical Gastroenterology), MRCS (UK), Fellowship in Hepato Pancreato Biliary Surgery",
+      "designation" : "Chief Consultant - Hepatobiliary Surgeon & Surgical Gastroenterologist",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Rajkumar Rathinasamy",
+      "degree" : "MBBS, MS, MRCS (UK), FIAGES, FMAS, M.Ch (Surgical Gastroenterology and GI oncology)",
+      "designation" : "Surgical Gastro Enterology",
+      "language" : "Tamil, English, Hindi",
+      "schedule" : "Mon to Sat: 05:30 PM - 07:30 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Indumathi Rajasekaran",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "Tamil, English, Hindi, Kannada",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Priya B",
+      "degree" : "MBBS, MD (General Medicine)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 09:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Monica K",
+      "degree" : "MBBS, MD (General Medicine), MRCP (UK)",
+      "schedule" : "Mon to Sat: 08:30 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Vivekanand P",
+      "degree" : "MBBS, DNB",
+      "designation" : "Chief Consultant - Hepatobiliary Surgeon & Surgical Gastroenterologist",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 06:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Geriatrics",
+    "schedules" : [ {
+      "doctor" : "Vidya R.",
+      "degree" : "MBBS, MD (Anaesthesia), PDCC, FIPP, PGDGM",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:30 AM"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Joseph Dominic",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Medical Oncology)",
+      "language" : "Tamil, English, Hindi",
+      "schedule" : "Mon, Wed, Fri, Sat: 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Rejiv",
+      "degree" : "MBBS, MD (General Medicine), DM (Medical Oncology), DNB (Medical Oncology)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Fri: 10:00 AM - 10:30 AM"
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "Vaideeswaran M",
+      "degree" : "MBBS, MD (Pediatrics), DM (Neonatology)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 05:00 PM - 08:00 PM\nSun: 10:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Balamurugan B",
+      "degree" : "MBBS, MD (General Medicine), DM (Nephrology)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 08:30 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Harisudhan",
+      "degree" : "MBBS, MD (General Medicine), DNB (General Medicine), DM (Neurology), DNB (Neurology)",
+      "language" : "Tamil, English, Malayalam, Hindi",
+      "schedule" : "Mon: 02:00 PM - 03:00 PM\nTue: 02:00 PM - 05:00 PM\nSat: 01:00 PM - 02:00 PM\nSun: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Preetha P",
+      "degree" : "MBBS, MD, DM (Neurology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Rajeswari Ramachandran",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology), Ph.D",
+      "language" : "Tamil, English, Hindi, Sanskrit",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "M. M. Shankar",
+      "degree" : "MBBS, M.Ch (Neuro Surgery)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rajkumar S",
+      "degree" : "MBBS, M.Ch (Neuro)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 06:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Vijay Iyer",
+      "degree" : "MBBS, MS (General Surgery), M.Ch (Neuro Surgery)",
+      "language" : "Tamil, English, Bengali, Hindi, Bhojpuri, Malayalam, Kannada, Telugu",
+      "schedule" : "Mon, Wed, Fri: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics and Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Devi C",
+      "degree" : "MBBS, MD OG, DNB (OG)",
+      "language" : "Tamil, English, Hindi",
+      "schedule" : "Mon to Fri: 10:00 AM - 01:00 PM\nSat: 05:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "R Vidyachaya",
+      "degree" : "MBBS, DGO, MS (OG), DNB (OG) , FMAS",
+      "language" : "Tamil, English, Hindi, Malayalam, Kannada",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Ramya Praveen Chander",
+      "degree" : "MS (OG), Fellowship in Andrology & Reproductive Medicine",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sivaranjini T. G.",
+      "degree" : "MBBS, DGO, ART (NUHS, Singapore), MRM (UNSW, Sydney)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sumathy V.",
+      "degree" : "MBBS, DGO, MD (O&G)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vijayalakshmi Alli",
+      "degree" : "MBBS, DNB (O&G)",
+      "language" : "Telugu, English, Tamil, Hindi, Kannada",
+      "schedule" : "Mon to Fri: 03:30 PM - 06:30 PM"
+    } ]
+  }, {
+    "name" : "Ophthalmology",
+    "schedules" : [ {
+      "doctor" : "Nagalekshmi G.",
+      "degree" : "MBBS, DNB, FMRF, FICO",
+      "language" : "Tamil, English",
+      "schedule" : "Mon, Wed, Fri, Sat: 09:00 AM - 12:00 PM\nTue, Thu: 05:00 PM - 07:30 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Balaraman R",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "language" : "Tamil, English, Telugu",
+      "schedule" : "Mon to Sat: 08:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Deepak Kumar K. S.",
+      "degree" : "MBBS, Diplomate in Orthopedics, MS (Orthopedics), M.Ch (Orthopedics)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "S. S. K. Sandeep",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 12:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Divya Priyadharshini",
+      "degree" : "MBBS, DCH",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "G. Kumaravel",
+      "degree" : "MBBS, DA, MD (Paediatrics)",
+      "language" : "Tamil, English, Malayalam",
+      "schedule" : "Mon to Fri: 05:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "K. Jayachandran",
+      "degree" : "MD (Paediatrics), DCH",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rajeshwari N",
+      "degree" : "MBBS, DCH, MD (Paediatrics), PGD (Development Neurology)",
+      "language" : "Tamil, English, Kannada, Sanskrit, Hindi",
+      "schedule" : "Mon to Fri: 09:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Rosy Elanchezhian",
+      "degree" : "MBBS, DCH",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Savitha. A",
+      "degree" : "MBBS, DNB (Paediatrics)",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Suchitra Ravishankar",
+      "degree" : "MBBS , DNB (Paediatrics), DCH",
+      "schedule" : "Everyday: 12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Prahada J.",
+      "degree" : "MBBS, DNB (Paediatrics)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sravanthi Kosuri",
+      "degree" : "MBBS, DCH",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Unnikrishnan S. R.",
+      "degree" : "MD (Paediatrics)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vinoth Kumar A. V.",
+      "degree" : "MD (Paediatrics)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatric Cardiology",
+    "schedules" : [ {
+      "doctor" : "Prem Sekar R",
+      "degree" : "MBBS, MRCPI, FRCP (Glasgow)",
+      "language" : "Tamil, English",
+      "schedule" : "Thu: 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Karthik Surya R",
+      "degree" : "MBBS, DNB (Paediatrics), FNB (Paediatric Cardiology)",
+      "language" : "Tamil, English, Hindi, Telugu, Kannada",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatric Neurology",
+    "schedules" : [ {
+      "doctor" : "N. Mahesh",
+      "degree" : "MBBS, MD (Paediatrics), DM (Neurology)",
+      "language" : "Tamil, English, Hindi",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Pediatric Opthalmology",
+    "schedules" : [ {
+      "doctor" : "Naveen",
+      "degree" : "MBBS, DO, DNB, FICO, SAEH (VR)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatric Physiotherapy",
+    "schedules" : [ {
+      "doctor" : "Vijayalakshmi",
+      "degree" : "BPT, BDT, M.Sc (Psychology)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Moorthy G",
+      "degree" : "MBBS, MRCS (UK), M.Ch (Paediatric Surgery)",
+      "language" : "Tami, English, Hindi, Malayalam",
+      "schedule" : "Mon to Sat: 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Pain",
+    "schedules" : [ {
+      "doctor" : "Vidya R",
+      "degree" : "MBBS, MD (Anaesthesia), PDCC, FIPP, PGDGM",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:30 AM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Samuel Ebenezer F.",
+      "degree" : "MBBS, DNB (General Surgery), DNB (Plastic Surgery), M.Ch (Plastic Surgery), MRCS (Edinburgh)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 12:30 PM - 03:00 PM"
+    }, {
+      "doctor" : "Selvakumar C.",
+      "degree" : "MDS, Fellow Head & Neck Trauma, Implantology",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Jaikumar V.",
+      "degree" : "MBBS, MD (Psychiatry)",
+      "language" : "Tamil, English",
+      "schedule" : "Tue, Thu: 05:00 PM - 06:00 PM\nSat: 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Saravannan J.",
+      "degree" : "MBBS, DPM",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vidhya Mohandoss",
+      "degree" : "MBBS, DNB (Psychiatry)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Senthilkumar P.",
+      "degree" : "MBBS, DTCD, EDARM, FCCP, FAPSR",
+      "language" : "Tamil, English, Hindi",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Avinash R. M.",
+      "degree" : "MBBS, DNB",
+      "language" : "Telugu, Tamil, English",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sivakumar S.",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: 04:00 PM - 07:00 PM\nSun: 11:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Radiation Oncology",
+    "schedules" : [ {
+      "doctor" : "Arun Ramanan",
+      "degree" : "MBBS, MD (Radiotherapy), DM (Oncology), FIPM",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Karthikeyan Perumal",
+      "degree" : "MBBS, DM RT, DNB (Radiation Oncology)",
+      "language" : "Tamil, English, Hindi",
+      "schedule" : ""
+    }, {
+      "doctor" : "Krishna Kumar P.",
+      "degree" : "MBBS, DMRT, MD (RT)",
+      "schedule" : "Mon to Fri: 09:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Surendran J.",
+      "degree" : "MBBS, MD (RT)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Chellapandian",
+      "degree" : "MBBS, MD (Radiotherapy)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ramya",
+      "degree" : "MBBS, MD (Radiotherapy), DM (RT)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Subathira",
+      "degree" : "MBBS, DM (RT), DNB (Radiation Oncology)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    }, {
+      "doctor" : "Usha S.",
+      "degree" : "MBBS, DM (RT)",
+      "language" : "Tamil, English",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Porkodi",
+      "degree" : "MBBS, MD (General Medicine), DM (Rheumatalogy)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 09:00 AM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Rajkumar P",
+      "degree" : "MBBS, MS (General Surgery), DNB (General Surgery), DNB (Surgical Oncology), M.Ch (Surgical Oncology)",
+      "language" : "Tamil, English",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Kathiresan N.",
+      "degree" : "MBBS, MS (General Surgery), M.Ch (Surgical Oncology)",
+      "language" : "Tamil, English, Telugu",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Jayaraj A. K.",
+      "degree" : "MBBS, MS (General Surgery), M.Ch (Urology), DNB (Urology & Genito - Urinary Surgery)",
+      "language" : "Tamil, English, Hindi",
+      "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
+    } ]
+  } ]
+}
