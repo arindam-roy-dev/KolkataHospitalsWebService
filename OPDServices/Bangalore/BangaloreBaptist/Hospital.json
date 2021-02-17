@@ -1,0 +1,18 @@
+{
+"name":"Bangalore Baptist Hospital",
+"code":"BangaloreBaptist",
+"address":"Bellary Road, Hebbal, Bangalore – 560024, (Landmark: Near Hebbal Flyover on Mekhari Circle to Hebbal section of Bellary road)",
+"geoLocation":"13.0356865,77.5897718?q=Bangalore+Baptist+Hospital",
+"emails":"talk2us@bbh.org.in",
+"websites":"https://www.bbh.org.in",
+"faxNumbers":"8023437970",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital Information",
+	"phoneNumbers":"8022024700,8046404700,9448496602",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"8880408040"
+	}]
+}

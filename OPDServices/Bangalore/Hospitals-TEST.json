@@ -22,6 +22,10 @@
 	"locality":"JP Nagar",
 	"code":"AsterRV"
 	},{
+	"name":"Bangalore Baptist Hospital",
+	"locality":"Hebbal",
+	"code":"BangaloreBaptist"
+	},{
 	"name":"BGS Gleneagles Global Hospital",
 	"locality":"Kengeri",
 	"code":"BGSGleneagles"

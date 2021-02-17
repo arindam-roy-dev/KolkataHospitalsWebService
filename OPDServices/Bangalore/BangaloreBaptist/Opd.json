@@ -1,0 +1,760 @@
+﻿{
+  "name" : "Bangalore Baptist Hospital",
+  "specialties" : [ {
+    "name" : "Anaesthesia",
+    "schedules" : [ {
+      "doctor" : "Laji Abraham Samuel",
+      "degree" : "MBBS, MD, DIU (Montpellier), EDRA",
+      "designation" : "Head of Department",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jayashree Dhareshwar",
+      "degree" : "MBBS, Diploma (Anaesthesia)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Varghese Zachariah K.",
+      "degree" : "MBBS, MD (Anaesthesia)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Joel Chakravarthy J.",
+      "degree" : "MBBS, Diploma (Anaesthesia), MD (Anaesthesia)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Pushpalatha D. S.",
+      "degree" : "MBBS, Diploma (Anaesthesia), DNB (Anaesthesia), Fellowship (Paediatric Anaesthesia)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Mita Eunice Sarkar",
+      "degree" : "MBBS, MD (Anaesthesia), DNB, Post Doctoral Fellowship in Cardiac Anaesthesia",
+      "schedule" : ""
+    }, {
+      "doctor" : "Reena R. Kadni",
+      "degree" : "MBBS, DA, DNB (Anaesthesia)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Farzan Syed",
+      "degree" : "MBBS, Diploma (Anaesthesia), DNB (Anaesthesia)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Priya P.",
+      "degree" : "MBBS, DNB (Anaesthesia)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Bariatrics Surgery",
+    "schedules" : [ {
+      "doctor" : "Venkata Narasimhan N. S.",
+      "degree" : "DNB (General Surgery), FNB (Minimal Access Surgery), Fellowship in Bariatric Surgery & Metabolic Surgery",
+      "designation" : "Consultant - Bariatric and Metabolic Surgery, Minimal Access Surgery, Advanced Laparoscopic Surgery and GI Surgery & Head of Department",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Saravanan",
+      "degree" : "MD, FRCP (UK) , FESC, CCT (Cardiology) (UK), PhD (UK) CCDS (US)",
+      "designation" : "Head of Department -Interventional cardiology and Electrophysiology",
+      "schedule" : "Mon, Tue, Thu, Fri: 08:00 AM - 03:30 PM\nWed: 08:00 AM - 03:30 PM, 04:30 PM - 06:00 PM\nSat: 08:00 AM - 12:30 PM"
+    }, {
+      "doctor" : "Satish M. Kini",
+      "degree" : "MS (General Surgery), MCh (CVTS), FACCS",
+      "designation" : "Visiting Consultant - Cardio Vascular Surgery",
+      "schedule" : "Tue, Fri: 05:30 PM - 06:30 PM"
+    }, {
+      "doctor" : "Thabit Ahmed",
+      "degree" : "MBBS, MD (General Medicine), DNB (Cardiology)",
+      "designation" : "Consultant - Interventional Cardiology",
+      "schedule" : "Mon, Tue, Thu, Fri: 08:00 AM - 03:30 PM\nWed: 08:00 AM - 03:30 PM, 04:30 PM - 06:00 PM\nSat: 08:00 AM - 12:30 PM"
+    }, {
+      "doctor" : "Vanitha N.",
+      "degree" : "DNB (General Medicine), DNB (Cardiology)",
+      "schedule" : "Mon, Tue, Thu, Fri: 08:00 AM - 03:30 PM\nWed: 08:00 AM - 03:30 PM, 04:30 PM - 06:00 PM\nSat: 08:00 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Community Medicine",
+    "schedules" : [ {
+      "doctor" : "Carolin Elizabeth George",
+      "degree" : "MBBS, MD (Community Medicine)",
+      "designation" : "Head of the Department",
+      "schedule" : ""
+    }, {
+      "doctor" : "Leeberk Raja I.",
+      "degree" : "MBBS, MD (Community Medicine)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nirupama Navamani Franklyn",
+      "degree" : "MBBS, MD (Community Medicine)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Bindhya R James",
+      "degree" : "MBBS, M.Med (Family Medicine)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Critical Care",
+    "schedules" : [ {
+      "doctor" : "Indira Menon",
+      "degree" : "DNB (Medicine), MRCP (UK)",
+      "designation" : "Head of the Department",
+      "schedule" : ""
+    }, {
+      "doctor" : "Deepa Das",
+      "degree" : "MBBS, DTCD, DNB (Respiratory Medicine), FACCP",
+      "schedule" : ""
+    }, {
+      "doctor" : "Deepak Ivan Tauro",
+      "degree" : "MBBS, MD (Anaesthesia), Fellowship in Critical Care",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shivakumar Shivanna",
+      "degree" : "MBBS, MD (Anaesthesiology & Critical Care), FCARCSI (Anaesthesiology & Critical Care), FRCA (Anaesthesiology & Critical Care)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Swapna Mandala Babu",
+      "degree" : "MBBS, MD(Internal Medicine)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Carol Z. Mascarenhas",
+      "degree" : "MBBS, MD (DVL)",
+      "schedule" : "Mon, Tue, Thu, Fri: 08:00 AM - 03:30 PM\nWed: 08:00 AM - 03:30 PM, 04:30 PM - 06:00 PM\nSat: 08:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Chetana J. M.",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon, Tue, Thu, Fri: 08:30 AM - 01:00 PM\nWed: 08:30 AM - 01:00 PM, 04:30 PM - 06:00 PM\nSat: 08:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Diya Katrina Koikkara",
+      "degree" : "MBBS, MD (Dermatology , Venereology & Leprosy)",
+      "schedule" : "Mon, Tue, Fri: 09:00 AM - 1:30 PM\nWed: 09:00 AM - 1:30 PM, 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Priya Jeevamani C.",
+      "degree" : "MBBS, DDVL, MD (Dermatology, Venereology, Leprosy), FRGUHS (Paediatric Dermatology)",
+      "schedule" : "Mon, Tue, Wed, Fri: 08.00 AM - 01.00 PM\nThu: 08.00 AM - 01.00 PM, 04:30 PM - 06:00 PM\nSat: 08:30 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Dentistry",
+    "schedules" : [ {
+      "doctor" : "Philcy Philip",
+      "degree" : "BDS, MDPPH",
+      "designation" : "Head of the Department",
+      "schedule" : "Mon: 08:30 AM - 03:30 PM, 04:30 PM –07:00 PM\nTue to Fri: 08:30 AM - 03:30 PM\nSat: 08:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sudhakar A.",
+      "degree" : "BDS, MDS (Prosthodontic Implantology)",
+      "designation" : "Consultant - Prosthodontics & Implantology",
+      "schedule" : "Mon, Tue, Thu, Fri: 08:30 AM - 03:30 PM\nWed: 08:30 AM - 03:30 PM, 04:30 PM - 06:30 PM\nSat: 08:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Akshay D. Shetty",
+      "degree" : "BDS, MDS (Oral and Maxillofacial Surgery)",
+      "designation" : "Visiting Consultant - Oral And MaxilloFacial Surgery",
+      "schedule" : ""
+    }, {
+      "doctor" : "Abey Verghese Chacko",
+      "degree" : "BDS, PGCOI",
+      "schedule" : "Mon, Tue, Wed, Fri: 08:30 AM - 03:30 PM\nThu: 08:30 AM - 03:30 PM, 04:30 PM - 07:00 PM\nSat: 08:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Bilcy Philip",
+      "degree" : "BDS",
+      "schedule" : "Mon, Tue, Thu, Fri: 08:30 AM - 03:30 PM\nWed: 08:30 AM - 03:30 PM, 04:30 PM - 7:00 PM\nSat: 08:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Namrata Sahu",
+      "degree" : "BDS",
+      "schedule" : "Mon to Fri: 08:30 AM - 03:30 PM\nSat: 08:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Reena Cherian Samuel",
+      "degree" : "BDS",
+      "designation" : "Consultant - Dental",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sathya Pal A.",
+      "degree" : "BDS",
+      "designation" : "Consultant - Dental",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Emergency Medicine",
+    "schedules" : [ {
+      "doctor" : "Kingsly Robert G. V.",
+      "degree" : "MBBS, MD (Internal Medicine), MBA, PDGMLE",
+      "designation" : "Consultant - Emergency Medicine, Critical Care & Internal Medicine, Head of the Department EM & CC & Deputy Chief of Medical Staff",
+      "schedule" : "Mon, Tue, Wed, Fri: 11:30 AM - 01:00 PM\nThu: 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sreekanth",
+      "degree" : "MBBS, Fellowship in Emergency Medicine, DNB (Anaesthesiology)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Roopa K. P.",
+      "degree" : "MBBS, FAEM, DA, MRCEM (UK)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Spurgeon R.",
+      "degree" : "MBBS, MD, DNB (Endocrinology),Clinical fellowship in Endocrinology(UK)",
+      "schedule" : "Mon, Wed, Thu, Fri: 09:30 AM - 01:30 PM\nTue: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Santosh B.",
+      "degree" : "MBBS, MD (Internal Medicine), DNB (Endocrinology)",
+      "schedule" : "Mon, Tue, Wed, Fri: 08:00 AM - 01:00 PM\nThu: 08:00 AM - 01:00 PM, 04.30 PM - 06.30 PM\nSat: 08.00 AM - 12.00 PM"
+    }, {
+      "doctor" : "Bhargavi S. J.",
+      "degree" : "MBBS, DPCD (UK) CD, PG DHSc (Diabetology)",
+      "schedule" : "Mon to Fri: 09:00 AM - 02:00 PM\nSat: 09:00 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Manjula B. V.",
+      "degree" : "MBBS, DLO, DNB (ENT), Fellowship in Head and Neck Surgical Oncology",
+      "designation" : "Head of the Department",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anita Mariet Thomas",
+      "degree" : "MBBS, MS (ENT)",
+      "schedule" : "Mon, Fri: 08:30 AM - 03:30 PM\nWed: 08:30 AM - 03:30 PM, 04:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "Badari Datta H. C.",
+      "degree" : "MS (ENT), DNB, DOHNS (London), MRCS (Edinburgh), FISQUA (Ireland), Diploma in Allergy and Asthma(CMC, Vellore)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Basharat Nadeem",
+      "degree" : "MS, DNB, MNAMS",
+      "designation" : "Visiting Consultant - Hearing Rehab & Cochlear Implantation",
+      "schedule" : "Fri: 02:00 PM - 04:30 PM (2nd & 4th Fri)"
+    }, {
+      "doctor" : "Brinda A. Poojary",
+      "degree" : "MBBS, DLO, DNB",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anila Narayanan",
+      "degree" : "MS (ENT)",
+      "schedule" : ""
+    }, {
+      "initial" : "Ms.",
+      "doctor" : "Amulya Raghava",
+      "degree" : "BSc (Speech & Hearing), MSc (Audiology & Speech - Language Pathology)",
+      "designation" : "Speech - Language Pathologist",
+      "schedule" : ""
+    }, {
+      "initial" : "Ms.",
+      "doctor" : "Sharanya R.",
+      "degree" : "B.Sc (Speech and Hearing), MSc (Audiology)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Family Medicine",
+    "schedules" : [ {
+      "doctor" : "Shalini P.",
+      "degree" : "MBBS, DNB (Family Medicine), IAPC",
+      "schedule" : ""
+    }, {
+      "doctor" : "Srividhya Raghavendran",
+      "degree" : "MBBS, MRCGP (UK), CCT (UK), DRCOG (UK), DFID (CMC)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shilpa K.",
+      "degree" : "MBBS, DNB (Family Medicine)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Leeberk Raja I.",
+      "degree" : "MBBS, MD (Community Medicine)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Abhijith B. R.",
+      "degree" : "MD, DM (Medical Gastroenterology)",
+      "designation" : "Visiting Consultant",
+      "schedule" : "Tue, Thu, Fri: 02.00 PM - 04.00 PM"
+    }, {
+      "doctor" : "Venkata Narasimhan N. S.",
+      "degree" : "DNB (General Surgery), FNB (Minimal Access Surgery), Fellowship in Bariatric Surgery & Metabolic Surgery",
+      "designation" : "Consultant - Bariatric and Metabolic Surgery, Minimal Access Surgery, Advanced Laparoscopic Surgery and GI Surgery & Head of Department",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Venkata Narasimhan N. S.",
+      "degree" : "DNB (General Surgery), FNB (Minimal Access Surgery), Fellowship in Bariatric Surgery & Metabolic Surgery",
+      "designation" : "Consultant - Bariatric and Metabolic Surgery, Minimal Access Surgery, Advanced Laparoscopic Surgery and GI Surgery & Head of Department",
+      "schedule" : ""
+    }, {
+      "doctor" : "Anil Kumar",
+      "degree" : "MBBS, MS, DNB",
+      "designation" : "Consultant - General & Laparoscopic Surgery",
+      "schedule" : ""
+    }, {
+      "doctor" : "Krishnaprasad M",
+      "degree" : "MBBS, DNB (Neurosurgery), PGDMLE",
+      "designation" : "Visiting Consultant - Neurosurgery",
+      "schedule" : "Mon, Wed, Fri: 09.00 AM - 12.30 PM"
+    }, {
+      "doctor" : "Naveen Thomas",
+      "degree" : "MBBS, MS, DNB, MCh, MPhil",
+      "designation" : "Consultant - General & Paediatric Surgery",
+      "schedule" : ""
+    }, {
+      "doctor" : "Satish M. Kini",
+      "degree" : "MS (General Surgery), MCh (CVTS), FACCS",
+      "designation" : "Visiting Consultant - Cardio Vascular Surgery",
+      "schedule" : "Tue, Fri: 05:30 PM - 06:30 PM"
+    }, {
+      "doctor" : "Gayathri Priyabindu V.",
+      "degree" : "DNB (General Surgery), MCh (Plastic & Reconstructive Surgery)",
+      "designation" : "Visiting Consultant - Plastic Surgery",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 09.00 AM - 01.00 PM"
+    }, {
+      "doctor" : "Vishnuvardhana G. V.",
+      "degree" : "MBBS, DNB (General Surgery), DNB (Surgical Oncology)",
+      "designation" : "Consultant - Surgical Oncology & General Surgery",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nithya Manayath",
+      "degree" : "MBBS, DNB (Surgery), DNB (Surgical Oncology)",
+      "designation" : "Consultant - Surgical Oncology & General Surgery",
+      "schedule" : ""
+    }, {
+      "doctor" : "Poonam Arya",
+      "degree" : "MBBS,DNB (General Surgery), FACRSI",
+      "schedule" : "Mon, Fri: 09:00 AM - 1:30 PM\nWed: 09:00 AM - 1:30 PM, 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Phelix Rufus",
+      "degree" : "MBBS, M.Ch (Neurosurgery)",
+      "schedule" : "Mon, Tue, Wed, Fri: 08.00 AM - 01.00 PM\nThu: 08.00 AM - 01.00 PM, 04:30 PM - 06:00 PM\nSat: 08.00 AM - 12.00 PM"
+    } ]
+  }, {
+    "name" : "Geriatric Medicine",
+    "schedules" : [ {
+      "doctor" : "Dominic G. Benjamin",
+      "degree" : "DNB (Internal Medicine), CCT (Geriatrics and Internal Medicine), MRCP (Internal Medicine & Geriatrics), CIDC (Diabetes) (UK), PGDip (Bio-Statistics), MNAMS, FRCP (London & Edinburg)",
+      "designation" : "Head of Department",
+      "schedule" : "Mon, Wed: 09:30 AM – 01:30 PM\nThu: 04:30 PM – 06:00 PM\nSat: 09:30 AM – 12:30 PM"
+    }, {
+      "doctor" : "M. J. Vinod Kumar",
+      "degree" : "MBBS, MD (Medicine), DNB (Medicine), MNAMS, MRCP (UK), CCEPC",
+      "schedule" : "Mon, Wed, Thu: 09:30 AM - 01:30 PM\nFri: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Haematology",
+    "schedules" : [ {
+      "doctor" : "Shreyas Hanmantgad",
+      "degree" : "MBBS, DNB (Internal Medicine), DM (Clinical Haematology)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Infertility",
+    "schedules" : [ {
+      "doctor" : "Anne Marie Kongari",
+      "degree" : "MBBS, MS (Obstetrics and Gynaecology), Fellowship in Reproductive Medicine",
+      "designation" : "Head of Department",
+      "schedule" : "Mon, Fri: 10:00 AM - 03:30 PM\nTue: 08:30 AM - 03:30 PM\nThu: 08:30 AM - 03:30 PM, 04:30 PM - 06:00 PM\nSat: 08:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Chandana A.",
+      "degree" : "MBBS, MS (OBG), Fellowship (Minimally Invasive Surgery - Gynecology), Diploma in Reproductive Medicine",
+      "schedule" : "Mon, Fri: 10:00 AM - 03:30 PM\nTue, Thu: 08:30 AM - 03:30 PM\nWed: 04:30 PM - 06:00 PM\nSat: 08:30 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Dominic G. Benjamin",
+      "degree" : "DNB (Internal Medicine), CCT (Geriatrics and Internal Medicine), MRCP (Internal Medicine & Geriatrics), CIDC (Diabetes) (UK), PGDip (Bio-Statistics), MNAMS, FRCP (London & Edinburg)",
+      "designation" : "Head of Department",
+      "schedule" : "Mon, Wed: 09:30 AM – 01:30 PM\nThu: 04:30 PM – 06:00 PM\nSat: 09:30 AM – 12:30 PM"
+    }, {
+      "doctor" : "Kingsly Robert G. V.",
+      "degree" : "MBBS, MD (Internal Medicine), MBA, PDGMLE",
+      "designation" : "Consultant - Emergency Medicine, Critical Care & Internal Medicine, Head of the Department EM & CC & Deputy Chief of Medical Staff",
+      "schedule" : "Mon, Tue, Wed, Fri: 11:30 AM - 01:00 PM\nThu: 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Shirley James",
+      "degree" : "MBBS, FHM, PG Diploma in Infectious Diseases",
+      "designation" : "Consultant - Internal Medicine & Infectious Disease",
+      "schedule" : "Mon to Fri: 09:30 AM - 01:30 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Spurgeon R.",
+      "degree" : "MBBS, MD, DNB (Endocrinology),Clinical fellowship in Endocrinology (UK)",
+      "designation" : "Consultant - Endocrinology",
+      "schedule" : "Mon, Wed, Thu, Fri: 09:30 AM - 01:30 PM\nTue: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Asha Sujatha",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant - Internal Medicine & Rheumatology",
+      "schedule" : "Mon, Thu, Fri: 09:30 AM - 01:30 PM\nTue: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nWed: 09:30 AM - 1:30 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Indu K. Nair",
+      "degree" : "MBBS, DNB (Internal Medicine), FGID",
+      "designation" : "Consultant - Internal Medicine & Infectious Disease",
+      "schedule" : "Mon, Tue, Thu, Fri: 09:30 AM - 01:30 PM\nWed: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "V. Mahalakshmi",
+      "degree" : "DNB (Family Medicine), DFID (CMC, Vellore), Certificate Course in Palliative Care (CCPC)",
+      "designation" : "Consultant - Internal Medicine & Infectious Disease",
+      "schedule" : "Mon to Thu: 09:30 AM - 01:30 PM\nFri: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nSat: 10:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Vijaya Prabha",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "schedule" : "Mon, Tue, Thu, Fri: 09:30 AM - 01:30 PM\nWed: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Santosh B.",
+      "degree" : "MBBS, MD (Internal Medicine), DNB (Endocrinology)",
+      "designation" : "Consultant - Endocrinology & Diabetology",
+      "schedule" : "Mon, Tue, Wed, Fri: 08:00 AM - 01:00 PM\nThu: 08:00 AM - 01:00 PM, 4.30 PM - 6.30 PM\nSat: 08.00 AM - 12.00 PM"
+    }, {
+      "doctor" : "M. J. Vinod Kumar",
+      "degree" : "MBBS, MD (Medicine), DNB (Medicine), MNAMS, MRCP (UK), CCEPC",
+      "schedule" : "Mon, Wed, Thu: 09:30 AM - 01:30 PM\nFri: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Anjely P. Sebastian",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "schedule" : "Mon, Tue, Wed, Fri: 09:30 AM - 01:30 PM\nThu: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Arini Basu",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "schedule" : "Mon: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nTue to Fri: 09:30 AM - 01:30 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Sanjana T. R.",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "schedule" : "Mon: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nTue to Fri: 09:30 AM - 01:30 PM"
+    }, {
+      "doctor" : "Girish T. S.",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant & Deputy Chief of Medical Services",
+      "schedule" : "Mon, Wed, Thu, Fri: 09:30 AM - 01:30 PM\nTue: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nSat: 09:30 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Chakko Korula Jacob",
+      "degree" : "MBBS, MD, MNAMS (Nephrology), DM (Nephrology)",
+      "schedule" : "Mon, Wed, Fri: 09:30 AM - 03:30 PM"
+    }, {
+      "doctor" : "Satish D.",
+      "degree" : "MD, DNB (Medicine), DNB (Nephrology)",
+      "designation" : "Consultant - Nephrology & Transplantation",
+      "schedule" : "Mon to Fri: 09:30 AM - 03:30 PM\nSat: 9:30 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Nandini Mitta",
+      "degree" : "MD (General Medicine), DM (Neurology)",
+      "schedule" : "Mon, Tue, Wed, Fri: 09:30 AM - 03:30 PM\nThu: 09:30 AM - 03:30 PM, 04:30 PM - 06:00 PM\nSat: 9:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Srinivas Raju D.",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Neurology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Nalini Arun Kumar",
+      "degree" : "MBBS, DNB (Obstetrics & Gynaecology),MNAMS",
+      "designation" : "Head of Department",
+      "schedule" : "Wed: 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Rajnish Samal",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology)",
+      "schedule" : "Mon: 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Ravi N. Patil",
+      "degree" : "MBBS, DGO, DNB, FIGO",
+      "schedule" : "Fri: 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Shiny Varghese",
+      "degree" : "MBBS, DGO, MD, FMAS, FICOG",
+      "schedule" : "Tue: 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Sathyavani C.",
+      "degree" : "MBBS, DGO, DNB, Fellowship in High-Risk Pregnancy",
+      "designation" : "Consultant - OBG & High Risk Pregnancy",
+      "schedule" : "Tue: 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Maria Cecilia Alexander",
+      "degree" : "MBBS, DGO, MS (Obstetrics & Gynaecology)",
+      "schedule" : "Thu: 04:30 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "Saro Jacob",
+      "degree" : "MBBS, MD (Radiation Oncology), Fellowship (Emergency Medicine)",
+      "designation" : "Head of Department",
+      "schedule" : "Mon: 08:30 AM - 03:30 PM, 04:30 PM - 06:00 PM\nTue to Fri: 08:30 AM - 03:30 PM\nSat: 08:30 AM- 12:30 PM"
+    }, {
+      "doctor" : "Anupama Darapu",
+      "degree" : "MBBS, MD (Radiation Oncology)",
+      "designation" : "Consultant - Radiation Oncology",
+      "schedule" : "Mon, Wed: 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Goutham Sunny",
+      "degree" : "MBBS, MD (Radiation Oncology)",
+      "designation" : "Consultant - Radiation Oncology",
+      "schedule" : "Mon, Tue, Wed, Fri: 08:30 AM - 03:30 PM\nThu: 08:30 AM - 03:30 PM, 04:30 PM - 06:00 PM\nSat: 08:30 AM- 12:30 PM"
+    }, {
+      "doctor" : "Shreyas Hanmantgad",
+      "degree" : "MBBS, DNB (Internal Medicine), DM (Clinical Haematology)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Manjula B. V.",
+      "degree" : "MBBS, DLO, DNB (ENT), Fellowship in Head and Neck Surgical Oncology",
+      "designation" : "Head of the Department ENT, Head-Neck Oncology",
+      "schedule" : ""
+    }, {
+      "doctor" : "Nithya Manayath",
+      "degree" : "MBBS, DNB (Surgery), DNB (Surgical Oncology)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ravi N. Patil",
+      "degree" : "MBBS, DGO, DNB, FIGO",
+      "designation" : "Consultant - OBG & Gynaec Oncology",
+      "schedule" : "Fri: 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Vishnuvardhana G. V.",
+      "degree" : "MBBS, DNB (General Surgery), DNB (Surgical Oncology)",
+      "designation" : "Consultant - Surgical Oncology & General Surgery",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Ophthalmology",
+    "schedules" : [ {
+      "doctor" : "Jude Hans Simmons",
+      "degree" : "MBBS, MS (Ophthalmology)",
+      "designation" : "Head of the Department",
+      "schedule" : "Mon, Wed, Fri, Sat: 08:30 AM - 12:00 PM\nThu: 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Reena Kumari",
+      "degree" : "MBBS, MS, DNB (Ophthalmology), Fellow Ophthal & Laser in DR",
+      "schedule" : "Mon: 08:30 AM - 03:00 PM, 04:30 PM - 06:00 PM\nWed, Fri: 08:30 AM - 03:00 PM\nSat: 08:30 AM - 12:00 PM"
+    }, {
+      "doctor" : "Philip Thomas",
+      "degree" : "MBBS, DNB (Ophthalmology)",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 10:00 AM - 01:00 PM\nWed: 10:00 AM - 01:00 PM, 04:30 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Vijay H. D. Kamath",
+      "degree" : "MS (Orthopaedics), FNBE (Spinal Surgery), Fellow in Advanced Spinal Surgery (Honk Kong) (Orthopaedics and Spine Surgery)",
+      "designation" : "Head of Department - Orthopaedics & Spine Surgery",
+      "schedule" : ""
+    }, {
+      "doctor" : "Niranjan Mallnaik",
+      "degree" : "MBBS, MS, PhD (Orthopaedics)",
+      "designation" : "Consultant - Orthopaedics & Joint Replacement",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vishwanath Yaligod",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Shyamasundar L. G.",
+      "degree" : "D.Ortho, MS (Orthopaedics), Fellowship in Paediatric Orthopaedics",
+      "designation" : "Consultant - Orthopaedics (General & Paediatric)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Santosh Angadi Hiremath",
+      "degree" : "MBBS, MS (Orthopaedics), Fellowship in Sports Medicine",
+      "designation" : "Consultant - Orthopaedics & Sports Medicine",
+      "schedule" : ""
+    }, {
+      "doctor" : "Abhijit Jawali A.",
+      "degree" : "MBBS, D.Ortho, DNB (Orthopaedics), FIJR",
+      "designation" : "Consultant - Orthopaedics & Joint Replacement",
+      "schedule" : ""
+    }, {
+      "doctor" : "Benjamin Samuel Mathews",
+      "degree" : "MBBS, Diploma in Orthopaedics, MS (Orthopaedics)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Madhuri Maganthi",
+      "degree" : "MBBS, MD, Fellowship in Paediatric Genetics",
+      "designation" : "Consultant (Paediatrician & Specialisation in Paed. Genetics) & Head of the Department",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 09:30 AM - 01:00 PM\nTue: 09:30 AM - 01:00 PM, 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Suman Rath",
+      "degree" : "MBBS, DNB (Paediatrics), Fellowship in Paediatric Endocrinology",
+      "designation" : "Consultant (Paediatrician & Specialisation in Paed. Endocrinology)",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 09:30 AM - 01:00 PM\nWed: 09:30 AM - 01:00 PM, 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Rachel Ranitha P.",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant (Paediatrician & Specialisation in Paed. Neurology)",
+      "schedule" : "Mon: 09:30 AM - 01:00 PM, 04:30 PM - 06:00 PM\nTue, Wed, Thu, Sat: 09:30 AM - 01:00 PM"
+    }, {
+      "doctor" : "Khudeja Zafarullah",
+      "degree" : "MBBS, DNB (Paediatrics), Fellowship (IAP) (Neonatology)",
+      "designation" : "Consultant (Paediatrician & Specialisation in Neonatology)",
+      "schedule" : "Mon to Sat: 09:30 AM - 01:00 PM"
+    }, {
+      "doctor" : "Lakshmi K. S.",
+      "degree" : "MD (Paediatrics), Fellowship in Paediatric Intensive Care",
+      "designation" : "Consultant (Paediatrician & Specialisation in Paed. Intensive Care)",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 09:30 AM - 01:00 PM\nFri: 09:30 AM - 01:00 PM, 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Gayatri Natraj",
+      "degree" : "MBBS, MRCPCH, DCH, Fellowship in Neonatology (UK)",
+      "designation" : "Consultant (Paediatrician & Specialisation in Neonatology)",
+      "schedule" : "Mon, Tue, Wed, Fri: 09:30 AM - 01:00 PM\nThu: 09:30 AM - 01:00 PM, 04:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Savitha Nair",
+      "degree" : "MBBS, DCh, DNB",
+      "schedule" : "Mon to Sat: 09:30 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Antony Robert Charles",
+      "degree" : "MS (General Surgery), MCh (Paediatric Surgery), DNB (Paediatric Surgery), MRCS",
+      "designation" : "Visiting Consultant - Paediatric Surgery",
+      "schedule" : "Tue: 12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Naveen Thomas",
+      "degree" : "MBBS, MS, DNB, M.Ch, M.Phil",
+      "designation" : "Consultant - General & Paediatric Surgery",
+      "schedule" : ""
+    }, {
+      "doctor" : "Satish Kumar K. V.",
+      "degree" : "MS (General Surgery), M.Ch (Paediatric Surgery), AMCE",
+      "designation" : "Visiting Consultant - Paediatric Surgery",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Palliative Care",
+    "schedules" : [ {
+      "doctor" : "Amy Siew Ai Mei",
+      "degree" : "MBBS, FPM, MSc (Palliative Medicine) (Cardiff), PGDG",
+      "schedule" : "Mon to Fri: 09:30 AM - 3:30 PM\nSat: 09:30 AM - 11:30 AM"
+    }, {
+      "doctor" : "Sapna Mathew",
+      "degree" : "MBBS, DNB (Family Medicine)",
+      "schedule" : "Mon to Fri: 09:30 AM - 3:30 PM\nSat: 09:30 AM - 11:30 AM"
+    }, {
+      "doctor" : "Ravi Livingstone",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Pathology",
+    "schedules" : [ {
+      "doctor" : "Neena John Joseph",
+      "degree" : "MBBS, MD (Pathology)",
+      "designation" : "Head of the department",
+      "schedule" : ""
+    }, {
+      "doctor" : "Balachandra Bhat",
+      "degree" : "MBBS, MD (Pathology)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sindhulina Chandrasingh",
+      "degree" : "MBBS, MD (Microbiology)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sreeja Balachandran Nair",
+      "degree" : "MBBS, MD Microbiology",
+      "schedule" : ""
+    }, {
+      "doctor" : "Swarna Kamala S.",
+      "degree" : "MBBS, MD",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Darilin Dkhar",
+      "degree" : "MBBS, DPM",
+      "schedule" : "Mon to Fri: 08:30 AM - 03:30 PM\nSat: 08:30 AM  - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Deepa Das",
+      "degree" : "MBBS, DTCD, DNB (Respiratory Medicine), FACCP",
+      "schedule" : ""
+    }, {
+      "doctor" : "Ajay Handa",
+      "degree" : "MBBS, MD (Medicine), DNB (Medicine), DM (Pulmonary & Critical Care Medicine, Fellow of American College of Chest Physicians (FCCP), Fellow of Indian College of Physicians (FICP)",
+      "schedule" : "Mon, Fri: 05:30 PM - 06:30 PM"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Asha Thomas",
+      "degree" : "MBBS, DMRD & DNB, Fellowship in Paediatric Radiology",
+      "designation" : "Head of the Department",
+      "schedule" : ""
+    }, {
+      "doctor" : "Alfred Inbaraj",
+      "degree" : "MBBS, DMRD, MD, DNB (Radiology), Post Doctoral Fellowship in Vascular and Neuro Interventional Radiology",
+      "designation" : "Consultant - Interventional Radiology",
+      "schedule" : ""
+    }, {
+      "doctor" : "Praveen Kumar",
+      "degree" : "MBBS, DMRD, DNB (Radio Diagnosis)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Rajasekaran K. R.",
+      "degree" : "MBBS, DNB (Radiology)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Jagruthi Sundar",
+      "degree" : "MBBS, MD (Radio Diagnosis)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Sandhya G. H.",
+      "degree" : "MBBS, DNB (Radio Diagnosis)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Rehabilitation",
+    "schedules" : [ {
+      "doctor" : "Vinitha Varghese",
+      "degree" : "MBBS, MD, PM&R",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Jacob Mathews V.",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant - Clinical Immunology & Rheumatology",
+      "schedule" : ""
+    }, {
+      "doctor" : "Asha Sujatha",
+      "degree" : "MBBS, MD",
+      "designation" : "Consultant - Internal Medicine & Rheumatology",
+      "schedule" : "Mon, Thu, Fri: 09:30 AM - 01:30 PM\nTue: 09:30 AM - 01:30 PM, 04:30 PM - 06:00 PM\nWed: 09:30 AM - 1:30 PM\nSat: 09:30 AM - 12:30 PM"
+    }, {
+      "doctor" : "Silas Vinay Rao",
+      "degree" : "MBBS, MD (General Medicine), Fellowship in Rheumatology and clinical Immunology",
+      "schedule" : "Mon to Fri: 08:00 AM - 01:00 PM\nSat: 08:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Srinivas",
+      "degree" : "MBBS, MS, M.Ch (Urology)",
+      "schedule" : ""
+    }, {
+      "doctor" : "Dhanasekaran D.",
+      "degree" : "M.Ch (Urology)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Satish M. Kini",
+      "degree" : "MS (General Surgery), MCh (CVTS), FACCS",
+      "designation" : "Visiting Consultant - Cardio Vascular Surgery",
+      "schedule" : "Tue, Fri: 05:30 PM - 06:30 PM"
+    } ]
+  } ]
+}
