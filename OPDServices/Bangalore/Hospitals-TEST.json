@@ -86,6 +86,10 @@
 	"locality":"HSR Layout",
 	"code":"NarayanaHSR"
 	},{
+	"name":"Sagar Hospitals, Jayanagar",
+	"locality":"Jayanagar",
+	"code":"SagarJayanagar"
+	},{
 	"name":"Sakra World Hospital",
 	"locality":"Marathahalli",
 	"code":"SakraWorld"
