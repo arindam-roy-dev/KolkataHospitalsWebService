@@ -1,310 +1,206 @@
 ﻿{
-  "name" : "Sagar Hospitals, Jayanagar",
+  "name" : "Sagar Hospitals, Banashankari",
   "specialties" : [ {
     "name" : "Anaesthesiology",
     "schedules" : [ {
-      "doctor" : "P M Chandrashekara",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
-    }, {
-      "doctor" : "Harish Kumar N",
-      "degree" : "MBBS, DA, DNB",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
-    }, {
-      "doctor" : "Sulekha Pandurang",
-      "degree" : "MBBS, DA, DNB",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
-    }, {
-      "doctor" : "C R Chandrashekara",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
+      "doctor" : "Chandrappa. H.N",
+      "degree" : "MBBS, DA, MD (Anaesthesia)",
+      "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Parthasarathi Gayatri",
       "degree" : "MBBS, MD, DNB, PDCC, FRCA, FFA, Clinical Fellowship",
       "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
+    }, {
+      "doctor" : "P Parashuram",
+      "degree" : "MBBS, DA, MD (Anaesthesia)",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Dayakumar Udaya Shankar",
+      "degree" : "MBBS, DA, MD (Anaesthesia)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Murali Raj Warrier",
+      "degree" : "MBBS, MD (Anaesthesia)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Ashwini Kumar Pasarad",
+      "degree" : "MBBS, MS, MCh (Cardiothoracic Surgery)",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
     } ]
   }, {
     "name" : "Cardiology",
     "schedules" : [ {
-      "doctor" : "Yeriswamy M C",
-      "degree" : "MBBS, MD, DM",
-      "schedule" : "Mon to Sat: 06:00 PM - 08:00 PM"
+      "doctor" : "K Subramanyam",
+      "degree" : "MBBS, MD (Intenal Medicine), DM (Cardiology)",
+      "schedule" : "Mon to Sat: 04:30 PM - 06:00 PM"
     }, {
-      "doctor" : "Shyam Sunder K R",
-      "degree" : "MBBS, MD, DM",
-      "schedule" : "Mon to Sat: 10:30 AM - 01:30 PM"
+      "doctor" : "Narayana Murthy Narasaiah",
+      "degree" : "MBBS, MD, FACC",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
     }, {
-      "doctor" : "Ramamurthy S",
-      "degree" : "MBBS, MD, DM, CCST, MRCP, FRCP (London)",
-      "schedule" : "Mon, Wed, Fri: 06:30 PM - 08:00 PM"
+      "doctor" : "Kishore K S",
+      "degree" : "MBBS, MD, Fellowship in Peripheral Vascular Interventions",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Critical care",
+    "schedules" : [ {
+      "doctor" : "Devi Prasad Hegde",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
     }, {
-      "doctor" : "B K Raghunandan",
-      "degree" : "MBBS, DNB (General Medicine), DNB (Cardiology)",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
+      "doctor" : "Suresh C H",
+      "degree" : "MBBS, MD, IDCCM",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
     } ]
   }, {
     "name" : "Dermatology",
     "schedules" : [ {
-      "doctor" : "Chaitra Prakash",
-      "degree" : "MBBS, MD (Dermatology), DNB (Dermatology)",
-      "schedule" : "Mon to Fri: 09:00 AM - 12:00 PM"
-    }, {
-      "doctor" : "Vidya T S",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon, Thu, Sat: 02:00 PM - 04:00 PM"
-    }, {
       "doctor" : "Nagaraja",
       "degree" : "MBBS, MD",
       "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
     }, {
-      "doctor" : "Gopal M G",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
-    }, {
-      "doctor" : "D A Satish",
-      "degree" : "MBBS, MD",
-      "schedule" : "Sat: 09:00 AM - 11:00AM"
-    } ]
-  }, {
-    "name" : "Dental",
-    "schedules" : [ {
-      "doctor" : "Roopa R Nadig",
-      "degree" : "BDS, MDS",
-      "schedule" : "Mon, Thu: 05:00 PM - 07:00 PM"
-    }, {
-      "doctor" : "R Vijayendra",
-      "degree" : "BDS, MDS (Periodonist)",
-      "schedule" : "Mon, Wed, Thu, Fri, Sat: 03:00 PM - 05:00 PM"
-    } ]
-  }, {
-    "name" : "Developmental Medicine",
-    "schedules" : [ {
-      "doctor" : "G Shashikala",
-      "degree" : "MBBS, MD (General Medicine)",
-      "schedule" : "Mon to Sat: By Appointment"
-    } ]
-  }, {
-    "name" : "Diabetology",
-    "schedules" : [ {
-      "doctor" : "Rashmi N P",
-      "degree" : "MBBS, Diploma in Family Medicine, Fellowship in Diabetology",
-      "schedule" : "Mon to Sat: 02:00 PM - 08:00 PM"
+      "doctor" : "Roopa Suresh",
+      "degree" : "MBBS, DV & DMD (Dermatology)",
+      "schedule" : "Mon to Sat: 05:30 PM - 06:30 PM"
     } ]
   }, {
     "name" : "Dietitian",
     "schedules" : [ {
-      "doctor" : "Veena Bhatta G",
-      "degree" : "B.Sc, M.Sc (Nutrition & Dietetics)",
+      "initial" : "Ms.",
+      "doctor" : "Farhana Afroz",
+      "degree" : "MSc & RD",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Energency Medicine",
+    "schedules" : [ {
+      "doctor" : "Sudeep K Bhandary",
+      "degree" : "MBBS, MD (Accident and Energency Medicine)",
       "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
     } ]
   }, {
     "name" : "Endocrinology",
     "schedules" : [ {
-      "doctor" : "Tejeswini Deepak",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon, Wed, Fri: 03:00 PM - 04:30 PM"
-    }, {
-      "doctor" : "Sanjai Kumar H V",
-      "degree" : "MBBS, MRCP, FRIPH",
-      "schedule" : "Mon to Sat: 09:30 AM - 01:00 PM"
-    }, {
-      "doctor" : "Thummala Kamala",
-      "degree" : "MBBS, FADM, FACE",
-      "schedule" : "Thu, Sat: 10:30 AM - 01:00 PM"
-    } ]
-  }, {
-    "name" : "Emergency Medicine",
-    "schedules" : [ {
-      "doctor" : "W D Mohan",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+      "doctor" : "Santosh B",
+      "degree" : "MBBS, MD, DNB (Endocrinology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
     } ]
   }, {
     "name" : "ENT",
     "schedules" : [ {
-      "doctor" : "Sriranga Prasad",
-      "degree" : "MBBS, DLO, MS",
-      "schedule" : "Mon to Sat: 06:00 PM - 07:30 PM"
-    }, {
-      "doctor" : "G Mohan",
-      "degree" : "MBBS, MS, MCh",
-      "schedule" : "Mon to Sat: 05:00 PM - 06:00 PM"
-    }, {
-      "doctor" : "Rudra Prasad",
-      "degree" : "MBBS, DLO, DOHNS, MRCS",
-      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+      "doctor" : "D K Ramesh",
+      "degree" : "MBBS, MS (ENT)",
+      "schedule" : "Mon to Sat: 10:00 AM - 06:00 PM"
     } ]
   }, {
-    "name" : "General Medicine",
+    "name" : "Family Medicine",
     "schedules" : [ {
-      "doctor" : "K P Mallya",
-      "degree" : "B.Sc, MBBS",
-      "schedule" : "Mon to Sat: 09:00 AM - 05:30 PM"
+      "doctor" : "Soumya Y S",
+      "degree" : "MBBS, DNB",
+      "schedule" : "Mon to Sat: 1:00 PM - 02:00 PM"
     } ]
   }, {
     "name" : "Gastroenterology",
     "schedules" : [ {
-      "doctor" : "Santhosh Kumar S C",
-      "degree" : "MBBS, MD (General Medicine), DNB (Gastroenterology)",
-      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
+      "doctor" : "Kumar Parth",
+      "degree" : "MBBS, DNB (General Surgery), FAIS, Post Doctoral Fellowship in Surgical Gastroenterology, FMAS (Minimal Access Surgery), FACRSI (Colorectal Surgery), EFAIGE (Advanced Therapeutic Endoscopy)",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
     }, {
-      "doctor" : "Kannan Ramaswamy",
-      "degree" : "MBBS, MD, DNB, DCH, MRCP",
-      "schedule" : "Mon to Sat: 04:00 PM - 05:00 PM"
+      "doctor" : "Pratibha S",
+      "degree" : "MBBS, DNB (General Medicine), DM (Gastroenterology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
     }, {
-      "doctor" : "Vijay Kumar M N",
-      "degree" : "MBBS, MRCP",
-      "schedule" : "Mon to Sat: 08:30 AM - 12:30 PM"
-    } ]
-  }, {
-    "name" : "Gynaecology",
-    "schedules" : [ {
-      "doctor" : "Vani R",
-      "degree" : "MBBS, MS",
-      "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
-    }, {
-      "doctor" : "Savithri D R",
-      "degree" : "MBBS, DNB",
-      "schedule" : "Mon to Sat: 05:00 PM - 08:00 PM"
-    }, {
-      "doctor" : "Chetan K Nelivigi",
-      "degree" : "MBBS, MD",
-      "schedule" : "Tue, Thu, Sat: 02:00 PM - 04:00 PM"
-    }, {
-      "doctor" : "Malini K V",
-      "degree" : "MBBS, MD, DGO, FICOG, Diploma in Orthopaedics",
-      "schedule" : "Mon, Thu, Sat: 05:00 PM - 07:00 PM"
-    }, {
-      "doctor" : "Nirmala Shivalingaiah",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 06:30 PM - 07:30 PM"
-    }, {
-      "doctor" : "Manjula M Gaekwad",
-      "degree" : "MBBS, DGO, DNB",
-      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM"
-    }, {
-      "doctor" : "Indira C Reddy",
-      "degree" : "MBBS, MD, DGO",
-      "schedule" : "Mon to Sat: 11:00 AM - 02:00 PM"
+      "doctor" : "A C Praveen Kumar",
+      "degree" : "MBBS, MD, DNB (Medicine), DM (Gastroenterology), DNB (Gastroenterology)",
+      "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "General Surgery",
     "schedules" : [ {
-      "doctor" : "Subhash R C",
-      "degree" : "MBBS, MS",
-      "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
+      "doctor" : "M Vamsi Krishna",
+      "degree" : "MBBS, MS, FIAGES",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
     }, {
-      "doctor" : "Ravishankar H R",
-      "degree" : "MBBS, MS, DNB, FRCS",
-      "schedule" : "Mon to Sat: 06:00 PM - 08:00 PM"
+      "doctor" : "H C Venkatesh Vikram",
+      "degree" : "MBBS, DNB (General Surgery), MRCSEd (Edinburg, UK), FMAS, FAIS, ADHA (GMHE - IIM, Bangalore)",
+      "schedule" : "Mon to Sat: 11:00 AM - 05:00 PM"
     }, {
       "doctor" : "Niranjan P",
       "degree" : "MBBS, DNB",
       "schedule" : "Mon to Sat: 08:00 AM - 05:00 PM"
-    }, {
-      "doctor" : "M Munireddy",
-      "degree" : "MBBS, MS, MNAMS, MCh",
-      "schedule" : "Mon to Sat: 08:00 AM - 05:00 PM"
     } ]
   }, {
-    "name" : "Haemato Oncology",
+    "name" : "Gynaecology",
     "schedules" : [ {
-      "doctor" : "Nataraj K S",
-      "degree" : "MBBS, MD, DM",
-      "schedule" : "Tue, Fri: 06:00 PM - 07:00 PM"
-    } ]
-  }, {
-    "name" : "Intensive Care",
-    "schedules" : [ {
-      "doctor" : "Ravi Kumar R",
-      "degree" : "MBBS, PGDMLE (Medical Law), DA (Anesthesia)",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
+      "doctor" : "Shanthala S",
+      "degree" : "MBBS, MS, FMAS",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
     } ]
   }, {
     "name" : "Internal Medicine",
     "schedules" : [ {
-      "doctor" : "Shobha Naidu",
-      "degree" : "MBBS, MD, PGDGM",
-      "schedule" : "Mon to Sat: 05:00 PM - 07:00 PM"
-    }, {
-      "doctor" : "Pratyush Miglani",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 06:00 PM - 08:00 PM"
-    }, {
-      "doctor" : "K N N Pai",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 11:30 AM - 02:30 PM"
-    }, {
-      "doctor" : "S N Jayaprakash",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 02:30 PM - 04:00 PM"
-    }, {
-      "doctor" : "Govindappa D",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 03:30 PM - 05:30 PM"
-    }, {
-      "doctor" : "Tallam Prem Kumar",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM"
-    }, {
-      "doctor" : "Jagadeesha Chandra",
-      "degree" : "MBBS, MD",
+      "doctor" : "Kamal Bhalla",
+      "degree" : "MBBS, MD (Internal Medicine)",
       "schedule" : "Mon to Sat: 09:00 AM - 03:00 PM"
+    }, {
+      "doctor" : "Arun S V",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: 02:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "V Channaraya",
+      "degree" : "MBBS, MD, DNB, FICC, FICP",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
     } ]
   }, {
     "name" : "Maxillo Facial Surgery",
     "schedules" : [ {
-      "doctor" : "Girish Rao S",
-      "degree" : "BDS, MDS, FDSRCS, FFDRCSI",
-      "schedule" : "Mon, Wed, Sat: 04:00 PM - 05:00 PM"
-    } ]
-  }, {
-    "name" : "Medical Oncology",
-    "schedules" : [ {
-      "doctor" : "Ravi B Diwakar",
-      "degree" : "MBBS, MD, DM",
-      "schedule" : "Mon, Wed, Thu: 05:00 PM - 06:00 PM"
+      "doctor" : "Murali Mohan C. R",
+      "degree" : "BDS, MDS (Oral & Maxillofacial Surgery), DNB (Oral & Maxillofacial Surgery)",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM"
     } ]
   }, {
     "name" : "Neonatology",
     "schedules" : [ {
-      "doctor" : "Prathik B H",
-      "degree" : "MBBS, MD, DM (Neonatology)",
-      "schedule" : "Mon to Sat: By Appointment"
+      "doctor" : "Ravi Kyadiggeri",
+      "degree" : "MBBS, MD, Felloship in Neonatology",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
     } ]
   }, {
     "name" : "Nephrology",
     "schedules" : [ {
-      "doctor" : "Jyothi Hebbur Ramachandra",
-      "degree" : "MBBS, MRCP, CCT (Nephrology)",
-      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
-    }, {
-      "doctor" : "Sanjeev Kumar Hiremath",
-      "degree" : "MBBS, MD, DM",
-      "schedule" : "Mon to Sat: 01:00 PM - 04:00 PM"
-    }, {
-      "doctor" : "Aravind C",
-      "degree" : "MBBS, DNB",
-      "schedule" : "Mon to Fri: 06:00 PM - 07:00 PM"
+      "doctor" : "Mallikarjuna H M",
+      "degree" : "MBBS, MD, DM (Nephrology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
     } ]
   }, {
     "name" : "Neurology",
     "schedules" : [ {
-      "doctor" : "Santhosh Kumar",
-      "degree" : "MBBS, DM",
-      "schedule" : "Mon, Wed, Thu, Fri, Sat: 12:00 PM - 04:00 PM\nTue: 11.00 AM - 04:00 PM"
+      "doctor" : "Vivekananda. M",
+      "degree" : "MBBS, MD, DM (Neurology)",
+      "schedule" : "Mon to Sat: 09:30 AM - 04:30 PM"
     }, {
-      "doctor" : "H V Srinivas",
-      "degree" : "MBBS, MD (General Medicine), DM (Neurology)",
-      "schedule" : "Mon to Fri: 03:30 PM - 05.00 PM"
+      "doctor" : "Kalyani Dilip Karkare",
+      "degree" : "MBBS, DM, PDF EEG (Electroencephalography)",
+      "schedule" : "Mon to Sat: 09:30 AM - 04:30 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "ViralKumar Vasani",
+      "degree" : "MBBS, DNB (Neuro Surgery)",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
     }, {
-      "doctor" : "S Saravanan",
-      "degree" : "MBBS, MD, DM",
-      "schedule" : "Mon to Sat: 11:00 AM - 07.00 PM"
+      "doctor" : "Robin Gupta Harshavardhan",
+      "degree" : "MBBS, MS, MCh",
+      "schedule" : "Mon to Sat: 09:30 AM - 04:30 PM"
     }, {
-      "doctor" : "Manmeet Singh Chhabra",
-      "degree" : "MBBS, MS (General Surgery), MCh (Neurosurgery)",
-      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+      "doctor" : "Chandra Sekhar Tavisetty",
+      "degree" : "MBBS, MS, MCh",
+      "schedule" : "Mon to Sat: 09:30 AM - 04:30 PM"
     }, {
       "doctor" : "Murali Mohan S",
       "degree" : "MBBS, DNB",
@@ -313,134 +209,82 @@
   }, {
     "name" : "Ophthalmology",
     "schedules" : [ {
-      "doctor" : "Rashmi B",
-      "degree" : "MBBS, DO, DNB",
-      "schedule" : "Tue, Thu, Sat: 10:00 AM - 05:00 PM"
+      "doctor" : "Swati Prasad",
+      "degree" : "MBBS, DOMS (Opthalmology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
     }, {
       "doctor" : "Bharath Kumar",
       "degree" : "MBBS, DOMS, DNB",
       "schedule" : "Mon, Wed, Fri: 10:00 AM - 05:00 PM"
     } ]
   }, {
-    "name" : "Orthopaedics",
+    "name" : "Orthopaedic Surgery",
     "schedules" : [ {
-      "doctor" : "Praveen L Basanagoudar",
-      "degree" : "MBBS, MS, DNB, MRCS",
-      "schedule" : "Mon to Sat: 02:00 PM - 07:00 PM"
+      "doctor" : "Subodh M Shetty",
+      "degree" : "MBBS, MD, MS (Orthopaedic)",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
     }, {
-      "doctor" : "Kishore Subbaiah",
+      "doctor" : "Basavaraj S Kyavater",
       "degree" : "MBBS, MS, MCh",
-      "schedule" : "Mon to Sat: 08:00 AM - 10:30AM"
+      "schedule" : "Mon to Sat: 12:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Deepti Kulkarni",
+      "degree" : "MBBS, DCH, DNB (Peadiatrics)",
+      "schedule" : "Mon to Sat: 09:00 AM - 03:00 PM"
     }, {
-      "doctor" : "Uday Kumar S B",
-      "degree" : "MBBS, MS",
-      "schedule" : "Mon to Sat: 02:30 PM - 04:00 PM"
-    }, {
-      "doctor" : "H P C Khincha",
-      "degree" : "MBBS, FRCS, MCh, FASIF",
-      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
-    }, {
-      "doctor" : "Chethan Nagaraj",
-      "degree" : "MBBS, MS, DNB, MNAMS, FIAA",
-      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
-    } ]
-  }, {
-    "name" : "Paediatric Cardiology",
-    "schedules" : [ {
-      "doctor" : "Sowmya Kasturi",
-      "degree" : "MBBS, MD, DM (Paediatric Cardiology)",
-      "schedule" : "Mon to Sat: By Appointment"
-    } ]
-  }, {
-    "name" : "Paediatric Dentist",
-    "schedules" : [ {
-      "doctor" : "Srinidhi Bhatt",
-      "degree" : "BDS, MDS",
-      "schedule" : "Mon to Sat: 10:00 AM - 08:00 PM\nSun: 10:00 AM - 01:00 PM"
-    } ]
-  }, {
-    "name" : "Paediatric Dermatology",
-    "schedules" : [ {
-      "doctor" : "Sahana M S",
-      "degree" : "MBBS, DDVL, DNB",
-      "schedule" : "Mon, Wed: 04:00 PM - 05:00 PM"
-    } ]
-  }, {
-    "name" : "Paediatric Endocrinology",
-    "schedules" : [ {
-      "doctor" : "Raghupathy P",
-      "degree" : "MBBS, MD, DCH, FRCP",
-      "schedule" : "Mon to Sat: 09:00 AM - 10:30AM, 04:00 PM - 07:00 PM"
+      "doctor" : "M G Umakantha Adiga",
+      "degree" : "MBBS,DCH,DNB",
+      "schedule" : "Mon to Sat: 10:00 AM - 07:00 PM"
     } ]
   }, {
     "name" : "Paediatric Neurology",
     "schedules" : [ {
-      "doctor" : "Vykunta Raju",
-      "degree" : "MBBS, DCH, DNB, DM",
-      "schedule" : "Mon, Tue, Wed, Fri, Sat: 08:00 AM - 09:00AM"
+      "doctor" : "Ann Agnes Mathew",
+      "degree" : "MBBS, MRCPCH, Fellow in Paediatric Neurology, Fellow in Paediatric Epilepsy, Fellow in Paediatric Stroke, Fellow in Paediatric Neuromuscular Disorder",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:30 PM"
     } ]
   }, {
-    "name" : "Paediatric Orthopaedic",
+    "name" : "Paediatric Surgery",
     "schedules" : [ {
-      "doctor" : "M S Rudra Prasad",
-      "degree" : "MBBS, Diploma in Orthopaedics, DNB (Orthopaedic)",
-      "schedule" : "Wed, Fri: 04:00 PM - 05:00 PM"
-    } ]
-  }, {
-    "name" : "Paediatric Pulmonology",
-    "schedules" : [ {
-      "doctor" : "K R Bharath Kumar Reddy",
-      "degree" : "MBBS, MD, DNB",
-      "schedule" : "Fri: 04:00 PM - 06:00 PM"
+      "doctor" : "Keshav Murthy Muniswamy",
+      "degree" : "MBBS, MS (General Surgery), MCh (Peadiatric surgery)",
+      "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Pathology",
     "schedules" : [ {
-      "doctor" : "Shantha Kumar Muruda",
-      "degree" : "MBBS, MD (Biochemistry)",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
+      "doctor" : "Roopa M O",
+      "degree" : "MBBS, DCP (Diploma in Clinical Pathology), DNB (Pathology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
     }, {
-      "doctor" : "Ashok Marathe",
-      "degree" : "MBBS, DCP, DNB (Pathology)",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
-    }, {
-      "doctor" : "Shantha Kumar Muruda",
-      "degree" : "MBBS, MD (Biochemistry)",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
-    }, {
-      "doctor" : "Ajitha Pillai",
-      "degree" : "MBBS, MD (Microbiology)",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
-    }, {
-      "doctor" : "P S Reddy",
-      "degree" : "MBBS, MD, DCP",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
+      "doctor" : "Madhumitha Das",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: By Appointment"
     } ]
   }, {
     "name" : "Physiotherapy",
     "schedules" : [ {
-      "doctor" : "Asha Nayak",
-      "degree" : "B.Sc (Physical Therapy), BPT, MIAP, MPT-OBs and Gynecology",
+      "initial" : "Mr.",
+      "doctor" : "Girisha Cholagatta Mallegowda",
+      "degree" : "BPT, MPT, MBA",
       "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Preventive Care",
+    "schedules" : [ {
+      "doctor" : "K P Mallya",
+      "degree" : "B.Sc, MBBS",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:30 PM"
     } ]
   }, {
     "name" : "Plastic Surgery",
     "schedules" : [ {
-      "doctor" : "Aditya Patil",
-      "degree" : "MBBS, MS (General Surgery), MCh (Plastic Surgery), DNB (Plastic Surgery), MRCS",
-      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
-    }, {
-      "doctor" : "Priyadarshan K",
-      "degree" : "MBBS, MS, MCh, DNB",
-      "schedule" : "Mon, Wed, Fri: 09:00 AM - 11:00AM"
-    }, {
-      "doctor" : "B G Tilak",
-      "degree" : "MBBS, MS, MCh",
-      "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
-    }, {
-      "doctor" : "Shekar D R",
-      "degree" : "MBBS, MS, MCh",
-      "schedule" : "Mon to Fri: 12:00 PM -2:00 PM"
+      "doctor" : "Karan Shetty",
+      "degree" : "MBBS, MS (General Surgery), M.Ch (Plastic Surgery)",
+      "schedule" : "Mon to Sat: 03:00 PM - 05:00 PM"
     } ]
   }, {
     "name" : "Psychiatry",
@@ -448,89 +292,31 @@
       "doctor" : "N Chandra Shekhar",
       "degree" : "MBBS, MD",
       "schedule" : "Mon to Sat: 02:00 PM - 05:00 PM"
-    }, {
-      "doctor" : "G Vikram Prabhu",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon, Wed, Thu, Fri, Sat: 11:00 AM - 02:00 PM"
-    }, {
-      "doctor" : "Thomas M J",
-      "degree" : "MBBS, DPM, MD, MNAMS",
-      "schedule" : "Mon to Sat: 04:00 PM - 07:00 PM"
-    } ]
-  }, {
-    "name" : "Psychology",
-    "schedules" : [ {
-      "initial" : "Ms.",
-      "doctor" : "Akshita Hariharan",
-      "degree" : "M.Sc (Clinical Psychology), M.Phil (Clinical Psychology)",
-      "schedule" : "Mon, Thu: 09:00 AM -12:00 PM"
     } ]
   }, {
     "name" : "Pulmonology",
     "schedules" : [ {
-      "doctor" : "Amol A Ashtekar",
-      "degree" : "MBBS, DNB (Pulmonology)",
-      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
-    }, {
-      "doctor" : "Roopa Rachel Premanand",
-      "degree" : "MBBS, DNB, CCPM",
-      "schedule" : "Tue, Thu, Sat: 09:30 AM - 12:30 PM"
+      "doctor" : "Vishwajith S M",
+      "degree" : "MBBS, DTCD, DNB (RESP DIS)",
+      "schedule" : "Mon to Sat: 02:00 PM - 08:00 PM"
     } ]
   }, {
     "name" : "Radiology",
     "schedules" : [ {
-      "doctor" : "Sravanthi Yerram",
-      "degree" : "MBBS, MD",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
-    }, {
-      "doctor" : "Rishikesh M Itagi",
-      "degree" : "MBBS, DNB",
-      "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
-    }, {
       "doctor" : "Kiran K V U",
       "degree" : "MBBS,MD, DNB",
       "schedule" : "Mon to Sat: 09:30 AM - 05:30 PM"
     } ]
   }, {
-    "name" : "Rheumatology",
-    "schedules" : [ {
-      "doctor" : "Anupama Kumar",
-      "degree" : "MBBS, MD, MRCP",
-      "schedule" : "Mon, Wed, Fri: 03:30 PM - 05:00 PM"
-    } ]
-  }, {
     "name" : "Urology",
     "schedules" : [ {
+      "doctor" : "Jayanth A S",
+      "degree" : "MBBS, MS (General Surgery), DNB, MRCS (Edinburgh, UK), MCh (Genito Urinary Surgery), MNAMS",
+      "schedule" : "Mon to Sat: 09:30 AM - 04:30 PM"
+    }, {
       "doctor" : "Madhusudhan H R",
       "degree" : "MBBS, MS, FRCS, MCh, DNB",
       "schedule" : "Mon to Sat: 06:00 PM - 08:00 PM"
-    }, {
-      "doctor" : "Jayadeva A R",
-      "degree" : "MBBS, MS, DNB, MNAMS",
-      "schedule" : "Mon to Sat: 08:30 AM - 10:00AM"
-    }, {
-      "doctor" : "Nagasubramanyam S",
-      "degree" : "MBBS, MS, DNB, MCh",
-      "schedule" : "Mon to Sat: 12:30 PM - 02:00 PM"
-    }, {
-      "doctor" : "Dilip C Dhanpal",
-      "degree" : "MBBS, MS (General Surgery), MCh (Urology)",
-      "schedule" : "Mon to Sat: 10:00 AM - 05:30 PM"
-    } ]
-  }, {
-    "name" : "Vascular Surgery",
-    "schedules" : [ {
-      "doctor" : "Vivekananda",
-      "degree" : "MBBS, MS, FVS, FVES",
-      "schedule" : "Mon, Wed, Sat: 03:00 PM - 04:00 PM"
-    }, {
-      "doctor" : "Rajashekara Reddy H V",
-      "degree" : "MBBS, MS, FRCS",
-      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
-    }, {
-      "doctor" : "Satish Kini",
-      "degree" : "MBBS, MS, MCh, FACC (USA)",
-      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
     } ]
   } ]
 }
