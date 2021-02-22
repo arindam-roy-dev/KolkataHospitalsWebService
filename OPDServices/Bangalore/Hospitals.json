@@ -86,6 +86,10 @@
 	"locality":"HSR Layout",
 	"code":"NarayanaHSR"
 	},{
+	"name":"Sagar Hospitals, Banashankari",
+	"locality":"Banashankari",
+	"code":"SagarBanashankari"
+	},{
 	"name":"Sagar Hospitals, Jayanagar",
 	"locality":"Jayanagar",
 	"code":"SagarJayanagar"
