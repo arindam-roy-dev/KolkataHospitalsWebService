@@ -1,0 +1,15 @@
+{
+"name":"Omega Multispeciality Hospital",
+"code":"OmegaMultispeciality",
+"address":"#1236, Ward No. 4, ‘B’ Sector, HIG 1 & 2 Phase, Yelahanka New Town, Bangalore 560064",
+"geoLocation":"13.0998696,77.5816676?q=Omega+Multispeciality+Hospital",
+"emails":"omegahospital@narcc.co.in",
+"websites":"http://www.omegamultispecialityhospital.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Hospital Contact",
+	"phoneNumbers":"8028561155,8028561166,7204211244",
+	"isOpd":true
+	}]
+}

@@ -1,0 +1,219 @@
+﻿{
+  "name" : "Omega Multispeciality Hospital",
+  "specialties" : [ {
+    "name" : "Anesthesiology",
+    "schedules" : [ {
+      "doctor" : "Harsha",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "Ramesh",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Ganesh",
+      "degree" : "MRCP, PhD (Cardiology), CCT (UK) (ARESC)",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "Praveen",
+      "degree" : "MBBS, MD (General Medicine), Fellowship in Cardiology & Diabetology",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Pratapa Surya",
+      "degree" : "DVD",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "Sudha Banti",
+      "degree" : "MD, PhD (USA)",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Santosh Kumar B",
+      "degree" : "MBBS, MS (ENT)",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Raghu",
+      "degree" : "MBBS, DNB (General Medicine), DNB (Medical Gastro Enterolory)",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Sapna",
+      "degree" : "MBBS (SURGERY)",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Narayanaswamy Y N",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "IVF",
+    "schedules" : [ {
+      "doctor" : "Jyothi Patil",
+      "degree" : "MS (OBG), RIRM, FMAS",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Lokesh K. N",
+      "degree" : "MD, DM",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Nephrolory",
+    "schedules" : [ {
+      "doctor" : "Sri Harsha",
+      "degree" : "DNB, MD (Nephrolory)",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Murali Mohan",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "Mansoor Ali",
+      "degree" : "MCh (Neuro Surgery)",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "Krishna Prasad",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynecology",
+    "schedules" : [ {
+      "doctor" : "Radha K. N",
+      "degree" : "MBBS, DGO",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Orthopedics",
+    "schedules" : [ {
+      "doctor" : "Rakesh R. K",
+      "degree" : "DNB (Orthopedics)",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "Girish H. R",
+      "degree" : "MS (Orthopedics)",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "S. D. I Ranjit",
+      "degree" : "MS (Orthopedics)",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Pathology",
+    "schedules" : [ {
+      "doctor" : "Arundhathi",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "Anitha",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Chiranjeevi Y A",
+      "degree" : "MBBS, DCH",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Physiotherapy",
+    "schedules" : [ {
+      "doctor" : "Rana",
+      "degree" : "PT(S). OT, MAIAP",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Bindhu",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Nirupama",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "Sudha Banti",
+      "degree" : "MD, PhD (USA)",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Vaibhavi Patel",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Sowmya",
+      "degree" : "DMRD",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Anuradha H. K",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Somsekar",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Spine Surgery",
+    "schedules" : [ {
+      "doctor" : "Deepak B. S",
+      "degree" : "MBBS, MS, DNB",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Sanjeev S Tonshal",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appintment"
+    }, {
+      "doctor" : "Nipun",
+      "degree" : "MS, MCH",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Sravan",
+      "degree" : "MBBS, MS, NRCS, DNB",
+      "schedule" : "Mon to Sat: By Appintment"
+    } ]
+  } ]
+}
