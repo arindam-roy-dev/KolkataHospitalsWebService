@@ -86,8 +86,16 @@
 	"locality":"HSR Layout",
 	"code":"NarayanaHSR"
 	},{
+	"name":"NU Hospitals (South)",
+	"locality":"Padmanabhanagar",
+	"code":"NUHospitalsSouth"
+	},{
+	"name":"NU Hospitals (West)",
+	"locality":"Rajajinagar",
+	"code":"NUHospitalsWest"
+	},{
 	"name":"Omega Multispeciality Hospital",
-	"locality":"Yelahanka New town",
+	"locality":"Yelahanka New Town",
 	"code":"OmegaMultispeciality"
 	},{
 	"name":"Sagar Hospitals, Banashankari",

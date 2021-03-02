@@ -1,0 +1,18 @@
+{
+"name":"NU Hospitals (South)",
+"code":"NUHospitalsSouth",
+"address":"# 6, 15th Main, 11th Cross, Padmanabhanagar, Bengaluru 560070",
+"geoLocation":"12.9175579,77.5558816?q=NU+Hospitals+(South)",
+"emails":"care@nuhospitals.com,connect@nuhospitals.com",
+"websites":"https://www.nuhospitals.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"8042489999",
+	"isOpd":true
+	},{
+	"name":"For International Patients",
+	"phoneNumbers":"7625063883"
+	}]
+}
