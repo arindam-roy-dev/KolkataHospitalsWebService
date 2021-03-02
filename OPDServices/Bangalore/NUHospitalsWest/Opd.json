@@ -17,7 +17,7 @@
     "name" : "Andrology",
     "schedules" : [ {
       "doctor" : "Pramod Krishnappa",
-      "degree" : "MBBS, MS (Gen-Surgery), DNB (Urology), ESSM Penile Implant Fellowship (Spain)",
+      "degree" : "MBBS, MS (General Surgery), DNB (Urology), ESSM Penile Implant Fellowship (Spain)",
       "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
@@ -25,7 +25,7 @@
     "name" : "Critical Care",
     "schedules" : [ {
       "doctor" : "Basavaraj Kuntoji",
-      "degree" : "MBBS, MD (Gen-Medicine), IDCC (Critical Care)",
+      "degree" : "MBBS, MD (General Medicine), IDCC (Critical Care)",
       "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
@@ -46,7 +46,7 @@
     "name" : "IVF",
     "schedules" : [ {
       "doctor" : "Ashwini.S",
-      "degree" : "MBBS, DGO, DNB (OBGy), FIRM (Fellowship in Reproductive Medicine)",
+      "degree" : "MBBS, DGO, DNB (OBG), FIRM (Fellowship in Reproductive Medicine)",
       "designation" : "Sr. Consultant & Head – Department of Reproductive Medicine",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
@@ -56,7 +56,7 @@
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Pramod Krishnappa",
-      "degree" : "MBBS, MS (Gen-Surgery), DNB (Urology), ESSM Penile Implant Fellowship (Spain)",
+      "degree" : "MBBS, MS (General Surgery), DNB (Urology), ESSM Penile Implant Fellowship (Spain)",
       "designation" : "Consultant Andrologist",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
@@ -72,22 +72,22 @@
     "name" : "Nephrology",
     "schedules" : [ {
       "doctor" : "Dilip Rangarajan",
-      "degree" : "MBBS, MD (Gen-Medicine), DNB (Nephrology), FRCP (Glasgow)",
+      "degree" : "MBBS, MD (General Medicine), DNB (Nephrology), FRCP (Glasgow)",
       "designation" : "Sr. Consultant, Medical Director",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Ramakrishnan S",
-      "degree" : "MBBS, MD (Gen-Medicine), DM (Nephrology)",
+      "degree" : "MBBS, MD (General Medicine), DM (Nephrology)",
       "designation" : "Sr. Consultant, Head of Department - Nephrology",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Padmanabhan S",
-      "degree" : "MBBS, DNB (Gen-Medicine), DM (Nephrology)",
+      "degree" : "MBBS, DNB (General Medicine), DM (Nephrology)",
       "designation" : "Sr. Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Kiran Chandra Patro",
-      "degree" : "MBBS, DNB (Gen-Medicine), DNB (Nephrology)",
+      "degree" : "MBBS, DNB (General Medicine), DNB (Nephrology)",
       "designation" : "Sr. Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
@@ -97,7 +97,7 @@
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Ramprasad Ramalingam",
-      "degree" : "MBBS, MD (Gen-Medicine), DNB (Nephrology)",
+      "degree" : "MBBS, MD (General Medicine), DNB (Nephrology)",
       "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
@@ -107,7 +107,7 @@
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "AASHISH S",
-      "degree" : "MBBS (RGUHS), MD General Medicine (AMU), DM Nephrology (NIMS)",
+      "degree" : "MBBS (RGUHS), MD (General Medicine) (AMU), DM (Nephrology) (NIMS)",
       "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
@@ -136,37 +136,37 @@
     "name" : "Urology",
     "schedules" : [ {
       "doctor" : "Venkatesh Krishnamoorthy",
-      "degree" : "MBBS, MS (Gen-Surgery), MCh (Urology), FRCS (Glasgow)",
+      "degree" : "MBBS, MS (General Surgery), MCh (Urology), FRCS (Glasgow)",
       "designation" : "Sr. Consultant & Chairman",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Prasanna Venkatesh M K",
-      "degree" : "MBBS, MS, DNB (Gen-Surgery), DNB (Urology), Fellow (Paediatric Urology)",
+      "degree" : "MBBS, MS, DNB (General Surgery), DNB (Urology), Fellow (Paediatric Urology)",
       "designation" : "Sr. Consultant Paediatric Urologist & Managing Director",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Maneesh Sinha",
-      "degree" : "MBBS, MS (Gen-Surgery), DNB (Urology), MCh (Urology)",
+      "degree" : "MBBS, MS (General Surgery), DNB (Urology), MCh (Urology)",
       "designation" : "Sr. Consultant, Head of Department of Urology",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Kumar Prabhu",
-      "degree" : "MBBS, MS (Gen-Surgery), DNB (Urology)",
+      "degree" : "MBBS, MS (General Surgery), DNB (Urology)",
       "designation" : "Sr. Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Krishna Prasad T",
-      "degree" : "MBBS, MS, DNB (Gen-Surgery), DNB (Urology)",
+      "degree" : "MBBS, MS, DNB (General Surgery), DNB (Urology)",
       "designation" : "Senior Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Pramod Krishnappa",
-      "degree" : "MBBS, MS (Gen-Surgery), DNB (Urology), ESSM Penile Implant Fellowship (Spain)",
+      "degree" : "MBBS, MS (General Surgery), DNB (Urology), ESSM Penile Implant Fellowship (Spain)",
       "designation" : "Consultant Andrologist",
       "schedule" : "Mon to Sat: By Appointment"
     }, {
       "doctor" : "Vinod Kumar P.",
-      "degree" : "MBBS, MS (Gen-Surgery), DNB (Urology)",
+      "degree" : "MBBS, MS (General Surgery), DNB (Urology)",
       "designation" : "Consultant",
       "schedule" : "Mon to Sat: By Appointment"
     } ]
