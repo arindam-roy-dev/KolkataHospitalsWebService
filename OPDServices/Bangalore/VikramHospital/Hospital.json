@@ -1,0 +1,21 @@
+{
+"name":"Vikram Hospital",
+"code":"VikramHospital",
+"address":"No.71/1, Millers Road, Opp. St. Anne's College, Bengaluru 560052",
+"geoLocation":"12.9879888,77.5921714?q=Vikram+Hospital",
+"emails":"vcare@vikramhospital.com",
+"websites":"http://www.vikramhospital.com",
+"faxNumbers":"8071004598",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"8045004600"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"8061914686",
+	"isOpd":true
+	},{
+	"name":"24 x 7 Pharmacy",
+	"phoneNumbers":"8884771777"
+	}]
+}

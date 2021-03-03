@@ -3,7 +3,7 @@
 "cities":[{
 	"name":"Bangalore",
 	"state":"Karnataka",
-	"localities":["Ashok Nagar","Bommasandra","Doddaballapur","Hebbal","HSR Layout","Jayanagar","JP Nagar","Kengeri","Kodihalli","Kumaraswamy Layout","Langford Town","Malleshwaram","Marathahalli","Padmanabhanagar","Panduranga Nagar","Rajajinagar","Sheshadripuram","Whitefield","Yelahanka New Town","Yeshwanthpur"]
+	"localities":["Ashok Nagar","Bommasandra","Doddaballapur","Hebbal","HSR Layout","Jayanagar","JP Nagar","Kengeri","Kodihalli","Kumaraswamy Layout","Langford Town","Malleshwaram","Marathahalli","Padmanabhanagar","Panduranga Nagar","Rajajinagar","Sheshadripuram","Vasanth Nagar","Whitefield","Yelahanka New Town","Yeshwanthpur"]
 	},{
 	"name":"Chennai",
 	"state":"Tamil Nadu",

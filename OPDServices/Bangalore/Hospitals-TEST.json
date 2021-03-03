@@ -113,5 +113,9 @@
 	"name":"Sparsh Super Speciality Hospital, Yeshwanthpur",
 	"locality":"Yeshwanthpur",
 	"code":"SparshYeshwanthpur"
+	},{
+	"name":"Vikram Hospital",
+	"locality":"Vasanth Nagar",
+	"code":"VikramHospital"
 	}]
 } 
