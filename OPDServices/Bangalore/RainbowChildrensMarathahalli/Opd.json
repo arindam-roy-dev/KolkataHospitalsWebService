@@ -1,0 +1,378 @@
+﻿{
+  "name" : "Rainbow Children's Hospital, Marathahalli",
+  "specialties" : [ {
+    "name" : "Anaesthesiology",
+    "schedules" : [ {
+      "doctor" : "Sandhya Ghodke",
+      "degree" : "MBBS, MD (Anesthesia), IDRA, FPA (Fellowship in Paediatric Anesthesia)",
+      "schedule" : "Mon to Sat: 02:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Bone Marrow Transplant",
+    "schedules" : [ {
+      "doctor" : "Raghuram CP",
+      "degree" : "MBBS, DNB, MRCPCH, CCT (UK), FRCP, Bone Marrow Transplantation",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 02:00 PM - 03:30 PM\nThu: 02:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Stalin Ramprakash",
+      "degree" : "MBBS, MD (Paediatrics), MRCPCH, CCT(UK), FRCPCH",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vinay M.V",
+      "degree" : "MBBS, MD (Paediatrics), DM (Paediatric Hematology Oncology), Fellowship in Paediatric Stem Cell Transplant (MTI-RCPCH, UK)",
+      "schedule" : "Mon to Sat: 09:30 AM - 01:00 PM, 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Breast Feeding Support",
+    "schedules" : [ {
+      "doctor" : "Shagufta Parveen",
+      "degree" : "MPHT (Obstetrics & Gynecology)",
+      "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Arushi Gupta",
+      "degree" : "MBBS , PG in DDVL, Dermatology Venereology Leprology",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sahana Srihari",
+      "degree" : "MBBS, MD (Dermatology, Venereology & Leprology)",
+      "schedule" : "Sat: 05:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Dentistry",
+    "schedules" : [ {
+      "doctor" : "Divya M.V.",
+      "degree" : "BDS, MDS (Periodontics)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rohan Sharma",
+      "degree" : "BDS , MDS",
+      "schedule" : "Mon to Sat: 10:00 AM - 06:00 PM"
+    }, {
+      "doctor" : "Preeti Jha",
+      "degree" : "BDS , MDS",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 03:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Kavitha Bhat",
+      "degree" : "MD (Paediatrics), Fellowship in Paediatric Endocrinology",
+      "schedule" : "Fri: 09:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Fetal Medicine",
+    "schedules" : [ {
+      "doctor" : "Preetha Isloor",
+      "degree" : "MBBS, DGO, DNB, Fellowship in Fetal Medicine",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kafi Bora",
+      "degree" : "MBBS, MD (OBG), Fellowship in Fetal Medicine",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "IVF",
+    "schedules" : [ {
+      "doctor" : "Jyothi Patil",
+      "degree" : "MS (OBG), FIRM, FMAS, Fellowship in Reproductive Medicine (Infertility)",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:45 PM"
+    } ]
+  }, {
+    "name" : "Maxillo Facial Surgery",
+    "schedules" : [ {
+      "doctor" : "Sathish M. S. Vasishta",
+      "degree" : "BDS, MDS, Fellowship in Cleft & Cranio-facial Surgery, F-AOCMF (Hong kong)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "Sahana S",
+      "degree" : "MBBS, MD (Paediatrics), IAP Fellowship in Neonatology",
+      "schedule" : "Mon to Sat: 01:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Babu S. Madarkar",
+      "degree" : "MD (Paediatrics), DNB (Paediatrics), DM (Neonatology) (Gold Medalist), MRCPCH, DAA, MNAMS",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 02:00 PM - 05:00 PM\nWed: 12:30 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Nutrition & Dietetics",
+    "schedules" : [ {
+      "doctor" : "Malathi. V",
+      "degree" : "Ph.D in Nutrition",
+      "schedule" : "Mon, Wed, Thu, Fri: 10:00 AM - 04:00 PM\nTue: 10:00 AM - 12:00 PM\nSat: 10:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Kishor Rao",
+      "degree" : "MS, MCh (Neurosurgery)",
+      "schedule" : "Tue, Sat: 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Kamala Unnikrishnan",
+      "degree" : "MBBS, DGO",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Karamjit Kaur",
+      "degree" : "MBBS, MD (Obstetrician and Gynaecology), Fellowship in Minimally Invasive Surgery",
+      "schedule" : "Mon, Tue, Fri: 04:00 PM - 07:00 PM\nWed, Thu, Sat: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Vishnu Priya",
+      "degree" : "DGO, FRM, Fellow in Minimal Access Surgery",
+      "schedule" : "Mon to Sat: 09:30 AM - 11:30 AM, 05:30 PM - 08:00 PM"
+    }, {
+      "doctor" : "Radhika S Kamuni",
+      "degree" : "MBBS, DGO, DNB (OBGYN)",
+      "schedule" : "Mon to Sat: 12:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Jalaja K Reddy",
+      "degree" : "MBBS, DGO",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Kanti Sahu",
+      "degree" : "MBBS, DGO",
+      "schedule" : "Mon, Wed, Fri, Sat: 06:30 PM - 07:30 PM"
+    }, {
+      "doctor" : "Vibha Rathore",
+      "degree" : "MBBS, DGO",
+      "schedule" : "Mon, Wed, Sat: 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Yasmin Imdad",
+      "degree" : "MBBS, DGO, DNB (Obstetrics & Gynaecology), MRCPI, MRCOG, Fellowship in Assisted Reproductive Technology, Fellowship in Minimal Access Surgery",
+      "schedule" : "Tue, Wed: 11:30 AM - 01:00 PM"
+    }, {
+      "doctor" : "Maya V",
+      "degree" : "MBBS, MS(Obstetrics & Gynaecology), Fellowship(Laparoscopy)",
+      "schedule" : "Tue, Thu: 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Teena Bannihatti",
+      "degree" : "MBBS, MS (Obstetrics & Gynecology), FMAS",
+      "schedule" : "Mon to Sat: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Nidhi Nandan",
+      "degree" : "MBBS, DGO, DRCOG, DFW",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Kavitha G Pujar",
+      "degree" : "MBBS, MS (Obstetrics & Gynaecology), Fellowship in Infertility",
+      "schedule" : "Mon to Sat: 09:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Girish Kumar A. M.",
+      "degree" : "MS (Orthopaedics), Fellowship in Paediatric Orthopedics",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Jayanth S Sampath",
+      "degree" : "MBBS, FRCSEd, MSc,FRCSEd (Tr&Ortho)",
+      "schedule" : "Mon, Wed, Fri: 02:00 PM - 05:00 PM\nSat: 10:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Rakshay Shetty",
+      "degree" : "MD (PGIMER), Fellowship in Paediatric Intensive Care (The Hospital for Sick Children, Toronto)",
+      "schedule" : "Mon to Fri: 10:30 AM - 01:30 PM, 02:30 PM - 04:00 PM\nSat: 10:30 AM - 01:30 PM, 02:00 PM - 04:30 PM"
+    }, {
+      "doctor" : "Saumil Gaur",
+      "degree" : "MBBS, MD (Paediatrics), FPN (Fellowship Paediatric Nephrology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 03:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Rajaram G",
+      "degree" : "MBBS, DCH, DNB (Paediatrics)",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Tanuja Mishra",
+      "degree" : "MBBS, MD (Paediatrics)",
+      "schedule" : "Mon, Wed, Thu: 10:30 AM - 02:00 PM\nTue, Fri, Sat: 10:30 AM - 02:00 PM, 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Veerabhadra V Mallad",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: 12:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Vaishnavi",
+      "degree" : "MD (Paediatrics), Fellowship in Infectious diseases",
+      "schedule" : "Mon, Tue: 08:00 AM - 04:00 PM\nWed: 08:00 AM - 08:00 PM\nThu: 08:00 AM - 09:00 AM"
+    }, {
+      "doctor" : "Chandrashekar Changappa",
+      "degree" : "MBBS, MD (Paediatrics)",
+      "schedule" : "Mon to Sat: 04:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Deepak R",
+      "degree" : "DCH, DNB (Paediatrics), Fellowship PICU (Birmingham, UK), IFPCCM",
+      "schedule" : "Mon, Tue, Thu, Fri: 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Babu S. Madarkar",
+      "degree" : "MD (Paediatrics), DNB (Paediatrics), DM (Neonatology) (Gold Medalist), MRCPCH, DAA, MNAMS",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 02:00 PM - 05:00 PM\nWed: 12:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Manu Chaudhary",
+      "degree" : "MBBS, MD (Paediatrics), Fellow of the American Academy of Paediatrics, Paediatric Infectious Diseases Specialist (American Board Certified)",
+      "schedule" : "Mon to Sat: 09:00 AM - 02:00 PM, 03:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Allergy",
+    "schedules" : [ {
+      "doctor" : "Nandana Bala",
+      "degree" : "MRCPCH (UK), CCT (Paediatrics) (London), PG Cert Allergy (Imperial College, London)",
+      "schedule" : "Mon to Fri: By Appointment\nSat: 09:30 AM - 12:30 PM, 02:30 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Cardiology",
+    "schedules" : [ {
+      "doctor" : "Sejal Shah",
+      "degree" : "MD (Paediatrics), Fellowship in Paediatric Cardiology",
+      "schedule" : "Tue, Fri: 09:00 AM - 10:00 AM"
+    } ]
+  }, {
+    "name" : "Paediatric ENT",
+    "schedules" : [ {
+      "doctor" : "Leena Balachandar M S",
+      "degree" : "MBBS, MS (ENT)",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Vasanthi",
+      "degree" : "MBBS, MS (ENT)",
+      "schedule" : "Mon, Wed: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Shilpa .H",
+      "degree" : "MBBS, MS",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatric ICU",
+    "schedules" : [ {
+      "doctor" : "Rakshay Shetty",
+      "degree" : "MD (PGIMER), Fellowship in Paediatric Intensive Care (The Hospital for Sick Children, Toronto)",
+      "schedule" : "Mon to Fri: 10:30 AM - 01:30 PM, 02:30 PM - 04:00 PM\nSat: 10:30 AM - 01:30 PM, 02:00 PM - 04:30 PM"
+    }, {
+      "doctor" : "Deepak R",
+      "degree" : "DCH, DNB (Paediatrics), Fellowship PICU(Birmingham,UK), IFPCCM",
+      "schedule" : "Mon, Tue, Thu, Fri: 05:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Aditi",
+      "degree" : "MBBS, MD (Paediatrics), DM (Paediatric Gastroenterology), PDCC (Paediatric Hepatology)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric Neurology",
+    "schedules" : [ {
+      "doctor" : "Prabhjot Kaur",
+      "degree" : "MBBS, MD (Paediatrics), DNB (Paediatrics), DM (Paediatric Neurology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM, 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Nephrology",
+    "schedules" : [ {
+      "doctor" : "Saumil Gaur",
+      "degree" : "MBBS, MD (Paediatrics), FPN (Fellowship Paediatric Nephrology )",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 03:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Oncology",
+    "schedules" : [ {
+      "doctor" : "Raghuram CP",
+      "degree" : "MBBS, DNB, MRCPCH, CCT (UK), FRCP (Bone Marrow Transplantation)",
+      "schedule" : "Mon to Sat: 02:00 PM - 03:30 PM"
+    }, {
+      "doctor" : "Stalin Ramprakash",
+      "degree" : "MBBS, MD (Paediatrics), MRCPCH, CCT (UK), FRCPCH",
+      "schedule" : ""
+    }, {
+      "doctor" : "Vinay M.V",
+      "degree" : "MBBS, MD (Paediatrics), DM (Paediatric Hematology Oncology), Fellowship in Paediatric Stem Cell Transplant (MTI-RCPCH, UK)",
+      "schedule" : "Mon to Sat: 09:30 AM - 01:00 PM, 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Nandana Bala",
+      "degree" : "MRCPCH (UK), CCT (Paediatrics) (London), PG Cert (Allergy) (Imperial College , London)",
+      "schedule" : "Sat: 09:30 AM - 12:30 PM, 02:30 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Chandrika Bhat",
+      "degree" : "MD (Paediatrics), Fellowship in Paediatric Rheumatology (UK)",
+      "schedule" : "Mon to Thu: 09:00 AM - 04:00 PM\nFri, Sat: 08:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Antony Robert Charles",
+      "degree" : "MCH, DNBE, MS, MRCH (Edinburg), FIAPS",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Shounak Choudhury",
+      "degree" : "MBBS, DNB, MRCS (Part 1 & 2)",
+      "schedule" : "Mon, Wed, Thu, Sat: 01:00 PM - 02:00 PM\nTue, Fri: 11:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Latha Venkateswaran",
+      "degree" : "MBBS, FRCS (UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Koushik Herle",
+      "degree" : "MBBS, MS, MCH (CMC, Vellore), DNB (Paediatric Surgery)",
+      "schedule" : "Mon to Sat: 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Urology",
+    "schedules" : [ {
+      "doctor" : "Antony Robert Charles",
+      "degree" : "MCH, DNBE, MS, MRCH (Edinburg), FIAPS",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Shounak Choudhury",
+      "degree" : "MBBS, DNB, MRCS (Part 1 & 2)",
+      "schedule" : "Mon, Wed, Thu, Sat: 01:00 PM - 02:00 PM\nTue, Fri: 11:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Latha Venkateswaran",
+      "degree" : "MBBS, FRCS (UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Koushik Herle",
+      "degree" : "MBBS, MS, MCh (CMC, Vellore), DNB (Paediatric Surgery)",
+      "schedule" : "Mon to Sat: 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Priyadarshan K",
+      "degree" : "MBBS, MS, MCH, DNB",
+      "schedule" : "Tue: 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Krishna S Rao",
+      "degree" : "MBBS, FRCS (Edinburg), MDS, FDSRCS (England)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Meena Gnanasekharan",
+      "degree" : "MBBS, Fellowship in Child & Adolescent Psychiatry",
+      "schedule" : "Sat: 03:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Jyoti Singh",
+      "degree" : "MBBS, DMRD (Radiodiagnosis )",
+      "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM, 03:00 PM - 03:45 PM"
+    }, {
+      "doctor" : "Thilak Babu",
+      "degree" : "MBBS",
+      "schedule" : "Mon to Sat: 04:30 PM - 06:00 PM"
+    } ]
+  } ]
+}

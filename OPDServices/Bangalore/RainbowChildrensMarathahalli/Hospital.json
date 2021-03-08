@@ -1,0 +1,21 @@
+{
+"name":"Rainbow Children's Hospital, Marathahalli",
+"code":"RainbowChildrensMarathahalli",
+"address":"Survey No. 8/5, Marathahalli - KR Puram Outer Ring Road, Doddanekundi, Marathahalli, Bengaluru - 560037",
+"geoLocation":"12.9753504,77.697849?q=Rainbow+Children's+Hospitals+%26+BirthRight+by+Rainbow",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"8042412315,8884436000"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"8042412315,18002122",
+	"isOpd":true
+	},{
+	"name":"24 x 7 Pharmacy",
+	"phoneNumbers":"8884771777"
+	}]
+}
