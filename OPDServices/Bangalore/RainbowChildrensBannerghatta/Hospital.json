@@ -1,0 +1,21 @@
+{
+"name":"Rainbow Children's Hospital, Bannerghatta Road",
+"code":"RainbowChildrensBannerghatta",
+"address":"Road: No 178/1 & 178/2, Opposite Janardhan Towers, Bilekahalli, Bannerghatta Road, Bengaluru 560076",
+"geoLocation":"12.9028661,77.6009836?q=Rainbow+Children's+Hospital",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"8066902200,8025512345"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"18002122",
+	"isOpd":true
+	},{
+	"name":"24 x 7 Pharmacy",
+	"phoneNumbers":"8884771777"
+	}]
+}
