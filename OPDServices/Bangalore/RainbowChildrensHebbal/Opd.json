@@ -1,0 +1,71 @@
+﻿{
+  "name" : "Rainbow Children's Hospital, Hebbal",
+  "specialties" : [ {
+    "name" : "Fetal Medicine",
+    "schedules" : [ {
+      "doctor" : "Prerna Jhawar",
+      "degree" : "MBBS, MS (Obstetrics and Gynecology), Fellowship in Fetal Medicine",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "Sushma Kalyan Achuta",
+      "degree" : "MBBS, MD, FNNF",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sreedhara M.S",
+      "degree" : "MBBS, MD (Paediatrics), DNB (Paediatrics), DM (Neonatology)",
+      "schedule" : "Mon, Wed, Thu, Fri: 10:00 AM - 04:00 PM\nTue, Sat: 10:00 AM - 07:00 PM"
+    }, {
+      "doctor" : "Pradeep Kumar",
+      "degree" : "MBBS, MD (Paediatrics), PGPN, RCPCH fellowship in Neonatology (Imperial College London, UK)",
+      "schedule" : "Mon, Fri: 10:00 AM - 03:00 PM, 05:00 PM- 07:00 PM\nTue, Wed, Thu, Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Anitha Rao",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology), MRCOG & Laparoscopic Surgeon",
+      "schedule" : "Mon to Sat: 10:30 AM - 07:00 PM"
+    }, {
+      "doctor" : "Sunitha Gali",
+      "degree" : "MBBS, ECFMG & DNB",
+      "schedule" : "Mon to Sat: 05:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Diana Bernard",
+      "degree" : "MBBS, DGO, DNB",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Lakshmileela B",
+      "degree" : "MBBS, DCH, DNB",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Sushma Kalyan Achuta",
+      "degree" : "MBBS, MD, FNNF",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sreedhara M.S",
+      "degree" : "MBBS, MD (Paediatrics), DNB (Paediatrics), DM (Neonatology)",
+      "schedule" : "Mon, Wed, Thu, Fri: 10:00 AM - 04:00 PM\nTue, Sat: 10:00 AM - 07:00 PM"
+    }, {
+      "doctor" : "Pradeep Kumar",
+      "degree" : "MBBS, MD (Paediatrics), PGPN, RCPCH fellowship in Neonatology (Imperial College London, UK)",
+      "schedule" : "Mon, Fri: 10:00 AM - 03:00 PM, 05:00 PM- 07:00 PM\nTue, Wed, Thu, Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Antony Robert Charles",
+      "degree" : "MCH, DNBE, MS, MRCH (Edinburg), FIAPS",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Latha Venkateswaran",
+      "degree" : "MBBS, FRCS (UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}

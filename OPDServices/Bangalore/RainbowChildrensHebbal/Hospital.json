@@ -1,0 +1,15 @@
+{
+"name":"Rainbow Children's Hospital, Hebbal",
+"code":"RainbowChildrensHebbal",
+"address":"International Airport Road Survey No. 17/4, BIAL Road, Byatarayanapura, Bengaluru 560092",
+"geoLocation":"13.0653402,77.5939523?q=Rainbow+Children's+Hospital+%26+BirthRight+by+Rainbow,+Hebbal,+Bengaluru",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[
+	"name":"Appointment",
+	"phoneNumbers":"18002122",
+	"isOpd":true
+	}]
+}
