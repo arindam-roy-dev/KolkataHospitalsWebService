@@ -1,0 +1,18 @@
+{
+"name":"Rainbow Children's Hospital, Banjara Hills",
+"code":"RainbowChildrensBanjaraHills",
+"address":"Road No - 2, Banjara Hills, Near L V Prasad Eye Hospital, Next to Hotel Park Hyatt, Hyderabad - 500034, Telangana",
+"geoLocation":"17.4247402,78.432173?q=Rainbow+Children’s+Hospital",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in",
+"faxNumbers":"4044665555",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"9676838787,4023399885,4023319191,4023551555"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"18002122",
+	"isOpd":true
+	}]
+}

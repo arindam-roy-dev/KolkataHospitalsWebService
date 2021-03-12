@@ -1,0 +1,448 @@
+﻿{
+  "name" : "Rainbow Children's Hospital, Banjara Hills",
+  "specialties" : [ {
+    "name" : "Anaesthesiology",
+    "schedules" : [ {
+      "doctor" : "M. Subramanyam",
+      "degree" : "MD (PGI, Chandigarh), DNB (Anesthesia), DA (UK), FRCA",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Bone Marrow Transplant",
+    "schedules" : [ {
+      "doctor" : "Sirisha Rani",
+      "degree" : "MD (Paediatrics) (PGIMER), DNB, MRCPCH (UK), Fellow in Paediatric Hemato Oncology and Bone Marrow Transplantation (UK)",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:30 PM, 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Child Psychology",
+    "schedules" : [ {
+      "initial" : "Mr.",
+      "doctor" : "Somasekhar",
+      "degree" : "M.Phil (Clinical Psychology)",
+      "schedule" : "Mon to Sat: 11:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Cochlear Implant",
+    "schedules" : [ {
+      "doctor" : "Satya Kiran Avvaru",
+      "degree" : "MBBS, DLO, DNB (ENT), Fellow in Implant Otology (CMC, Vellore), Advanced CI Surgeon Training (ICIT, USA), Senior ENT & Cochlear Implant Surgeon",
+      "schedule" : "Mon to Sat: 06:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Purna Chandra Badaabagni",
+      "degree" : "MBBS, MD (Dermatology), (Consultant Dermatologist and Cosmetic Surgeon)",
+      "schedule" : "Mon, Wed, Sat: 03:30 PM - 04:30 PM"
+    } ]
+  }, {
+    "name" : "Dentistry",
+    "schedules" : [ {
+      "doctor" : "Srinivas Namineni",
+      "degree" : "MDS (Paediatric Dentistry)",
+      "schedule" : "Mon, Wed, Fri: 09:30 AM - 01:00 PM, 02:30 PM - 06:00 PM"
+    }, {
+      "doctor" : "Preethi VC",
+      "degree" : "MDS (Paediatric Dentistry)",
+      "schedule" : "Tue, Thu, Sat: 02:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Diabetology",
+    "schedules" : [ {
+      "doctor" : "Kavitha Y",
+      "degree" : "MBBS, Diploma in Diabetology",
+      "schedule" : "Mon, Wed: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Dietitian",
+    "schedules" : [ {
+      "doctor" : "Brundavani V",
+      "degree" : "Ph.D (Clinical Nutrition), CPNS (USA) ADA",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "initial" : "Mrs.",
+      "doctor" : "Syeda Meraj Fatima",
+      "degree" : "M.Sc (Dietetics and Food Services Management)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Priyambada Leena",
+      "degree" : "PDCC (Paediatric Endocrinology), MD (Paediatrics)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Fetal Medicine",
+    "schedules" : [ {
+      "doctor" : "Gayathri Vemavarapu",
+      "degree" : "MD, FMF Certification",
+      "schedule" : "Tue, Wed: 12:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Tulika Tayal",
+      "degree" : "MD, MRCOG, Diploma in Fetal Medicine (FMF, UK)",
+      "schedule" : "Tue to Thu: 09:30 AM - 04:00 PM"
+    }, {
+      "doctor" : "Deepika Saireddy",
+      "degree" : "MBBS, DGO, DNB (OBG), Fellowship (Obstetric Ultrasound & Fetal Medicine)",
+      "schedule" : "Mon, Sat: 08:30 AM - 06:00 PM"
+    }, {
+      "doctor" : "Gauri Nayak",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Hima Bindu Nalluri",
+      "degree" : "MBBS, MD (Anatomy)",
+      "schedule" : "Thu, Fri: 03:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Infertility",
+    "schedules" : [ {
+      "doctor" : "R. L. N. Renuka",
+      "degree" : "MBBS, DGO, Post Doctoral Fellowship in Reproductive Medicine",
+      "schedule" : "Mon to Sat: 03:00 PM - 06:00 PM\nSun: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Durvasula Ratna",
+      "degree" : "MD, DNB, MRCOG (UK)",
+      "schedule" : "Mon to Sat: 08:30 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "A. Venkatalakshmi",
+      "degree" : "MD (Paediatrics), DCH (CMC, Vellore), Neonatal Fellow (Australia, USA)",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 10:00 AM - 04:00 PM\nThu: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Dinesh Kumar Chirla",
+      "degree" : "MD (Paediatrics), DM (Neonatology), FRCPCH (UK), Neonatal Fellow (Australia), Fellow in PICU (UK)",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:00 PM"
+    }, {
+      "doctor" : "Nitasha Bagga",
+      "degree" : "MBBS, DNB (Paediatrics), IAP (Neonatology)",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 10:00 AM - 01:30 PM, 03:30 PM - 05:30 PM\nThu: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Nalinikanta Panigrahy",
+      "degree" : "MD (Paediatrics), DNB (Neonatology)",
+      "schedule" : "Mon, Wed, Thu: 10:30 AM - 01:30 PM, 03:30 PM - 05:30 PM\nTue, Fri: 10:30 AM - 01:30 PM\nSat: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Vijayanand Jamalpuri",
+      "degree" : "MD, MRCPCH, CCT (Paediatrics) (UK), Fellowship in Neonatology (NZ), Post Graduate Certificate in Teaching and Learning for Health Profession (UK)",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM, 03:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "Ranjit Kumar Gunda",
+      "degree" : "MBBS, MRCPCH (UK), CCT (Neonatal Medicine)",
+      "schedule" : "Mon: 08:30 AM - 10:00 AM\nTue to Sat: 08:30 AM - 10:20 AM, 04:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Pranathi Reddy",
+      "degree" : "MD, DGO, DNB, FRCOG (UK)",
+      "schedule" : "Mon, Wed, Fri: 02:00 PM - 06:00 PM\nTue, Thu, Sat: 09:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Shruthi Reddy Poddutoor",
+      "degree" : "MD, MRCOG (UK)",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 09:00 AM - 02:00 PM\nTue: 09:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Prathyusha Reddy",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon, Tue, Fri: 10:00 AM - 04:00 PM\nWed: 02:00 PM - 07:30 PM\nThu: 08:30 AM - 12:00 PM\nSat: 12:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Niraj Krishnamurthy Yanamandra",
+      "degree" : "MD (FRCOG), PG Diploma (Gynaecological Endoscopy) (Univ of Surrey, UK) Dip Pelviscopic Surgery (Kiel, Germany)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shanthi Sree Ramachandrula",
+      "degree" : "MBBS, DNB (Obstetrics and Gynecology)",
+      "schedule" : "Mon, Sat: 02:00 PM - 07:30 PM\nTue: 08:30 AM - 12:00 PM\nWed: 09:00 AM - 03:00 PM\nThu: 12:00 PM - 07:00 PM\nFri: 10:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Bhargavi Reddy",
+      "degree" : "MBBS, MRCOG, DNB",
+      "schedule" : "Mon: 09:00 AM - 03:00 PM\nWed: 12:00 PM - 07:00 PM\nThu: 02:00 PM - 07:30 PM\nFri: 08:30 AM - 12:00 PM\nSat: 08:30 AM - 02:30 PM"
+    }, {
+      "doctor" : "Atigadda Vijaya",
+      "degree" : "MD, DGO",
+      "schedule" : "Tue, Thu, Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Rajni Kumari",
+      "degree" : "MS (Obstetrics and Gynecology)",
+      "schedule" : "Tue, Thu, Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sasikala Kola",
+      "degree" : "MD, DGO (Osmania Medical College)",
+      "schedule" : "Mon, Tue, Thu, Sat: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Himabindu Veerla",
+      "degree" : "MBBS, DGO, FMAS (Fellowship in Minimal Access Surgery)",
+      "schedule" : "Mon, Wed, Fri, Sat: 02:00 PM - 06:00 PM\nTue, Thu: 09:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Swapna Samudrala",
+      "degree" : "MS (Obstetrics and Gynecology) (Jawaharlal Nehru Medical College, Belgaum)",
+      "schedule" : "Tue: 02:00 PM - 07:30 PM\nWed: 08:30 AM - 12:00 PM\nFri: 12:00 PM - 07:00 PM\nSat: 09:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "P. Annie Pranutha",
+      "degree" : "MBBS, DGO, DNB (Obstetrics and Gynecology)",
+      "schedule" : "Mon: 12:00 PM - 07:00 PM\nThu: 09:00 AM - 03:00 PM\nFri: 05:00 PM - 07:30 PM\nSat: 04:00 PM - 07:30 PM"
+    }, {
+      "doctor" : "Dilip Nandamuri",
+      "degree" : "MBBS, MD (General Medicine)",
+      "schedule" : ""
+    }, {
+      "doctor" : "V P Jyotsna",
+      "degree" : "MBBS , MD (Obstetrics and Gynecology)",
+      "schedule" : "Tue: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Radhika Yadati",
+      "degree" : "MBBS, DNB, MNAMS (Obstetrics and Gynecology), MRCOG (UK), FICOG",
+      "schedule" : "Mon, Wed: 09:00 AM - 02:00 PM\nTue, Thu, Sat: 02:00 PM - 06:00 PM\nFri: 08:30 AM - 11:00 AM"
+    }, {
+      "doctor" : "B.V Shobha",
+      "degree" : "MD, FICOG",
+      "schedule" : "Mon, Thu: 04:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Occupational therapy",
+    "schedules" : [ {
+      "doctor" : "Suneel Kumar Mundrathi",
+      "degree" : "BOT, NDT, SIT, PG (CRDCDM), FAGE (Manipal)",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Venkat Ram Thyalapalli",
+      "degree" : "MS (Orthopaedics)",
+      "schedule" : "Mon, Sat: 01:30 PM - 03:00 PM\nTue, Thu, Fri: 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Dhusudhan Rao J",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "A. Venkatalakshmi",
+      "degree" : "MD (Paediatrics), DCH (CMC, Vellore), Neonatal Fellow (Australia, USA)",
+      "schedule" : "Mon to Wed: 10:00 AM - 04:00 PM\nThu: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Dinesh Kumar Chirla",
+      "degree" : "MD (Paediatrics), DM (Neonatology), FRCPCH (UK), Neonatal Fellow (Australia), Fellow in PICU (UK)",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:00 PM"
+    }, {
+      "doctor" : "Ujjwala Desai",
+      "degree" : "DCH, DNB (Paediatrics)",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 09:30 AM - 01:00 PM, 05:30 PM - 08:00 PM"
+    }, {
+      "doctor" : "Farhan A. Rashid Shaikh",
+      "degree" : "MD, DNB (Paediatrics), Fellowship in Paediatric Critical Care",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 10:30 AM - 12:30 PM, 04:00 PM - 06:30 PM\nWed: 10:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Aparna Reddy",
+      "degree" : "MD, Fellowship in Pulmonology (Singapore)",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Nitasha Bagga",
+      "degree" : "MBBS, DNB (Paediatrics), IAP (Neonatology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:30 PM, 03:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "Faisal B Nahdi",
+      "degree" : "MD (Paediatrics), DCH, PGDHHM",
+      "schedule" : "Mon, Tue, Thu, Fri: 09:30 AM - 12:30 PM, 04:00 PM - 07:30 PM\nWed: 09:30 AM - 12:30 PM\nSat: 02:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "V. V. R Satya Prasad",
+      "degree" : "MBBS, MD (Paediatrics), Fellowship in Paediatric Nephrology (AIIMS) (NUH, Singapore)",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 10:30 AM - 01:30 PM, 02:30 PM - 05:00 PM\nThu: 10:30 AM - 01:30 PM"
+    }, {
+      "doctor" : "Anupama Yerra",
+      "degree" : "DCH, DNB (Paediatrics), Fellowship in Paediatric Critical Care",
+      "schedule" : "Mon to Sat: 12:30 PM - 02:30 PM, 04:00 PM - 05:30 PM"
+    }, {
+      "doctor" : "Nalinikanta Panigrahy",
+      "degree" : "MD (Paediatrics), DNB (Neonatology)",
+      "schedule" : "Mon, Wed, Thu: 10:30 AM - 01:30 PM, 03:30 PM - 05:30 PM\nTue, Fri: 10:30 AM - 01:30 PM\nSat: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Vijayanand Jamalpuri",
+      "degree" : "MD, MRCPCH, CCT in Paediatrics (UK), Fellowship in Neonatology (NZ), Post Graduate Certificate in Teaching and Learning for Health Profession (UK)",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM, 03:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "Priyambada Leena",
+      "degree" : "PDCC (Paediatric Endocrinology), MD (Paediatrics)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Ranjit Kumar Gunda",
+      "degree" : "MBBS, MRCPCH (UK), CCT (Neonatal Medicine)",
+      "schedule" : "Mon to Sat: 08:30 AM - 10:00 AM, 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Pratima Verma",
+      "degree" : "MRCPCH (RCPCH, UK), CCT Paediatrics (RCPCH, UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kapil B Sachane",
+      "degree" : "DNB, MRCPCH (UK), Fellowship in Neonatology (UK), Fellowship in PICU and CICU (UK), Fellowship in Paediatric Critical Care Transport (London)",
+      "schedule" : "Mon to Sat: 10:50 AM - 02:00 PM, 04:00 PM - 05:30 PM"
+    }, {
+      "doctor" : "Archana Pinapala",
+      "degree" : "MBBS, MD (Paediatrics) (PGI), Fellowship in Paediatric Nephrology( SJMCH), NUH ( Singapore)",
+      "schedule" : "Mon, Tue, Thu: 08:30 AM - 10:30 AM, 02:30 PM - 04:30 PM\nWed, Fri, Sat: 08:30 AM - 11:30 AM, 02:30 PM - 04:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric & Metabolic Medicine",
+    "schedules" : [ {
+      "doctor" : "Radha Rama Devi",
+      "degree" : "MD (Paediatrics), Cert. in Genetic Engineering, Fellow in Inborn Errors of Metabolism (UK)",
+      "schedule" : "Mon, Wed, Fri: 02:00 PM - 03:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric ENT",
+    "schedules" : [ {
+      "doctor" : "P. V. L. N. Murthy",
+      "degree" : "MBBS, DLO, DNB",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Manish Gupta",
+      "degree" : "MS (ENT)",
+      "schedule" : "Mon to Sat: 04:00 PM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric ICU",
+    "schedules" : [ {
+      "doctor" : "Dinesh Kumar Chirla",
+      "degree" : "MD (Paediatrics), DM (Neonatology), FRCPCH (UK), Neonatal Fellow (Australia), Fellow in PICU (UK)",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:00 PM"
+    }, {
+      "doctor" : "Farhan A. Rashid Shaikh",
+      "degree" : "MD, DNB (Paediatrics), Fellowship in Paediatric Critical Care",
+      "schedule" : "Mon to Sat: 10:30 AM - 12:30 PM, 04:00 PM - 06:30 PM"
+    }, {
+      "doctor" : "Anupama Yerra",
+      "degree" : "DCH, DNB (Paediatrics), Fellowship in Paediatric Critical Care",
+      "schedule" : "Mon to Sat: 12:30 PM - 02:30 PM, 04:00 PM - 05:30 PM"
+    }, {
+      "doctor" : "Kapil B Sachane",
+      "degree" : "DNB, MRCPCH (UK), Fellowship in Neonatology (UK), Fellowship in PICU and CICU (UK), Fellowship in Paediatric Critical Care Transport (London)",
+      "schedule" : "Mon, Tue, Wed, Sat: 10:50 AM - 02:00 PM, 04:00 PM - 05:30 PM\nThu: 11:00 AM - 03:00 PM, 04:00 PM - 05:30 PM\nFri: 09:00 AM - 10:00 AM, 04:00 PM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Prashant Bachina",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:30 PM, 02:30 PM - 04:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Neurology",
+    "schedules" : [ {
+      "doctor" : "Ramesh Konanki",
+      "degree" : "MD(Paediatrics), DM",
+      "schedule" : "Fri: 11:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Lokesh Lingappa",
+      "degree" : "MD (Paediatrics) , DM (Neurology) , MRCPCH (UK)",
+      "schedule" : "Mon, Tue: 10:30 AM - 02:30 PM\nWed: 10:30 AM - 12:00 PM\nThu: 12:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Srikanth Domala",
+      "degree" : "MBBS, DNB (Paediatrics), IAP, PDF (Paediatric Neurology)",
+      "schedule" : "Mon to Fri: 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Abhishek Ravindra Jain",
+      "degree" : "MBBS, MD (Paediatrics), IAP Post Doctoral Fellow (Paediatric Neurology)",
+      "schedule" : ""
+    } ]
+  }, {
+    "name" : "Paediatric Nephrology",
+    "schedules" : [ {
+      "doctor" : "V. V. R Satya Prasad",
+      "degree" : "MBBS, MD (Paediatrics), Fellowship in Paediatric Nephrology (AIIMS), (NUH, Singapore)",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 10:30 AM - 01:30 PM, 02:30 PM - 05:00 PM\nThu: 10:30 AM - 01:30 PM"
+    }, {
+      "doctor" : "Pratima Verma",
+      "degree" : "MRCPCH (RCPCH, UK), CCT (Paediatrics) (RCPCH, UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Archana Pinapala",
+      "degree" : "MBBS, MD (Paediatrics) (PGI), Fellowship in Paediatric Nephrology( SJMCH), NUH ( Singapore)",
+      "schedule" : "Mon, Tue: 08:30 AM - 10:30 AM, 02:30 PM - 04:30 PM\nWed, Sat: 08:30 AM - 11:30 AM, 02:30 PM - 04:30 PM\nThu: 08:30 AM - 10:30 AM, 06:00 PM - 08:00 PM\nFri: 08:30 AM - 11:30 AM"
+    } ]
+  }, {
+    "name" : "Paediatric Oncology",
+    "schedules" : [ {
+      "doctor" : "Sirisha Rani",
+      "degree" : "MD (Paediatrics) (PGIMER), DNB, MRCPCH (UK), Fellow in Paediatric Hemato Oncology and Bone Marrow Transplantation (UK)",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 10:30 AM - 01:30 PM, 04:00 PM - 05:00 PM\nFri: 10:30 AM - 01:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Ophthalmology",
+    "schedules" : [ {
+      "doctor" : "Sushma Reddy Katukuri",
+      "degree" : "MBBS, MS (Ophthalmology), Fellowship in Paediatric Ophthalmology and Neuro Ophthalmology",
+      "schedule" : "Mon, Thu, Fri: 11:30 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Aparna Reddy",
+      "degree" : "MD, Fellowship in Pulmonology (Singapore)",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Shanti Bhushan",
+      "degree" : "BPT, NBT, MIAP",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Jyoti Bothra",
+      "degree" : "MBBS, DNB (General Surgery), MCH (Paediatric Surgery)",
+      "schedule" : "Mon to Sat: 12:30 PM - 02:00 PM"
+    }, {
+      "doctor" : "Harish Jayaram",
+      "degree" : "MBBS, MS (General Surgery), MCh (Paediatric Surgery) (PGIMER, Chandigarh)",
+      "schedule" : "Mon to Sat: 01:00 PM - 02:30 PM"
+    }, {
+      "doctor" : "Mainak Deb",
+      "degree" : "MBBS, MS (General Surgery) (AIIMS), MCh (Paediatric Surgery) (PGI, Chandigarh)",
+      "schedule" : "Mon to Sat: 02:30 PM - 03:30 PM"
+    }, {
+      "doctor" : "Lavanya Kannaiyan",
+      "degree" : "MS, MCH (Paediatric Surgery)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric Urology",
+    "schedules" : [ {
+      "doctor" : "Mainak Deb",
+      "degree" : "MBBS, MS (General Surgery) (AIIMS), MCh (Paediatric Surgery) (PGI Chandigarh)",
+      "schedule" : "Mon to Sat: 02:30 PM - 03:30 PM"
+    }, {
+      "doctor" : "Harish Jayaram",
+      "degree" : "MBBS, MS (General Surgery), MCh (Paediatric Surgery) (PGIMER, Chandigarh)",
+      "schedule" : "Mon to Sat: 01:00 PM - 02:30 PM"
+    }, {
+      "doctor" : "Jyoti Bothra",
+      "degree" : "MBBS, DNB (General Surgery), MCH (Paediatric Surgery)",
+      "schedule" : "Mon to Sat: 12:30 PM - 02:00 PM"
+    }, {
+      "doctor" : "Lavanya Kannaiyan",
+      "degree" : "MS, MCH (Paediatric Surgery)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Harini Atturu",
+      "degree" : "MRCPsych (RCP, London), MSc (University of Manchester)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Speech Therapy",
+    "schedules" : [ {
+      "doctor" : "Ravi Kiran",
+      "degree" : "B.Sc, ASLP",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}
