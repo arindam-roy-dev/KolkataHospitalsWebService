@@ -1,0 +1,21 @@
+{
+"name":"Rainbow Children's Hospital, Secunderabad",
+"code":"RainbowChildrensSecunderabad",
+"address":"Plot # C17, Vikrampuri Colony, Secunderabad",
+"geoLocation":"17.4550174,78.5009066?q=Rainbow+Children’s+Hospital+%26+Birthright",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in",
+"faxNumbers":"4027899090",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"4042462200,4027895050,4027896060"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"18002122",
+	"isOpd":true
+	},{
+	"name":"Manager on Duty",
+	"phoneNumbers":"8008543030"
+	}]
+}

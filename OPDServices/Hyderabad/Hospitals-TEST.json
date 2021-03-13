@@ -33,5 +33,9 @@
 	"name":"Rainbow Children's Hospital, Banjara Hills",
 	"locality":"Banjara Hills",
 	"code":"RainbowChildrensBanjaraHills"
+	},{
+	"name":"Rainbow Children's Hospital, Secunderabad",
+	"locality":"Karkhana",
+	"code":"RainbowChildrensSecunderabad"
 	}]
 } 
