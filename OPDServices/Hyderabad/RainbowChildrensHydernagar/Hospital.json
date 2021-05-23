@@ -1,0 +1,18 @@
+{
+"name":"Rainbow Children's Hospital, Hydernagar",
+"code":"RainbowChildrensHydernagar",
+"address":"Opp: Chermas, Hydernagar, Hyderabad 500072",
+"geoLocation":"17.4995315,78.3842855?q=Rainbow+Children’s+Hospital+%26+Birthright+by+Rainbow",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"4042462300"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"18002122",
+	"isOpd":true
+	}]
+}
