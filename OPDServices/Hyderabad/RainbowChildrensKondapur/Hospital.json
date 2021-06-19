@@ -1,0 +1,21 @@
+{
+"name":"Rainbow Children's Hospital, Kondapur",
+"code":"RainbowChildrensKondapur",
+"address":"Plot No # 32 & 33 Survey No: 12, Opp CII , Kondapur, Serilingampally Mandal, Rangareddy District, Telangana",
+"geoLocation":"17.455917,78.3732096?q=Rainbow+Childrens+Hospital+and+BirthRight+by+Rainbow,+Kondapur+(IP+Block)",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in",
+"faxNumbers":"4023119600",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"4042462400"
+	},{
+	"name":"Manager on Duty",
+	"phoneNumbers":"9000711422"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"18002122",
+	"isOpd":true
+	}]
+}
