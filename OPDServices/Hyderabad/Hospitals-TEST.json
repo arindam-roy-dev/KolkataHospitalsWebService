@@ -22,8 +22,8 @@
 	"locality":"HITech City",
 	"code":"ApolloTeleclinic"
 	},{
-	"name":"Aware Gleneagles Global Hospitals, L. B. Nagar",
-	"locality":"L. B. Nagar",
+	"name":"Aware Gleneagles Global Hospitals, LB Nagar",
+	"locality":"LB Nagar",
 	"code":"AwareGleneaglesLBNagar"
 	},{
 	"name":"Gleneagles Global Hospitals",
@@ -41,6 +41,10 @@
 	"name":"Rainbow Children's Hospital, Kondapur",
 	"locality":"Kondapur",
 	"code":"RainbowChildrensKondapur"
+	},{
+	"name":"Rainbow Children's Hospital, LB Nagar",
+	"locality":"LB Nagar",
+	"code":"RainbowChildrensLBNagar"
 	},{
 	"name":"Rainbow Children's Hospital, Secunderabad",
 	"locality":"Karkhana",

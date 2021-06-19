@@ -1,0 +1,141 @@
+﻿{
+  "name" : "Rainbow Children's Hospital, LB Nagar",
+  "specialties" : [ {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Sirisha Kusuma B",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "schedule" : "Fri: 10:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "Nikhil Dattatraya Kulkarni",
+      "degree" : "MBBS, MD (Pediatrics), DM (Neonatology), DNB (Neonatology)",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:00 PM, 06:10 PM - 08:00 PM"
+    }, {
+      "doctor" : "Reena",
+      "degree" : "MD (PGPN)",
+      "schedule" : "Mon to Sat: 10:30 AM - 02:00 PM, 04:10 PM - 06:00 PM"
+    }, {
+      "doctor" : "Preetham Kumar Reddy",
+      "degree" : "DCH, DNB (Pediatrics), Fellow Neonatology Pediatrician & Pediatric Intensivist",
+      "schedule" : "Wed: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Srinivas Tadaraj",
+      "degree" : "MBBS, MD, FIAP (Neonatology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM, 06:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Patlolla Shreya Reddy",
+      "degree" : "MD (Peditiatrics), Fellowship in Neonatology",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM, 02:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "M Shyamala",
+      "degree" : "MBBS, DGO, DNB (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: 11:00 AM - 02:00 PM, 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Koteswari Ganta",
+      "degree" : "MBBS, DGO, MRCOG",
+      "schedule" : "Mon to Sat: 10:30 AM - 05:00 PM"
+    }, {
+      "doctor" : "Amrutha Korlepara Venkata",
+      "degree" : "MBBS, DGO, MRCOG (UK)",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:30 PM"
+    }, {
+      "doctor" : "P. Saroja",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: 11:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Roshan Kumar Jaiswal",
+      "degree" : "MBBS, DNB (Orthopedics), Fellowship in Pediatric Orthopedics",
+      "schedule" : "Mon, Wed, Fri: 01:00 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Satyanarayana Kavali",
+      "degree" : "MBBS, MD (Pediatrics)",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:30 PM, 05:00 PM - 07:30 PM"
+    }, {
+      "doctor" : "Nikhil Dattatraya Kulkarni",
+      "degree" : "MBBS, MD (Pediatrics), DM (Neonatology), DNB (Neonatology)",
+      "schedule" : "Mon to Sat: 10:30 AM - 01:00 PM, 06:10 PM - 08:00 PM"
+    }, {
+      "doctor" : "Suresh Kumar Panda",
+      "degree" : "MBBS, MD (Pediatrics), Fellowship in Pediatric Intensive Care",
+      "schedule" : "Mon to Sat: 11:00 AM - 02:00 PM, 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Reena",
+      "degree" : "MD (PGPN)",
+      "schedule" : "Mon to Sat: 10:30 AM - 02:00 PM, 04:10 PM - 06:00 PM"
+    }, {
+      "doctor" : "Preetham Kumar Reddy",
+      "degree" : "DCH, DNB (Pediatrics), Fellow Neonatology Pediatrician & Pediatric Intensivist",
+      "schedule" : "Wed: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Srinivas Tadaraj",
+      "degree" : "MBBS, MD, FIAP (Neonatology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM, 06:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Patlolla Shreya Reddy",
+      "degree" : "MD (Peditiatrics), Fellowship in Neonatology",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM, 02:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric ENT",
+    "schedules" : [ {
+      "doctor" : "Satya Kiran Avvaru",
+      "degree" : "MBBS, DLO, DNB (ENT), Fellowship in Implant Otology (CMC, Vellore), Advanced CI Surgeon Training (ICIT, USA)",
+      "schedule" : "Mon to Sat: 06:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric ICU",
+    "schedules" : [ {
+      "doctor" : "Preetham Kumar Reddy",
+      "degree" : "DCH, DNB (Pediatrics), Fellow Neonatology Pediatrician & Pediatric Intensivist",
+      "schedule" : "Wed: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Suresh Kumar Panda",
+      "degree" : "MBBS, MD (Pediatrics), Fellowship in Pediatric Intensive Care",
+      "schedule" : "Mon to Sat: 11:00 AM - 02:00 PM, 04:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Neurology",
+    "schedules" : [ {
+      "doctor" : "Ramesh Konanki",
+      "degree" : "MD (Paediatrics), DM",
+      "schedule" : "Thu: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Abhishek Ravindra Jain",
+      "degree" : "MBBS, MD (Paediatrics), IAP (Post Doctoral Fellowship in Pediatric Neurology)",
+      "schedule" : "Mon, Thu, Sat: 03:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Mukta Waghmare",
+      "degree" : "MBBS, DNB (General Surgery), MCH (Pediatric surgery), FMAS",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 04:00 PM - 06:00 PM\nWed: 03:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Physiotherapy",
+    "schedules" : [ {
+      "doctor" : "B Indira",
+      "degree" : "BPT, MPT (Nizam Institute of Medical Sciences)",
+      "schedule" : "Mon, Thu: 12:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Naga Nandini Bandikatla",
+      "degree" : "MBBS, MBA (Hospital Administration), MRCPsych (London)",
+      "schedule" : "Thu: 10:00 AM - 01:00 PM, 02:00 PM - 05:00 PM"
+    } ]
+  } ]
+}

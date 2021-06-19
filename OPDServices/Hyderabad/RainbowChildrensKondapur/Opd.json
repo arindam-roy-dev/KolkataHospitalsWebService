@@ -5,7 +5,7 @@
     "schedules" : [ {
       "doctor" : "Brundavani V",
       "degree" : "Ph.D (Clinical Nutrition), CPNS (USA), ADA",
-      "schedule" : "Mon, Fri, Sat: 13:30-17:00"
+      "schedule" : "Mon, Fri, Sat: 01:30 PM - 05:00 PM"
     } ]
   }, {
     "name" : "Dermatology",
@@ -19,47 +19,47 @@
     "schedules" : [ {
       "doctor" : "Srinivas Namineni",
       "degree" : "MDS (Pediatric Dentistry)",
-      "schedule" : "Tue, Thu, Sat: 10:00-18:00"
+      "schedule" : "Tue, Thu, Sat: 10:00 AM - 06:00 PM"
     } ]
   }, {
     "name" : "Diabetology",
     "schedules" : [ {
       "doctor" : "Kavitha Y",
       "degree" : "MBBS, Diploma in Diabetology",
-      "schedule" : "Fri: 09:30-12:30"
+      "schedule" : "Fri: 09:30 AM - 12:30 PM"
     } ]
   }, {
     "name" : "Endocrinology",
     "schedules" : [ {
       "doctor" : "Leenatha Jakkidi",
       "degree" : "MBBS, MRCPCH (CCT)",
-      "schedule" : "Tue: 10:00-12:00"
+      "schedule" : "Tue: 10:00 AM - 12:00 PM"
     }, {
       "doctor" : "Sirisha Kusuma B",
       "degree" : "MBBS, MD (Pediatrics)",
-      "schedule" : "Mon to Fri: 10:00-14:00\nSat: 10:00-13:00"
+      "schedule" : "Mon to Fri: 10:00 AM - 02:00 PM\nSat: 10:00 AM - 01:00 PM"
     } ]
   }, {
     "name" : "Fetal Medicine",
     "schedules" : [ {
       "doctor" : "Lakshmi Kiran",
       "degree" : "DGO, MRCOG (UK)",
-      "schedule" : "Mon: 10:00-16:00\nTue: 09:00-15:00\nWed, Thu: 11:00-14:00\nFri: 09:00-14:00"
+      "schedule" : "Mon: 10:00 AM - 04:00 PM\nTue: 09:00 AM - 03:00 PM\nWed, Thu: 11:00 AM - 02:00 PM\nFri: 09:00 AM - 02:00 PM"
     }, {
       "doctor" : "Himabindu Annamraju",
       "degree" : "MBBS, MRCOG (UK), CCT (UK), ATSM (Maternal Medicine), ATSM (Advanced labour ward practice)",
-      "schedule" : "Mon: 09:00-14:00"
+      "schedule" : "Mon: 09:00 AM - 02:00 PM"
     } ]
   }, {
     "name" : "Infertility",
     "schedules" : [ {
       "doctor" : "Preethi Reddy",
       "degree" : "MBBS, DGO",
-      "schedule" : "Mon to Sat: 08:00-16:00"
+      "schedule" : "Mon to Sat: 08:00 AM - 04:00 PM"
     }, {
       "doctor" : "Durvasula Ratna",
       "degree" : "MD, DNB, MRCOG (UK)",
-      "schedule" : "Mon to Sat: 13:30-16:00"
+      "schedule" : "Mon to Sat: 01:30 PM - 04:00 PM"
     } ]
   }, {
     "name" : "Neonatology",
@@ -70,61 +70,61 @@
     }, {
       "doctor" : "Lakshmi Vedaprakash",
       "degree" : "MD (Pediatrics), MRCPCH (UK), Speciality Training in Neonatology (UK)",
-      "schedule" : "Mon to Sat: 08:30-11:30"
+      "schedule" : "Mon to Sat: 08:30 AM - 11:30 AM"
     }, {
       "doctor" : "Swetha R",
       "degree" : "MD (Pediatrics), Fellowship in Neonatology",
-      "schedule" : "Mon to Sat: 10:00-14:00, 16:00-18:30"
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM, 04:00 PM - 06:30 PM"
     } ]
   }, {
     "name" : "Nutrition",
     "schedules" : [ {
       "doctor" : "Brundavani V",
       "degree" : "Ph.D (Clinical Nutrition), CPNS (USA), ADA",
-      "schedule" : "Mon, Fri, Sat: 13:30-17:00"
+      "schedule" : "Mon, Fri, Sat: 01:30 PM - 05:00 PM"
     }, {
       "doctor" : "Himabindu Annamraju",
       "degree" : "MBBS, MRCOG (UK), CCT (UK), ATSM (Maternal Medicine), ATSM (Advanced labour ward practice)",
-      "schedule" : "Mon: 09:00-14:00"
+      "schedule" : "Mon: 09:00 AM - 02:00 PM"
     } ]
   }, {
     "name" : "Obstetrics & Gynaecology",
     "schedules" : [ {
       "doctor" : "Varalakshmi",
       "degree" : "MS, MRCOG",
-      "schedule" : "Mon, Wed, Fri: 10:00-15:00\nTue, Thu: 11:00-17:00\nSat: 09:00-15:00"
+      "schedule" : "Mon, Wed, Fri: 10:00 AM - 03:00 PM\nTue, Thu: 11:00 AM - 05:00 PM\nSat: 09:00 AM - 03:00 PM"
     }, {
       "doctor" : "Lakshmi Kiran",
       "degree" : "DGO, MRCOG (UK)",
-      "schedule" : "Mon: 10:00-16:00\nTue: 09:00-15:00\nWed, Thu: 11:00-14:00\nFri: 09:00-14:00"
+      "schedule" : "Mon: 10:00 AM - 04:00 PM\nTue: 09:00 AM - 03:00 PM\nWed, Thu: 11:00 AM - 02:00 PM\nFri: 09:00 AM - 02:00 PM"
     }, {
       "doctor" : "Lakshmi Devi Appasani",
       "degree" : "MS (Obstetrics & Gynecology)",
-      "schedule" : "Mon, Sat: 14:00-19:00\nTue to Fri: 10:00-16:00"
+      "schedule" : "Mon, Sat: 02:00 PM - 07:00 PM\nTue to Fri: 10:00 AM - 04:00 PM"
     }, {
       "doctor" : "Akhila Gogineni",
       "degree" : "MBBS, MS (Obstetrics & Gynecology)",
-      "schedule" : "Mon, Tue, Fri: 09:00-15:00\nWed: 14:00-20:00"
+      "schedule" : "Mon, Tue, Fri: 09:00 AM - 03:00 PM\nWed: 02:00 PM - 08:00 PM"
     }, {
       "doctor" : "Vanisree Padige",
       "degree" : "MBBS, DGO",
-      "schedule" : "Mon: 10:00-16:00\nTue: 16:00-20:00\nThu: 14:00-20:00\nFri: 15:00-17:00\nSat: 09:00-12:00"
+      "schedule" : "Mon: 10:00 AM - 04:00 PM\nTue: 04:00 PM - 08:00 PM\nThu: 02:00 PM - 08:00 PM\nFri: 03:00 PM - 05:00 PM\nSat: 09:00 AM - 12:00 PM"
     }, {
       "doctor" : "V P Jyotsna",
       "degree" : "MBBS, MD (Obstetrics & Gynecology)",
-      "schedule" : "Mon, Wed: 13:00-19:00\nTue, Fri, Sat: 10:00-16:00\nThu: 13:00-16:00"
+      "schedule" : "Mon, Wed: 01:00 PM - 07:00 PM\nTue, Fri, Sat: 10:00 AM - 04:00 PM\nThu: 01:00 PM - 04:00 PM"
     }, {
       "doctor" : "Radhika Yadati",
       "degree" : "MBBS, DNB, MNAMS (Obstetrics & Gynecology), MRCOG (UK), FICOG",
-      "schedule" : "Mon, Wed, Fri: 15:00-17:00\nSat: 10:00-14:00"
+      "schedule" : "Mon, Wed, Fri: 03:00 PM - 05:00 PM\nSat: 10:00 AM - 02:00 PM"
     }, {
       "doctor" : "Ashwini Annam",
       "degree" : "MBBS, MD, DGO",
-      "schedule" : "Mon to Sat: 16:00-18:00"
+      "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
     }, {
       "doctor" : "Himabindu Annamraju",
       "degree" : "MBBS, MRCOG (UK), CCT (UK), ATSM (Maternal Medicine), ATSM (Advanced labour ward practice)",
-      "schedule" : "Mon: 09:00-14:00"
+      "schedule" : "Mon: 09:00 AM - 02:00 PM"
     } ]
   }, {
     "name" : "Paediatric",
@@ -135,7 +135,7 @@
     }, {
       "doctor" : "David Suvarna Raju",
       "degree" : "MD, DCH",
-      "schedule" : "Mon to Sat: 09:30-13:30, 17:30-20:30"
+      "schedule" : "Mon to Sat: 09:30 AM - 01:30 PM, 05:30 PM - 08:30 PM"
     }, {
       "doctor" : "Faisal B Nahdi",
       "degree" : "MD (Pediatrics), DCH, PGDHHM",
@@ -143,11 +143,11 @@
     }, {
       "doctor" : "Lakshmi Vedaprakash",
       "degree" : "MD (Pediatrics), MRCPCH (UK), Speciality Training in Neonatology (UK)",
-      "schedule" : "Mon: 08:30-11:30\nTue to Sat: 10:00-13:00"
+      "schedule" : "Mon: 08:30 AM - 11:30 AM\nTue to Sat: 10:00 AM - 01:00 PM"
     }, {
       "doctor" : "Meera Iyer",
       "degree" : "MD (Pediatrics), ABP (USA), FAAP (USA)",
-      "schedule" : "Mon: 09:00-15:00, 17:30-20:00\nTue to Sat: 09:00-13:30, 17:30-20:00"
+      "schedule" : "Mon: 09:00 AM - 03:00 PM, 05:30 PM - 08:00 PM\nTue to Sat: 09:00 AM - 01:30 PM, 05:30 PM - 08:00 PM"
     }, {
       "doctor" : "Sivaranjani Santosh",
       "degree" : "MBBS, MD (Pediatrics) (JIPMER)",
@@ -155,22 +155,22 @@
     }, {
       "doctor" : "Kiranmayi M",
       "degree" : "DNB (Pediatrics)",
-      "schedule" : "Mon to Sat: 09:00-17:00"
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
     }, {
       "doctor" : "Swetha R",
       "degree" : "MD (Pediatrics), Fellowship in Neonatology",
-      "schedule" : "Mon: 09:00-15:00, 16:00-18:30\nTue to Sat: 10:00-14:00, 16:00-18:30"
+      "schedule" : "Mon: 09:00 AM - 03:00 PM, 04:00 PM - 06:30 PM\nTue to Sat: 10:00 AM - 02:00 PM, 04:00 PM - 06:30 PM"
     }, {
       "doctor" : "Archana Pinapala",
       "degree" : "MBBS, MD (Pediatrics) (PGI), Fellowship in Pediatric Nephrology (SJMCH), NUH ( Singapore)",
-      "schedule" : "Mon: 11:00-13:00"
+      "schedule" : "Mon: 11:00 AM - 01:00 PM"
     } ]
   }, {
     "name" : "Paediatric ENT",
     "schedules" : [ {
       "doctor" : "P. V. L. N. Murthy",
       "degree" : "MBBS, DLO, DNB",
-      "schedule" : "Tue, Thu, Sat: 16:00-18:00"
+      "schedule" : "Tue, Thu, Sat: 04:00 PM - 06:00 PM"
     }, {
       "doctor" : "Krishna Bojja",
       "degree" : "MBBS, MD",
@@ -188,14 +188,14 @@
     "schedules" : [ {
       "doctor" : "Archana Pinapala",
       "degree" : "MBBS, MD (Pediatrics) (PGI), Fellowship in Pediatric Nephrology (SJMCH), NUH ( Singapore)",
-      "schedule" : "Mon: 11:00-13:00"
+      "schedule" : "Mon: 11:00 AM - 01:00 PM"
     } ]
   }, {
     "name" : "Paediatric Surgery",
     "schedules" : [ {
       "doctor" : "Lavanya Kannaiyan",
       "degree" : "MS, MCH (Pediatric Surgery)",
-      "schedule" : "Mon to Sat: 13:30-14:30"
+      "schedule" : "Mon to Sat: 01:30 PM - 02:30 PM"
     } ]
   }, {
     "name" : "Psychiatry",
@@ -209,7 +209,7 @@
     "schedules" : [ {
       "doctor" : "Sasanka",
       "degree" : "MS, DNB (Urology)",
-      "schedule" : "Tue, Sat: 08:30-09:00"
+      "schedule" : "Tue, Sat: 08:30 AM - 09:00 AM"
     } ]
   } ]
 }

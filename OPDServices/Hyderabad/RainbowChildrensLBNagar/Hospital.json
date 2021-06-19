@@ -1,0 +1,18 @@
+{
+"name":"Rainbow Children's Hospital, LB Nagar",
+"code":"RainbowChildrensLBNagar",
+"address":"Plot No 73/C & 73/D, Survey No # 52, Saraswathi Nagar Colony, Mansoorabad Village, LB Nagar, Ranga Reddy District, 500074",
+"geoLocation":"17.3417888,78.5589037?q=Rainbow+Children's+Hospital+and+BirthRight+by+Rainbow",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"4071111333"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"18002122,4071111333",
+	"isOpd":true
+	}]
+}
