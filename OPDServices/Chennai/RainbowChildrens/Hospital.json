@@ -1,0 +1,15 @@
+{
+"name":"Rainbow Children's Hospital",
+"code":"RainbowChildrens",
+"address":"#157, Anna Salai, Near Little Mount Metro Station, Guindy, Chennai 600015",
+"geoLocation":"13.0138212,80.2228151?q=Rainbow+Children’s+Hospital",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in/chennai/",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"4440122444",
+	"isOpd":true
+	}]
+}

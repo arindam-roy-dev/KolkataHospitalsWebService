@@ -1,0 +1,189 @@
+﻿{
+  "name" : "Rainbow Children's Hospital",
+  "specialties" : [ {
+    "name" : "Anaesthesiology",
+    "schedules" : [ {
+      "doctor" : "Sathish Chander",
+      "degree" : "DA, DNB (Anesthesia)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Microbiology",
+    "schedules" : [ {
+      "doctor" : "Nivedhana",
+      "degree" : "MBBS, MD (Microbiology)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "B Padma Keerthiga",
+      "degree" : "MBBS, MD (Biochemistry)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neonatology",
+    "schedules" : [ {
+      "doctor" : "Rahul Yadav",
+      "degree" : "MD (Pediatrics), DM (Neonatology)",
+      "schedule" : "Mon, Wed: 12:00 PM - 02:00 PM\nTue, Thu, Fri, Sat: 12:00 PM - 02:00 PM, 06:00 PM - 09:00 PM\nSun: 06:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "Shobana Rajendran",
+      "degree" : "DNB (Pediatrics), DNB (Neonatology)",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 01:30 PM - 04:00 PM\nTue: 01:30 PM - 04:00 PM, 06:00 PM - 09:00 PM\nSun: 06:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "S Arun Kumar",
+      "degree" : "MD (Pediatrics), DNB (Neonatology)",
+      "schedule" : "Mon, Tue, Fri: 02:00 PM - 05:00 PM\nWed, Thu, Sat: 02:00 PM - 05:00 PM, 06:00 PM - 09:00 PM\nSun: 06:00 PM - 09:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Mathangi Rajagopalan",
+      "degree" : "MBBS, DGO, MRCOG (UK), FRCOG (UK)",
+      "schedule" : "Mon, Wed, Sat: 10:00 AM - 07:00 PM\nTue, Thu, Fri: 09:30 AM - 04:00 PM"
+    }, {
+      "doctor" : "Thendral K",
+      "degree" : "MS, DNB (Obstetrics & Gynaecology), FMAS",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vidhya Moorthy",
+      "degree" : "MBBS, MRCOG, Dip Fetal Medicine (Fetal Medicine Foundation, London)",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 09:30 AM - 04:00 PM\nFri: 09:30 AM - 04:00 PM, 12:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "K. Balakumari",
+      "degree" : "MBBS, MD, DGO",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Wahida Suresh",
+      "degree" : "MBBS, DNB (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: 09:30 AM - 01:30 PM, 03:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric",
+    "schedules" : [ {
+      "doctor" : "Karthik Narayanan",
+      "degree" : "MD (Pediatrics), DM (Pediatric Critical Care and Emergency Medicine)",
+      "schedule" : "Mon, Thu, Sat: 03:30 PM - 05:30 PM, 06:00 PM - 09:00 PM\nTue, Wed, Fri: 03:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "R Ganesh",
+      "degree" : "MBBS, DNB (Pediatrics), MNAMS, MRCPCH (UK), PhD (Pediatric Endocrinology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM, 06:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Rahul Yadav",
+      "degree" : "MD (Pediatrics), DM (Neonatology)",
+      "schedule" : "Mon, Wed: 12:00 PM - 02:00 PM\nTue, Thu, Fri, Sat: 12:00 PM - 02:00 PM, 06:00 PM - 09:00 PM\nSun: 06:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "N Suresh",
+      "degree" : "MBBS, DNB (Ped), MRCPCH (UK), MNAMS, PGDAP, PhD (Ped Pulmonology), Dip in Allergy & Asthma (USA)",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM, 12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Nataraj Palaniappan",
+      "degree" : "MD (Pediatrics), Fellow Critical Care Medicine (SickKids, Toronto)",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 11:00 AM - 01:00 PM, 04:00 PM - 06:00 PM\nWed: 11:00 AM - 01:00 PM, 04:00 PM - 09:00 PM\nSun: 06:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "Shobana Rajendran",
+      "degree" : "DNB (Pediatrics), DNB (Neonatology)",
+      "schedule" : "Mon, Wed, Thu, Fri, Sat: 01:30 PM - 04:00 PM\nTue: 01:30 PM - 04:00 PM, 06:00 PM - 09:00 PM\nSun: 06:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "S Arun Kumar",
+      "degree" : "MD (Pediatrics), DNB (Neonatology)",
+      "schedule" : "Mon, Tue, Fri: 02:00 PM - 05:00 PM\nWed, Thu, Sat: 02:00 PM - 05:00 PM, 06:00 PM - 09:00 PM\nSun: 06:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "V V Varadarajan",
+      "degree" : "DCH, MD (Pediatrics)",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 10:30 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric & Metabolic Medicine",
+    "schedules" : [ {
+      "doctor" : "R Ganesh",
+      "degree" : "MBBS, DNB (Pediatrics), MNAMS, MRCPCH (UK), PhD (Pediatric Endocrinology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM, 06:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Allergy",
+    "schedules" : [ {
+      "doctor" : "N Suresh",
+      "degree" : "MBBS, DNB (Pediatrics), MRCPCH (UK), MNAMS, PGDAP, PhD (Pediatric Pulmonology), Diploma in Allergy & Asthma (USA)",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM, 12:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric ENT",
+    "schedules" : [ {
+      "doctor" : "Thirunavukkarasu S",
+      "degree" : "DLO (Diploma in Otorhinolaryngology), DNB (Otorhinolaryngology)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "K. Balakumar",
+      "degree" : "MBBS, DLO (Diploma in Otorhinolaryngology), MS (ENT,  Otorhinolaryngology)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric ICU",
+    "schedules" : [ {
+      "doctor" : "Karthik Narayanan",
+      "degree" : "MD (Pediatrics), DM (Pediatric Critical Care and Emergency Medicine)",
+      "schedule" : "Mon, Thu, Sat: 03:30 PM - 05:30 PM, 06:00 PM - 09:00 PM\nTue, Wed, Fri: 03:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "Nataraj Palaniappan",
+      "degree" : "MD (Pediatrics), Fellow Critical Care Medicine (SickKids, Toronto)",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 11:00 AM - 01:00 PM, 04:00 PM - 06:00 PM\nWed: 11:00 AM - 01:00 PM, 04:00 PM - 09:00 PM\nSun: 06:00 PM - 09:00 PM"
+    }, {
+      "doctor" : "Geetha Jayapathy",
+      "degree" : "MBBS, DNB (Pediatrics), FPEM",
+      "schedule" : "Mon, Fri, Sat: 10:00 AM - 12:00 PM, 02:00 PM - 04:00 PM, 06:00 PM - 09:00 PM\nTue to Thu: 10:00 AM - 12:00 PM, 02:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Neurology",
+    "schedules" : [ {
+      "doctor" : "Padma Balaji",
+      "degree" : "MBBS, MD ( Pediatrics ), Post Doctoral Fellowship Pediatric Neurology",
+      "schedule" : "Mon to Sat: 09:30 AM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Nephrology",
+    "schedules" : [ {
+      "doctor" : "N Prahlad",
+      "degree" : "DCH, DNB (Pediatrics), MNAMS, Fellow (Pediatric Nephrology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Pulmonology",
+    "schedules" : [ {
+      "doctor" : "N Suresh",
+      "degree" : "MBBS, DNB (Pediatrics), MRCPCH (UK), MNAMS, PGDAP, PhD (Pediatrics Pulmonology), Diploma in Allergy & Asthma (USA)",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM, 12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "V V Varadarajan",
+      "degree" : "DCH, MD (Pediatrics)",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 10:30 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Moorthy G",
+      "degree" : "MBBS, MRCS (UK), MCh (AIIMS), DNB (Paediatric Surgery), MNAMS",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Senthil Ganesh K",
+      "degree" : "MS (General Surgery), MCh (Pediatric Surgery)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric Urology",
+    "schedules" : [ {
+      "doctor" : "Moorthy G",
+      "degree" : "MBBS, MRCS (UK), MCh (AIIMS), DNB (Paediatric Surgery), MNAMS",
+      "schedule" : "Mon to Sat: 11:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Senthil Ganesh K",
+      "degree" : "MS (General Surgery), MCh (Pediatric Surgery)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Padmapriya G",
+      "degree" : "MBBS, MD (Radiodiagnosis), DMRD",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}

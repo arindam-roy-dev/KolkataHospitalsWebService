@@ -65,5 +65,9 @@
 	"name":"Kamakshi Memorial Hospital",
 	"locality":"Pallikaranai",
 	"code":"KamakshiMemorial"
+	},{
+	"name":"Rainbow Children's Hospital",
+	"locality":"Guindy",
+	"code":"RainbowChildrens"
 	}]
 } 
