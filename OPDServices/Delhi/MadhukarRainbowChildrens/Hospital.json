@@ -1,0 +1,18 @@
+{
+"name":"Madhukar Rainbow Children’s Hospital",
+"code":"MadhukarRainbowChildrens",
+"address":"FC-29, Plot No.5, Geetanjali, Near Malviya Nagar Metro Station Gate No.1, New Delhi - 110017",
+"geoLocation":"28.5290831,77.2049158?q=Madhukar+Rainbow+Children's+Hospital+%26+BirthRight+By+Rainbow+Hospitals",
+"emails":"info@rainbowhospitals.in",
+"websites":"https://www.rainbowhospitals.in/child-care/centre/malviya-nagar",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Emergency",
+	"phoneNumbers":"8448799501"
+	},{
+	"name":"Appointment",
+	"phoneNumbers":"8448799504",
+	"isOpd":true
+	}]
+}
