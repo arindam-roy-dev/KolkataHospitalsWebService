@@ -120,11 +120,11 @@
     }, {
       "doctor" : "Nitasha Bagga",
       "degree" : "MBBS, DNB (Paediatrics), IAP (Neonatology)",
-      "schedule" : "Mon, Tue, Wed, Fri, Sat: 10:00 AM - 01:30 PM, 03:30 PM - 05:30 PM\nThu: 09:00 AM - 10:00 AM"
+      "schedule" : "Mon to Sat: 09:00 AM - 12:30 PM, 03:30 PM - 05:30 PM"
     }, {
       "doctor" : "Nalinikanta Panigrahy",
       "degree" : "MD (Paediatrics), DNB (Neonatology)",
-      "schedule" : "Mon, Wed, Thu: 10:30 AM - 01:30 PM, 03:30 PM - 05:30 PM\nTue, Fri: 10:30 AM - 01:30 PM\nSat: 09:00 AM - 10:00 AM"
+      "schedule" : "Mon, Wed, Thu, Sat: 10:30 AM - 01:30 PM, 03:30 PM - 05:30 PM\nTue, Fri: 10:30 AM - 01:30 PM"
     }, {
       "doctor" : "Vijayanand Jamalpuri",
       "degree" : "MD, MRCPCH, CCT (Paediatrics) (UK), Fellowship in Neonatology (NZ), Post Graduate Certificate in Teaching and Learning for Health Profession (UK)",
@@ -132,7 +132,7 @@
     }, {
       "doctor" : "Ranjit Kumar Gunda",
       "degree" : "MBBS, MRCPCH (UK), CCT (Neonatal Medicine)",
-      "schedule" : "Mon: 08:30 AM - 10:00 AM\nTue to Sat: 08:30 AM - 10:20 AM, 04:00 PM - 06:00 PM"
+      "schedule" : "Mon to Sat: 09:00 AM - 10:30 AM, 12:30 PM - 02:00 PM, 04:00 PM - 06:00 PM"
     } ]
   }, {
     "name" : "Obstetrics & Gynaecology",
@@ -143,7 +143,7 @@
     }, {
       "doctor" : "Shruthi Reddy Poddutoor",
       "degree" : "MD, MRCOG (UK)",
-      "schedule" : "Mon, Wed, Thu, Fri, Sat: 09:00 AM - 02:00 PM\nTue: 09:00 AM - 04:00 PM"
+      "schedule" : "Mon to Fri: 09:00 AM - 02:00 PM\nSat: 09:00 AM - 01:00 PM"
     }, {
       "doctor" : "Prathyusha Reddy",
       "degree" : "MBBS, MD",
@@ -260,7 +260,7 @@
     }, {
       "doctor" : "Nalinikanta Panigrahy",
       "degree" : "MD (Paediatrics), DNB (Neonatology)",
-      "schedule" : "Mon, Wed, Thu: 10:30 AM - 01:30 PM, 03:30 PM - 05:30 PM\nTue, Fri: 10:30 AM - 01:30 PM\nSat: 09:00 AM - 10:00 AM"
+      "schedule" : "Mon, Wed, Thu, Sat: 10:30 AM - 01:30 PM, 03:30 PM - 05:30 PM\nTue, Fri: 10:30 AM - 01:30 PM"
     }, {
       "doctor" : "Vijayanand Jamalpuri",
       "degree" : "MD, MRCPCH, CCT in Paediatrics (UK), Fellowship in Neonatology (NZ), Post Graduate Certificate in Teaching and Learning for Health Profession (UK)",

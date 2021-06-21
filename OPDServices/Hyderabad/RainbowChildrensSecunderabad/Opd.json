@@ -71,7 +71,7 @@
     "schedules" : [ {
       "doctor" : "Bhavana Kasu",
       "degree" : "DNB",
-      "schedule" : "Mon, Thu, Fri: 01:00 PM - 07:00 PM\nTue, Wed, Sat: 08:30 AM - 02:30 PM"
+      "schedule" : "Mon, Thu: 01:00 PM - 07:00 PM\nTue, Wed, Fri, Sat: 08:30 AM - 02:30 PM"
     }, {
       "doctor" : "Madhavi Reddy",
       "degree" : "DGO, DNB & MRCOG (UK)",
