@@ -1,0 +1,18 @@
+{
+"name":"Fortis La Femme, Richmond Town",
+"code":"FortisRichmond",
+"address":"62 Richmond Road,Bengaluru",
+"geoLocation":"12.9657257,77.6100925?q=Fortis+La+Femme,+Richmond+Town",
+"emails":"contactus.lfb@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-la-femme-hospital-in-richmond-town-karnataka",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"8045623939",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"105711"
+	}]
+}

@@ -1,0 +1,18 @@
+{
+"name":"Fortis Hospital, Rajajinagar",
+"code":"FortisRajajinagar",
+"address":"111, West of Chord Road, Opp Rajajinagar, 1st Block Junction, Bengaluru, Karnataka 560086",
+"geoLocation":"13.0018941,77.5493296?q=Fortis+Hospital+Rajajinagar+Bangalore+-+Karnataka",
+"emails":"care.rnr@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-hospital-in-rajajinagar-karnataka",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"7618772262",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"9686096860"
+	}]
+}

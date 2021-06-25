@@ -1,0 +1,18 @@
+{
+"name":"Fortis Hospital, Cunningham Road",
+"code":"FortisCunningham",
+"address":"14, Cunningham Road, Bangalore 560052, Karnataka",
+"geoLocation":"12.988178,77.5945405?q=Fortis+Hospital,+Cunningham+Road,+Bangalore",
+"emails":"care.cg@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-hospital-in-cunningham-road-karnataka",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"9686860310",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"9686096860"
+	}]
+}

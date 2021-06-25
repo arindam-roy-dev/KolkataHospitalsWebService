@@ -1,0 +1,90 @@
+﻿{
+  "name" : "Fortis La Femme, Richmond Town",
+  "specialties" : [ {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Nagabhushan Nagaraj Kanivappa",
+      "degree" : "MBBS, DNB, FVES (Vascular & Endovascular Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Ramraj V N",
+      "degree" : "MBBS, DNB (General surgery), FACS, FBMS, FMIS, FALS-HPB, FACRSI, FIAGES, FIBC, EFIAGES",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Pruthu Narendra Dhekane",
+      "degree" : "MBBS, MD, FNB (Infectious Disease)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Arwa Mohsin E",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: 08:00 - 20:00"
+    }, {
+      "doctor" : "Rubina Shanawaz Zameer",
+      "degree" : "MBBS, MS (Obstetrics & Gynaecology), FICS, DRN (Germany), CU",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "Mangesh P Kamath",
+      "degree" : "MBBS, DNB (Internal Medicine), DM (Medical Oncology), MRCP (Oncology) (UK, SCE), ECMO (Euro), PGDCR (Clinical Research)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Niti Raizada Narang",
+      "degree" : "MBBS, MD (General Medicine), DNB (General Medicine), DM (Oncology), MRCP (UK)",
+      "designation" : "Director",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Neema Bhat",
+      "degree" : "Fellowship in Haematology (Oncology) and Bone Marrow Transplantation",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Suchitra R",
+      "degree" : "MBBS, MS (Obstetrics & Gynaecology), Fellowship in Gynaec Oncology",
+      "schedule" : "Mon: 15:00 - 18:00\nWed, Fri: 10:00 - 13:00"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Jayateerth W Kulkarni",
+      "degree" : "MBBS",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Krishen Bindiganavile Ranganath",
+      "degree" : "MBBS, MRCPsych, Diploma in Clinical Psychiatry",
+      "schedule" : "Mon to Sat: 11:00 - 15:00"
+    } ]
+  }, {
+    "name" : "Psychology",
+    "schedules" : [ {
+      "initial" : "Ms.",
+      "doctor" : "Pratibha Malhotra",
+      "degree" : "BA (Applied Psychology Hons.), MA (Applied Psychology)",
+      "designation" : "Senior Lab Attendant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Nagesh Mruthyunjaya",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}

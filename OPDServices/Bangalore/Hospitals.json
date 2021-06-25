@@ -50,6 +50,26 @@
 	"locality":"Yeshwanthpur",
 	"code":"ColumbiaYeshwanthpur"
 	},{
+	"name":"Fortis Hospital, Bannerghatta Road",
+	"locality":"Panduranga Nagar",
+	"code":"FortisBannerghatta"
+	},{
+	"name":"Fortis Hospital, Cunningham Road",
+	"locality":"Vasanth Nagar",
+	"code":"FortisCunningham"
+	},{
+	"name":"Fortis Hospital, Nagarbhavi",
+	"locality":"Naagarabhaavi",
+	"code":"FortisNagarbhavi"
+	},{
+	"name":"Fortis Hospital, Rajajinagar",
+	"locality":"Rajajinagar",
+	"code":"FortisRajajinagar"
+	},{
+	"name":"Fortis La Femme, Richmond Town",
+	"locality":"Richmond Town",
+	"code":"FortisRichmond"
+	},{
 	"name":"Gleneagles Global Hospitals",
 	"locality":"Ashok Nagar",
 	"code":"GleneaglesGlobal"

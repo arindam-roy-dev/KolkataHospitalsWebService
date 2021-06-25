@@ -1,0 +1,215 @@
+﻿{
+  "name" : "Fortis Hospital, Nagarbhavi",
+  "specialties" : [ {
+    "name" : "Bariatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Ramraj V N",
+      "degree" : "MBBS ,DNB (General surgery), FACS, FBMS, FMIS, FALS(HPB), FACRSI, FIAGES, FIBC, EFIAGES",
+      "schedule" : "Mon to Sat: 11:00 AM - 13:00 PM"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Prabhakar C Koregol",
+      "degree" : "MD, DM",
+      "schedule" : "Mon, Wed, Thu, Sat: 09:30 AM - 10:45 AM"
+    }, {
+      "doctor" : "Srinivasa Prasad B V",
+      "degree" : "MBBS, MD (PGI, Chandigarh), DM (SCTIMST), Fellowship in Interventional Cardiology",
+      "designation" : "Consultant",
+      "schedule" : "Tue: 10:30 AM - 11:30 AM"
+    }, {
+      "doctor" : "Rajpal RL Singh",
+      "degree" : "MBBS,MRCP, CCST (UK)",
+      "designation" : "Director",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vivek G C",
+      "degree" : "MBBS, MD (Internal Medicine), DM (Cardiology)",
+      "schedule" : "Mon, Tue, Wed, Thu, Sat: 06:00 PM - 06:50 PM"
+    } ]
+  }, {
+    "name" : "Critical Care",
+    "schedules" : [ {
+      "doctor" : "Ravikiran B M",
+      "degree" : "",
+      "designation" : "Senior Registrar",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Bhanu Prakash",
+      "degree" : "MD",
+      "schedule" : "Tue, Thu, Sat: 05:30 PM - 06:30 PM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Suryanarayana K M",
+      "degree" : "DM",
+      "schedule" : "Tue, Thu, Sat: 05:30 PM - 06:30 PM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Narendranath A",
+      "degree" : "MBBS, MS (ENT)",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM, 04:00 PM - 04:30 PM"
+    }, {
+      "doctor" : "Susheen Dutt",
+      "degree" : "MS (ENT), Fellowship in advanced Endscopic Sinus Surgery (FESS)",
+      "schedule" : "Tue, Thu, Sat: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Kiran S",
+      "degree" : "MD, DM",
+      "schedule" : "Mon to Sat: 04:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Anantha Padmanabha",
+      "degree" : "MD, PGD in Clinical Endocrinology and Diabetes",
+      "schedule" : "Mon to Sat: 09:30 AM - 11:30 AM, 05:30 PM - 06:30 PM"
+    }, {
+      "doctor" : "Sridhar C N",
+      "degree" : "MBBS , DNB (General Medicine)",
+      "schedule" : "Mon to Sat: 02:30 PM - 04:00 PM"
+    }, {
+      "doctor" : "Bhojamma M N",
+      "degree" : "MD",
+      "schedule" : "Mon to Sat: 12:00 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Anand Kumar Jayaram",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Narayana Prasad",
+      "degree" : "MBBS, MS (General Surgery)",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Hanumanthaiah K S",
+      "degree" : "MS, DNB, FRCS, FACS, FIAGES",
+      "schedule" : "Mon to Sat: 06:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Veerabhadra Gupta K",
+      "degree" : "MD ( General Medicine), DM (Nephrology)",
+      "schedule" : "Tue, Thu, Sat: 08:45 AM - 09:30 AM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Dayananda K",
+      "degree" : "DM",
+      "schedule" : "Wed, Sat: 03:20 PM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Chandrika Anand",
+      "degree" : "MD",
+      "schedule" : "Mon to Sat: 13:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Sowmya K",
+      "degree" : "MBBS, MS (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Preethi Gowda",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: 11:30 AM - 12:30 PM"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "Hamza Yusuf Dalal",
+      "degree" : "MBBS, MD (General Medicine), DNB (Clinical Hematology)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Ravi Joshi",
+      "degree" : "MBBS, MD (Paediatrics), FNB (Paedriatic Haemato Oncology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Mangesh",
+      "degree" : "MBBS, DNB (Internal Medicine), DM (Medical Oncology), MRCP (Oncology) (UK), ECMO (EURO), PGDCR (Clinical Research)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Anil Kumar Bagrecha M",
+      "degree" : "MBBS, D.Ortho, DNB (Orthopaedics), MRCS (UK)",
+      "schedule" : "Mon to Sat: 06:00 PM - 06:30 PM"
+    }, {
+      "doctor" : "Shankar E",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Manjunath K L",
+      "degree" : "MS",
+      "schedule" : "Mon to Sat: 10:30 AM - 11:30 AM"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Preeth Shetty",
+      "degree" : "MD",
+      "schedule" : "Mon to Sat: 02:00 PM - 02:30 PM"
+    }, {
+      "doctor" : "Vrajendu B B",
+      "degree" : "MD",
+      "schedule" : "Mon, Tue, Thu, Fri, Sat: 10:20 AM - 11:00 AM\nWed: 10:20 AM - 10:50 AM"
+    } ]
+  }, {
+    "name" : "Paediatric Surgery",
+    "schedules" : [ {
+      "doctor" : "Ravi Kiran K",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Mahesh A",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Majeed Pasha",
+      "degree" : "MBBS , MD (Pulmonary Medicine)",
+      "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Mohan Keshavamurthy",
+      "degree" : "MS, M.Ch (Urology), FRCS, FASTS, FICS, Fellowship in Transplantation Surgery (QEII, HSC, Canada), Fellowship of American Society of Trasplantation, Fellowship in Urogynaec Oncology",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Prem Kumar",
+      "degree" : "DNB",
+      "designation" : "Consultant",
+      "schedule" : "Mon, Tue, Thu, Sat: 10:30 AM - 12:00 PM\nWed, Fri: 10:30 AM - 12:00 PM, 03:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Nagarajaiah N",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shreeharsha Mallappa Awati",
+      "degree" : "DNB",
+      "schedule" : "Mon to Sat: 04:30 PM - 05:30 PM"
+    } ]
+  } ]
+}

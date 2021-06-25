@@ -1,0 +1,18 @@
+{
+"name":"Fortis Hospital, Bannerghatta Road",
+"code":"FortisBannerghatta",
+"address":"154/9, Bannerghatta Road, Opposite IIM-B, Bengaluru, Karnataka 560076",
+"geoLocation":"12.8945882,77.5989569?q=Fortis+Hospital,+Bannerghatta+Main,+Bangalore",
+"emails":"care.bng@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-hospital-in-bannerghatta-road-karnataka",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"9663367253",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"9686096860"
+	}]
+}
