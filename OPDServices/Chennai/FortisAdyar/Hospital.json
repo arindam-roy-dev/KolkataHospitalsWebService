@@ -1,0 +1,18 @@
+{
+"name":"Fortis Malar Hospital, Adyar",
+"code":"FortisAdyar",
+"address":"No.52, 1st Main Road,, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+"geoLocation":"13.0098951,80.2592804?q=Fortis+Malar+Hospital,+Adyar,+Chennai",
+"emails":"contactus.malar@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-malar-hospital-in-adyar-tamil-nadu",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"4442892222",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"4449334933"
+	}]
+}

@@ -1,0 +1,18 @@
+{
+"name":"Fortis Hospitals, Vadapalani",
+"code":"FortisVadapalani",
+"address":"23/1 Arcot Road, Vadapalani, Chennai 600 026",
+"geoLocation":"13.0472378,80.2044385?q=Fortis+Hospital+Vadapalani",
+"emails":"enquiry.vadapalani@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-hospital-in-vadapalani-tamil-nadu",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"4440204444",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"4449334933"
+	}]
+}

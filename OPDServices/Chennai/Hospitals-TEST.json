@@ -54,6 +54,14 @@
 	"locality":"MRC Nagar",
 	"code":"ApolloCosmetic"
 	},{
+	"name":"Fortis Malar Hospital, Adyar",
+	"locality":"Adyar",
+	"code":"FortisAdyar"
+	},{
+	"name":"Fortis Hospitals, Vadapalani",
+	"locality":"Vadapalani",
+	"code":"FortisVadapalani"
+	},{
 	"name":"Gleneagles Global Health City",
 	"locality":"Perumbakkam",
 	"code":"GleneaglesHealthCity"

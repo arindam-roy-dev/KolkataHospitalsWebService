@@ -1,0 +1,170 @@
+﻿{
+  "name" : "Fortis Hospitals, Vadapalani",
+  "specialties" : [ {
+    "name" : "Anesthesia",
+    "schedules" : [ {
+      "doctor" : "Manohar J",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appontment"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Babu E",
+      "degree" : "MBBS, MD (General Medicine), DM (Cardiology), FNB (Interventional Cardiology), FACC, FESC, FSCAI, FAPSIC",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appontment"
+    }, {
+      "doctor" : "M S Meenakshi",
+      "degree" : "MBBS, MD, DM (Cardiology), FNB (Interventional Cardiology)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Jyotirmaya Dash",
+      "degree" : "MBBS, MD (General Medicine), DNB (Cardiology), FESC",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Suresh Joitabhai Patel",
+      "degree" : "MBBS, MS (General Surgery), M.Ch (CTVS) (Cardiothoracic & Vascular Surgery)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Emergency Medicine",
+    "schedules" : [ {
+      "doctor" : "K Kalahasteeswara Reddy",
+      "degree" : "",
+      "designation" : "Medical Officer",
+      "schedule" : "Mon to Sat: By Appontment"
+    }, {
+      "doctor" : "Preetha Elangovan",
+      "degree" : "",
+      "designation" : "Senior Medical Officer",
+      "schedule" : "Mon to Sat: By Appontment"
+    }, {
+      "doctor" : "Neeraj Mangla",
+      "degree" : "",
+      "designation" : "Principal Medical Officer",
+      "schedule" : "Mon to Sat: By Appontment"
+    } ]
+  }, {
+    "name" : "General Medidcine",
+    "schedules" : [ {
+      "doctor" : "Thomas George",
+      "degree" : "MBBS, MD, MAMS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Heart Transplant",
+    "schedules" : [ {
+      "doctor" : "Govini Balasubramani",
+      "degree" : "MBBS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:00 PM"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "E Tino Francis",
+      "degree" : "",
+      "designation" : "Resident",
+      "schedule" : "Mon to Sat: By Appontment"
+    }, {
+      "doctor" : "Vaibhav Suresh",
+      "degree" : "",
+      "designation" : "Registrar",
+      "schedule" : "Mon to Sat: By Appontment"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Ganesh Prasad N K",
+      "degree" : "DNB (General Medicine)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appontment"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Senthil Nathan J",
+      "degree" : "MBBS",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appontment"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Soundappan V",
+      "degree" : "MS, M.Ch (Neuro Surgery)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appontment"
+    }, {
+      "doctor" : "Suresh P",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appontment"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Nandhini Elumalai",
+      "degree" : "MBBS, MS (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: By Appontment"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Nandkumar Sundaram",
+      "degree" : "MBBS, FRCS, M.Sc (Orthopaedics) (London)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: By Appontment"
+    }, {
+      "doctor" : "Vijay Balaji G",
+      "degree" : "MBBS",
+      "schedule" : "Mon to Sat: By Appontment"
+    }, {
+      "doctor" : "S Dilip Chand Raja",
+      "degree" : "MBBS, MS (Orthopaedics), DNB (Orthopaedics), FNB (Spine), Global Diploma (AO Spine)",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Sindhura Koganti",
+      "degree" : "MBBS, MD (TB & Pulmonary Medicine), Fellowship (Lung Transplant)",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Anand Narasingam Parimalai",
+      "degree" : "",
+      "designation" : "Attending Consultant",
+      "schedule" : "Mon to Sat: By Appontment"
+    }, {
+      "doctor" : "L Murali Krishna",
+      "degree" : "",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appontment"
+    }, {
+      "doctor" : "Balamurugan U",
+      "degree" : "",
+      "designation" : "Attending Consultant",
+      "schedule" : "Mon to Sat: By Appontment"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Shanmugasundaram Rajaian",
+      "degree" : "MBBS, MS (General Surgery), M.Ch, DNB (Urology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 10:30 AM - 05:30 PM"
+    } ]
+  } ]
+}

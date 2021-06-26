@@ -1,0 +1,367 @@
+﻿{
+  "name" : "Fortis Malar Hospital, Adyar",
+  "specialties" : [ {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Arthanaree S. S",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Manohar G",
+      "degree" : "MD, DM (Cardiology)",
+      "schedule" : "Mon to Sat: 02:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Muralidaran K",
+      "degree" : "MD (General Medicine)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Nandakumaran M",
+      "degree" : "MD, DM (Cardiology)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Pradeep Gopinath Nayar",
+      "degree" : "MBBS",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM, 02:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Ramesh A. N",
+      "degree" : "",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Rudrappa A",
+      "degree" : "MD, DM (Cardiology)",
+      "schedule" : "Mon to Sat: 05:30 PM - 06:30 PM"
+    }, {
+      "doctor" : "Sampath Kumar",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vijayaragavan V",
+      "degree" : "MBBS, PGDCC",
+      "designation" : "Associate Consultant",
+      "schedule" : ""
+    }, {
+      "doctor" : "Viswanathan N",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Aarimuthusamy A",
+      "degree" : "",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Madhu Sankar",
+      "degree" : "MS, PHD, DNB",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Amudha M",
+      "degree" : "MBBS, DD",
+      "schedule" : "Mon to Sat: 12:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Deepika Lunawat",
+      "degree" : "MBBS, MD (Dermatology)",
+      "schedule" : "Mon to Sat: 08:30 AM - 02:00 PM"
+    }, {
+      "doctor" : "Cordelia Babitha S",
+      "degree" : "MBBS",
+      "schedule" : "Mon, Wed, Fri: 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Raj Kumar Kannan",
+      "degree" : "Diploma (Dermatology, Venerology & Leprosy)",
+      "schedule" : "Wed, Sat: 04:00 PM - 07:30 PM"
+    }, {
+      "doctor" : "Selvam A",
+      "degree" : "MD (DVL)",
+      "schedule" : "Fri: 03:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Muthu Kumaran Jayapaul",
+      "degree" : "MD (Diabetes and Genetics) (UK) , CCT (Endocrinology) (UK)",
+      "schedule" : "Wed, Fri: 03:30 PM - 05:00 PM"
+    }, {
+      "doctor" : "Srivatsa A",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 12:30 PM - 02:00 PM, 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Thirumoorthi N",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 08:30 AM - 01:30 PM, 05:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Kawya J",
+      "degree" : "",
+      "designation" : "Resident",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vaishnavi K",
+      "degree" : "MBBS",
+      "designation" : "Resident",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sivakumar P",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Dhakshayani P. P",
+      "degree" : "MS",
+      "schedule" : "Mon to Sat: 06:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Lankaram J J",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kapali Neelamekam T K",
+      "degree" : "MS, FRCS (Glassgow), CST RCS (England), FACS (USA), FMAS, FIAGES, FRS (Robotic Surgery)",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Mohan Rao Arcot",
+      "degree" : "MS (General Surgery), FIAGES",
+      "schedule" : "Mon to Sat: 09:00 AM - 05:00 PM"
+    }, {
+      "doctor" : "Naresh D",
+      "degree" : "",
+      "designation" : "Senior Resident",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Salim Thomas J",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Haematology",
+    "schedules" : [ {
+      "doctor" : "Karthikeyan A",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 05:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Edel Queen D",
+      "degree" : "MBBS",
+      "designation" : "Resident",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Geriatric Medicine",
+    "schedules" : [ {
+      "doctor" : "Srinivas V",
+      "degree" : "MD",
+      "schedule" : "Mon to Sat: 02:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Satish Rao M",
+      "degree" : "MD, DNB (Nephrology)",
+      "schedule" : "Mon, Wed, Fri: 06:30 PM - 08:00 PM\nTue, Thu, Sat: 12:00 PM - 01:00 PM"
+    }, {
+      "doctor" : "Thiagarajan C M",
+      "degree" : "MNAMS, MD",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Karthikeyan S",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 01:00 PM - 04:00 PM"
+    }, {
+      "doctor" : "Suresh Kumar",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Ramanujam S",
+      "degree" : "MBBS",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 02:00 PM, 06:30 PM - 08:30 PM"
+    }, {
+      "doctor" : "Santhanam R",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Deepa Neelakantan",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Nithiya Ramamurthy",
+      "degree" : "DGO",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 10:00 AM - 04:55 PM, 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Keerthikaa S R",
+      "degree" : "",
+      "designation" : "Senior Resident",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Parimala Devi S",
+      "degree" : "MBBS, DNB, DGO",
+      "designation" : "Attending Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Premalatha Balachandran",
+      "degree" : "MRCOG, DGO",
+      "schedule" : "Mon to Sat: 11:00 AM - 04:00 PM, 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Suryakumari Karyampudi",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Thenmozhi R. V",
+      "degree" : "MBBS, DGO",
+      "schedule" : "Everyday: 09:00 AM - 11:00 AM, 03:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "Kannan J",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 02:30 PM - 03:30 PM, 04:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Ophthalmology",
+    "schedules" : [ {
+      "doctor" : "Radhi Malar Anand",
+      "degree" : "FPO, MS (Ophthalmology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM, 04:00 PM - 06:30 PM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Anand M",
+      "degree" : "MS, M.Ch (Orthopaedics)",
+      "schedule" : "Mon to Sat: 10:00 AM - 03:00 PM, 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Shanmuga Sundaram A",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "schedule" : "Mon to Sat: 09:00 AM - 10:00 AM, 04:30 PM - 05:00 PM"
+    }, {
+      "doctor" : "Ramesh G",
+      "degree" : "MBBS",
+      "schedule" : "Mon to Sat: 11:30 AM - 12:30 PM, 06:30 PM - 07:30 PM"
+    }, {
+      "doctor" : "Udhaya Shankar",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 06:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Vivek A N",
+      "degree" : "MBBS, MS (Orthopedics)",
+      "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
+    }, {
+      "doctor" : "Yogesh Kumar B",
+      "degree" : "MBBS",
+      "schedule" : "Wed, Sat: 01:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Jaisankar V",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Prabhakaran G",
+      "degree" : "MD, D.Ch",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 08:30 AM - 01:00 PM, 06:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Mohammed Abdul Khadir",
+      "degree" : "",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Purushothaman V",
+      "degree" : "MS, MNAMS, M.Ch",
+      "schedule" : "Mon, Wed, Fri: 05:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Vasanth R",
+      "degree" : "MD (Psychiatry)",
+      "schedule" : "Mon to Fri: 12:00 PM - 02:00 PM, 06:00 PM - 08:00 PM\nSat: 01:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Sabari Girish",
+      "degree" : "MBBS",
+      "schedule" : "Mon to Sat: 05:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Meenakshi Krishnan",
+      "degree" : "MBBS, MD (Paediatrics), PGDCC (Health & Family Welfare), Postgraduate Certificate Course in Pediatric Allergy",
+      "schedule" : "Sat: 08:00 AM - 09:00 AM, 11:00 AM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Rheumatology",
+    "schedules" : [ {
+      "doctor" : "Krishnamurthy V",
+      "degree" : "",
+      "schedule" : "Tue, Thu: 06:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Sujay Susikar",
+      "degree" : "MS, M.Ch",
+      "schedule" : "Mon to Sat: 03:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "Arunkumar Paranjothi",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kesava Chandra Reddy",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kathyayani S",
+      "degree" : "MBBS",
+      "designation" : "Resident",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Pari Manickam Raman",
+      "degree" : "MS, M.Ch (Urology)",
+      "schedule" : "Mon to Sat: 11:30 AM - 02:00 PM"
+    }, {
+      "doctor" : "Sivaraman P. B",
+      "degree" : "FRCS, M.Ch, MS",
+      "schedule" : "Mon, Wed, Fri: 04:00 PM - 06:00 PM\nTue, Thu: 04:00 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Vascular Surgery",
+    "schedules" : [ {
+      "doctor" : "Balakumar S",
+      "degree" : "MS, M.Ch",
+      "schedule" : "Mon to Sat: 09:30 AM - 10:30 AM, 11:00 AM - 12:00 PM, 01:00 PM - 06:00 PM"
+    } ]
+  } ]
+}
