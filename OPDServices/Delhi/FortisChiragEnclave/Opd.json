@@ -1,0 +1,177 @@
+﻿{
+  "name" : "Fortis C-DOC, Chirag Enclave",
+  "specialties" : [ {
+    "name" : "Anesthesia",
+    "schedules" : [ {
+      "doctor" : "Dhrubajyoti Kalita",
+      "degree" : "",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Prashanta Kumar Chakraborty",
+      "degree" : "MBBS, MD",
+      "designation" : "Additional Director",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Dental",
+    "schedules" : [ {
+      "doctor" : "Mahima Nanda",
+      "degree" : "MDS (Orthodontics), BDS (Orthodontist)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Alka Jha",
+      "degree" : "MD (Medicine), Speciality Certificate (Endocrinology & Diabetes), MRCP (UK)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Amerta Ghosh",
+      "degree" : "MBBS, PG Diploma in Endocrinology (UK), PG Diploma in Clinical Endocrinology (RCP) (UK), FDRC",
+      "designation" : "Attending Consultant",
+      "schedule" : "Mon to Fri: 10:00 - 16:00\nSat: 09:00 - 17:00"
+    }, {
+      "doctor" : "Amar Pal Singh Suri",
+      "degree" : "MBBS, CPP (Podiatry) (USA)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Anoop Misra",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: 08:00 - 13:00"
+    }, {
+      "doctor" : "Ashok Damir",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: 10:30 - 11:30"
+    }, {
+      "doctor" : "Ritesh Gupta",
+      "degree" : "MBBS, MD",
+      "designation" : "Additional Director",
+      "schedule" : "Mon to Sat: 10:00 - 16:00"
+    }, {
+      "doctor" : "Suhail. A Durani",
+      "degree" : "MBBS, Diploma in Diabetology",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vimal Gupta",
+      "degree" : "MBBS",
+      "designation" : "Associate Consultant",
+      "schedule" : "Mon to Sat: 09:00 - 18:30"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Meenakshi Jain",
+      "degree" : "MBBS, MS",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Yogesh Jain",
+      "degree" : "MBBS, MS (ENT), Fellowship (Neurolotology, Cochlear Implant & Skullbase Surgery)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vidit Tripathi",
+      "degree" : "MBBS, MS (ENT), DNB",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Sanjay Sharma",
+      "degree" : "",
+      "designation" : "Senior Medical Officer",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Ashish Bhanot",
+      "degree" : "MBBS, MS, FAMS, FIAGES",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sandip Banerjee",
+      "degree" : "MBBS, DNB (General Surgery), MNAMS (General Surgery)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Kapil Dev",
+      "degree" : "MBBS, MS",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Usha Maheshwari",
+      "degree" : "MBBS, MS",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Dhruv Vikram Zutshi",
+      "degree" : "MBBS, MD (General Medicine), DM (Neurology)",
+      "schedule" : "Tue, Thu, Sat: 18:00 - 19:00"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "Vibhor Sharma",
+      "degree" : "MBBS, MD (General Medicine), DM (Medical Oncology), DNB (Medical Oncology), Fellowship in Bone Marrow and stem cell transplant",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Bipin Solanki",
+      "degree" : "MBBS,MS (Orthopaedics)",
+      "schedule" : "Mon to Sat: 11:00 - 12:00"
+    }, {
+      "doctor" : "Hitin Mathur",
+      "degree" : "MBBS,DNB",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Chetan Chaudhry",
+      "degree" : "MBBS, MS",
+      "schedule" : "Mon to Sat: 11:00 - 13:00"
+    }, {
+      "doctor" : "Saurabh Moda",
+      "degree" : "MS (Orthopaedics)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sudhir Seth",
+      "degree" : "MBBS, DNB",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Saurav Kumar",
+      "degree" : "MBBS (Hons. & Gold Medalist), M.Ch (Plastic Surgery)",
+      "schedule" : "Mon, Thu: 09:00 - 12:00"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Sudeshna Das Purkhayastha",
+      "degree" : "MBBS, DPM",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Psychology",
+    "schedules" : [ {
+      "doctor" : "Tanvir Ali",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Raj Kumar",
+      "degree" : "MBBS, MD (Chest Diseases), FCICM (Critical Care Australia)",
+      "schedule" : "Mon, Wed, Fri: 11:00 - 12:00"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Anadi Pachaury",
+      "degree" : "MBBS, MS (General Surgery), MCH (Surgical Oncology)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}

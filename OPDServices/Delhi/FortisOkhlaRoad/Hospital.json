@@ -1,0 +1,18 @@
+{
+"name":"Fortis Escorts Heart Institute, Okhla Road",
+"code":"FortisOkhlaRoad",
+"address":"Okhla Road, New Delhi, Delhi 110025",
+"geoLocation":"28.5469012,77.249668?q=Fortis+C-Doc+Hospital",
+"emails":"contactus.escorts@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-escorts-heart-institute-hospital-in-okhla-road-delhi",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"1147135000",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"105010"
+	}]
+}

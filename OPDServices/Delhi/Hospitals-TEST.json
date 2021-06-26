@@ -10,7 +10,19 @@
 	"locality":"Dallupura",
 	"code":"DharamshilaNarayana"
 	},{
-	"name":"Madhukar Rainbow Children’s Hospital",
+	"name":"Fortis C-DOC, Chirag Enclave",
+	"locality":"Greater Kailash",
+	"code":"FortisChiragEnclave"
+	},{
+	"name":"Fortis Escorts Heart Institute, Okhla Road",
+	"locality":"Okhla",
+	"code":"FortisOkhlaRoad"
+	},{
+	"name":"Fortis La Femme, Greater Kailash",
+	"locality":"Greater Kailash",
+	"code":"FortisGreaterKailash"
+	},{
+	"name":"Madhukar Rainbow Children's Hospital",
 	"locality":"Malviya Nagar",
 	"code":"MadhukarRainbowChildrens"
 	},{

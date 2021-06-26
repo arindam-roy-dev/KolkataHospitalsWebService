@@ -53,7 +53,7 @@
       "schedule" : "Mon to Sat: By Appontment"
     } ]
   }, {
-    "name" : "General Medidcine",
+    "name" : "General Medicine",
     "schedules" : [ {
       "doctor" : "Thomas George",
       "degree" : "MBBS, MD, MAMS",

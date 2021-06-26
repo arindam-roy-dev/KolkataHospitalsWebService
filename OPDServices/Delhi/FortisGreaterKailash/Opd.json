@@ -1,0 +1,148 @@
+﻿{
+  "name" : "Fortis La Femme, Greater Kailash",
+  "specialties" : [ {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Nidhi Rohatgi",
+      "degree" : "MBBS, DVD",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Fetal Medicine",
+    "schedules" : [ {
+      "doctor" : "Seema Thakur",
+      "degree" : "MBBS, MS",
+      "schedule" : "Thu: 10:00 AM - 12:00 PM\nSat: 12:00 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Deepa Tayal",
+      "degree" : "MBBS, DNB",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shilpa Varma",
+      "degree" : "MBBS, MS (General Surgery)",
+      "schedule" : "Sat: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Kapil Kochhar",
+      "degree" : "MBBS, MS (General Surgery, Laparoscopic Surgery)",
+      "schedule" : "Mon, Tue, Thu: 10:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Geriatric Medicine",
+    "schedules" : [ {
+      "doctor" : "Sharwari Dabhade",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon, Tue, Thu, Fri: 04:00 PM - 06:00 PM\nWed, Sat: 12:00 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Anita Gupta",
+      "degree" : "MBBS, MS (Obstetrics and Gynaecology)",
+      "schedule" : "Mon, Fri: 11:00 AM - 01:00 PM, 05:00 PM - 07:00 PM\nTue, Thu: 10:00 AM - 12:00 PM, 05:00 PM - 07:00 PM\nWed: 12:00 PM - 02:00 PM, 05:00 PM - 07:00 PM\nSat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Juhee Jain",
+      "degree" : "MBBS, MD (Obstetrics and Gynaecology)",
+      "schedule" : "Mon: 06:00 PM - 08:00 PM\nSat: 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Anjila Aneja",
+      "degree" : "MBBS, MD (Obstetrics and Gynaecology), DNB (Obstetrics and Gynaecology), MRCOG (UK), FRCOG (UK), Diploma In Pelvic Laparoscopy (Germany)",
+      "schedule" : "Mon: 10:00 AM - 12:00 PM\nTue to Thu: 12:00 PM - 02:00 PM\nFri: 10:00 AM - 02:00 PM\nSat: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Kamal Buckshee",
+      "degree" : "MBBS, MD",
+      "schedule" : "Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Leena gupta",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Loveleena Nadir",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Fri: 04:00 PM - 08:00 PM\nSat: 06:00 PM - 08:00 PM"
+    }, {
+      "doctor" : "Madhu Goel",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology) (New Delhi), DNB (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Meenakshi Ahuja",
+      "degree" : "MBBS, MD (Obstetrics& Gynaecology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Minoo Fazilat",
+      "degree" : "MBBS, DNB",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Neena Bahl",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology)",
+      "designation" : "Additional Director",
+      "schedule" : "Mon, Sat: 04:00 PM - 06:00 PM\nTue to Fri: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Neena Singh Kumar",
+      "degree" : "MBBS, MD, FICOG, MNAMS, FICMCH",
+      "schedule" : "Mon: 02:00 PM - 04:00 PM\nTue, Thu, Sat: 12:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Raka Guleria",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon, Wed, Fri: 10:00 AM - 12:00 PM\nTue, Thu, Sat: 05:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Tripat Choudhary",
+      "degree" : "MBBS, MD (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: 10:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Uma Vaidyanathan",
+      "degree" : "MBBS, MS, DNB",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Urvashi Seghal",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vimal Grover",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Ophthalmology",
+    "schedules" : [ {
+      "doctor" : "Kenshuk Marwah",
+      "degree" : "MBBS, MS",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Uma Mallaiah",
+      "degree" : "MBBS",
+      "schedule" : "Wed: 08:00 AM - 08:30 AM"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Avadhesh Ahuja",
+      "degree" : "MBBS, DCH",
+      "schedule" : "Mon to Sat: 02:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Raghuram Mallaiah",
+      "degree" : "MBBS, MRCPCH (Pediatrics) (UK), Fellowship (PICU)",
+      "schedule" : "Mon to Sat: 10:00 AM - 02:00 PM"
+    }, {
+      "doctor" : "Deepak Sikriwal",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: 05:00 PM - 08:00 PM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Preeti Pandya",
+      "degree" : "MBBS, MS, MS",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Pardeep Kumar Jain",
+      "degree" : "MS, M.Ch (Gastroloenterology Surgery)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}

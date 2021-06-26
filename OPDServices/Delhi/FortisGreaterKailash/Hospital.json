@@ -1,0 +1,18 @@
+{
+"name":"Fortis La Femme, Greater Kailash",
+"code":"FortisGreaterKailash",
+"address":"S-549, Greater Kailash II, New Delhi 110048",
+"geoLocation":"28.5285779,77.2439261?q=Fortis+La+Femme,+Greater+Kailash+II",
+"emails":"contactus.flf@fortislafemme.in",
+"websites":"https://www.fortishealthcare.com/india/fortis-la-femme-hospital-in-greater-kailash-delhi",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"1140579400",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"1140579400"
+	}]
+}

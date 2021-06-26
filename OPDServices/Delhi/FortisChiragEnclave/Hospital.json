@@ -1,0 +1,18 @@
+{
+"name":"Fortis C-DOC, Chirag Enclave",
+"code":"FortisChiragEnclave",
+"address":"B-16, Chirag Enclave, New Delhi 110048",
+"geoLocation":"28.5469012,77.249668?q=Fortis+C-Doc+Hospital",
+"emails":"info@fortiscdoc.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-c-doc-hospital-in-chirag-enclave-delhi",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"1149101222",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"105010"
+	}]
+}
