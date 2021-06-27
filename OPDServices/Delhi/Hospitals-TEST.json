@@ -18,6 +18,10 @@
 	"locality":"Okhla",
 	"code":"FortisOkhlaRoad"
 	},{
+	"name":"Fortis Hospital, Shalimar Bagh",
+	"locality":"Shalimar Bagh",
+	"code":"FortisShalimarBagh"
+	},{
 	"name":"Fortis La Femme, Greater Kailash",
 	"locality":"Greater Kailash",
 	"code":"FortisGreaterKailash"
