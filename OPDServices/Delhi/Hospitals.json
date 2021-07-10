@@ -18,6 +18,10 @@
 	"locality":"Okhla",
 	"code":"FortisOkhlaRoad"
 	},{
+	"name":"Fortis Flt. Lt. Rajan Dhall Hospital, Vasant Kunj",
+	"locality":"Vasant Kunj",
+	"code":"FortisVasantKunj"
+	},{
 	"name":"Fortis Hospital, Shalimar Bagh",
 	"locality":"Shalimar Bagh",
 	"code":"FortisShalimarBagh"

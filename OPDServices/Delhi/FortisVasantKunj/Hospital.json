@@ -1,0 +1,18 @@
+{
+"name":"Fortis Flt. Lt. Rajan Dhall Hospital, Vasant Kunj",
+"code":"FortisVasantKunj",
+"address":"Sector B, Pocket 1, Aruna Asaf Ali Marg,Vasant Kunj, New Delhi 110070",
+"geoLocation":"28.5190526,77.1603941?q=Fortis+Flt.+Lt.+Rajan+Dhall+Hospital,+Vasant+Kunj",
+"emails":"mailus@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-flt-lt-rajan-dhall-hospital-in-vasant-kunj-delhi",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"1142776222",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"105010"
+	}]
+}
