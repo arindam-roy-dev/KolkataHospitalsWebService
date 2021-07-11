@@ -1,0 +1,18 @@
+{
+"name":"Fortis Hospital, Kalyan",
+"code":"FortisKalyan",
+"address":"Shill Road, Bail Bazaar, Kalyan, Mumbai, Maharashtra 421301",
+"geoLocation":"19.2371491,73.1237931?q=Fortis+Hospital,+Kalyan,+Mumbai",
+"emails":"kln.customercare@fortishealthcare.com",
+"websites":"https://www.fortishealthcare.com/india/fortis-hospital-in-kalyan-maharashtra",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"2512371000",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"2241114111"
+	}]
+}

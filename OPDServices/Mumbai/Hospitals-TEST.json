@@ -10,6 +10,10 @@
 	"locality":"Vashi",
 	"code":"ApolloVashi"
 	},{
+	"name":"Fortis Hospital, Kalyan",
+	"locality":"Kalyan",
+	"code":"FortisKalyan"
+	},{
 	"name":"Global Hospitals",
 	"locality":"Parel",
 	"code":"GlobalHospitals"

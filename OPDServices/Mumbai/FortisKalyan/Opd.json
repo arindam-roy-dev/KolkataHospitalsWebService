@@ -1,0 +1,392 @@
+﻿{
+  "name" : "Fortis Hospital, Kalyan",
+  "specialties" : [ {
+    "name" : "Anesthesia",
+    "schedules" : [ {
+      "doctor" : "Mahendra Thakare",
+      "degree" : "",
+      "designation" : "Associate Consultant",
+      "schedule" : "Wed: 05:30 PM - 06:30 PM"
+    } ]
+  }, {
+    "name" : "Cardiology",
+    "schedules" : [ {
+      "doctor" : "Ameya Udyavar",
+      "degree" : "MD (Medicine), DM (Cardiology), DNB (Cardiology)",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Zakia Khan",
+      "degree" : "MD (Medicine), DM (Cardiology)",
+      "schedule" : "Mon to Fri: 11:30 AM - 01:30 PM"
+    }, {
+      "doctor" : "Vivek Mahajan",
+      "degree" : "MD, DM",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Cardio Thoracic Surgery",
+    "schedules" : [ {
+      "doctor" : "Manish Prakash Hinduja",
+      "degree" : "MBBS, DNB, MS (General surgery) (PGIMER, Chandigarh), M.Ch (CTVS) (PGIMER, Chandigarh), Clinical fellow (Cardiac surgery) (Ottawa, Canada) (Minimally invasive cardiac surgery and Heart failure surgery including heart transplantation and VAD surgeries)",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Satish Ratnakar Javali",
+      "degree" : "MS (Surgery), MCh (CVTS)",
+      "schedule" : "Tue, Thu: 05:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Non Invasive Cardiology",
+    "schedules" : [ {
+      "doctor" : "Shashibala Soni",
+      "degree" : "MBBS, FACC, FACP (USA ) (Diplomate) (American Board of Internal Medicine), Diplomate (Cardiovascular Diseases) (American Board of Internal Medicine)",
+      "schedule" : "Mon to Sat: 05:00 PM - 07:00 PM"
+    } ]
+  }, {
+    "name" : "Critical Care",
+    "schedules" : [ {
+      "doctor" : "Ashish Bhimsen Chaudhary",
+      "degree" : "",
+      "designation" : "Attending Consultant",
+      "schedule" : "Mon to Sat: 09:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Priya Ruprell",
+      "degree" : "MBBS",
+      "designation" : "Attending Consultant",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 09:00 AM - 11:00 AM\nThu: 09:00 AM - 11:00 AM, 04:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Hemant Arun Uikey",
+      "degree" : "",
+      "designation" : "Resident",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Rahul Anil Pandit",
+      "degree" : "MD, FCICM, FJFICM, EDIC, FCCP, FICCM, DA",
+      "schedule" : "Mon, Thu: 10:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Swarnasreelekha Mahindran Mahindran",
+      "degree" : "",
+      "designation" : "Registrar",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 03:30 PM - 04:30 PM\nThu: 03:30 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Dental",
+    "schedules" : [ {
+      "doctor" : "Sushrut Vaidya",
+      "degree" : "BDS, MDS (Maxilofacial Suregry)",
+      "schedule" : "Mon, Wed, Fri: 05:30 PM - 06:30 PM"
+    } ]
+  }, {
+    "name" : "Dermatology",
+    "schedules" : [ {
+      "doctor" : "Karan Shah",
+      "degree" : "MD",
+      "schedule" : "Tue: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Rupali  Nanjappa",
+      "degree" : "MD",
+      "schedule" : "Wed: 01:00 PM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "Endocrinology",
+    "schedules" : [ {
+      "doctor" : "Sudhindra Kulkarni",
+      "degree" : "MD, DM (Endocrinology)",
+      "schedule" : "Thu, Fri: 09:00 AM - 10:30 AM"
+    } ]
+  }, {
+    "name" : "ENT",
+    "schedules" : [ {
+      "doctor" : "Chandrakant Shewale",
+      "degree" : "MBBS, DORL, FCPS",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Suraj Nair",
+      "degree" : "MD",
+      "schedule" : "Mon to Fri: 01:30 PM - 02:30 PM"
+    } ]
+  }, {
+    "name" : "Gastroenterology",
+    "schedules" : [ {
+      "doctor" : "Nikhil Patil",
+      "degree" : "DNB (Medicine), DNB (Gastroenterology), Fellowship in Advanced Endoscopy",
+      "schedule" : "Mon, Thu: 08:00 AM - 09:30 AM"
+    }, {
+      "doctor" : "Rakesh Patel",
+      "degree" : "MD (General Medicine), DNB, DM (Gastroenterology)",
+      "schedule" : "Wed: 04:30 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "General Medicine",
+    "schedules" : [ {
+      "doctor" : "Bhavesh Chauhan",
+      "degree" : "MD",
+      "schedule" : "Sat: 09:00 AM - 10:00 AM"
+    }, {
+      "doctor" : "Parag Misar",
+      "degree" : "MBBS, MD (Internal Medicine)",
+      "schedule" : "Mon: 09:00 AM - 10:00 AM\nSat: 10:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Deepak Televane",
+      "degree" : "MD",
+      "schedule" : "Wed, Fri: 12:00 PM - 01:00 PM"
+    }, {
+      "doctor" : "Sameeran Upasani",
+      "degree" : "MD (Internal Medicine)",
+      "schedule" : "Tue, Fri: 05:30 PM - 06:30 PM"
+    }, {
+      "doctor" : "Sumit Shrivastav",
+      "degree" : "MD (Internal Medicine)",
+      "schedule" : "Mon to Sat: 09:30 AM - 10:30 AM"
+    } ]
+  }, {
+    "name" : "General Surgery",
+    "schedules" : [ {
+      "doctor" : "Ashok Borisa",
+      "degree" : "MS, Fellowship in Minimal Access Surgery, Fellowship in Hepatobiliary Surgery",
+      "designation" : "Senior Consultant",
+      "schedule" : "Mon to Sat: 11:30 AM - 01:30 PM"
+    }, {
+      "doctor" : "Nitin Zabak",
+      "degree" : "MBBS",
+      "schedule" : "Tue: 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Nitin Phadke",
+      "degree" : "MS",
+      "schedule" : "Thu: 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Raghunath Khade",
+      "degree" : "MBBS, MS",
+      "schedule" : "Thu: 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Rajeev Karavande",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "schedule" : "Wed: 09:00 AM - 10:00 AM\nSat: 09:00 AM - 10:00 PM"
+    }, {
+      "doctor" : "Rajendra Sonavane",
+      "degree" : "MS, FICS (General Surgery)",
+      "schedule" : "Tue, Thu: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Ritesh Nayak",
+      "degree" : "MBBS, MS, MCh (Neurosurgery & Spine)",
+      "schedule" : "Mon, Wed, Fri: 06:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Sunil Kavathe",
+      "degree" : "MBBS, MS (General Surgery)",
+      "schedule" : "Mon: 04:00 PM - 05:30 PM\nThu: 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Yogesh Palshetkar",
+      "degree" : "MS (General Surgery), FACRSI (Coloproctology)",
+      "schedule" : "Mon to Sat: 05:00 PM - 06:00 PM"
+    } ]
+  }, {
+    "name" : "Internal Medicine",
+    "schedules" : [ {
+      "doctor" : "Amit Rana",
+      "degree" : "MD",
+      "schedule" : "Mon to Fri: 11:30 AM - 01:30 PM"
+    }, {
+      "doctor" : "Malvika Suchak",
+      "degree" : "MBBS, MD (General Medicine)",
+      "schedule" : "Tue, Thu, Sat: 04:30 PM - 05:30 PM"
+    }, {
+      "doctor" : "Niyati Anil Bhanot",
+      "degree" : "",
+      "designation" : "Resident",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Yogesh Patil",
+      "degree" : "MS (General Surgery), FACRSI (Coloproctology)",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 03:30 PM - 04:30 PM\nThu: 03:30 PM - 05:00 PM"
+    } ]
+  }, {
+    "name" : "Nephrology",
+    "schedules" : [ {
+      "doctor" : "Haresh Dodeja",
+      "degree" : "MD, DNB, Fellowship in Nephrology",
+      "schedule" : "Wed: 08:00 AM AM - 09:00 AM"
+    }, {
+      "doctor" : "Harshal Bhole",
+      "degree" : "MD, DM (Nephrology)",
+      "schedule" : "Tue, Thu, Sat: 04:30 PM - 05:30 PM"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Kavita Barhate",
+      "degree" : "MD, DM (Neurology)",
+      "schedule" : "Thu: 01:00 PM - 02:00 PM"
+    }, {
+      "doctor" : "Rakesh Lalla",
+      "degree" : "MD (Medicine), DM (Neurology)",
+      "schedule" : "Tue, Fri: 02:00 PM - 04:30 PM"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Bharat Shinde",
+      "degree" : "MCh (Neurosurgery)",
+      "schedule" : "Wed: 05:30 PM - 06:30 PM"
+    }, {
+      "doctor" : "Ujwal Vitthal Yeole",
+      "degree" : "MS",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Obstetrics & Gynaecology",
+    "schedules" : [ {
+      "doctor" : "Amit Kamat",
+      "degree" : "DGO, DNB (Obstetrician and Gynaecology), Diploma in Endoscopy, Fellowship in Gynecological Endoscopy",
+      "schedule" : "Wed, Fri: 12:00 PM - 01:00 PM"
+    }, {
+      "doctor" : "S. Krishnakumar",
+      "degree" : "MD (Obstetrics & Gynaecology)",
+      "schedule" : "Mon, Thu: 04:00 PM - 05:30 PM"
+    }, {
+      "doctor" : "Dipali Rothe",
+      "degree" : "MBBS, DNB (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Sushma Tomar",
+      "degree" : "MS (Obstretics & Gynaecology)",
+      "schedule" : "Mon, Tue, Wed, Fri, Sat: 03:30 PM - 04:30 PM\nThu: 03:30 PM - 05:00 PM"
+    }, {
+      "doctor" : "Varsha Phadke",
+      "degree" : "MD, DGO, FCPS",
+      "schedule" : "Wed: 05:30 PM - 06:30 PM"
+    } ]
+  }, {
+    "name" : "Oncology",
+    "schedules" : [ {
+      "doctor" : "Amit Ghanekar",
+      "degree" : "DNB (Medical Oncology)",
+      "schedule" : "Thu: 04:00 PM - 05:00 PM"
+    }, {
+      "doctor" : "Uma Dangi",
+      "degree" : "DNB (Medicine), DNB (Medical Oncology)",
+      "schedule" : "Thu: 09:30 AM - 10:30 AM"
+    } ]
+  }, {
+    "name" : "Orthopaedics",
+    "schedules" : [ {
+      "doctor" : "Dilip Ramole",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "schedule" : "Mon to Fri: 11:30 AM - 01:30 PM"
+    }, {
+      "doctor" : "Kshitij Thoke",
+      "degree" : "",
+      "schedule" : "Wed: 08:00 AM AM - 09:00 AM"
+    }, {
+      "doctor" : "Harshavardhan Chandane",
+      "degree" : "",
+      "designation" : "Resident",
+      "schedule" : "Mon to Sat: 11:30 AM - 01:30 PM"
+    }, {
+      "doctor" : "Manoj Kandoi",
+      "degree" : "MS",
+      "schedule" : "Wed, Sat: 12:00 PM - 01:00 PM"
+    }, {
+      "doctor" : "Omvijay Chaudhry",
+      "degree" : "MBBS, MS (Orthopaedics)",
+      "schedule" : "Wed: 09:00 AM - 10:00 AM\nSat: 09:00 AM - 10:00 PM"
+    }, {
+      "doctor" : "Prashant Sonavane",
+      "degree" : "MS",
+      "schedule" : "Mon, Thu: 02:00 PM - 03:00 PM"
+    }, {
+      "doctor" : "Raghavendra K. S",
+      "degree" : "MS (Orthopaedics)",
+      "designation" : "Consultant",
+      "schedule" : "Mon to Sat: 10:00 AM - 01:00 PM"
+    }, {
+      "doctor" : "Swapnil Zambre",
+      "degree" : "MS (Orthopaedics), AFRCSI, FRCS (Orthopaedics)",
+      "schedule" : "Mon to Sat: 02:00 PM - 03:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatrics",
+    "schedules" : [ {
+      "doctor" : "Gurudutt Bhat",
+      "degree" : "MD",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    } ]
+  }, {
+    "name" : "Paediatric Cardiology",
+    "schedules" : [ {
+      "doctor" : "Swati Garekar",
+      "degree" : "American Board Certified (Pediatric Cardiology)",
+      "designation" : "Senior Consultant",
+      "schedule" : "Tue: 09:00 AM - 10:30 AM"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Hemant Patil",
+      "degree" : "MCh",
+      "schedule" : "Mon to Sat: 10:00 AM - 11:00 AM"
+    }, {
+      "doctor" : "Sunraj Bangera",
+      "degree" : "MS, MCh",
+      "schedule" : "Tue, Fri: 05:30 PM - 06:30 PM"
+    } ]
+  }, {
+    "name" : "Psychiatry",
+    "schedules" : [ {
+      "doctor" : "Febian Almeida",
+      "degree" : "DNB (Psychiatry)",
+      "schedule" : "Sat: 09:00 AM - 10:30 AM"
+    }, {
+      "doctor" : "Kedar Tilwe",
+      "degree" : "DPM (Psychiatry), DNB (Psychiatry)",
+      "schedule" : "Tue: 01:00 PM - 02:00 PM"
+    } ]
+  }, {
+    "name" : "Pulmonology",
+    "schedules" : [ {
+      "doctor" : "Rajendra Kesarwani",
+      "degree" : "MBBS, DNB (Respiratory Diseases)",
+      "schedule" : "Tue, Fri: 05:00 PM - 06:00 PM"
+    }, {
+      "doctor" : "Shreyas Godbole",
+      "degree" : "MD",
+      "schedule" : "Mon, Wed, Fri: 05:30 PM - 06:30 PM"
+    }, {
+      "doctor" : "Sandhya Kulkarni",
+      "degree" : "MD",
+      "schedule" : "Wed: 04:00 PM - 05:00 PM\nSat: 10:00 AM - 11:00 AM"
+    } ]
+  }, {
+    "name" : "Radiology",
+    "schedules" : [ {
+      "doctor" : "Ashutosh Kharche",
+      "degree" : "",
+      "schedule" : "Mon to Sat: 11:00 AM - 12:00 PM"
+    }, {
+      "doctor" : "Sushilkumar Patil",
+      "degree" : "MD",
+      "schedule" : "Mon to Sat: 12:00 PM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Anil Heroor",
+      "degree" : "MS",
+      "schedule" : "Tue, Fri: 12:00 PM - 01:00 PM"
+    } ]
+  }, {
+    "name" : "Urology",
+    "schedules" : [ {
+      "doctor" : "K. Nanjappa",
+      "degree" : "MS, M.Ch (Uro Surgery)",
+      "schedule" : "Wed, Fri: 12:00 PM - 01:00 PM"
+    }, {
+      "doctor" : "Pravin Sawant",
+      "degree" : "MS, M.Ch (Urology)",
+      "schedule" : "Mon, Wed, Fri: 06:00 PM - 07:00 PM"
+    }, {
+      "doctor" : "Pradeep Vyavahare",
+      "degree" : "MS, DNB (Urology)",
+      "schedule" : "Wed, Thu, Sat: 05:30 PM - 06:30 PM"
+    } ]
+  } ]
+}
