@@ -1,0 +1,22 @@
+{
+"name":"S. L. Raheja Hospital, Mahim",
+"code":"SLRaheja",
+"address":"Raheja Rugnalaya Marg, Mahim West, Mumbai, Maharashtra 400016",
+"geoLocation":"19.0460894,72.8426948?q=S+L+Raheja+Hospital+-+Fortis+associate",
+"emails":"info@rahejahospital.com",
+"websites":"https://www.rahejahospital.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"8956087400",
+	"isOpd":true
+	},{
+	"name":"Boardline",
+	"phoneNumbers":"2266529999",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"2266529888"
+	}]
+}
