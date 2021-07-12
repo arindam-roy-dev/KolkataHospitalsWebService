@@ -1,0 +1,18 @@
+{
+"name":"HCG Cancer Centre, Kalinga Rao Road",
+"code":"HCGKalingaRaoRoad",
+"address":"No 8, HCG Towers, P. Kalinga Rao Road, Sampangi Ram Nagar, Bengaluru, Karnataka 560027",
+"geoLocation":"12.9641756,77.5895911?q=HCG+Comprehensive+Cancer+Care+Hospital+-+K.R.+Road",
+"emails":"",
+"websites":"https://www.hcgoncology.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointment",
+	"phoneNumbers":"6358888801",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"180010899999,7406499999"
+	}]
+}

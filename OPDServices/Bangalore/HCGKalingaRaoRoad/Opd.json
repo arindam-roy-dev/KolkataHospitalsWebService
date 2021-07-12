@@ -1,0 +1,208 @@
+﻿{
+  "name" : "HCG Cancer Centre, Kalinga Rao Road",
+  "specialties" : [ {
+    "name" : "Gynecologic Oncology",
+    "schedules" : [ {
+      "doctor" : "Vibhawari Dhakharia",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Abhilasha Narayan",
+      "degree" : "MBBS, MS (Obstetrics & Gynaecology), DNB (Obstetrics & Gynaecology)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Nisha Buchade",
+      "degree" : "MBBS, MS (Obstetrics & Gynaecology), Fellowship in  Gynaecological Oncology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Haemato Oncology",
+    "schedules" : [ {
+      "doctor" : "Sateesh CT",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Radheshyam Naik",
+      "degree" : "MD, DM",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vinayak Munirathnam",
+      "degree" : "MBBS, MD, Fellowship in Pediatric & Adult Oncology and Transplant",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sachin Suresh Jadhav",
+      "degree" : "MBBS, MD (General Medicine), DM (Clinical Hematology), Fellowship in Leukaemia, Bone Marrow Transplant (Canada & UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Head & Neck Surgery",
+    "schedules" : [ {
+      "doctor" : "Vishal Rao",
+      "degree" : "FRCS (Glasgow)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Liver Transplant Surgery",
+    "schedules" : [ {
+      "doctor" : "Raghavendra Babu",
+      "degree" : "MBBS, MS (General Surgery), M.Ch (Surgical Gastroenterology and Liver Transplantation), Fellowship in HPB (Hepato-Pancreatico-Biliary) Surgery and Transplantation (Royal Infirmary of Edinburg, UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Medical Oncology",
+    "schedules" : [ {
+      "doctor" : "Srinivasa B J",
+      "degree" : "MBBS, MD (General Medicine)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Ravi B Diwakar",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Shekhar Patil",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Murali Subramanian",
+      "degree" : "MBBS, MD (General Medicine), DM (Medical Oncology)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Mohammed Naseer",
+      "degree" : "MBBS, MD, Fellowship in Paediatric Haematology and Oncology (FIAP), DM (Medical Oncology)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Smitha C Saldanha",
+      "degree" : "MBBS, MD (General Medicine), Fellowship in Bone Marrow Transplantation",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neurology",
+    "schedules" : [ {
+      "doctor" : "Santosh H",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Neuro Surgery",
+    "schedules" : [ {
+      "doctor" : "Mayur V Kaku",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Nuclear Medicine",
+    "schedules" : [ {
+      "doctor" : "K G Kallur",
+      "degree" : "MBBS, DRM, MD (Radiation Oncology), Fellowship (Chicago, USA)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Orthopedic Oncology",
+    "schedules" : [ {
+      "doctor" : "Pramod S Chinder",
+      "degree" : "Fellowship in Hand and Reconstructive Microsurgery",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Paediatric Hemato Oncology",
+    "schedules" : [ {
+      "doctor" : "Intezar Mehdi",
+      "degree" : "MBBS, DNB (Pediatrics), MRCPCH (UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Suma T L",
+      "degree" : "MBBS, DNB (Pediatrics), Fellowship in Pediatric Oncology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Plastic Surgery",
+    "schedules" : [ {
+      "doctor" : "Prashant Puranik",
+      "degree" : "M.Ch (Plastic Surgery), Fellowship in Microvascular Surgery & Reconstructive Oncology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Psycho Oncology",
+    "schedules" : [ {
+      "doctor" : "Brindha Sitaram",
+      "degree" : "M.Phil, PhD (NIMHANS)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Radiation Oncology",
+    "schedules" : [ {
+      "doctor" : "S Bhattacharjee",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Sridhar P S",
+      "degree" : "MD (Radiotherapy), DNB (Radiotherapy)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Nalini Rao",
+      "degree" : "Fellowship (Christie Hospital & HOlT Raduim Institute, Manchester, UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Lohith Reddy",
+      "degree" : "Fellowship in Medical Oncology (European Society), Fellowship in Proton and Carbon Ion (Pavia, Italy), Fellowship in Proton Therapy (Essen, Germany), Fellowship in SRS-SBRT (Germany)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Premita",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Belliappa M. S.",
+      "degree" : "MBBS, MD",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Vijay Bhaskar",
+      "degree" : "MBBS, MD (Radiation Oncology), Fellowship in Radiation Oncology",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Interventional Radiology",
+    "schedules" : [ {
+      "doctor" : "Indusekhar Subbanna",
+      "degree" : "Fellowship (France)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Surgical Oncology",
+    "schedules" : [ {
+      "doctor" : "Mahesh Bandemegal",
+      "degree" : "MS (General Surgery) and M.Ch (Oncosurgery)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Jagannath Dixit",
+      "degree" : "MBBS, MS, M.Ch",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Krithika Murugan",
+      "degree" : "MD (UK)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Srinath D.",
+      "degree" : "Fellowship in Musculoskeletal Oncology",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Akshay Kudpaje",
+      "degree" : "",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Prabhu Nesargikar",
+      "degree" : "Fellowship (South Korea)",
+      "schedule" : "Mon to Sat: By Appointment"
+    }, {
+      "doctor" : "Gaurav Medikeri",
+      "degree" : "MBBS, MD (ENT)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  }, {
+    "name" : "Uro Oncology",
+    "schedules" : [ {
+      "doctor" : "Raghunath S. K.",
+      "degree" : "BBS,  MS (General Surgery), DNB, Fellowship in Uro Oncology, fellowship in Laparoscopic and Robotic Urology (Taipei City, Taiwan), Fellowship in Molecular Oncology (Washington DC, USA)",
+      "schedule" : "Mon to Sat: By Appointment"
+    } ]
+  } ]
+}
