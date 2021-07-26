@@ -14,6 +14,10 @@
 	"locality":"Kalyan",
 	"code":"FortisKalyan"
 	},{
+	"name":"Fortis Hospital, Mulund",
+	"locality":"Mulund",
+	"code":"FortisMulund"
+	},{
 	"name":"Global Hospitals",
 	"locality":"Parel",
 	"code":"GlobalHospitals"
