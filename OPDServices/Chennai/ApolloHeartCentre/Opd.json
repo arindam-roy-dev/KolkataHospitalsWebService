@@ -77,10 +77,10 @@
       "schedule" : "Everyday: 11:00 AM - 01:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "Chockalingam Muthuraman",
-      "degree" : "MBBS, DO DNB (Opthalmology) FRCS, PGDMHM",
+      "degree" : "MBBS, DO DNB (Ophthalmology) FRCS, PGDMHM",
       "language" : "English, தமிழ்",
       "schedule" : "Mon, Thu, Fri: 11:30 AM - 12:30 PM\nTue: 11:30 AM - 12:15 PM\nWed: 11:30 AM - 12:00 PM"
     }, {

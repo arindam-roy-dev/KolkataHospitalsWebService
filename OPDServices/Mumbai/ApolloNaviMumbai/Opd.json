@@ -633,7 +633,7 @@
       "schedule" : "Mon to Fri: 10:00 AM - 01:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "Abhishek Hoshing",
       "degree" : "MBBS, DNB , Fellowship in Corneal Transplant surgeries, Refractive Surgery and Ocular Surface diseases",
@@ -651,7 +651,7 @@
       "schedule" : "Tue, Fri: 08:00 AM - 10:00 AM"
     }, {
       "doctor" : "Madhuri Pattiwar",
-      "degree" : "MBBS, MS (Opthalmology) (Govt Medical College, Nagpur)",
+      "degree" : "MBBS, MS (Ophthalmology) (Govt Medical College, Nagpur)",
       "language" : "English, हिंदी, मराठी",
       "schedule" : "Thu: 04:00 PM - 06:00 PM\nFri: 10:00 AM - 12:00 PM"
     }, {
@@ -803,7 +803,7 @@
       "schedule" : "Thu: 04:00 PM - 06:00 PM"
     } ]
   }, {
-    "name" : "Paediatric Opthalmology",
+    "name" : "Paediatric Ophthalmology",
     "schedules" : [ {
       "doctor" : "Anand Kumar",
       "degree" : "MBBS, MS, DNB",
@@ -811,7 +811,7 @@
       "schedule" : "Wed: 04:00 PM - 06:00 PM"
     }, {
       "doctor" : "Atul Seth",
-      "degree" : "MBBS, Diploma in Ophthalmology, DNB (Opthalmology), FAICO",
+      "degree" : "MBBS, Diploma in Ophthalmology, DNB (Ophthalmology), FAICO",
       "language" : "English, આ, हिंदी",
       "schedule" : "Thu: 02:00 PM - 04:00 PM"
     } ]

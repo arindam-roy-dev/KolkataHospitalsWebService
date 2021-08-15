@@ -709,7 +709,7 @@
       "schedule" : "Mon, Thu: 10:00 AM - 12:00 PM\nTue, Wed, Sat: 12:00 PM - 04:00 PM\nFri: 02:00 PM - 06:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "Aniel Malhotra",
       "degree" : "MBBS, MS, DOMS",

@@ -363,10 +363,10 @@
       "schedule" : "Mon to Sat: 04:00 PM - 06:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "Shalini Shetty",
-      "degree" : "MBBS, MS (Opthalmology), FRCS (UK)",
+      "degree" : "MBBS, MS (Ophthalmology), FRCS (UK)",
       "language" : "English, हिंदी, ಕನ್ನಡ",
       "schedule" : "Mon to Sat: 10:00 AM - 03:00 PM"
     } ]

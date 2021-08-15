@@ -137,10 +137,10 @@
       "schedule" : "Mon to Sat: 08:00 AM - 01:45 PM, 01:45 PM - 11:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "Prashant Gupta",
-      "degree" : "MBBS, MS (Opthalmology)",
+      "degree" : "MBBS, MS (Ophthalmology)",
       "language" : "English, हिंदी",
       "schedule" : "Mon to Sat: 09:00 AM - 04:00 PM"
     } ]

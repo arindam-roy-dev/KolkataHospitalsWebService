@@ -326,7 +326,7 @@
       "schedule" : "Mon to Sat: 09:00 AM - 01:00 PM, 03:00 PM - 06:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "Major Raghavan V",
       "degree" : "MBBS, DOMS, MS (Ophthalmology)",

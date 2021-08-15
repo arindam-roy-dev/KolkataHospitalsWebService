@@ -224,7 +224,7 @@
       "schedule" : "Mon to Sat: 10:00 AM - 05:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "Krishna Marfatia",
       "degree" : "MBBS, MS (Ophthalmology)",
@@ -232,7 +232,7 @@
       "schedule" : "Mon to Sat: 09:00 AM - 12:00 PM"
     }, {
       "doctor" : "Manish Joshi",
-      "degree" : "MS (Opthalmology)",
+      "degree" : "MS (Ophthalmology)",
       "language" : "English, આ, हिंदी",
       "schedule" : "Mon to Sat: 12:30 PM - 02:30 PM"
     } ]

@@ -601,10 +601,10 @@
       "schedule" : "Mon to Sat: 10:00 AM - 01:45 PM, 01:45 PM - 05:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "Indumathy T Ramachandran",
-      "degree" : "MBBS, DO (CMC, Vellore), DNB (Opthalmology), FICO (UK) (Cataract, Laser Refractive Surgery, Cornea External Diseases)",
+      "degree" : "MBBS, DO (CMC, Vellore), DNB (Ophthalmology), FICO (UK) (Cataract, Laser Refractive Surgery, Cornea External Diseases)",
       "language" : "English, हिंदी, తెలుగు",
       "schedule" : "Mon to Sat: 09:30 AM - 05:00 PM"
     }, {
@@ -629,7 +629,7 @@
       "schedule" : "Mon to Sat: 09:00 AM - 03:00 PM"
     }, {
       "doctor" : "Shubhra Goel",
-      "degree" : "MBBS, Diploma (Ophthalmology) (DO), DNB (Opthalmology), MNAMS",
+      "degree" : "MBBS, Diploma (Ophthalmology) (DO), DNB (Ophthalmology), MNAMS",
       "language" : "English, বাংলা, આ, हिंदी, தமிழ்",
       "schedule" : "Mon to Sat: 09:00 AM - 06:00 PM"
     } ]

@@ -243,7 +243,7 @@
       "schedule" : "Mon, Wed: 5:00 PM - 8:00 PM\nSat: 3:00 PM - 5:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "O. P. Agarwal",
       "degree" : "",

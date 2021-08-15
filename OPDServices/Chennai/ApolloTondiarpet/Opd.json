@@ -106,15 +106,15 @@
       "schedule" : "Everyday: 05:00 PM - 07:00 PM"
     } ]
   }, {
-    "name" : "Opthalmology",
+    "name" : "Ophthalmology",
     "schedules" : [ {
       "doctor" : "Rajaram Thangasamy",
-      "degree" : "MBBS, DO, DNB (Opthalmology)",
+      "degree" : "MBBS, DO, DNB (Ophthalmology)",
       "language" : "English, हिंदी, தமிழ், తెలుగు",
       "schedule" : "Everyday: 08:00 AM - 10:00 AM"
     }, {
       "doctor" : "Rajaram Thangasamy",
-      "degree" : "MBBS, DO, DNB (Opthalmology)",
+      "degree" : "MBBS, DO, DNB (Ophthalmology)",
       "language" : "English, हिंदी, தமிழ், తెలుగు",
       "schedule" : "Everyday: 08:00 AM - 10:00 AM"
     } ]
