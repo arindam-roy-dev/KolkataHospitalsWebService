@@ -33,5 +33,9 @@
 	"name":"SRCC Children\'s Hospital",
 	"locality":"Arya Nagar",
 	"code":"SRCCChildrens"
+	},{
+	"name":"Wockhardt Hospitals, Mumbai Central",
+	"locality":"Mumbai Central",
+	"code":"WockhardtMumbaiCentral"
 	}]
 } 

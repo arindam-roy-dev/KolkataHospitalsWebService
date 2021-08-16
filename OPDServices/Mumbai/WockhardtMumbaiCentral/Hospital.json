@@ -1,0 +1,18 @@
+{
+"name":"Wockhardt Hospitals, Mumbai Central",
+"code":"WockhardtMumbaiCentral",
+"address":"1877, Dr. Anand Rao Nair Road, Near Agripada Police Station, Mumbai Central (E), Mumbai- 400 011",
+"geoLocation":"18.9750199,72.8242396?q=Wockhardt+Hospitals,+Mumbai+Central",
+"emails":"enquire@wockhardthospitals.com,consultants@wockhardthospitals.com,treatment@wockhardthospitals.com",
+"websites":"https://sobo.wockhardthospitals.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointments",
+	"phoneNumbers":"2261784444,8291101001",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"2261784400"
+	}]
+}
