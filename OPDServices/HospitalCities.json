@@ -9,6 +9,10 @@
 	"state":"Tamil Nadu",
 	"localities":["Adyar","Guindy","Karapakkam","Kilpauk","MRC Nagar","Pallikaranai","Perumbakkam","Perungudi","Sowcarpet","Taramani","Teynampet","Thousand Lights","Tondiarpet","Vadapalani","Vanagaram"]
 	},{
+	"name":"Delhi",
+	"state":"Delhi",
+	"localities":["Chanakyapuri","Dallupura","Dwarka","Greater Kailash","Malviya Nagar","Okhla","Sarita Vihar","Shalimar Bagh","Vasant Kunj"]
+	},{
 	"name":"Howrah",
 	"state":"West Bengal",
 	"localities":["Chunabati","Nabanna"]
@@ -20,5 +24,9 @@
 	"name":"Kolkata",
 	"state":"West Bengal",
 	"localities":["Alipore","Anandapur","Barasat","Bhowanipore","Bowbazar","Dhakuria","Dumdum","Ganguly Bagan","Gariahat","Jodhpur Park","Kalighat","Kankurgachi","Minto Park","Mukundapur","New Alipore","New Town","Pancha Sayar","Park Street","Raja Bazar","Ruby More","Salt Lake","Shyam Bazar","Southern Avenue","Survey Park","Tegharia","Thakurpukur"]
+	},{
+	"name":"Mumbai",
+	"state":"Maharashtra",
+	"localities":["Arya Nagar","Belapur","Kalyan","Mahim","Mulund","Mumbai Central","Parel","Vashi"]
 	}]
 } 
