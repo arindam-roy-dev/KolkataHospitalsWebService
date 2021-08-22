@@ -1,0 +1,18 @@
+{
+"name":"Wockhardt Hospitals, Mira Road",
+"code":"WockhardtMiraRoad",
+"address":"The Umrao IMSR, Near Railway Station, Mira Road (E) Dist. Thane, Mumbai Maharashtra 401107",
+"geoLocation":"19.2841006,72.8624182?q=Wockhardt+Hospls",
+"emails":"enquire@wockhardthospitals.com,consultants@wockhardthospitals.com,treatment@wockhardthospitals.com",
+"websites":"https://nobo.wockhardthospitals.com",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointments",
+	"phoneNumbers":"2240543000,8108101104",
+	"isOpd":true
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"2240543000,8108181081"
+	}]
+}

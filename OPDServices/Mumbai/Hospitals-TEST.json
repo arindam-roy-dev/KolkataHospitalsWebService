@@ -34,6 +34,10 @@
 	"locality":"Arya Nagar",
 	"code":"SRCCChildrens"
 	},{
+	"name":"Wockhardt Hospitals, Mira Road",
+	"locality":"Mira Road",
+	"code":"WockhardtMiraRoad"
+	},{
 	"name":"Wockhardt Hospitals, Mumbai Central",
 	"locality":"Mumbai Central",
 	"code":"WockhardtMumbaiCentral"
