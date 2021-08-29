@@ -26,6 +26,10 @@
 	"locality":"Parel",
 	"code":"GlobalHospitals"
 	},{
+	"name":"Nanavati Max Hospital",
+	"locality":"Vile Parle West",
+	"code":"NanavatiMax"
+	},{
 	"name":"S. L. Raheja Hospital, Mahim",
 	"locality":"Mahim",
 	"code":"SLRaheja"

@@ -1,0 +1,48 @@
+{
+"name":"Nanavati Max Hospital",
+"code":"NanavatiMax",
+"address":"S.V. Road, Vile Parle (West), Mumbai 400056",
+"geoLocation":"19.0956682,72.8405479?q=Nanavati+Super+Speciality+Hospital",
+"emails":"appointment@nanavatihospital.org,marketing@nanavatihospital.org,queryteam@nanavatimaxhospital.org,nadeem.ahmed@nanavatimaxhospital.org",
+"websites":"https://www.nanavatimaxhospital.org",
+"faxNumbers":"",
+"hasOpd":true,
+"contactTypes":[{
+	"name":"Appointments (8 AM - 10 PM)",
+	"phoneNumbers":"2268360000",
+	"isOpd":true
+	},{
+	"name":"24 Hours Helpline",
+	"phoneNumbers":"2226267500"
+	},{
+	"name":"Emergency",
+	"phoneNumbers":"2226267777"
+	},{
+	"name":"International Patients",
+	"phoneNumbers":"9152052063"
+	},{
+	"name":"Blood Bank",
+	"phoneNumbers":"2226119924"
+	},{
+	"name":"Corporate Cell",
+	"phoneNumbers":"2226267538"
+	},{
+	"name":"CT/Pet CT",
+	"phoneNumbers":"2226118693"
+	},{
+	"name":"Diagnostic Appointment",
+	"phoneNumbers":"2226136674"
+	},{
+	"name":"Executive Health Check",
+	"phoneNumbers":"2226121622"
+	},{
+	"name":"Heart Institute",
+	"phoneNumbers":"2226172293,2226172294,2226172295"
+	},{
+	"name":"Maternity Ward",
+	"phoneNumbers":"2226267733"
+	},{
+	"name":"MRI",
+	"phoneNumbers":"2226182712,2226134455"
+	}]
+}
